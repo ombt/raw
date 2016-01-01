@@ -1,0 +1,18 @@
+set -x
+#
+# cicor_20151013
+#
+# npm1
+# npm2
+# npm3
+#
+find npm1 -type f -print | 
+maih2csv.pl -R cicor_20151013_npm_1 -r -c -l /tmp/1.out 
+#
+find npm2 -type f -print | 
+maih2csv.pl -R cicor_20151013_npm_2 -r -c -l /tmp/2.out 
+#
+find npm3 -type f -print | 
+maih2csv.pl -R cicor_20151013_npm_3 -r -c -l /tmp/3.out 
+#
+exit 0

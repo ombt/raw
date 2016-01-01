@@ -1,0 +1,185 @@
+[Index]
+Format=ProductReport
+Version=1.0000
+Machine=NPM
+Date=2015/09/23,11:48:38
+AuthorType=Machine
+Author=
+Diff=
+MJSID="MINI_4072547_15"
+Comment=""
+
+[Information]
+Stage=1
+Lane=1
+Serial=428691
+SerialStatus=0
+Code=""
+BcrStatus=2
+ProductID="200"
+Rev=36
+PlanID="0"
+Output=3
+LotName="MINI_4072547_15"
+LotNumber=1
+
+[Time]
+PowerON=18216.75
+Change=6111.07
+ProdView=0.00
+Mente=0.00
+DataEdit=3.18
+UnitAdjust=0.00
+Idle=735.92
+Prod=11366.59
+Actual=8875.38
+Load=709.85
+BRcg=166.84
+Mount=7998.69
+TotalStop=2491.20
+Fwait=237.79
+Rwait=978.20
+Swait=0.00
+Cwait=0.00
+Bwait=0.00
+Pwait=315.10
+SCStop=216.84
+SCEStop=117.42
+OthrStop=0.00
+CnvStop=0.00
+BRcgStop=60.24
+Trbl=77.54
+MHRcgStop=0.00
+FBStop=0.00
+BNDRcgStop=0.00
+CPErr=98.06
+CRErr=390.01
+CDErr=0.00
+CMErr=0.00
+CTErr=0.00
+TRSErr=0.00
+PRDStop=882.51
+JudgeStop=0.00
+OtherLStop=0.00
+BNDStop=0.00
+McFwait=237.79
+McRwait=978.20
+JointPassWait=0.00
+
+[CycleTime]
+CTime1=84.55
+CTime2=98.50
+CTime3=86.30
+
+[Count]
+Board=179
+Module=2685
+Fwait=10
+Rwait=30
+Swait=0
+Cwait=0
+Bwait=0
+Pwait=6
+SCStop=32
+SCEStop=5
+OthrStop=0
+CnvStop=0
+BRcgStop=2
+Trbl=1
+MHRcgStop=0
+FBStop=0
+BNDRcgStop=0
+CPErr=8
+CRErr=11
+CDErr=0
+CMErr=0
+CTErr=0
+TRSErr=0
+TPickup=88670
+TPMiss=29
+TRMiss=29
+TDMiss=0
+TMMiss=0
+THMiss=0
+TRSMiss=0
+JudgeStop=0
+OtherLStop=0
+BNDStop=0
+TDispense=0
+TPriming=0
+LotBoard=179
+LotModule=2685
+McFwait=10
+McRwait=30
+JointPassWait=0
+TMount=88599
+
+[Dispenser]
+Head NHAdd BLKCode BLKSerial UseN NozzleName BondID UseB BondLibName Dispense Priming PSRErr
+
+[MountPickupFeeder]
+BLKCode BLKSerial UseF PartsName FAdd FSAdd ReelID UseR Pickup PMiss RMiss DMiss MMiss HMiss TRSMiss Mount
+"FB10" "FA0210AGF413037" 0 "4053129" 20010 2 "1500022777" 0 2686 0 2 0 0 0 0 2684
+"FB10" "FA0210AGF413080" 0 "4053126" 20009 2 "1500014874" 0 2687 3 0 0 0 0 0 2684
+"FB10" "FA0210AGF413071" 0 "4053167" 10021 1 "1500015144" 0 2607 0 0 0 0 0 0 2607
+"FB10" "FA0210AGF413031" 0 "4053474" 10022 1 "1500035386" 0 1958 0 0 0 0 0 0 1958
+"FB10" "FA0210AGF413014" 0 "4053486" 20011 2 "1500013219" 0 1760 1 0 0 0 0 0 1759
+"FB10" "FA0210AGF413019" 0 "4053388" 10023 1 "1500022936" 0 1259 1 0 0 0 0 0 1258
+"FB10" "FA0210AGF413080" 0 "4052930" 20009 1 "1500031164" 0 3206 4 6 0 0 0 0 3196
+"FB10" "FA0210AGF413071" 0 "4052974" 10021 2 "1500015124" 0 2070 0 0 0 0 0 0 2070
+"FB10" "FA0210AGF412698" 0 "4053475" 20012 1 "1500019213" 0 3751 0 0 0 0 0 0 3751
+"FB10" "FA0210AGF413019" 0 "4054571" 10023 2 "1500033049" 0 3107 0 3 0 0 0 0 3104
+"FB10" "FA0210AGF413037" 0 "4052929" 20010 1 "1500038169" 0 1437 2 1 0 0 0 0 1434
+"FB10" "FA0210AGF413014" 0 "4053475" 20011 1 "1500019212" 0 1480 0 1 0 0 0 0 1479
+"FB10" "FA0210AGF413031" 0 "4054571" 10022 2 "1500033047" 0 494 0 0 0 0 0 0 494
+"FB10" "FA0210AGF413036" 0 "4054571" 10024 1 "1500033046" 0 39 0 0 0 0 0 0 39
+
+[MountPickupNozzle]
+Head NHAdd NCAdd BLKCode BLKSerial UseR NozzleName Pickup PMiss RMiss DMiss MMiss HMiss TRSMiss Mount
+2 1 221 "" "" 0 230 2882 0 1 0 0 0 0 2881
+2 2 222 "" "" 0 230 2875 2 5 0 0 0 0 2868
+2 6 226 "" "" 0 230 2857 0 0 0 0 0 0 2857
+2 8 228 "" "" 0 230 2861 0 0 0 0 0 0 2861
+2 4 224 "" "" 0 230 2866 1 0 0 0 0 0 2865
+2 5 225 "" "" 0 230 2861 3 0 0 0 0 0 2858
+2 7 227 "" "" 0 230 2861 1 0 0 0 0 0 2860
+2 3 223 "" "" 0 230 2870 3 2 0 0 0 0 2865
+2 9 211 "" "" 0 230 2863 3 1 0 0 0 0 2859
+2 10 212 "" "" 0 230 2862 6 0 0 0 0 0 2856
+2 11 213 "" "" 0 230 2862 1 1 0 0 0 0 2860
+2 13 215 "" "" 0 230 2859 0 3 0 0 0 0 2856
+2 14 216 "" "" 0 230 2859 1 2 0 0 0 0 2856
+2 16 218 "" "" 0 230 2719 1 1 0 0 0 0 2717
+2 12 214 "" "" 0 230 2862 1 0 0 0 0 0 2861
+2 15 217 "" "" 0 230 2860 0 1 0 0 0 0 2859
+1 14 116 "" "" 0 230 2683 1 0 0 0 0 0 2681
+1 2 122 "" "" 0 230 2686 1 0 0 0 0 0 2684
+1 4 124 "" "" 0 230 2686 0 1 0 0 0 0 2684
+1 6 126 "" "" 0 230 2686 0 0 0 0 0 0 2685
+1 3 123 "" "" 0 230 2689 0 2 0 0 0 0 2686
+1 5 125 "" "" 0 230 2689 0 2 0 0 0 0 2686
+1 7 127 "" "" 0 230 2686 0 2 0 0 0 0 2683
+1 8 128 "" "" 0 230 2689 0 0 0 0 0 0 2688
+1 12 114 "" "" 0 230 2684 2 0 0 0 0 0 2682
+1 13 115 "" "" 0 230 2685 0 0 0 0 0 0 2684
+1 15 117 "" "" 0 230 2685 1 1 0 0 0 0 2682
+1 16 118 "" "" 0 230 2684 0 2 0 0 0 0 2681
+1 10 112 "" "" 0 230 2684 0 0 0 0 0 0 2683
+1 9 111 "" "" 0 230 2686 0 0 0 0 0 0 2686
+1 11 113 "" "" 0 230 2684 1 2 0 0 0 0 2681
+1 1 121 "" "" 0 230 2705 0 0 0 0 0 0 2704
+
+[InspectionData]
+Block=0
+BadBoard=0
+BadBlock=0
+BadParts=0
+OKParts=0
+RetryBoard=0
+LotBlock=0
+LotBadBoard=0
+LotBadBlock=0
+LotBadParts=0
+LotOKParts=0
+LotRetryBoard=0
+

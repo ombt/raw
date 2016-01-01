@@ -1,0 +1,176 @@
+[Index]
+Format=ProductReport
+Version=1.0000
+Machine=NPM
+Date=2015/09/16,10:08:00
+AuthorType=Machine
+Author=
+Diff=
+MJSID="GEN_4052184"
+Comment=""
+
+[Information]
+Stage=1
+Lane=1
+Serial=427129
+SerialStatus=0
+Code=""
+BcrStatus=2
+ProductID="174"
+Rev=194
+PlanID="0"
+Output=3
+LotName="GEN_4052184"
+LotNumber=1
+
+[Time]
+PowerON=11614.84
+Change=0.14
+ProdView=0.00
+Mente=0.00
+DataEdit=0.00
+UnitAdjust=44.62
+Idle=1459.22
+Prod=10110.86
+Actual=8887.56
+Load=981.81
+BRcg=211.55
+Mount=7694.20
+TotalStop=1223.30
+Fwait=375.63
+Rwait=278.08
+Swait=0.00
+Cwait=0.00
+Bwait=0.00
+Pwait=71.26
+SCStop=168.54
+SCEStop=110.70
+OthrStop=0.00
+CnvStop=0.00
+BRcgStop=0.00
+Trbl=0.00
+MHRcgStop=0.00
+FBStop=0.00
+BNDRcgStop=0.00
+CPErr=61.13
+CRErr=157.97
+CDErr=0.00
+CMErr=0.00
+CTErr=0.00
+TRSErr=0.00
+PRDStop=338.82
+JudgeStop=0.00
+OtherLStop=0.00
+BNDStop=0.00
+McFwait=375.63
+McRwait=278.08
+JointPassWait=0.00
+
+[CycleTime]
+CTime1=36.00
+CTime2=36.74
+CTime3=39.26
+
+[Count]
+Board=214
+Module=2568
+Fwait=5
+Rwait=10
+Swait=0
+Cwait=0
+Bwait=0
+Pwait=3
+SCStop=21
+SCEStop=7
+OthrStop=0
+CnvStop=0
+BRcgStop=0
+Trbl=0
+MHRcgStop=0
+FBStop=0
+BNDRcgStop=0
+CPErr=4
+CRErr=5
+CDErr=0
+CMErr=0
+CTErr=0
+TRSErr=0
+TPickup=53985
+TPMiss=27
+TRMiss=30
+TDMiss=0
+TMMiss=0
+THMiss=0
+TRSMiss=0
+JudgeStop=0
+OtherLStop=0
+BNDStop=0
+TDispense=0
+TPriming=0
+LotBoard=214
+LotModule=2568
+McFwait=5
+McRwait=10
+JointPassWait=0
+TMount=53928
+
+[Dispenser]
+Head NHAdd BLKCode BLKSerial UseN NozzleName BondID UseB BondLibName Dispense Priming PSRErr
+
+[MountPickupFeeder]
+BLKCode BLKSerial UseF PartsName FAdd FSAdd ReelID UseR Pickup PMiss RMiss DMiss MMiss HMiss TRSMiss Mount
+"FB10" "FA0210AGF412677" 0 "4053192" 10022 1 "1500027910" 0 2568 0 0 0 0 0 0 2568
+"FB10" "FA0210AGF413105" 0 "4052810" 20011 1 "1500029363" 0 2441 6 7 0 0 0 0 2428
+"FB10" "FA0210AGF413073" 0 "4053040" 10020 2 "1500034891" 0 4072 14 18 0 0 0 0 4040
+"FB10" "FA0210AGF413101" 0 "4054571" 10023 1 "1500033102" 0 1712 3 1 0 0 0 0 1708
+"FB10" "FA0210AGF413098" 0 "4053168" 10024 1 "1500034779" 0 1741 0 2 0 0 0 0 1739
+"FB10" "FA0210AGF412675" 0 "4053474" 10021 2 "1500035442" 0 2285 1 0 0 0 0 0 2284
+"FB10" "FA0210AGF412696" 0 "4052690" 20010 1 "1500037907" 0 2006 0 0 0 0 0 0 2006
+"FB10" "FA0210AGF413101" 0 "4053168" 10023 2 "1500034778" 0 2510 1 0 0 0 0 0 2509
+"FB10" "FA0210AGF413073" 0 "4052736" 10020 1 "1500032507" 0 887 0 0 0 0 0 0 887
+"FB10" "FA0210AGF413115" 0 "4052674" 20013 1 "1500038001" 0 1384 0 0 0 0 0 0 1384
+"FB10" "FA0210AGF412675" 0 "4052726" 10021 1 "1500028063" 0 828 0 0 0 0 0 0 828
+"FB10" "FA0210AGF413055" 0 "4052674" 20012 1 "1500038006" 0 1112 0 0 0 0 0 0 1112
+"FB10" "FA0210AGF412677" 0 "4053474" 10022 2 "1500035446" 0 48 0 0 0 0 0 0 48
+
+[MountPickupNozzle]
+Head NHAdd NCAdd BLKCode BLKSerial UseR NozzleName Pickup PMiss RMiss DMiss MMiss HMiss TRSMiss Mount
+2 3 243 "" "" 0 235 2357 0 1 0 0 0 0 2356
+2 4 244 "" "" 0 235 2356 1 0 0 0 0 0 2355
+2 1 241 "" "" 0 235 2358 1 2 0 0 0 0 2355
+2 2 242 "" "" 0 235 2351 1 0 0 0 0 0 2350
+2 6 232 "" "" 0 235 2138 2 0 0 0 0 0 2136
+2 7 233 "" "" 0 235 2143 2 1 0 0 0 0 2140
+2 8 234 "" "" 0 235 2143 0 2 0 0 0 0 2141
+2 5 231 "" "" 0 235 2145 0 2 0 0 0 0 2143
+1 2 122 "" "" 0 230 2356 6 8 0 0 0 0 2342
+1 7 127 "" "" 0 230 2353 1 0 0 0 0 0 2352
+1 8 128 "" "" 0 230 2354 1 1 0 0 0 0 2352
+1 1 148 "" "" 0 235 2363 2 3 0 0 0 0 2358
+1 3 123 "" "" 0 230 2355 2 1 0 0 0 0 2352
+1 4 124 "" "" 0 230 2353 1 1 0 0 0 0 2351
+1 5 125 "" "" 0 230 2348 1 2 0 0 0 0 2345
+1 6 126 "" "" 0 230 2352 2 0 0 0 0 0 2350
+1 15 117 "" "" 0 230 2140 0 0 0 0 0 0 2140
+1 16 118 "" "" 0 230 2140 0 1 0 0 0 0 2139
+1 9 146 "" "" 0 235 2165 2 2 0 0 0 0 2161
+1 11 113 "" "" 0 230 2148 0 0 0 0 0 0 2148
+1 12 114 "" "" 0 230 2143 0 1 0 0 0 0 2142
+1 13 115 "" "" 0 230 2136 0 0 0 0 0 0 2136
+1 14 116 "" "" 0 230 2139 2 1 0 0 0 0 2136
+1 10 147 "" "" 0 235 2149 0 1 0 0 0 0 2148
+
+[InspectionData]
+Block=0
+BadBoard=0
+BadBlock=0
+BadParts=0
+OKParts=0
+RetryBoard=0
+LotBlock=0
+LotBadBoard=0
+LotBadBlock=0
+LotBadParts=0
+LotOKParts=0
+LotRetryBoard=0
+

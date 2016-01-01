@@ -1,0 +1,19 @@
+#
+for d in "${@}"
+do
+	echo "Directory ... $[d}"
+	#
+	cd $d
+	#
+	ls |
+	while read file
+	do
+		echo -e "copy ${d}/${file} ..."
+		#
+		cp ${file} /cimuser/mrumore/cim8505.P2.B4.20151013/pfadata/lnb/00255C9D67E9/lnbroot/othersystem/MngData/3
+	done
+	#
+	cd ..
+done
+#
+exit 0

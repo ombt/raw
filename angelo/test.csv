@@ -1,0 +1,24 @@
+set -x
+#
+# NPM-W1-1-Machine-1
+# NPM-W1-2-Machine-1
+# NPM-W1-3-Machine-1
+# NPM-W1-4-Machine-1
+# NPM-W1-5-Machine-1
+#
+find NPM-W1-1-* -type f -print | 
+maih2csv.pl -R test_angelo_npm_w1_1 -r -c -l /tmp/1.out 
+#
+# find NPM-W1-2-* -type f -print | 
+# maih2csv.pl -R angelo_npm_w1_2 -r -c -l /tmp/2.out 
+# 
+# find NPM-W1-3-* -type f -print | 
+# maih2csv.pl -R angelo_npm_w1_3 -r -c -l /tmp/3.out 
+#
+# find NPM-W1-4-* -type f -print | 
+# maih2csv.pl -R angelo_npm_w1_4 -r -c -l /tmp/4.out 
+# 
+# find NPM-W1-5-* -type f -print | 
+# maih2csv.pl -R angelo_npm_w1_5 -r -c -l /tmp/5.out 
+#
+exit 0

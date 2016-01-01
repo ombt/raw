@@ -1,0 +1,162 @@
+[Index]
+Format=ProductReport
+Version=1.0000
+Machine=NPM
+Date=2013/08/30,01:39:20
+AuthorType=Machine
+Author=
+Diff=
+MJSID="PTA635AA001_BA001_CA001"
+Comment=""
+
+[Information]
+Stage=1
+Lane=1
+Serial=525593
+SerialStatus=0
+Code="A635BA      060090FZ38"
+BcrStatus=0
+ProductID="233"
+Rev=243
+PlanID="0"
+Output=3
+LotName="RSA635BA001"
+LotNumber=4
+
+[Time]
+PowerON=44681.96
+Change=913.81
+ProdView=0.00
+Mente=0.00
+DataEdit=31.13
+UnitAdjust=0.00
+Idle=5.20
+Prod=43731.83
+Actual=14422.74
+Load=6572.94
+BRcg=826.78
+Mount=13595.96
+TotalStop=22736.15
+Fwait=13025.84
+Rwait=314.00
+Swait=0.00
+Cwait=0.00
+Bwait=0.00
+Pwait=0.00
+SCStop=119.37
+SCEStop=1590.54
+OthrStop=3024.83
+CnvStop=0.00
+BRcgStop=0.00
+Trbl=73.23
+MHRcgStop=0.00
+FBStop=0.00
+BNDRcgStop=0.00
+CPErr=500.79
+CRErr=0.00
+CDErr=0.00
+CMErr=0.00
+CTErr=0.00
+TRSErr=0.00
+PRDStop=508.02
+JudgeStop=0.00
+OtherLStop=4087.55
+BNDStop=0.00
+McFwait=6096.92
+McRwait=0.00
+JointPassWait=0.00
+
+[CycleTime]
+CTime1=21.64
+CTime2=37.59
+CTime3=21.64
+
+[Count]
+Board=685
+Module=685
+Fwait=406
+Rwait=41
+Swait=0
+Cwait=0
+Bwait=0
+Pwait=0
+SCStop=68
+SCEStop=10
+OthrStop=46
+CnvStop=0
+BRcgStop=0
+Trbl=1
+MHRcgStop=0
+FBStop=0
+BNDRcgStop=0
+CPErr=13
+CRErr=0
+CDErr=0
+CMErr=0
+CTErr=0
+TRSErr=0
+TPickup=6174
+TPMiss=9
+TRMiss=0
+TDMiss=0
+TMMiss=0
+THMiss=0
+TRSMiss=0
+JudgeStop=0
+OtherLStop=428
+BNDStop=0
+TDispense=0
+TPriming=0
+LotBoard=685
+LotModule=685
+McFwait=700
+McRwait=0
+JointPassWait=0
+
+[Dispenser]
+Head NHAdd BLKCode BLKSerial UseN NozzleName BondID UseB BondLibName Dispense Priming PSRErr
+
+[MountPickupFeeder]
+BLKCode BLKSerial UseF PartsName FAdd FSAdd ReelID UseR Pickup PMiss RMiss DMiss MMiss HMiss TRSMiss
+"" "" 0 "YEP1RM01546B" 22001 1 "" 0 60 0 0 0 0 0 0
+"" "" 0 "YEP1RM01546B" 22002 1 "" 0 60 0 0 0 0 0 0
+"" "" 0 "YEP1RM01546B" 22003 1 "" 0 60 0 0 0 0 0 0
+"" "" 0 "YEP1RM01546B" 22004 1 "" 0 60 0 0 0 0 0 0
+"FB30" "FA0230AEA370326" 0 "H0J720400019" 10014 0 "38263D1" 0 485 0 0 0 0 0 0
+"FB40" "FA0240AJA350236" 0 "K1MN70AA0091" 10018 0 "3826F46" 0 939 1 0 0 0 0 0
+"FB20" "FA0220AFA584430" 0 "C1AB00003835" 10003 0 "3827441" 0 460 0 0 0 0 0 0
+"" "" 0 "YEP1RM01546B" 22005 1 "" 0 60 0 0 0 0 0 0
+"" "" 0 "YEP1RM01546B" 22006 1 "" 0 60 0 0 0 0 0 0
+"" "" 0 "YEP1RM01546B" 22007 1 "" 0 60 0 0 0 0 0 0
+"FB30" "FA0230AEA370422" 0 "B0BC027A0487" 10004 0 "382689C" 0 268 1 0 0 0 0 0
+"" "" 0 "YEP1RM01546B" 22008 1 "" 0 60 0 0 0 0 0 0
+"" "" 0 "YEP1RM01546B" 22009 1 "" 0 60 0 0 0 0 0 0
+"" "" 0 "YEP1RM01546B" 22010 1 "" 0 60 0 0 0 0 0 0
+"" "" 0 "YEP1RM01546B" 22011 1 "" 0 60 0 0 0 0 0 0
+"FB30" "FA0230AEA370385" 0 "L2ES00000035" 10012 0 "382758B" 0 61 0 0 0 0 0 0
+"" "" 0 "YEP1RM01546B" 22012 1 "" 0 25 0 0 0 0 0 0
+"FB30" "FA0230AEA370475" 0 "2RR2313A32700" 10010 0 "3827380" 0 28 0 0 0 0 0 0
+
+[MountPickupNozzle]
+Head NHAdd NCAdd BLKCode BLKSerial UseR NozzleName Pickup PMiss RMiss DMiss MMiss HMiss TRSMiss
+2 1 211 "" "" 0 1004 685 0 0 0 0 0 0
+1 2 112 "" "" 0 1002 684 0 0 0 0 0 0
+1 1 113 "" "" 0 4168 2056 1 0 0 0 0 0
+1 3 114 "" "" 0 1248 1371 1 0 0 0 0 0
+1 2 124 "" "" 0 4660 1377 7 0 0 0 0 0
+1 1 112 "" "" 0 1002 1 0 0 0 0 0 0
+
+[InspectionData]
+Block=0
+BadBoard=0
+BadBlock=0
+BadParts=0
+OKParts=0
+RetryBoard=0
+LotBlock=0
+LotBadBoard=0
+LotBadBlock=0
+LotBadParts=0
+LotOKParts=0
+LotRetryBoard=0
+

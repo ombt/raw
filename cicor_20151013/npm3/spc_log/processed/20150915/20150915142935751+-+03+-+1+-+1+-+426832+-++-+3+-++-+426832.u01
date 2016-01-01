@@ -1,0 +1,162 @@
+[Index]
+Format=ProductReport
+Version=1.0000
+Machine=NPM
+Date=2015/09/15,14:29:35
+AuthorType=Machine
+Author=
+Diff=
+MJSID="GEN_4052184"
+Comment=""
+
+[Information]
+Stage=1
+Lane=1
+Serial=426832
+SerialStatus=0
+Code=""
+BcrStatus=2
+ProductID="174"
+Rev=191
+PlanID="0"
+Output=3
+LotName="GEN_4052184"
+LotNumber=1
+
+[Time]
+PowerON=116383.82
+Change=6954.24
+ProdView=0.00
+Mente=477.93
+DataEdit=17.92
+UnitAdjust=1057.82
+Idle=6763.62
+Prod=101112.29
+Actual=76768.26
+Load=10006.38
+BRcg=1903.16
+Mount=64858.72
+TotalStop=24344.04
+Fwait=17036.19
+Rwait=0.00
+Swait=0.00
+Cwait=0.00
+Bwait=0.00
+Pwait=2150.22
+SCStop=3602.55
+SCEStop=218.02
+OthrStop=0.00
+CnvStop=73.56
+BRcgStop=0.00
+Trbl=217.96
+MHRcgStop=0.00
+FBStop=0.00
+BNDRcgStop=0.00
+CPErr=1016.70
+CRErr=28.83
+CDErr=0.00
+CMErr=0.00
+CTErr=0.00
+TRSErr=0.00
+PRDStop=3235.04
+JudgeStop=0.00
+OtherLStop=0.00
+BNDStop=0.00
+McFwait=17036.19
+McRwait=0.00
+JointPassWait=0.00
+
+[CycleTime]
+CTime1=33.20
+CTime2=38.37
+CTime3=35.25
+
+[Count]
+Board=2021
+Module=24252
+Fwait=721
+Rwait=0
+Swait=0
+Cwait=0
+Bwait=0
+Pwait=80
+SCStop=113
+SCEStop=6
+OthrStop=0
+CnvStop=3
+BRcgStop=0
+Trbl=4
+MHRcgStop=0
+FBStop=0
+BNDRcgStop=0
+CPErr=24
+CRErr=1
+CDErr=0
+CMErr=0
+CTErr=0
+TRSErr=0
+TPickup=242649
+TPMiss=92
+TRMiss=24
+TDMiss=0
+TMMiss=0
+THMiss=0
+TRSMiss=0
+JudgeStop=0
+OtherLStop=0
+BNDStop=0
+TDispense=0
+TPriming=0
+LotBoard=2021
+LotModule=24252
+McFwait=721
+McRwait=0
+JointPassWait=0
+TMount=242520
+
+[Dispenser]
+Head NHAdd BLKCode BLKSerial UseN NozzleName BondID UseB BondLibName Dispense Priming PSRErr
+
+[MountPickupFeeder]
+BLKCode BLKSerial UseF PartsName FAdd FSAdd ReelID UseR Pickup PMiss RMiss DMiss MMiss HMiss TRSMiss Mount
+"" "" 0 "4052652" 21011 1 "" 0 10710 4 3 0 0 0 0 10703
+"" "" 0 "4052652" 21012 1 "" 0 8608 4 2 0 0 0 0 8602
+"" "" 0 "4052652" 21013 1 "" 0 3780 6 1 0 0 0 0 3773
+"" "" 0 "4052652" 21014 1 "" 0 1174 0 0 0 0 0 0 1174
+"FB10" "FA0210AGF412678" 0 "4053478" 10016 1 "1500037273" 0 1799 1 0 0 0 0 0 1798
+"FB20" "FA0220AGA354442" 0 "4052620" 20020 0 "1500033876" 0 1742 0 0 0 0 0 0 1742
+"FB10" "FA0210AGF412679" 0 "4052724" 10017 1 "1500029451" 0 1531 0 0 0 0 0 0 1531
+"FB10" "FA0210AGF412678" 0 "4052651" 10016 2 "1500036440" 0 1414 0 0 0 0 0 0 1414
+"FB10" "FA0210AGF413079" 0 "4053482" 10015 2 "1500037227" 0 977 0 0 0 0 0 0 977
+"FB20" "FA0220AGA354445" 0 "4052583" 20018 0 "1500032181" 0 598 3 1 0 0 0 0 594
+"FB10" "FA0210AGF412679" 0 "4053463" 10017 2 "1500023703" 0 804 0 0 0 0 0 0 804
+"FB20" "FA0220AAF300462" 0 "4053546" 10018 0 "1500033264" 0 186 1 0 0 0 0 0 185
+
+[MountPickupNozzle]
+Head NHAdd NCAdd BLKCode BLKSerial UseR NozzleName Pickup PMiss RMiss DMiss MMiss HMiss TRSMiss Mount
+2 3 213 "" "" 0 1002 24170 5 3 0 0 0 0 24162
+2 1 211 "" "" 0 1002 24372 17 2 0 0 0 0 24353
+2 2 212 "" "" 0 1002 24252 9 2 0 0 0 0 24241
+1 4 124 "" "" 0 140 24275 21 0 0 0 0 0 24252
+1 1 122 "" "" 0 240 24283 10 0 0 0 0 0 24272
+1 3 111 "" "" 0 235 20218 1 5 0 0 0 0 20211
+1 2 121 "" "" 0 235 20240 2 1 0 0 0 0 20236
+1 5 123 "" "" 0 240 24250 16 0 0 0 0 0 24232
+1 7 113 "" "" 0 235 18190 2 5 0 0 0 0 18182
+1 6 112 "" "" 0 235 20213 6 1 0 0 0 0 20203
+1 8 114 "" "" 0 235 18186 3 5 0 0 0 0 18176
+
+[InspectionData]
+Block=0
+BadBoard=0
+BadBlock=0
+BadParts=0
+OKParts=0
+RetryBoard=0
+LotBlock=0
+LotBadBoard=0
+LotBadBlock=0
+LotBadParts=0
+LotOKParts=0
+LotRetryBoard=0
+

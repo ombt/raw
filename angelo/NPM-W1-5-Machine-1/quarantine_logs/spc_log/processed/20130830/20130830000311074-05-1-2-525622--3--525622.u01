@@ -1,0 +1,155 @@
+[Index]
+Format=ProductReport
+Version=1.0000
+Machine=NPM
+Date=2013/08/30,00:03:11
+AuthorType=Machine
+Author=
+Diff=
+MJSID="PTA635AA001_BA001_CA001"
+Comment=""
+
+[Information]
+Stage=1
+Lane=2
+Serial=525622
+SerialStatus=0
+Code=""
+BcrStatus=2
+ProductID="232"
+Rev=243
+PlanID=""
+Output=3
+LotName="RRA635BA001"
+LotNumber=3
+
+[Time]
+PowerON=38952.68
+Change=953.68
+ProdView=0.00
+Mente=0.00
+DataEdit=31.13
+UnitAdjust=0.00
+Idle=5.20
+Prod=37962.67
+Actual=9173.05
+Load=3088.71
+BRcg=2649.37
+Mount=6523.68
+TotalStop=25700.91
+Fwait=15125.03
+Rwait=496.88
+Swait=0.00
+Cwait=0.00
+Bwait=0.00
+Pwait=0.00
+SCStop=97.66
+SCEStop=0.00
+OthrStop=1954.83
+CnvStop=0.00
+BRcgStop=0.00
+Trbl=73.23
+MHRcgStop=0.00
+FBStop=0.00
+BNDRcgStop=0.00
+CPErr=3097.77
+CRErr=77.95
+CDErr=0.00
+CMErr=0.00
+CTErr=0.00
+TRSErr=0.00
+PRDStop=4114.54
+JudgeStop=0.00
+OtherLStop=4777.56
+BNDStop=0.00
+McFwait=5838.25
+McRwait=0.00
+JointPassWait=0.00
+
+[CycleTime]
+CTime1=14.96
+CTime2=46.39
+CTime3=14.96
+
+[Count]
+Board=708
+Module=708
+Fwait=455
+Rwait=36
+Swait=0
+Cwait=0
+Bwait=0
+Pwait=0
+SCStop=54
+SCEStop=0
+OthrStop=18
+CnvStop=0
+BRcgStop=0
+Trbl=1
+MHRcgStop=0
+FBStop=0
+BNDRcgStop=0
+CPErr=36
+CRErr=1
+CDErr=0
+CMErr=0
+CTErr=0
+TRSErr=0
+TPickup=4997
+TPMiss=35
+TRMiss=6
+TDMiss=0
+TMMiss=0
+THMiss=0
+TRSMiss=0
+JudgeStop=0
+OtherLStop=403
+BNDStop=0
+TDispense=0
+TPriming=0
+LotBoard=708
+LotModule=708
+McFwait=614
+McRwait=0
+JointPassWait=0
+
+[Dispenser]
+Head NHAdd BLKCode BLKSerial UseN NozzleName BondID UseB BondLibName Dispense Priming PSRErr
+
+[MountPickupFeeder]
+BLKCode BLKSerial UseF PartsName FAdd FSAdd ReelID UseR Pickup PMiss RMiss DMiss MMiss HMiss TRSMiss
+"FB20" "FA0220AFA584518" 0 "C0DBAYY00791" 10001 0 "3824695" 0 708 0 0 0 0 0 0
+"FB20" "FA0220AFA584458" 0 "C1AB00003648" 10002 0 "38261F5" 0 708 0 0 0 0 0 0
+"" "" 0 "C2HBZY000054" 21001 1 "" 0 119 0 0 0 0 0 0
+"FB30" "FA0230AEA370442" 0 "C0DBEYY00079" 10008 0 "38261BA" 0 708 0 0 0 0 0 0
+"DF10" "DF0010AAA000009" 0 "TRC-LABEL" 10026 0 "                              " 0 709 1 0 0 0 0 0
+"" "" 0 "C2HBZY000054" 21002 1 "" 0 119 0 0 0 0 0 0
+"" "" 0 "C2HBZY000054" 21003 1 "" 0 119 0 0 0 0 0 0
+"" "" 0 "C2HBZY000054" 21004 1 "" 0 119 0 0 0 0 0 0
+"" "" 0 "C2HBZY000054" 21005 1 "" 0 119 0 0 0 0 0 0
+"FB30" "FA0230AEA370379" 0 "K1MY15BA0277" 10006 0 "38256F2" 0 141 3 0 0 0 0 0
+"" "" 0 "C2HBZY000054" 21006 1 "" 0 113 0 0 0 0 0 0
+"FB50" "FA0250AFA350009" 0 "K1MY70BA0495" 10021 0 "382640B" 0 94 0 1 0 0 0 0
+
+[MountPickupNozzle]
+Head NHAdd NCAdd BLKCode BLKSerial UseR NozzleName Pickup PMiss RMiss DMiss MMiss HMiss TRSMiss
+1 3 115 "" "" 0 4626 743 34 1 0 0 0 0
+1 1 111 "" "" 0 1003 1416 0 0 0 0 0 0
+1 2 123 "" "" 0 1003 1417 1 0 0 0 0 0
+2 1 211 "" "" 0 1004 708 0 0 0 0 0 0
+1 1 121 "" "" 0 1333 713 0 5 0 0 0 0
+
+[InspectionData]
+Block=0
+BadBoard=0
+BadBlock=0
+BadParts=0
+OKParts=0
+RetryBoard=0
+LotBlock=0
+LotBadBoard=0
+LotBadBlock=0
+LotBadParts=0
+LotOKParts=0
+LotRetryBoard=0
+

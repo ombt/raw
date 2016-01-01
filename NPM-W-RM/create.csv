@@ -1,0 +1,8 @@
+set -x
+#
+# NPM-W-RM
+#
+find quar* -type f -print | 
+maih2csv.pl -R NPM-W-RM -r -c -l /tmp/all.out 
+#
+exit 0

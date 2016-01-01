@@ -1,0 +1,152 @@
+[Index]
+Format=ProductReport
+Version=1.0000
+Machine=NPM
+Date=2015/07/06,15:10:34
+AuthorType=Machine
+Author=
+Diff=
+MJSID="AL-Feeder-NPM-W"
+Comment=""
+
+[Information]
+Stage=1
+Lane=1
+Serial=12545
+SerialStatus=0
+Code="PRODAA00012"
+BcrStatus=0
+ProductID="620"
+Rev=18
+PlanID="0"
+Output=3
+LotName="PRODUCT-A"
+LotNumber=1
+
+[Time]
+PowerON=250759.83
+Change=24234.62
+ProdView=0.00
+Mente=3.55
+DataEdit=2471.29
+UnitAdjust=185564.40
+Idle=21603.92
+Prod=16882.06
+Actual=1199.50
+Load=861.89
+BRcg=36.45
+Mount=301.17
+TotalStop=15682.56
+Fwait=14996.60
+Rwait=0.00
+Swait=0.00
+Cwait=0.00
+Bwait=0.00
+Pwait=0.00
+SCStop=82.29
+SCEStop=0.00
+OthrStop=0.00
+CnvStop=603.67
+BRcgStop=0.00
+Trbl=0.00
+MHRcgStop=0.00
+FBStop=0.00
+BNDRcgStop=0.00
+CPErr=0.00
+CRErr=0.00
+CDErr=0.00
+CMErr=0.00
+CTErr=0.00
+TRSErr=0.00
+PRDStop=0.00
+JudgeStop=0.00
+OtherLStop=0.00
+BNDStop=0.00
+McFwait=14996.60
+McRwait=0.00
+JointPassWait=0.00
+
+[CycleTime]
+CTime1=22.13
+CTime2=79.55
+CTime3=25.71
+
+[Count]
+Board=13
+Module=871
+Fwait=33
+Rwait=0
+Swait=0
+Cwait=0
+Bwait=0
+Pwait=0
+SCStop=5
+SCEStop=0
+OthrStop=0
+CnvStop=15
+BRcgStop=0
+Trbl=0
+MHRcgStop=0
+FBStop=0
+BNDRcgStop=0
+CPErr=0
+CRErr=0
+CDErr=0
+CMErr=0
+CTErr=0
+TRSErr=0
+TPickup=871
+TPMiss=0
+TRMiss=0
+TDMiss=0
+TMMiss=0
+THMiss=0
+TRSMiss=0
+JudgeStop=0
+OtherLStop=0
+BNDStop=0
+TDispense=0
+TPriming=0
+LotBoard=13
+LotModule=871
+McFwait=33
+McRwait=0
+JointPassWait=0
+TMount=871
+
+[Dispenser]
+Head NHAdd BLKCode BLKSerial UseN NozzleName BondID UseB BondLibName Dispense Priming PSRErr
+
+[MountPickupFeeder]
+BLKCode BLKSerial UseF PartsName FAdd FSAdd ReelID UseR Pickup PMiss RMiss DMiss MMiss HMiss TRSMiss Mount LName TGSerial
+"FB10" "FA0210ABA251680" 0 "CIM001C" 10010 1 "000C296948E7-81465" 0 67 0 0 0 0 0 0 67 "Standard Parts" "0000000000"
+"FB10" "FA0210ABA251680" 0 "CIM001C" 10011 1 "000C296948E7-81468" 0 402 0 0 0 0 0 0 402 "Standard Parts" "0000000000"
+
+[MountPickupNozzle]
+Head NHAdd NCAdd BLKCode BLKSerial UseR NozzleName Pickup PMiss RMiss DMiss MMiss HMiss TRSMiss Mount
+1 4 124 "" "" 0 230 210 0 0 0 0 0 0 210
+1 3 123 "" "" 0 230 210 0 0 0 0 0 0 210
+1 9 113 "" "" 0 230 210 0 0 0 0 0 0 210
+1 10 114 "" "" 0 230 198 0 0 0 0 0 0 198
+1 6 126 "" "" 0 230 6 0 0 0 0 0 0 6
+1 5 125 "" "" 0 230 6 0 0 0 0 0 0 6
+1 2 122 "" "" 0 230 7 0 0 0 0 0 0 7
+1 7 111 "" "" 0 230 6 0 0 0 0 0 0 6
+1 8 112 "" "" 0 230 6 0 0 0 0 0 0 6
+1 11 115 "" "" 0 230 6 0 0 0 0 0 0 6
+1 12 116 "" "" 0 230 6 0 0 0 0 0 0 6
+
+[InspectionData]
+Block=0
+BadBoard=0
+BadBlock=0
+BadParts=0
+OKParts=0
+RetryBoard=0
+LotBlock=0
+LotBadBoard=0
+LotBadBlock=0
+LotBadParts=0
+LotOKParts=0
+LotRetryBoard=0
+
