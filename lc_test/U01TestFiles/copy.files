@@ -1,0 +1,9 @@
+find 1 2 3 4 5 -type f -print |
+sort -t/ +1 -2 |
+sed 's/^\([0-9]\)\(.*\)$/\1 \1\2/' |
+while read m ufile
+do
+	cp "${ufile}" "/cimuser/mrumore/cim/pfadata/lnb/LNB2/lnbroot/othersystem/MngData/${m}"
+done
+#
+exit 0

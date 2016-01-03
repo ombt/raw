@@ -1,0 +1,156 @@
+[Index]
+Format=ProductReport
+Version=1.0000
+Machine=NPM
+Date=2015/04/08,00:58:21
+AuthorType=Machine
+Author=
+Diff=
+MJSID="PTA037EA001"
+Comment=""
+
+[Information]
+Stage=1
+Lane=2
+Serial=1347880
+SerialStatus=0
+Code=""
+BcrStatus=2
+ProductID="1196"
+Rev=3
+PlanID="0"
+Output=3
+LotName="RRA037EA001"
+LotNumber=1
+
+[Time]
+PowerON=20386.03
+Change=1276.80
+ProdView=0.00
+Mente=0.00
+DataEdit=0.00
+UnitAdjust=0.00
+Idle=0.00
+Prod=19109.23
+Actual=3348.22
+Load=2461.02
+BRcg=543.79
+Mount=2804.43
+TotalStop=13299.99
+Fwait=11484.94
+Rwait=162.81
+Swait=0.00
+Cwait=0.00
+Bwait=0.00
+Pwait=0.00
+SCStop=489.53
+SCEStop=0.00
+OthrStop=0.00
+CnvStop=0.00
+BRcgStop=0.00
+Trbl=0.00
+MHRcgStop=0.00
+FBStop=0.00
+BNDRcgStop=0.00
+CPErr=66.46
+CRErr=0.00
+CDErr=0.00
+CMErr=0.00
+CTErr=0.00
+TRSErr=0.00
+PRDStop=3614.72
+JudgeStop=0.00
+OtherLStop=1096.25
+BNDStop=0.00
+McFwait=8847.83
+McRwait=0.00
+JointPassWait=0.00
+
+[CycleTime]
+CTime1=11.07
+CTime2=80.22
+CTime3=11.07
+
+[Count]
+Board=351
+Module=702
+Fwait=309
+Rwait=19
+Swait=0
+Cwait=0
+Bwait=0
+Pwait=0
+SCStop=8
+SCEStop=0
+OthrStop=0
+CnvStop=0
+BRcgStop=0
+Trbl=0
+MHRcgStop=0
+FBStop=0
+BNDRcgStop=0
+CPErr=3
+CRErr=0
+CDErr=0
+CMErr=0
+CTErr=0
+TRSErr=0
+TPickup=4215
+TPMiss=3
+TRMiss=0
+TDMiss=0
+TMMiss=0
+THMiss=0
+TRSMiss=0
+JudgeStop=0
+OtherLStop=186
+BNDStop=0
+TDispense=0
+TPriming=0
+LotBoard=351
+LotModule=702
+McFwait=298
+McRwait=0
+JointPassWait=0
+TMount=4212
+
+[Dispenser]
+Head NHAdd BLKCode BLKSerial UseN NozzleName BondID UseB BondLibName Dispense Priming PSRErr
+
+[MountPickupFeeder]
+BLKCode BLKSerial UseF PartsName FAdd FSAdd ReelID UseR Pickup PMiss RMiss DMiss MMiss HMiss TRSMiss Mount LName
+"" "" 0 "YEP1RM00077" 21001 1 "" 0 192 0 0 0 0 0 0 192 "NPM"
+"" "" 0 "C3ABPJ000074" 22016 1 "" 0 216 0 0 0 0 0 0 216 "NPM"
+"FB20" "FA0220AAF308636" 0 "B0ECMR000017" 10016 0 "542002D" 0 655 1 0 0 0 0 0 654 "NPM"
+"" "" 0 "YEP1RM00077" 21002 1 "" 0 192 0 0 0 0 0 0 192 "NPM"
+"" "" 0 "C3ABPJ000074" 22017 1 "" 0 162 0 0 0 0 0 0 162 "NPM"
+"" "" 0 "YEP1RM00077" 21003 1 "" 0 126 0 0 0 0 0 0 126 "NPM"
+"FB20" "FA0220AAF308595" 0 "C0CBCBG00012" 10015 0 "542073F" 0 999 1 0 0 0 0 0 998 "NPM"
+"" "" 0 "C3ABPJ000074" 22018 1 "" 0 108 0 0 0 0 0 0 108 "NPM"
+"" "" 0 "YEP1RM00077" 21004 1 "" 0 96 0 0 0 0 0 0 96 "NPM"
+"" "" 0 "C3ABPJ000074" 22019 1 "" 0 108 0 0 0 0 0 0 108 "NPM"
+"" "" 0 "YEP1RM00077" 21005 1 "" 0 96 0 0 0 0 0 0 96 "NPM"
+"" "" 0 "C3ABPJ000074" 22020 1 "" 0 108 0 0 0 0 0 0 108 "NPM"
+"FB30" "FA0230AEA370386" 0 "C0DBAMH00014" 10021 0 "5325043" 0 41 1 0 0 0 0 0 40 "NPM"
+
+[MountPickupNozzle]
+Head NHAdd NCAdd BLKCode BLKSerial UseR NozzleName Pickup PMiss RMiss DMiss MMiss HMiss TRSMiss Mount
+1 3 113 "416800000" "41680000006120400004" 0 4168 1405 1 0 0 0 0 0 1404
+1 2 112 "100300000" "10030000007120400040" 0 1003 702 1 0 0 0 0 0 701
+1 1 111 "462600000" "46260000001120400001" 0 1003 704 1 0 0 0 0 0 703
+2 1 211 "100400000" "10040000003130400031" 0 1004 1404 0 0 0 0 0 0 1404
+
+[InspectionData]
+Block=0
+BadBoard=0
+BadBlock=0
+BadParts=0
+OKParts=0
+RetryBoard=0
+LotBlock=0
+LotBadBoard=0
+LotBadBlock=0
+LotBadParts=0
+LotOKParts=0
+LotRetryBoard=0
+

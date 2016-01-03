@@ -1,0 +1,7 @@
+[Information]
+LotName="PCB_ACDC_TEST"
+
+[SubstituteParts]
+Main Sub
+"3216R" "3216R-Sub1"
+

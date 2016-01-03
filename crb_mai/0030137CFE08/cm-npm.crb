@@ -1,0 +1,761 @@
+[Index]
+Format=CERBERUS
+Version=2.0000
+Machine=PRISM
+Date=2009/01/23,17:58:34
+AuthorType=DataGenerator
+Author=IPOX
+MJSID="CM-NPM"
+Comment=""
+
+[LotNames]
+IDNUM LotNum Lot MCFileName Filter AutoChg BaseChg Lane ProductionID SimProduct DGSPCBName DGSPCBRev DGSPCBSide
+30 1 "panasonic" "panasonic" 0 0 0 1 "" 0 "panasonic" "1.0" "T"
+
+[BoardData<1>]
+X=240.000
+Y=120.000
+Z=1.000
+OrgOffsetX=0.000
+OrgOffsetY=0.000
+OrgType=Left,Front
+Carrier=NO
+SecPosOffset=0.000
+ProductNum=1
+CarrierH=0.000
+BackH=0.000
+
+[MultiPattern<1>]
+IDNUM PTN RMODE
+1 1 0
+
+[PatternAttribute<1>]
+IDNUM PNUM OX OY OZ B PTN PG ROT PCBPosition C
+1 1 0.000 0.000 0.000 0 1 1 0 0 "Offset_1"
+
+[PatternGrouping<1>]
+IDNUM GRPNUM C RMODE
+1 1 "PG1" 1
+
+[RecogMarkSet<1>]
+IDNUM RMA RMB RMC RMD RME TYPE B PG RMODE MArea
+
+[PositionData<1>]
+IDNUM CADID X Y A PARTS BRM TURN DTURN TS MS DS NP DNP PU SIDE DPU HEAD DHEAD IHEAD B PG S RID C M MB F PR PRISEQ P PAD VW StdPos LAND Depend ChkFlag ExChk Grand MArea RMSet SH
+18211 0 0.000 0.000 0.000 0 3 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 5 0 "" 0 0 0 1000 0 0 0 0 0 0 0 0 0 0 1 0 0.000
+542498 542498 0.000 0.000 0.000 0 4 0 0 0 1 0 0 0 0 0 0 0 0 0 1 1 5 0 "" 0 0 0 1000 0 0 0 0 0 0 0 0 0 0 1 0 0.000
+
+[PatternData<1>]
+IDNUM O X Y A PARTS BRM C M F PR MB PRISEQ MArea
+18193 1 16.000 5.000 180.000 511 0 "" 0 0 1000 0 0 0
+18194 1 16.000 6.000 180.000 511 0 "" 0 0 1000 0 0 0
+18195 1 21.000 5.000 180.000 507 0 "" 0 0 1000 0 0 0
+18196 1 21.000 6.000 180.000 509 0 "" 0 0 1000 0 0 0
+18197 1 26.000 5.000 180.000 510 0 "" 0 0 1000 0 0 0
+18198 1 31.000 6.000 180.000 510 0 "" 0 0 1000 0 0 0
+
+[FilterData<1>]
+IDNUM FID P
+
+[SoftSwitch<1>]
+IDNUM McNum MasterBadMark BadMarkGroup BadMark RecogOrder BoardRecog BoardRecogMode Mrec IH PCBHeightMeasure HeightCorrectMode CarType AutoSpl PasteRecog PrClean AutoChg BrdLngChk MaskRecog Dispense Discharge AltCtrl DisCnt1 DisCnt2 NAFB NBFB Pass CJBRecog SameBadRecog TrayOrder TraySupply RecogErrBad BarcodeRecog PtnBarcodeRecog PtnGrpBarcodeRecog
+2 1 0 0 0 0 0 1 0 0.350 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+[ComSwitch<1>]
+IDNUM StNum DeliverType BarCode Badmark APC Ptnmark PCBHight
+6 1 0 0 0 0 0 0
+7 1 1 0 0 0 0 0
+
+[PCBConveyance<1>]
+IDNUM Stage ConveySpeed1 ConveySpeed2
+3 1 0 0
+
+[NozzlePosition<1>]
+IDNUM HEAD NPA NPB NPC NPD NPE NPF NPG NPH NPI NPJ NPK NPL NPM NPN NPO NPP TURN
+5 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+6 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+
+[SimplePriority<1>]
+IDNUM POS PR
+
+[SeqPriority<1>]
+IDNUM CNO SEQ POS MODE
+
+[RelativePriority<1>]
+IDNUM CNO Pri_SEQ Sec_SEQ MODE
+
+[VstockData<1>]
+IDNUM N PA PB PC PD PE PF PG PH PI PJ TA TB TC TD TE TF TG TH TI TJ Force
+
+[VnozzleStock<1>]
+IDNUM N P Force
+
+[VpaletteData<1>]
+IDNUM N TRAY X Y ROT
+
+[FixedPlacaementCount<1>]
+IDNUM FF PCA PCB PCC PCD PCE PCF PCG PCH PCI PCJ
+
+[TransUnitSetting<1>]
+IDNUM TABLE SupplyStopMode TransferLimit SupplyTime ElapsedTimeStop TransMaxPeriod TransPositionExt
+
+[GraundData<1>]
+IDNUM XA XB YA YB CD
+
+[LandData<1>]
+IDNUM NextID LChkFlg LandDirection LandPosX LandPosY SizeX SizeY RID
+
+[SolderData<1>]
+IDNUM Name B X Y A CogX CogY SXA SXB SXC SXD SYA SYB SYC SYD Shape Area Wbridge Part PLand Judgment LandA LandB LandC
+
+[ShootingCondition<1>]
+IDNUM HeadType ResolutionXY ResolutionZ LampA LampB LampC LampD AngC AngD AreaXA AreaYA AreaXB AreaYB IVLnk
+
+[LookUpTableReference<1>]
+IDNUM Target Comment H1 H2 H3 H4 S1 S2 S3 S4 I1 I2 I3 I4
+
+[InspectViewData<1>]
+IDNUM Head ICx ICy Turn ScanS LampType Lamp LampEX HeadType ResolutionXY ResolutionZ
+
+[InspectTargetData<1>]
+IDNUM TargetType TargetID InspectArea LastScan
+
+[NozzleSelect<1>]
+IDNUM HEAD NA NB BA BB CTRLA CTRLB
+
+[DischargeData<1>]
+IDNUM HEAD NOZZLE BN BSPD BZ BPTN POSX POSY WAY PITCH ANGLE CNT TIME RECNUM RTY HUGE VZ WAIT1 WAIT2 RECDATA
+
+[ClampPositionSP<1>]
+Mode=0
+StartTmg=0.000
+PbVacuum=0
+VstartTmg=0.000
+VendTmg=0.000
+VoffFlg=0
+PbPress=0
+MountMode=0
+StopperPosiY=0.000
+StpPosX=0.000
+ClippedLength=0.000
+ClampFlg=0
+
+[MaskDataSP<1>]
+MaskNo=0
+MaskName=""
+L=0.000
+W=0.000
+T=0.000
+BasisCode=0
+MaskMakeX=0.000
+MaskMakeY=0.000
+MaskType=0
+MaskMakePosi=0.000
+
+[MaskRecogData<1>]
+PairFlgT1=0
+PairFlgT2=0
+
+[PrintPositionSP<1>]
+X=0.000
+Y=0.000
+Angle=0.000
+
+[SqueegeeOffsetSP<1>]
+SqFX=0.000
+SqFY=0.000
+SqFA=0.000
+SqRX=0.000
+SqRY=0.000
+SqRA=0.000
+
+[PackageTchData<1>]
+CadData=YES
+AutoTeach=NO
+BrdSearch=YES
+MaskSearch=YES
+FourPntMode=0
+
+[NozzleStock]
+IDNUM N P Force
+
+[StockData]
+IDNUM N PA PB PC PD PE PF PG PH PI PJ TA TB TC TD TE TF TG TH TI TJ Force
+
+[NonArrangeParts]
+IDNUM P Reason
+
+[PaletteData]
+IDNUM N TRAY X Y ROT
+
+[PartsListData]
+IDNUM N PARTS
+
+[PartsData]
+IDNUM NAME EX LNAME FA FB FC FD FE FF FG FH FI FJ REELS CHIP Shape MCOND DCOND ICOND SKIP A PACK PACKB SSIZE RETRY ESTOP ThrowAway LandA LandB LandC LandD PreSend NoArrange Proved
+
+[PartsGroup]
+IDNUM Parts Group
+
+[RecognitionMark]
+IDNUM KIND ATT REF LAMPA LAMPB LAMPC LAMPD TYPE SIZEA SIZEB SIZEC SIZED SIZEE SIZEF SIZEG SIZEH DARK TH AREA JUDGE RECSTARTX RECSTARTY RECENDX RECENDY THUP THDOWN RPARA RNUM RAREA
+3 0 0 126 1 1 1 1 0 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0 1 0.000 50 -0.100 -0.100 0.100 0.100 0 0 0.000 0.000 0.000
+4 0 1 126 1 1 1 1 0 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0 1 0.000 50 -0.100 -0.100 0.100 0.100 0 0 0.000 0.000 0.000
+
+[ShapeBase]
+IDNUM PhysicalClass FunctionClass Algo ChipL ChipW ChipH RCGSP PolId Shape PosUp PosMethod ShapeChk ShapeEtc LMPA LMPB LMPC LMPA2 LMPB2 LMPC2 Round
+
+[ShapeBaseShape]
+IDNUM Mold LGrp ILGrp Square Circle Line Corner Rectangle UBall UBallB BGrp BlkMch
+
+[ShapeBasePosUp]
+IDNUM TkupRange Accu BoxPos BoxAccPos AccSlant
+
+[ShapeBasePosMethod]
+IDNUM NoAngle NoCenter AngleCalcMethod CenterDef MountOffset
+
+[ShapeBaseChk]
+IDNUM SizeAllow SizeChk AngleCalcChk CenterRangeChk TakeUpChk OverChk AdjacentChk SupplyDirChk SideStandChk StandChk RollChk BrightChk FloatChk FloatAllowMaster
+
+[ShapeBaseEtc]
+IDNUM BoxSide Inverse EasySupportFlag EdgePrm TriPrm SamplingPrm AccuPrm C2DPrm C3DPrm C3DSensor C3DSensorPSD OldFashion
+
+[ShapePol]
+IDNUM Pol PolMark PCx PCy PDx PDy
+
+[ShapeMold]
+IDNUM Col Shape Dx Dy Cx Cy IrrRange NEXT
+
+[ShapeLeadGroup]
+IDNUM LType LSect N P W L T Cx Cy NEXT MISS MISSA PointShape BEND END PointLen DetectPos DetectWidth HPos WAllow BendAllow FloatAllow LackChk DirChk Irr PosChk
+
+[ShapeBallGroup]
+IDNUM LType LSect T Cx Cy Px Py W Col Row Shape NEXT MISS Inspect FixHeight WAllow BendAllow FloatAllow LackChk PosChk
+
+[ShapeInsLead]
+IDNUM T Cx Cy W P N NEXT MISS MISSA END WAllow BendAllow FloatAllow LackChk PosChk
+
+[ShapeSquare]
+IDNUM Atrb T Cx Cy Dx Dy PosChk NEXT
+
+[ShapeCircle]
+IDNUM Atrb T Cx Cy Dx Dy Ts Te PosChk NEXT
+
+[ShapeLine]
+IDNUM Atrb T Cx Cy L PosChk NEXT
+
+[ShapeCorner]
+IDNUM Atrb T Cx Cy Dx Dy PosChk NEXT
+
+[ShapeRectangle]
+IDNUM Atrb T Cx Cy Dx Dy PosChk NEXT
+
+[ShapeUnevenBall]
+IDNUM LType LSect Total W Lt Wt ColA RowA ColB RowB Px Py Cx Cy WAllow BendAllow FloatAllow PosChk
+
+[ShapeUnevenBallB]
+IDNUM LType LSect W Pat WAllow BendAllow FloatAllow
+
+[ShapeCutLead]
+IDNUM Group Num Pos NEXT
+
+[ShapeAutoCutLead]
+IDNUM Ratio Count
+
+[ShapeLackBall]
+IDNUM MSA MSB MSC MSD MSE MSF MSG MSH MSI MSJ MSK MSL MSM MSN MSO MSP
+
+[ShapeBlockMatch]
+IDNUM PatNo
+
+[ShapeRandomBall]
+IDNUM PatNo
+
+[ShapeBoxSide]
+IDNUM Side
+
+[ShapeLeadPoint]
+IDNUM Pos CodeA CodeB NEXT
+
+[ShapeLeadBend]
+IDNUM T
+
+[ShapeLeadIrr]
+IDNUM Pos Code NEXT
+
+[ShapeReinforcedLead]
+IDNUM Pos D NEXT
+
+[ShapeIrrRange]
+IDNUM Side A B NEXT
+
+[ShapeTakeupRange]
+IDNUM A B Dx Dy
+
+[ShapeAccRange]
+IDNUM X Y
+
+[ShapeBoxPos]
+IDNUM Side
+
+[ShapeBoxAccPos]
+IDNUM Side Dx Dy W NEXT
+
+[ShapeAccSlant]
+IDNUM Side Type Ax Ay Bx By W NEXT
+
+[ShapePointCorrect]
+IDNUM W
+
+[ShapeAllBallInspect]
+IDNUM Lower Upper Flag
+
+[ShapeNoAngle]
+IDNUM T
+
+[ShapeNoCenter]
+IDNUM Cx Cy
+
+[ShapeAngleCalcMethod]
+IDNUM Code
+
+[ShapeLeadDetectPos]
+IDNUM Base D
+
+[ShapeLeadDetectWidth]
+IDNUM W
+
+[ShapeLeadHPos]
+IDNUM A B
+
+[ShapeBallHPos]
+IDNUM Change
+
+[ShapeCenterDef]
+IDNUM Type
+
+[ShapeMountOffset]
+IDNUM Cx Cy T
+
+[ShapeSizeAllow]
+IDNUM Lm Lp Wm Wp
+
+[ShapeLeadWAllow]
+IDNUM Wm
+
+[ShapeLeadBendAllow]
+IDNUM Pm
+
+[ShapeFloatAllow]
+IDNUM F
+
+[ShapeFloatAllowMaster]
+IDNUM F
+
+[ShapeLeadLackChk]
+IDNUM Check
+
+[ShapeRegistPosChk]
+IDNUM Lm Lp Wm Wp
+
+[ShapeSizeChk]
+IDNUM Ax Ay Bx By T L W TolM TolP Thl NEXT
+
+[ShapeAngleCalcChk]
+IDNUM A B
+
+[ShapeCenterRangeChk]
+IDNUM Dx Dy Wx Wy
+
+[ShapeTakeUpChk]
+IDNUM Thl Area
+
+[ShapeOverChk]
+IDNUM Thl L Dx Dy Wx Wy
+
+[ShapeAdjacentChk]
+IDNUM U V Wu Wv Ox Oy
+
+[ShapeSupplyDirChk]
+IDNUM Mode
+
+[ShapeLeadDirChk]
+IDNUM Ang
+
+[ShapeSideStandChk]
+IDNUM Type Thl T
+
+[ShapeStandChk]
+IDNUM Chk1 Chk2 Chk3 Chk4 Chk5
+
+[ShapeRollChk]
+IDNUM C
+
+[ShapeBrightChk]
+IDNUM T Cx Cy Dx Dy Method Mode Upper Lower NEXT
+
+[ShapeFloatChk]
+IDNUM T Cx Cy Dx Dy NEXT
+
+[ShapeInverse]
+IDNUM Flag
+
+[ShapeEasySupportFlag]
+IDNUM Flag
+
+[ShapeEdgePrm]
+IDNUM PA PB
+
+[ShapeTriPrm]
+IDNUM Low High
+
+[ShapeSamplingPrm]
+IDNUM PA PB PC PD
+
+[ShapeAccuPrm]
+IDNUM PA PB PC PD
+
+[Shape2DPrm]
+IDNUM Thl
+
+[Shape3DPrm]
+IDNUM Thl
+
+[Shape3DSensor]
+IDNUM PowerA PowerB ThlA ThlB Light
+
+[Shape3DSensorPSD]
+IDNUM AngFlag
+
+[ShapeOldFashion]
+IDNUM Code
+
+[ChipData]
+IDNUM L W T RCGSP NAME KIND REF QFP BGA CT FC BARE GR LMPA LMPB LMPC LMPD LMPE LMPF HMAX MVSEL HVSEL
+
+[ChipExtensionQFP]
+IDNUM PITCHA PITCHB PITCHC PITCHD PINSA PINSB PINSC PINSD VPINSA VPINSB VPINSC VPINSD MISSA MISSB MISSC MISSD BNT
+
+[ChipExtensionBGA]
+IDNUM PITCH PITCHY DIA BH BL MSA MSB MSC MSD MSE MSF MSG MSH MSI MSJ MSK MSL MSM MSN MSO DMAX
+
+[ChipExtensionCT]
+IDNUM REF DA DB DC DD DE DF DG DH DI DJ
+
+[ChipExtensionFC]
+IDNUM BXA BXB BXC BXD BXE BXF BXG BXH BYA BYB BYC BYD BYE BYF BYG BYH BDA BDB BDC BDD BDE BDF BDG BDH
+
+[ChipExtensionBARE]
+IDNUM SM SN SLX SLY
+
+[ChipExtensionGR]
+IDNUM PINFRM ARYFORM NONGRID PINAD BMPAD PINGAD BMPGAD INSPGAD RTAD CIRAD LNAD CORAD RTGAD PINMS PINBS BMPARYBT GRBINA GRBINB
+
+[GRDetailPINFRM]
+IDNUM NextID Ltype Lsect Side N P W L OFS
+
+[GRDetailARYFORM]
+IDNUM Ltype Lsect Col Row Px Py W
+
+[GRDetailNONGRID]
+IDNUM Lt Wt ColB RowB Total
+
+[GRDetailPINAD]
+IDNUM NextID Ltype Lsect Dummy T Cx Cy Dx Dy
+
+[GRDetailBMPAD]
+IDNUM NextID Ltype Lsect Cx Cy W
+
+[GRDetailPINGAD]
+IDNUM NextID Ltype Lsect Dummy N P W L T Cx Cy
+
+[GRDetailBMPGAD]
+IDNUM NextID Ltype Lsect Dummy T Cx Cy Px Py W Col Row Type
+
+[GRDetailINSPGAD]
+IDNUM NextID T Cx Cy W P N Dummy
+
+[GRDetailRTAD]
+IDNUM NextID Atrb Dummy T Cx Cy Dx Dy
+
+[GRDetailCIRAD]
+IDNUM NextID Atrb Dummy T Cx Cy Dx Dy Ts Te
+
+[GRDetailLNAD]
+IDNUM NextID Atrb Dummy T Cx Cy L
+
+[GRDetailCORAD]
+IDNUM NextID Atrb Dummy T Cx Cy Dx Dy
+
+[GRDetailRTGAD]
+IDNUM NextID Atrb Dummy T Cx Cy Dx Dy
+
+[GRDetailPINMS]
+IDNUM NextID Side Class Num Pos
+
+[GRDetailPINBS]
+IDNUM NextID Side Dummy D
+
+[GRDetailBMPARYBT]
+IDNUM Col Row Check MSA MSB MSC MSD MSE MSF MSG MSH MSI MSJ MSK MSL MSM MSN MSO MSP
+
+[GRDetailGRBINA]
+IDNUM SIZE BLANK NUM SABPA SABPB SABPC SABPD SABPE SABPF SABPG SABPH SABPI SABPJ SABPK SABPL SABPM SABPN
+
+[GRDetailGRBINB]
+IDNUM SIZE BLANK SBBPA SBBPB SBBPC SBBPD SBBPE SBBPF SBBPG SBBPH SBBPI SBBPJ SBBPK SBBPL
+
+[MountCondition]
+IDNUM NR NOZZLEA NOZZLEB NOZZLEC NOZZLED NOZZLEE TGAP MGAP TUPX TUPY TUPZ RZ MZ SZ TSPD MSPD FS TUPT MNTT VSEL Camera LampMode RcgMode HMFLAG HMGAP TMFLAG TMTIMING HMAX HMIN POLARIZE MRECA LOAD FLUX Fluxload STZ SQGAP STTIME STSPD ThDMntGap LMFLAG NoSimTkup FLOAT LTYP FMAX LSA LSB LSC LSD FLUXR TkupTol TkupTeach VSMC STEPMNT SFeedLength TkupLearn
+
+[TrayData]
+IDNUM NAME L W T OXA OYA OXB OYB PZ MX MY MZ MSA MSB MSC MSD RSP HSP DX DY P PR RECOG
+
+[FeederData]
+IDNUM Ftype Pitch Feed FeedLen Quantity Xa Ya Xb Yb Xc Yc Width Kind REELTYPE ReelSize SHEIGHT
+
+[FeederMaxData]
+IDNUM Name Maxs
+
+[NozzleDataNPM]
+IDNUM NozzleNo Size TUPH MAXH X Y TX TY NAME NH CO LO TO VU VD TT MT RcgMode Fb VSMC
+3 230 0 13.800 13.800 1.000 0.900 0.500 0.600 "1005-1608" 1 0 1 1 5 -5 6 5 0 -65 0
+4 120 0 13.800 13.800 1.300 1.300 1.300 1.300 "2125MM" 1 0 1 1 5 -5 6 8 0 -76 0
+5 110 0 13.800 13.800 0.600 0.600 0.600 0.600 "1005MM" 1 0 1 1 5 -5 6 8 0 -57 0
+6 199 0 13.800 13.800 10.000 10.000 10.000 10.000 "PAD10" 1 0 0 0 5 -5 6 8 0 -83 0
+7 1582 0 22.500 22.500 0.650 0.350 0.650 0.350 "0603MM" 1 1 1 0 -12 -25 20 10 0 -12 0
+8 140 4 13.800 13.800 4.000 4.000 4.000 4.000 "D040MM" 0 0 0 0 2 -7 6 8 0 -74 0
+9 240 4 13.800 13.800 2.400 2.400 0.800 1.600 "3216MM" 1 0 1 1 2 -7 6 8 0 -79 0
+10 130 4 13.800 13.800 2.400 2.400 2.400 2.400 "D024MM" 1 0 1 1 2 -7 6 8 0 -72 0
+11 230 4 13.800 13.800 1.000 0.900 0.500 0.600 "1005-1608" 1 0 1 1 0 -12 3 4 0 -57 0
+12 120 4 13.800 13.800 1.300 1.300 1.300 1.300 "2125MM" 1 0 1 1 2 -7 6 8 0 -71 0
+13 1001 0 22.500 22.500 1.300 0.900 1.300 0.900 "D013MM" 1 0 1 0 -12 -25 20 10 0 -41 0
+14 235 0 13.800 13.800 2.000 2.000 0.600 1.000 "1608-2125" 1 0 1 1 5 -5 6 8 0 -69 0
+15 110 4 13.800 13.800 0.600 0.600 0.600 0.600 "1005MM" 1 0 1 1 2 -7 6 8 0 -47 0
+16 1002 0 22.500 22.500 3.000 3.000 3.000 2.200 "D030MM" 1 0 1 0 -12 -25 20 10 0 -75 0
+17 225 0 13.800 13.800 1.000 0.900 0.600 0.500 "0603MM" 1 0 1 1 5 -5 6 5 0 -41 0
+18 203 0 13.800 13.800 1.250 1.250 0.300 0.450 "203Z" 1 1 1 1 5 -5 6 5 0 -25 0
+19 115 0 13.800 13.800 0.900 0.900 0.900 0.900 "1608MM" 1 0 1 1 5 -5 6 8 0 -72 0
+20 1003 0 22.500 22.500 6.000 4.000 6.000 4.000 "D060MM" 1 0 1 0 -12 -25 20 10 0 -79 0
+21 226 0 13.800 13.800 1.000 0.900 0.350 0.600 "0603-1005" 1 0 1 1 5 -5 6 5 0 -45 0
+22 1004 0 22.500 22.500 8.000 8.000 8.000 8.000 "D080MM" 0 0 1 0 -12 -25 20 10 0 -79 0
+23 205 0 13.800 13.800 1.250 1.250 0.170 0.450 "0603MM" 1 0 1 1 5 -5 6 5 0 -35 0
+24 1005 0 22.500 22.500 10.000 10.000 10.000 10.000 "D100MM" 0 0 0 0 -12 -25 20 10 0 -77 0
+25 235 4 13.800 13.800 2.000 2.000 0.600 1.000 "1608-2125" 1 0 1 1 2 -7 6 8 0 -60 0
+26 206 0 13.800 13.800 1.250 1.250 0.350 0.600 "0603-1005" 1 0 1 1 5 -5 6 5 0 -37 0
+27 1006 0 22.500 22.500 0.000 0.000 0.000 0.000 "DUMMY" 1 1 1 0 -12 -25 20 10 0 -100 0
+28 225 4 13.800 13.800 1.000 0.900 0.600 0.500 "0603MM" 1 0 1 1 0 -12 3 4 0 -29 0
+29 203 4 13.800 13.800 1.250 1.250 0.300 0.450 "203ZS" 1 1 1 1 0 -12 3 4 0 -9 0
+30 115 4 13.800 13.800 0.900 0.900 0.900 0.900 "1608MM" 1 0 1 1 2 -7 6 8 0 -66 0
+31 226 4 13.800 13.800 1.000 0.900 0.350 0.600 "0603-1005" 1 0 1 1 0 -12 3 4 0 -34 0
+32 205 4 13.800 13.800 1.250 1.250 0.170 0.450 "0603MM" 1 0 1 1 0 -12 3 4 0 -21 0
+33 206 4 13.800 13.800 1.250 1.250 0.350 0.600 "0603-1005" 1 0 1 1 0 -12 3 4 0 -26 0
+34 140 0 13.800 13.800 4.000 4.000 4.000 4.000 "D040MM" 0 0 0 0 5 -5 6 8 0 -79 0
+35 240 0 13.800 13.800 2.400 2.400 0.800 1.600 "3216MM" 1 0 1 1 5 -5 6 8 0 -83 0
+36 185 0 13.800 13.800 6.000 6.000 6.000 6.000 "PAD6" 1 0 0 0 5 -5 6 8 0 -79 0
+37 130 0 13.800 13.800 2.400 2.400 2.400 2.400 "D024MM" 1 0 1 1 5 -5 6 8 0 -76 0
+
+[NozzleDataCM]
+IDNUM NozzleNo Size TUPH MAXH X Y TX TY NAME NH CO LO TO VU VD TT MT RcgMode Fb VSMC
+
+[NozzleMaxData]
+IDNUM NozzleNo Nsize Maxs
+3 230 0 100
+4 120 0 100
+5 110 0 100
+6 199 0 100
+7 1582 0 100
+8 140 4 100
+9 240 4 100
+10 130 4 100
+11 230 4 100
+12 120 4 100
+13 1001 0 100
+14 235 0 100
+15 110 4 100
+16 1002 0 100
+17 225 0 100
+18 203 0 100
+19 115 0 100
+20 1003 0 100
+21 226 0 100
+22 1004 0 100
+23 205 0 100
+24 1005 0 100
+25 235 4 100
+26 206 0 100
+27 1006 0 100
+28 225 4 100
+29 203 4 100
+30 115 4 100
+31 226 4 100
+32 205 4 100
+33 206 4 100
+34 140 0 100
+35 240 0 100
+36 185 0 100
+37 130 0 100
+
+[SolderJdgData]
+IDNUM Name C MT ExSize JdgAMid JdgALowNG JdgALowWarn JdgAUpNG JdgAUpWarn JdgBMid JdgBLowNG JdgBLowWarn JdgBUpNG JdgBUpWarn JdgCMid JdgCLowNG JdgCLowWarn JdgCUpNG JdgCUpWarn JdgDMid JdgDLowNG JdgDLowWarn JdgDUpNG JdgDUpWarn JdgEMid JdgELowNG JdgELowWarn JdgEUpNG JdgEUpWarn JdgFMid JdgFLowNG JdgFLowWarn JdgFUpNG JdgFUpWarn JdgGMid JdgGLowNG JdgGLowWarn JdgGUpNG JdgGUpWarn JdgHMid JdgHLowNG JdgHLowWarn JdgHUpNG JdgHUpWarn JdgIMid JdgILowNG JdgILowWarn JdgIUpNG JdgIUpWarn JdgJMid JdgJLowNG JdgJLowWarn JdgJUpNG JdgJUpWarn JdgKMid JdgKLowNG JdgKLowWarn JdgKUpNG JdgKUpWarn JdgLMid JdgLLowNG JdgLLowWarn JdgLUpNG JdgLUpWarn SNoize SAreaMethod SOffset BNoize BAreaMethod BOffset
+
+[ChipJdgData]
+IDNUM Name C NrChips JdgAMid JdgALowNG JdgALowWarn JdgAUpNG JdgAUpWarn JdgBMid JdgBLowNG JdgBLowWarn JdgBUpNG JdgBUpWarn JdgCMid JdgCLowNG JdgCLowWarn JdgCUpNG JdgCUpWarn JdgDMid JdgDLowNG JdgDLowWarn JdgDUpNG JdgDUpWarn
+
+[SpecialJdgData]
+IDNUM Name C Links ExSize JdgAMid JdgALowNG JdgALowWarn JdgAUpNG JdgAUpWarn JdgBMid JdgBLowNG JdgBLowWarn JdgBUpNG JdgBUpWarn JdgCMid JdgCLowNG JdgCLowWarn JdgCUpNG JdgCUpWarn JdgDMid JdgDLowNG JdgDLowWarn JdgDUpNG JdgDUpWarn
+
+[GrandLibData]
+IDNUM C Algo PA PB PC PD PE PF PG PH PI PJ PK PL PM PN PO PP PQ PR PS PT NUM
+
+[InspectConditionSet]
+IDNUM 2dBefore 2dAfter 3dBefore 3dAfter
+
+[PartInspectCondition]
+IDNUM Comment HeadType Search AreaOfst BoxA BoxB BoxC BoxD BoxE BoxF BoxG BoxH BoxI BoxJ BoxK BoxL BoxM BoxN BoxO BoxP BoxQ BoxR BoxS BoxT PivotA PivotB PivotC NEXT
+
+[InspectBoxSet]
+IDNUM Attrib LGrp LUTSel LUT1 LUT2 LUT3 LUT4 LUT5 LUT6 LUT7 LUT8 LampSel LampA LampB LampC LampD AngC AngD Algo BOX NEXT
+
+[LookUpTable]
+IDNUM H1 H2 H3 H4 S1 S2 S3 S4 I1 I2 I3 I4
+
+[InspectAlgo]
+IDNUM AlgoNo CtgNo PA PB PC PD PE PF PG PH PI PJ PK PL PM PN PO PP PQ PR PS PT PU PV PW PX PY
+
+[InspectBoxParameter]
+IDNUM PA PB PC PD PE PF PG PH PI PJ
+
+[InspectPivotSet]
+IDNUM Kind LUTSel LUT1 LUT2 LUT3 LUT4 LUT5 LUT6 LUT7 LUT8 LampSel LampA LampB LampC LampD AngC AngD Algo OX OY Pivot
+
+[InspectPivotData]
+IDNUM Attrib Tool Group Pair X Y A BMAX BMIN CMAX CMIN NEXT
+
+[LampStockData]
+IDNUM Target Comment LampA LampB LampC LampD AngC AngD
+
+[PartsInspectAreaCondition]
+IDNUM PARTS IAreaX IAreaY Cx Cy
+
+[SimplePartsInspectCondition]
+IDNUM PARTS InspecType LampType Lamp LampEX HeadType ResolutionXY ResolutionZ IFlag
+
+[DNozzleShapeData]
+IDNUM NCODE LIBNAME LIBREF NP HD INTX INTY STP
+
+[BondData]
+IDNUM LIBNAME LIBREF TEMPERATURE CL
+
+[DNozzleControlData]
+IDNUM ALARMCNT STOPCNT PRETIME POSTTIME PS SCSPD XYSPD FBGain FBPara FFPara
+
+[DispenseCondition]
+IDNUM BN BSPD BZ TIME HUGE VZ WAIT1 WAIT2 BGAP DNO WNO
+
+[MultiDisData]
+IDNUM N POSX POSY ANGLE NEXT
+
+[DrawData]
+IDNUM MSPD MTIME STIME SBTIME UTIME WPOS WTIME DISCHARGE POSNUM C
+
+[DrawPosData]
+IDNUM N POSX POSY PTN NEXT
+
+[DischargeRecogData]
+IDNUM LAMPA LAMPB LAMPC LAMPD TP FP AREAMIN AREAMAX AREARATE AREA RECSTARTX RECSTARTY RECENDX RECENDY RECFLAG1 RECFLAG2 RECFLAG3 RECFLAG4
+
+[PrintCondition]
+IDNUM SquActMode AfterPrtFlg FsqSpeed RSqSpeed SqPressF SqPressR SqLength SqType SqDeg PrtStrokeF PrtStrokeR Clearance LiftDwnSpeed LiftDwnStroke ConstAccel PatternLibName RefPatternName UnitPressure FillPressure WarmUpRound SpeedChange UseModeA PointaA PointbA SpeedA UseModeB PointaB PointbB SpeedB UseModeC PointaC PointbC SpeedC SqName
+
+[Cleaning]
+IDNUM ClnMode1Flg IntervalMode1 ClnMode2Flg IntervalMode2 AutoFlg AutoTime FwdSpeed1st BwdSpeed1st FwdSpeed2nd BwdSpeed2nd FwdWetFlg1st BwdWetFlg1st FwdWetFlg2nd BwdWetFlg2nd FwdVacFlg1st BwdVacFlg1st FwdVacFlg2nd BwdVacFlg2nd FwdMoveFlg1st BwdMoveFlg1st FwdMoveFlg2nd BwdMoveFlg2nd FwdSpeed BwdSpeed FwdWetFlg BwdWetFlg FwdVacFlg BwdVacFlg FwdMoveFlg BwdMoveFlg
+
+[PrintCounter]
+IDNUM Preset SupFlg SplTimeAbs KneadFlg KneadCnt
+
+[MultiSpeedEditData]
+IDNUM SPEED STROKE
+
+[FixedFeeder]
+IDNUM Group PU FeederA FeederB FeederC FeederD FeederE FeederF FeederG FeederH FeederI FeederJ PartsA PartsB PartsC PartsD PartsE PartsF PartsG PartsH PartsI PartsJ
+
+[FixedNozzle]
+IDNUM Group Head NozzleA NozzleB NozzleC NozzleD NozzleE NozzleF NozzleG NozzleH NozzleI NozzleJ NozzleK NozzleL NozzleM NozzleN NozzleO NozzleP
+
+[FixedNozzleStock]
+IDNUM Group N P
+
+[VagueFixFeeder]
+IDNUM PARTS BeamBits
+
+[VagueFixFeederSetupRules]
+IDNUM Name Priority Condition Assign NOT
+
+[VagueFixFeederSetupRuleCondition]
+IDNUM Join Type Operator Value NEXT
+
+[VagueFixFeederSetupRuleAssign]
+IDNUM Category MCType HeadType MachineNo TableNo NEXT
+
+[ForceArrangeBeam]
+IDNUM Beam
+
+[LineData]
+Name="CM-NPM"
+Stage=1
+Flow=L-R
+FixedRail=FRONT
+Reverse=NO
+Power50Hz=YES
+
+[BeamData]
+IDNUM Head NzlChg BulkFdr StickFdr CutUnit Ccamera Camera LeadChk Sensor3D BGACSP SPNzl LoadCntl TrayMagazine DblFdrUse HeadType NzlChgKind NzlSlots NzlBigSlots Flux ConvTime DHHighScan FdrTblType FdrSlots FrameType TraySlots TraySize EjCnv Stage ExConv ExBigNzl Lane SlowDown TM Hs8NzlChg PCBWarpMeasurement HighSpd
+5 1 1 0 1 1 1 1 0 0 0 0 0 0 2 13 0 32 0 0 100 0 3 17 0 0 0 0 3 0 0 1 0 0 1 0 0
+6 2 1 0 1 1 1 1 0 0 0 0 0 0 2 13 0 32 0 0 100 0 3 17 0 0 0 0 3 0 0 1 0 0 1 0 0
+
+[FdrTblMode]
+IDNUM Head NowStation FdrTblMode Pass Type
+5 1 2 JOINT NO 0
+6 2 2 JOINT NO 0
+
+[LineInfoData]
+IDNUM McNum McMdln McName StartBeam BeamNum Pass SecMntHld
+15 1 0x51100 "NPM-02" 5 2 0 0
+
+[TactInfo<1>]
+TotalTact=3.380
+MountCount=6
+PickUpCount=6
+
+[StageTactInfo<1>]
+IDNUM Stage Tact PRcg Pre Idl1 Idl2 WaitMnt1 WaitMnt2 WaitRcg1 WaitRcg2 Hd1 Hd2 CnvSt PRcgEND WaitPRcg MntCnt PCnt NonTransTact
+
+[HeadInfo<1>]
+IDNUM Head Tact WaitP WaitFeed WaitFeedWork WaitFeedPal Flip MountRcg Turn EmptyTurn MountCount NzlChg SamePick PalChg1 PalChg2
+5 1 2.015 0.000 0.000 0.000 0.000 0.000 0.000 0 0 0 0 0 0 0
+6 2 2.015 0.000 0.000 0.000 0.000 0.000 0.000 0 0 0 0 0 0 0
+
+[SimultaneousProduct]
+IDNUM Group Sim Lot
+
+[ArrangementGroupProducts]
+IDNUM Group Lot
+30 1 1
+
+[OptimizeOptions]
+ForceArrange=NO
+ForceRearrangeTray=NO
+SecondAssignPartDiv=YES
+PrioritySelect=Mount
+NormalBalance=100
+FdrSizeLimit=0
+ChipSizeSort=0
+NzlSizeSort=NO
+BlockOpt=NO
+StickSameParts=NO
+H12TroubleAvoid=NO
+OneBlockOpt=NO
+OptMode=0
+IHSetMode=0
+

@@ -1,0 +1,2499 @@
+
+Log File: out4
+
+Scan directories for U01, U03 and MPR files: 
+
+FOUND u01 FILE: ./20150408000356729+-+01+-+1+-+1+-+1347769+-++-+3+-++-+1347769.u01
+FOUND u01 FILE: ./20150408000409279+-+01+-+1+-+1+-+0+-++-+12+-++-+0.u01
+FOUND u01 FILE: ./20150408000018402+-+01+-+1+-+1+-+1347759+-++-+3+-++-+1347759.u01
+FOUND u01 FILE: ./20150408000105020+-+01+-+1+-+1+-+0+-++-+12+-++-+0.u01
+FOUND u01 FILE: ./20150408000308380+-+01+-+1+-+1+-+0+-++-+12+-++-+0.u01
+FOUND u01 FILE: ./20150408000148861+-+01+-+1+-+1+-+1347763+-++-+3+-++-+1347763.u01
+FOUND u01 FILE: ./20150408000102853+-+01+-+1+-+1+-+1347761+-++-+3+-++-+1347761.u01
+FOUND u01 FILE: ./20150408000207319+-+01+-+1+-+1+-+0+-++-+12+-++-+0.u01
+FOUND u01 FILE: ./20150408000230867+-+01+-+1+-+1+-+1347765+-++-+3+-++-+1347765.u01
+FOUND u01 FILE: ./20150408000313741+-+01+-+1+-+1+-+1347767+-++-+3+-++-+1347767.u01
+FOUND u01 FILE: ./20150408000136875+-+01+-+1+-+1+-+1347763+-++-+5+-++-+1347763.u01
+Number of U01 files: 11
+Number of U03 files: 0
+Number of MPR files: 0
+
+
+Audit U01 files:
+
+Audit U01: 20150408000018402+-+01+-+1+-+1+-+1347759+-++-+3+-++-+1347759.u01
+Lines read: 195
+
+Loading Name-Value Section: [Index]
+Section Lines: 9
+Number of Keys: 9
+
+Loading Name-Value Section: [Information]
+Section Lines: 12
+Number of Keys: 12
+
+Loading Name-Value Section: [Time]
+Section Lines: 41
+Number of Keys: 41
+
+Loading Name-Value Section: [CycleTime]
+Section Lines: 3
+Number of Keys: 3
+
+Loading Name-Value Section: [Count]
+Section Lines: 41
+Number of Keys: 41
+
+Loading List Section: [Dispenser]
+No data found.
+
+Loading List Section: [MountPickupFeeder]
+Section Lines: 24
+Number of tokens in record: 17
+Current Number of Records: 1
+Number of tokens in record: 17
+Current Number of Records: 2
+Number of tokens in record: 17
+Current Number of Records: 3
+Number of tokens in record: 17
+Current Number of Records: 4
+Number of tokens in record: 17
+Current Number of Records: 5
+Number of tokens in record: 17
+Current Number of Records: 6
+Number of tokens in record: 17
+Current Number of Records: 7
+Number of tokens in record: 17
+Current Number of Records: 8
+Number of tokens in record: 17
+Current Number of Records: 9
+Number of tokens in record: 17
+Current Number of Records: 10
+Number of tokens in record: 17
+Current Number of Records: 11
+Number of tokens in record: 17
+Current Number of Records: 12
+Number of tokens in record: 17
+Current Number of Records: 13
+Number of tokens in record: 17
+Current Number of Records: 14
+Number of tokens in record: 17
+Current Number of Records: 15
+Number of tokens in record: 17
+Current Number of Records: 16
+Number of tokens in record: 17
+Current Number of Records: 17
+Number of tokens in record: 17
+Current Number of Records: 18
+Number of tokens in record: 17
+Current Number of Records: 19
+Number of tokens in record: 17
+Current Number of Records: 20
+Number of tokens in record: 17
+Current Number of Records: 21
+Number of tokens in record: 17
+Current Number of Records: 22
+Number of tokens in record: 17
+Current Number of Records: 23
+Number of tokens in record: 17
+Current Number of Records: 24
+
+Loading List Section: [MountPickupNozzle]
+Section Lines: 32
+Number of tokens in record: 15
+Current Number of Records: 1
+Number of tokens in record: 15
+Current Number of Records: 2
+Number of tokens in record: 15
+Current Number of Records: 3
+Number of tokens in record: 15
+Current Number of Records: 4
+Number of tokens in record: 15
+Current Number of Records: 5
+Number of tokens in record: 15
+Current Number of Records: 6
+Number of tokens in record: 15
+Current Number of Records: 7
+Number of tokens in record: 15
+Current Number of Records: 8
+Number of tokens in record: 15
+Current Number of Records: 9
+Number of tokens in record: 15
+Current Number of Records: 10
+Number of tokens in record: 15
+Current Number of Records: 11
+Number of tokens in record: 15
+Current Number of Records: 12
+Number of tokens in record: 15
+Current Number of Records: 13
+Number of tokens in record: 15
+Current Number of Records: 14
+Number of tokens in record: 15
+Current Number of Records: 15
+Number of tokens in record: 15
+Current Number of Records: 16
+Number of tokens in record: 15
+Current Number of Records: 17
+Number of tokens in record: 15
+Current Number of Records: 18
+Number of tokens in record: 15
+Current Number of Records: 19
+Number of tokens in record: 15
+Current Number of Records: 20
+Number of tokens in record: 15
+Current Number of Records: 21
+Number of tokens in record: 15
+Current Number of Records: 22
+Number of tokens in record: 15
+Current Number of Records: 23
+Number of tokens in record: 15
+Current Number of Records: 24
+Number of tokens in record: 15
+Current Number of Records: 25
+Number of tokens in record: 15
+Current Number of Records: 26
+Number of tokens in record: 15
+Current Number of Records: 27
+Number of tokens in record: 15
+Current Number of Records: 28
+Number of tokens in record: 15
+Current Number of Records: 29
+Number of tokens in record: 15
+Current Number of Records: 30
+Number of tokens in record: 15
+Current Number of Records: 31
+Number of tokens in record: 15
+Current Number of Records: 32
+
+Loading Name-Value Section: [InspectionData]
+Section Lines: 12
+Number of Keys: 12
+Product U01: PTA037EA001_RSA037EA001_2
+
+SECTION  : [Count]
+MACHINE  : 01
+LANE     : 1
+STAGE    : 1
+OUTPUT NO: 3
+FILE RECS : 195
+[Count] RECS: 41
+ENTRY STATE: UNKNOWN
+
+SECTION  : [Time]
+MACHINE  : 01
+LANE     : 1
+STAGE    : 1
+OUTPUT NO: 3
+FILE RECS : 195
+[Time] RECS: 41
+ENTRY STATE: UNKNOWN
+
+SECTION  : [MountPickupFeeder]
+MACHINE  : 01
+LANE     : 1
+STAGE    : 1
+OUTPUT NO: 3
+FILE RECS : 195
+[MountPickupFeeder] RECS: 24
+ENTRY STATE: UNKNOWN
+EXIT STATE: delta
+
+SECTION  : [MountPickupNozzle]
+MACHINE  : 01
+LANE     : 1
+STAGE    : 1
+OUTPUT NO: 3
+FILE RECS : 195
+[MountPickupNozzle] RECS: 32
+ENTRY STATE: UNKNOWN
+EXIT STATE: delta
+
+Audit U01: 20150408000102853+-+01+-+1+-+1+-+1347761+-++-+3+-++-+1347761.u01
+Lines read: 195
+
+Loading Name-Value Section: [Index]
+Section Lines: 9
+Number of Keys: 9
+
+Loading Name-Value Section: [Information]
+Section Lines: 12
+Number of Keys: 12
+
+Loading Name-Value Section: [Time]
+Section Lines: 41
+Number of Keys: 41
+
+Loading Name-Value Section: [CycleTime]
+Section Lines: 3
+Number of Keys: 3
+
+Loading Name-Value Section: [Count]
+Section Lines: 41
+Number of Keys: 41
+
+Loading List Section: [Dispenser]
+No data found.
+
+Loading List Section: [MountPickupFeeder]
+Section Lines: 24
+Number of tokens in record: 17
+Current Number of Records: 1
+Number of tokens in record: 17
+Current Number of Records: 2
+Number of tokens in record: 17
+Current Number of Records: 3
+Number of tokens in record: 17
+Current Number of Records: 4
+Number of tokens in record: 17
+Current Number of Records: 5
+Number of tokens in record: 17
+Current Number of Records: 6
+Number of tokens in record: 17
+Current Number of Records: 7
+Number of tokens in record: 17
+Current Number of Records: 8
+Number of tokens in record: 17
+Current Number of Records: 9
+Number of tokens in record: 17
+Current Number of Records: 10
+Number of tokens in record: 17
+Current Number of Records: 11
+Number of tokens in record: 17
+Current Number of Records: 12
+Number of tokens in record: 17
+Current Number of Records: 13
+Number of tokens in record: 17
+Current Number of Records: 14
+Number of tokens in record: 17
+Current Number of Records: 15
+Number of tokens in record: 17
+Current Number of Records: 16
+Number of tokens in record: 17
+Current Number of Records: 17
+Number of tokens in record: 17
+Current Number of Records: 18
+Number of tokens in record: 17
+Current Number of Records: 19
+Number of tokens in record: 17
+Current Number of Records: 20
+Number of tokens in record: 17
+Current Number of Records: 21
+Number of tokens in record: 17
+Current Number of Records: 22
+Number of tokens in record: 17
+Current Number of Records: 23
+Number of tokens in record: 17
+Current Number of Records: 24
+
+Loading List Section: [MountPickupNozzle]
+Section Lines: 32
+Number of tokens in record: 15
+Current Number of Records: 1
+Number of tokens in record: 15
+Current Number of Records: 2
+Number of tokens in record: 15
+Current Number of Records: 3
+Number of tokens in record: 15
+Current Number of Records: 4
+Number of tokens in record: 15
+Current Number of Records: 5
+Number of tokens in record: 15
+Current Number of Records: 6
+Number of tokens in record: 15
+Current Number of Records: 7
+Number of tokens in record: 15
+Current Number of Records: 8
+Number of tokens in record: 15
+Current Number of Records: 9
+Number of tokens in record: 15
+Current Number of Records: 10
+Number of tokens in record: 15
+Current Number of Records: 11
+Number of tokens in record: 15
+Current Number of Records: 12
+Number of tokens in record: 15
+Current Number of Records: 13
+Number of tokens in record: 15
+Current Number of Records: 14
+Number of tokens in record: 15
+Current Number of Records: 15
+Number of tokens in record: 15
+Current Number of Records: 16
+Number of tokens in record: 15
+Current Number of Records: 17
+Number of tokens in record: 15
+Current Number of Records: 18
+Number of tokens in record: 15
+Current Number of Records: 19
+Number of tokens in record: 15
+Current Number of Records: 20
+Number of tokens in record: 15
+Current Number of Records: 21
+Number of tokens in record: 15
+Current Number of Records: 22
+Number of tokens in record: 15
+Current Number of Records: 23
+Number of tokens in record: 15
+Current Number of Records: 24
+Number of tokens in record: 15
+Current Number of Records: 25
+Number of tokens in record: 15
+Current Number of Records: 26
+Number of tokens in record: 15
+Current Number of Records: 27
+Number of tokens in record: 15
+Current Number of Records: 28
+Number of tokens in record: 15
+Current Number of Records: 29
+Number of tokens in record: 15
+Current Number of Records: 30
+Number of tokens in record: 15
+Current Number of Records: 31
+Number of tokens in record: 15
+Current Number of Records: 32
+
+Loading Name-Value Section: [InspectionData]
+Section Lines: 12
+Number of Keys: 12
+Product U01: PTA037EA001_RSA037EA001_2
+
+SECTION  : [Count]
+MACHINE  : 01
+LANE     : 1
+STAGE    : 1
+OUTPUT NO: 3
+FILE RECS : 195
+[Count] RECS: 41
+ENTRY STATE: delta
+[Count]: TRSMiss = 0
+[Count]: TMMiss = 0
+[Count]: TPMiss = 0
+[Count]: CRErr = 0
+[Count]: CPErr = 0
+[Count]: Swait = 0
+[Count]: LotBoard = 1
+[Count]: Board = 1
+[Count]: SCStop = 0
+[Count]: OtherLStop = 1
+[Count]: CDErr = 0
+[Count]: TPriming = 0
+[Count]: BRcgStop = 0
+[Count]: Fwait = 0
+[Count]: Rwait = 1
+[Count]: Pwait = 0
+[Count]: Trbl = 0
+[Count]: TDMiss = 0
+[Count]: FBStop = 0
+[Count]: CMErr = 0
+[Count]: SCEStop = 0
+[Count]: TMount = 128
+[Count]: McRwait = 0
+[Count]: BNDRcgStop = 0
+[Count]: CnvStop = 0
+[Count]: Bwait = 0
+[Count]: JointPassWait = 0
+[Count]: TRSErr = 0
+[Count]: TRMiss = 0
+[Count]: MHRcgStop = 0
+[Count]: TPickup = 128
+[Count]: OthrStop = 0
+[Count]: THMiss = 0
+[Count]: TDispense = 0
+[Count]: McFwait = 0
+[Count]: CTErr = 0
+[Count]: JudgeStop = 0
+[Count]: Cwait = 0
+[Count]: Module = 2
+[Count]: LotModule = 2
+[Count]: BNDStop = 0
+EXIT STATE: delta
+
+SECTION  : [Time]
+MACHINE  : 01
+LANE     : 1
+STAGE    : 1
+OUTPUT NO: 3
+FILE RECS : 195
+[Time] RECS: 41
+ENTRY STATE: delta
+[Time]: CRErr = 0
+[Time]: CPErr = 0
+[Time]: Swait = 0
+[Time]: SCStop = 0
+[Time]: OtherLStop = 15
+[Time]: CDErr = 0
+[Time]: BRcgStop = 0
+[Time]: Prod = 44
+[Time]: Fwait = 0
+[Time]: Rwait = 12
+[Time]: Trbl = 0
+[Time]: Pwait = 0
+[Time]: FBStop = 0
+[Time]: Idle = 0
+[Time]: UnitAdjust = 0
+[Time]: CMErr = 0
+[Time]: SCEStop = 0
+[Time]: PowerON = 44
+[Time]: McRwait = 0
+[Time]: BRcg = 3
+[Time]: BNDRcgStop = 0
+[Time]: CnvStop = 0
+[Time]: Bwait = 0
+[Time]: JointPassWait = 0
+[Time]: TRSErr = 0
+[Time]: DataEdit = 0
+[Time]: MHRcgStop = 0
+[Time]: OthrStop = 0
+[Time]: McFwait = 0
+[Time]: TotalStop = 27
+[Time]: CTErr = 0
+[Time]: Mente = 0
+[Time]: Mount = 12
+[Time]: JudgeStop = 0
+[Time]: PRDStop = 0
+[Time]: Cwait = 0
+[Time]: BNDStop = 0
+[Time]: Change = 0
+[Time]: ProdView = 0
+[Time]: Load = 1
+[Time]: Actual = 15
+EXIT STATE: delta
+
+SECTION  : [MountPickupFeeder]
+MACHINE  : 01
+LANE     : 1
+STAGE    : 1
+OUTPUT NO: 3
+FILE RECS : 195
+[MountPickupFeeder] RECS: 24
+ENTRY STATE: delta
+1425: [20150408000102853+-+01+-+1+-+1+-+1347761+-++-+3+-++-+1347761.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 20009, fsadd: 1
+1425: [20150408000102853+-+01+-+1+-+1+-+1347761+-++-+3+-++-+1347761.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 20015, fsadd: 1
+1425: [20150408000102853+-+01+-+1+-+1+-+1347761+-++-+3+-++-+1347761.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 10021, fsadd: 1
+1425: [20150408000102853+-+01+-+1+-+1+-+1347761+-++-+3+-++-+1347761.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 10019, fsadd: 1
+1425: [20150408000102853+-+01+-+1+-+1+-+1347761+-++-+3+-++-+1347761.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 10020, fsadd: 2
+1425: [20150408000102853+-+01+-+1+-+1+-+1347761+-++-+3+-++-+1347761.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 10021, fsadd: 2
+1425: [20150408000102853+-+01+-+1+-+1+-+1347761+-++-+3+-++-+1347761.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 10020, fsadd: 1
+1425: [20150408000102853+-+01+-+1+-+1+-+1347761+-++-+3+-++-+1347761.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 20019, fsadd: 1
+1425: [20150408000102853+-+01+-+1+-+1+-+1347761+-++-+3+-++-+1347761.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 20018, fsadd: 2
+1425: [20150408000102853+-+01+-+1+-+1+-+1347761+-++-+3+-++-+1347761.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 20017, fsadd: 1
+1425: [20150408000102853+-+01+-+1+-+1+-+1347761+-++-+3+-++-+1347761.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 20019, fsadd: 2
+1425: [20150408000102853+-+01+-+1+-+1+-+1347761+-++-+3+-++-+1347761.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 20016, fsadd: 1
+1425: [20150408000102853+-+01+-+1+-+1+-+1347761+-++-+3+-++-+1347761.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 20013, fsadd: 1
+1425: [20150408000102853+-+01+-+1+-+1+-+1347761+-++-+3+-++-+1347761.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 20015, fsadd: 2
+1425: [20150408000102853+-+01+-+1+-+1+-+1347761+-++-+3+-++-+1347761.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 20013, fsadd: 2
+1425: [20150408000102853+-+01+-+1+-+1+-+1347761+-++-+3+-++-+1347761.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 10019, fsadd: 2
+1425: [20150408000102853+-+01+-+1+-+1+-+1347761+-++-+3+-++-+1347761.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 10018, fsadd: 2
+1425: [20150408000102853+-+01+-+1+-+1+-+1347761+-++-+3+-++-+1347761.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 10018, fsadd: 1
+1425: [20150408000102853+-+01+-+1+-+1+-+1347761+-++-+3+-++-+1347761.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 10017, fsadd: 2
+1425: [20150408000102853+-+01+-+1+-+1+-+1347761+-++-+3+-++-+1347761.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 20011, fsadd: 2
+1425: [20150408000102853+-+01+-+1+-+1+-+1347761+-++-+3+-++-+1347761.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 20011, fsadd: 1
+1425: [20150408000102853+-+01+-+1+-+1+-+1347761+-++-+3+-++-+1347761.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 20010, fsadd: 2
+1425: [20150408000102853+-+01+-+1+-+1+-+1347761+-++-+3+-++-+1347761.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 20010, fsadd: 1
+1425: [20150408000102853+-+01+-+1+-+1+-+1347761+-++-+3+-++-+1347761.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 20009, fsadd: 2
+EXIT STATE: delta
+
+SECTION  : [MountPickupNozzle]
+MACHINE  : 01
+LANE     : 1
+STAGE    : 1
+OUTPUT NO: 3
+FILE RECS : 195
+[MountPickupNozzle] RECS: 32
+ENTRY STATE: delta
+EXIT STATE: delta
+
+Audit U01: 20150408000105020+-+01+-+1+-+1+-+0+-++-+12+-++-+0.u01
+Lines read: 111
+
+Loading Name-Value Section: [Index]
+Section Lines: 9
+Number of Keys: 9
+
+Loading Name-Value Section: [Information]
+Section Lines: 12
+Number of Keys: 12
+
+Loading Name-Value Section: [Time]
+Section Lines: 41
+Number of Keys: 41
+
+Loading Name-Value Section: [CycleTime]
+No data found.
+
+Loading Name-Value Section: [Count]
+Section Lines: 41
+Number of Keys: 41
+
+Loading List Section: [Dispenser]
+No data found.
+
+Loading List Section: [MountPickupFeeder]
+No data found.
+
+Loading List Section: [MountPickupNozzle]
+No data found.
+
+Loading Name-Value Section: [InspectionData]
+No data found.
+Product U01: PTA037EA001_RSA037EA001_2
+
+SECTION  : [Count]
+MACHINE  : 01
+LANE     : 1
+STAGE    : 1
+OUTPUT NO: 12
+FILE RECS : 111
+[Count] RECS: 41
+ENTRY STATE: delta
+[Count]: TRSMiss = 0
+[Count]: TMMiss = 0
+[Count]: TPMiss = 0
+[Count]: CRErr = 0
+[Count]: CPErr = 0
+[Count]: Swait = 0
+[Count]: LotBoard = 0
+[Count]: Board = 0
+[Count]: SCStop = 0
+[Count]: OtherLStop = 0
+[Count]: CDErr = 0
+[Count]: TPriming = 0
+[Count]: BRcgStop = 0
+[Count]: Fwait = 0
+[Count]: Rwait = 0
+[Count]: Pwait = 0
+[Count]: Trbl = 0
+[Count]: TDMiss = 0
+[Count]: FBStop = 0
+[Count]: CMErr = 0
+[Count]: SCEStop = 0
+[Count]: TMount = 0
+[Count]: McRwait = 0
+[Count]: BNDRcgStop = 0
+[Count]: CnvStop = 0
+[Count]: Bwait = 0
+[Count]: JointPassWait = 0
+[Count]: TRSErr = 0
+[Count]: TRMiss = 0
+[Count]: MHRcgStop = 0
+[Count]: TPickup = 0
+[Count]: OthrStop = 0
+[Count]: THMiss = 0
+[Count]: TDispense = 0
+[Count]: McFwait = 0
+[Count]: CTErr = 0
+[Count]: JudgeStop = 0
+[Count]: Cwait = 0
+[Count]: Module = 0
+[Count]: LotModule = 0
+[Count]: BNDStop = 0
+EXIT STATE: delta
+
+SECTION  : [Time]
+MACHINE  : 01
+LANE     : 1
+STAGE    : 1
+OUTPUT NO: 12
+FILE RECS : 111
+[Time] RECS: 41
+ENTRY STATE: delta
+[Time]: CRErr = 0
+[Time]: CPErr = 0
+[Time]: Swait = 0
+[Time]: SCStop = 0
+[Time]: OtherLStop = 0
+[Time]: CDErr = 0
+[Time]: BRcgStop = 0
+[Time]: Prod = 0
+[Time]: Fwait = 0
+[Time]: Rwait = 0
+[Time]: Trbl = 0
+[Time]: Pwait = 0
+[Time]: FBStop = 0
+[Time]: Idle = 0
+[Time]: UnitAdjust = 0
+[Time]: CMErr = 0
+[Time]: SCEStop = 0
+[Time]: PowerON = 0
+[Time]: McRwait = 0
+[Time]: BRcg = 0
+[Time]: BNDRcgStop = 0
+[Time]: CnvStop = 0
+[Time]: Bwait = 0
+[Time]: JointPassWait = 0
+[Time]: TRSErr = 0
+[Time]: DataEdit = 0
+[Time]: MHRcgStop = 0
+[Time]: OthrStop = 0
+[Time]: McFwait = 0
+[Time]: TotalStop = 0
+[Time]: CTErr = 0
+[Time]: Mente = 0
+[Time]: Mount = 0
+[Time]: JudgeStop = 0
+[Time]: PRDStop = 0
+[Time]: Cwait = 0
+[Time]: BNDStop = 0
+[Time]: Change = 0
+[Time]: ProdView = 0
+[Time]: Load = 0
+[Time]: Actual = 0
+EXIT STATE: delta
+
+SECTION  : [MountPickupFeeder]
+MACHINE  : 01
+LANE     : 1
+STAGE    : 1
+OUTPUT NO: 12
+FILE RECS : 111
+No Feeder data in Output=12 U01 files. Skipping.
+
+SECTION  : [MountPickupNozzle]
+MACHINE  : 01
+LANE     : 1
+STAGE    : 1
+OUTPUT NO: 12
+FILE RECS : 111
+No Nozzle data in Output=12 U01 files. Skipping.
+
+Audit U01: 20150408000136875+-+01+-+1+-+1+-+1347763+-++-+5+-++-+1347763.u01
+Lines read: 115
+
+Loading Name-Value Section: [Index]
+Section Lines: 9
+Number of Keys: 9
+
+Loading Name-Value Section: [Information]
+Section Lines: 12
+Number of Keys: 12
+
+Loading Name-Value Section: [Time]
+Section Lines: 41
+Number of Keys: 41
+
+Loading Name-Value Section: [CycleTime]
+No data found.
+
+Loading Name-Value Section: [Count]
+Section Lines: 41
+Number of Keys: 41
+
+Loading List Section: [Dispenser]
+No data found.
+
+Loading List Section: [MountPickupFeeder]
+Section Lines: 1
+Number of tokens in record: 17
+Current Number of Records: 1
+
+Loading List Section: [MountPickupNozzle]
+No data found.
+
+Loading Name-Value Section: [InspectionData]
+No data found.
+Product U01: PTA037EA001_RSA037EA001_2
+
+SECTION  : [Count]
+MACHINE  : 01
+LANE     : 1
+STAGE    : 1
+OUTPUT NO: 5
+FILE RECS : 115
+[Count] RECS: 41
+ENTRY STATE: delta
+[Count]: TRSMiss = 0
+[Count]: TMMiss = 0
+[Count]: TPMiss = 0
+[Count]: CRErr = 0
+[Count]: CPErr = 0
+[Count]: Swait = 0
+[Count]: LotBoard = 0
+[Count]: Board = 0
+[Count]: SCStop = 0
+[Count]: OtherLStop = 1
+[Count]: CDErr = 0
+[Count]: TPriming = 0
+[Count]: BRcgStop = 0
+[Count]: Fwait = 0
+[Count]: Rwait = 1
+[Count]: Pwait = 0
+[Count]: Trbl = 0
+[Count]: TDMiss = 0
+[Count]: FBStop = 0
+[Count]: CMErr = 0
+[Count]: SCEStop = 0
+[Count]: TMount = 17
+[Count]: McRwait = 0
+[Count]: BNDRcgStop = 0
+[Count]: CnvStop = 0
+[Count]: Bwait = 0
+[Count]: JointPassWait = 0
+[Count]: TRSErr = 0
+[Count]: TRMiss = 0
+[Count]: MHRcgStop = 0
+[Count]: TPickup = 17
+[Count]: OthrStop = 0
+[Count]: THMiss = 0
+[Count]: TDispense = 0
+[Count]: McFwait = 0
+[Count]: CTErr = 0
+[Count]: JudgeStop = 0
+[Count]: Cwait = 0
+[Count]: Module = 0
+[Count]: LotModule = 0
+[Count]: BNDStop = 0
+EXIT STATE: delta
+
+SECTION  : [Time]
+MACHINE  : 01
+LANE     : 1
+STAGE    : 1
+OUTPUT NO: 5
+FILE RECS : 115
+[Time] RECS: 41
+ENTRY STATE: delta
+[Time]: CRErr = 0
+[Time]: CPErr = 0
+[Time]: Swait = 0
+[Time]: SCStop = 0
+[Time]: OtherLStop = 14
+[Time]: CDErr = 0
+[Time]: BRcgStop = 0
+[Time]: Prod = 32
+[Time]: Fwait = 0
+[Time]: Rwait = 11
+[Time]: Trbl = 0
+[Time]: Pwait = 0
+[Time]: FBStop = 0
+[Time]: Idle = 0
+[Time]: UnitAdjust = 0
+[Time]: CMErr = 0
+[Time]: SCEStop = 0
+[Time]: PowerON = 32
+[Time]: McRwait = 0
+[Time]: BRcg = 3
+[Time]: BNDRcgStop = 0
+[Time]: CnvStop = 0
+[Time]: Bwait = 0
+[Time]: JointPassWait = 0
+[Time]: TRSErr = 0
+[Time]: DataEdit = 0
+[Time]: MHRcgStop = 0
+[Time]: OthrStop = 0
+[Time]: McFwait = 0
+[Time]: TotalStop = 26
+[Time]: CTErr = 0
+[Time]: Mente = 0
+[Time]: Mount = 0
+[Time]: JudgeStop = 0
+[Time]: PRDStop = 0
+[Time]: Cwait = 0
+[Time]: BNDStop = 0
+[Time]: Change = 0
+[Time]: ProdView = 0
+[Time]: Load = 0
+[Time]: Actual = 3
+EXIT STATE: delta
+
+SECTION  : [MountPickupFeeder]
+MACHINE  : 01
+LANE     : 1
+STAGE    : 1
+OUTPUT NO: 5
+FILE RECS : 115
+[MountPickupFeeder] RECS: 1
+ENTRY STATE: delta
+1425: [20150408000136875+-+01+-+1+-+1+-+1347763+-++-+5+-++-+1347763.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 10017, fsadd: 2
+EXIT STATE: delta
+
+SECTION  : [MountPickupNozzle]
+MACHINE  : 01
+LANE     : 1
+STAGE    : 1
+OUTPUT NO: 5
+FILE RECS : 115
+No Nozzle data in Output=5 U01 files. Skipping.
+
+Audit U01: 20150408000148861+-+01+-+1+-+1+-+1347763+-++-+3+-++-+1347763.u01
+Lines read: 195
+
+Loading Name-Value Section: [Index]
+Section Lines: 9
+Number of Keys: 9
+
+Loading Name-Value Section: [Information]
+Section Lines: 12
+Number of Keys: 12
+
+Loading Name-Value Section: [Time]
+Section Lines: 41
+Number of Keys: 41
+
+Loading Name-Value Section: [CycleTime]
+Section Lines: 3
+Number of Keys: 3
+
+Loading Name-Value Section: [Count]
+Section Lines: 41
+Number of Keys: 41
+
+Loading List Section: [Dispenser]
+No data found.
+
+Loading List Section: [MountPickupFeeder]
+Section Lines: 24
+Number of tokens in record: 17
+Current Number of Records: 1
+Number of tokens in record: 17
+Current Number of Records: 2
+Number of tokens in record: 17
+Current Number of Records: 3
+Number of tokens in record: 17
+Current Number of Records: 4
+Number of tokens in record: 17
+Current Number of Records: 5
+Number of tokens in record: 17
+Current Number of Records: 6
+Number of tokens in record: 17
+Current Number of Records: 7
+Number of tokens in record: 17
+Current Number of Records: 8
+Number of tokens in record: 17
+Current Number of Records: 9
+Number of tokens in record: 17
+Current Number of Records: 10
+Number of tokens in record: 17
+Current Number of Records: 11
+Number of tokens in record: 17
+Current Number of Records: 12
+Number of tokens in record: 17
+Current Number of Records: 13
+Number of tokens in record: 17
+Current Number of Records: 14
+Number of tokens in record: 17
+Current Number of Records: 15
+Number of tokens in record: 17
+Current Number of Records: 16
+Number of tokens in record: 17
+Current Number of Records: 17
+Number of tokens in record: 17
+Current Number of Records: 18
+Number of tokens in record: 17
+Current Number of Records: 19
+Number of tokens in record: 17
+Current Number of Records: 20
+Number of tokens in record: 17
+Current Number of Records: 21
+Number of tokens in record: 17
+Current Number of Records: 22
+Number of tokens in record: 17
+Current Number of Records: 23
+Number of tokens in record: 17
+Current Number of Records: 24
+
+Loading List Section: [MountPickupNozzle]
+Section Lines: 32
+Number of tokens in record: 15
+Current Number of Records: 1
+Number of tokens in record: 15
+Current Number of Records: 2
+Number of tokens in record: 15
+Current Number of Records: 3
+Number of tokens in record: 15
+Current Number of Records: 4
+Number of tokens in record: 15
+Current Number of Records: 5
+Number of tokens in record: 15
+Current Number of Records: 6
+Number of tokens in record: 15
+Current Number of Records: 7
+Number of tokens in record: 15
+Current Number of Records: 8
+Number of tokens in record: 15
+Current Number of Records: 9
+Number of tokens in record: 15
+Current Number of Records: 10
+Number of tokens in record: 15
+Current Number of Records: 11
+Number of tokens in record: 15
+Current Number of Records: 12
+Number of tokens in record: 15
+Current Number of Records: 13
+Number of tokens in record: 15
+Current Number of Records: 14
+Number of tokens in record: 15
+Current Number of Records: 15
+Number of tokens in record: 15
+Current Number of Records: 16
+Number of tokens in record: 15
+Current Number of Records: 17
+Number of tokens in record: 15
+Current Number of Records: 18
+Number of tokens in record: 15
+Current Number of Records: 19
+Number of tokens in record: 15
+Current Number of Records: 20
+Number of tokens in record: 15
+Current Number of Records: 21
+Number of tokens in record: 15
+Current Number of Records: 22
+Number of tokens in record: 15
+Current Number of Records: 23
+Number of tokens in record: 15
+Current Number of Records: 24
+Number of tokens in record: 15
+Current Number of Records: 25
+Number of tokens in record: 15
+Current Number of Records: 26
+Number of tokens in record: 15
+Current Number of Records: 27
+Number of tokens in record: 15
+Current Number of Records: 28
+Number of tokens in record: 15
+Current Number of Records: 29
+Number of tokens in record: 15
+Current Number of Records: 30
+Number of tokens in record: 15
+Current Number of Records: 31
+Number of tokens in record: 15
+Current Number of Records: 32
+
+Loading Name-Value Section: [InspectionData]
+Section Lines: 12
+Number of Keys: 12
+Product U01: PTA037EA001_RSA037EA001_2
+
+SECTION  : [Count]
+MACHINE  : 01
+LANE     : 1
+STAGE    : 1
+OUTPUT NO: 3
+FILE RECS : 195
+[Count] RECS: 41
+ENTRY STATE: delta
+[Count]: TRSMiss = 0
+[Count]: TMMiss = 0
+[Count]: TPMiss = 1
+[Count]: CRErr = 0
+[Count]: CPErr = 0
+[Count]: Swait = 0
+[Count]: LotBoard = 1
+[Count]: Board = 1
+[Count]: SCStop = 0
+[Count]: OtherLStop = 0
+[Count]: CDErr = 0
+[Count]: TPriming = 0
+[Count]: BRcgStop = 0
+[Count]: Fwait = 0
+[Count]: Rwait = 0
+[Count]: Pwait = 0
+[Count]: Trbl = 0
+[Count]: TDMiss = 0
+[Count]: FBStop = 0
+[Count]: CMErr = 0
+[Count]: SCEStop = 0
+[Count]: TMount = 111
+[Count]: McRwait = 0
+[Count]: BNDRcgStop = 0
+[Count]: CnvStop = 0
+[Count]: Bwait = 0
+[Count]: JointPassWait = 0
+[Count]: TRSErr = 0
+[Count]: TRMiss = 0
+[Count]: MHRcgStop = 0
+[Count]: TPickup = 112
+[Count]: OthrStop = 0
+[Count]: THMiss = 0
+[Count]: TDispense = 0
+[Count]: McFwait = 0
+[Count]: CTErr = 0
+[Count]: JudgeStop = 0
+[Count]: Cwait = 0
+[Count]: Module = 2
+[Count]: LotModule = 2
+[Count]: BNDStop = 0
+EXIT STATE: delta
+
+SECTION  : [Time]
+MACHINE  : 01
+LANE     : 1
+STAGE    : 1
+OUTPUT NO: 3
+FILE RECS : 195
+[Time] RECS: 41
+ENTRY STATE: delta
+[Time]: CRErr = 0
+[Time]: CPErr = 0
+[Time]: Swait = 0
+[Time]: SCStop = 0
+[Time]: OtherLStop = 0
+[Time]: CDErr = 0
+[Time]: BRcgStop = 0
+[Time]: Prod = 12
+[Time]: Fwait = 0
+[Time]: Rwait = 0
+[Time]: Trbl = 0
+[Time]: Pwait = 0
+[Time]: FBStop = 0
+[Time]: Idle = 0
+[Time]: UnitAdjust = 0
+[Time]: CMErr = 0
+[Time]: SCEStop = 0
+[Time]: PowerON = 12
+[Time]: McRwait = 0
+[Time]: BRcg = 0
+[Time]: BNDRcgStop = 0
+[Time]: CnvStop = 0
+[Time]: Bwait = 0
+[Time]: JointPassWait = 0
+[Time]: TRSErr = 0
+[Time]: DataEdit = 0
+[Time]: MHRcgStop = 0
+[Time]: OthrStop = 0
+[Time]: McFwait = 0
+[Time]: TotalStop = 0
+[Time]: CTErr = 0
+[Time]: Mente = 0
+[Time]: Mount = 15
+[Time]: JudgeStop = 0
+[Time]: PRDStop = 0
+[Time]: Cwait = 0
+[Time]: BNDStop = 0
+[Time]: Change = 0
+[Time]: ProdView = 0
+[Time]: Load = 0
+[Time]: Actual = 15
+EXIT STATE: delta
+
+SECTION  : [MountPickupFeeder]
+MACHINE  : 01
+LANE     : 1
+STAGE    : 1
+OUTPUT NO: 3
+FILE RECS : 195
+[MountPickupFeeder] RECS: 24
+ENTRY STATE: delta
+1425: [20150408000148861+-+01+-+1+-+1+-+1347763+-++-+3+-++-+1347763.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 10017, fsadd: 2
+1471 WARNING: [20150408000148861+-+01+-+1+-+1+-+1347763+-++-+3+-++-+1347763.u01] [MountPickupFeeder] FAdd 10017, FSAdd 2 REELID CHANGED: CACHED 5321FC4, CURRENT U01 53284EC
+1425: [20150408000148861+-+01+-+1+-+1+-+1347763+-++-+3+-++-+1347763.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 20009, fsadd: 1
+1425: [20150408000148861+-+01+-+1+-+1+-+1347763+-++-+3+-++-+1347763.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 20015, fsadd: 1
+1425: [20150408000148861+-+01+-+1+-+1+-+1347763+-++-+3+-++-+1347763.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 10021, fsadd: 1
+1425: [20150408000148861+-+01+-+1+-+1+-+1347763+-++-+3+-++-+1347763.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 10019, fsadd: 1
+1425: [20150408000148861+-+01+-+1+-+1+-+1347763+-++-+3+-++-+1347763.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 10020, fsadd: 2
+1425: [20150408000148861+-+01+-+1+-+1+-+1347763+-++-+3+-++-+1347763.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 10021, fsadd: 2
+1425: [20150408000148861+-+01+-+1+-+1+-+1347763+-++-+3+-++-+1347763.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 10020, fsadd: 1
+1425: [20150408000148861+-+01+-+1+-+1+-+1347763+-++-+3+-++-+1347763.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 20019, fsadd: 1
+1425: [20150408000148861+-+01+-+1+-+1+-+1347763+-++-+3+-++-+1347763.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 20018, fsadd: 2
+1425: [20150408000148861+-+01+-+1+-+1+-+1347763+-++-+3+-++-+1347763.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 20017, fsadd: 1
+1425: [20150408000148861+-+01+-+1+-+1+-+1347763+-++-+3+-++-+1347763.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 20019, fsadd: 2
+1425: [20150408000148861+-+01+-+1+-+1+-+1347763+-++-+3+-++-+1347763.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 20016, fsadd: 1
+1425: [20150408000148861+-+01+-+1+-+1+-+1347763+-++-+3+-++-+1347763.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 20013, fsadd: 1
+1425: [20150408000148861+-+01+-+1+-+1+-+1347763+-++-+3+-++-+1347763.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 20015, fsadd: 2
+1425: [20150408000148861+-+01+-+1+-+1+-+1347763+-++-+3+-++-+1347763.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 20013, fsadd: 2
+1425: [20150408000148861+-+01+-+1+-+1+-+1347763+-++-+3+-++-+1347763.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 10019, fsadd: 2
+1425: [20150408000148861+-+01+-+1+-+1+-+1347763+-++-+3+-++-+1347763.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 10018, fsadd: 2
+1425: [20150408000148861+-+01+-+1+-+1+-+1347763+-++-+3+-++-+1347763.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 10018, fsadd: 1
+1425: [20150408000148861+-+01+-+1+-+1+-+1347763+-++-+3+-++-+1347763.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 20011, fsadd: 2
+1425: [20150408000148861+-+01+-+1+-+1+-+1347763+-++-+3+-++-+1347763.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 20011, fsadd: 1
+1425: [20150408000148861+-+01+-+1+-+1+-+1347763+-++-+3+-++-+1347763.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 20010, fsadd: 2
+1425: [20150408000148861+-+01+-+1+-+1+-+1347763+-++-+3+-++-+1347763.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 20010, fsadd: 1
+1425: [20150408000148861+-+01+-+1+-+1+-+1347763+-++-+3+-++-+1347763.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 20009, fsadd: 2
+EXIT STATE: delta
+
+SECTION  : [MountPickupNozzle]
+MACHINE  : 01
+LANE     : 1
+STAGE    : 1
+OUTPUT NO: 3
+FILE RECS : 195
+[MountPickupNozzle] RECS: 32
+ENTRY STATE: delta
+EXIT STATE: delta
+
+Audit U01: 20150408000207319+-+01+-+1+-+1+-+0+-++-+12+-++-+0.u01
+Lines read: 111
+
+Loading Name-Value Section: [Index]
+Section Lines: 9
+Number of Keys: 9
+
+Loading Name-Value Section: [Information]
+Section Lines: 12
+Number of Keys: 12
+
+Loading Name-Value Section: [Time]
+Section Lines: 41
+Number of Keys: 41
+
+Loading Name-Value Section: [CycleTime]
+No data found.
+
+Loading Name-Value Section: [Count]
+Section Lines: 41
+Number of Keys: 41
+
+Loading List Section: [Dispenser]
+No data found.
+
+Loading List Section: [MountPickupFeeder]
+No data found.
+
+Loading List Section: [MountPickupNozzle]
+No data found.
+
+Loading Name-Value Section: [InspectionData]
+No data found.
+Product U01: PTA037EA001_RSA037EA001_2
+
+SECTION  : [Count]
+MACHINE  : 01
+LANE     : 1
+STAGE    : 1
+OUTPUT NO: 12
+FILE RECS : 111
+[Count] RECS: 41
+ENTRY STATE: delta
+[Count]: TRSMiss = 0
+[Count]: TMMiss = 0
+[Count]: TPMiss = 0
+[Count]: CRErr = 0
+[Count]: CPErr = 0
+[Count]: Swait = 0
+[Count]: LotBoard = 0
+[Count]: Board = 0
+[Count]: SCStop = 0
+[Count]: OtherLStop = 1
+[Count]: CDErr = 0
+[Count]: TPriming = 0
+[Count]: BRcgStop = 0
+[Count]: Fwait = 0
+[Count]: Rwait = 1
+[Count]: Pwait = 0
+[Count]: Trbl = 0
+[Count]: TDMiss = 0
+[Count]: FBStop = 0
+[Count]: CMErr = 0
+[Count]: SCEStop = 0
+[Count]: TMount = 0
+[Count]: McRwait = 0
+[Count]: BNDRcgStop = 0
+[Count]: CnvStop = 0
+[Count]: Bwait = 0
+[Count]: JointPassWait = 0
+[Count]: TRSErr = 0
+[Count]: TRMiss = 0
+[Count]: MHRcgStop = 0
+[Count]: TPickup = 0
+[Count]: OthrStop = 0
+[Count]: THMiss = 0
+[Count]: TDispense = 0
+[Count]: McFwait = 0
+[Count]: CTErr = 0
+[Count]: JudgeStop = 0
+[Count]: Cwait = 0
+[Count]: Module = 0
+[Count]: LotModule = 0
+[Count]: BNDStop = 0
+EXIT STATE: delta
+
+SECTION  : [Time]
+MACHINE  : 01
+LANE     : 1
+STAGE    : 1
+OUTPUT NO: 12
+FILE RECS : 111
+[Time] RECS: 41
+ENTRY STATE: delta
+[Time]: CRErr = 0
+[Time]: CPErr = 0
+[Time]: Swait = 0
+[Time]: SCStop = 0
+[Time]: OtherLStop = 0
+[Time]: CDErr = 0
+[Time]: BRcgStop = 0
+[Time]: Prod = 15
+[Time]: Fwait = 0
+[Time]: Rwait = 13
+[Time]: Trbl = 0
+[Time]: Pwait = 0
+[Time]: FBStop = 0
+[Time]: Idle = 0
+[Time]: UnitAdjust = 0
+[Time]: CMErr = 0
+[Time]: SCEStop = 0
+[Time]: PowerON = 15
+[Time]: McRwait = 0
+[Time]: BRcg = 0
+[Time]: BNDRcgStop = 0
+[Time]: CnvStop = 0
+[Time]: Bwait = 0
+[Time]: JointPassWait = 0
+[Time]: TRSErr = 0
+[Time]: DataEdit = 0
+[Time]: MHRcgStop = 0
+[Time]: OthrStop = 0
+[Time]: McFwait = 0
+[Time]: TotalStop = 13
+[Time]: CTErr = 0
+[Time]: Mente = 0
+[Time]: Mount = 0
+[Time]: JudgeStop = 0
+[Time]: PRDStop = 0
+[Time]: Cwait = 0
+[Time]: BNDStop = 0
+[Time]: Change = 0
+[Time]: ProdView = 0
+[Time]: Load = 1
+[Time]: Actual = 0
+EXIT STATE: delta
+
+SECTION  : [MountPickupFeeder]
+MACHINE  : 01
+LANE     : 1
+STAGE    : 1
+OUTPUT NO: 12
+FILE RECS : 111
+No Feeder data in Output=12 U01 files. Skipping.
+
+SECTION  : [MountPickupNozzle]
+MACHINE  : 01
+LANE     : 1
+STAGE    : 1
+OUTPUT NO: 12
+FILE RECS : 111
+No Nozzle data in Output=12 U01 files. Skipping.
+
+Audit U01: 20150408000230867+-+01+-+1+-+1+-+1347765+-++-+3+-++-+1347765.u01
+Lines read: 195
+
+Loading Name-Value Section: [Index]
+Section Lines: 9
+Number of Keys: 9
+
+Loading Name-Value Section: [Information]
+Section Lines: 12
+Number of Keys: 12
+
+Loading Name-Value Section: [Time]
+Section Lines: 41
+Number of Keys: 41
+
+Loading Name-Value Section: [CycleTime]
+Section Lines: 3
+Number of Keys: 3
+
+Loading Name-Value Section: [Count]
+Section Lines: 41
+Number of Keys: 41
+
+Loading List Section: [Dispenser]
+No data found.
+
+Loading List Section: [MountPickupFeeder]
+Section Lines: 24
+Number of tokens in record: 17
+Current Number of Records: 1
+Number of tokens in record: 17
+Current Number of Records: 2
+Number of tokens in record: 17
+Current Number of Records: 3
+Number of tokens in record: 17
+Current Number of Records: 4
+Number of tokens in record: 17
+Current Number of Records: 5
+Number of tokens in record: 17
+Current Number of Records: 6
+Number of tokens in record: 17
+Current Number of Records: 7
+Number of tokens in record: 17
+Current Number of Records: 8
+Number of tokens in record: 17
+Current Number of Records: 9
+Number of tokens in record: 17
+Current Number of Records: 10
+Number of tokens in record: 17
+Current Number of Records: 11
+Number of tokens in record: 17
+Current Number of Records: 12
+Number of tokens in record: 17
+Current Number of Records: 13
+Number of tokens in record: 17
+Current Number of Records: 14
+Number of tokens in record: 17
+Current Number of Records: 15
+Number of tokens in record: 17
+Current Number of Records: 16
+Number of tokens in record: 17
+Current Number of Records: 17
+Number of tokens in record: 17
+Current Number of Records: 18
+Number of tokens in record: 17
+Current Number of Records: 19
+Number of tokens in record: 17
+Current Number of Records: 20
+Number of tokens in record: 17
+Current Number of Records: 21
+Number of tokens in record: 17
+Current Number of Records: 22
+Number of tokens in record: 17
+Current Number of Records: 23
+Number of tokens in record: 17
+Current Number of Records: 24
+
+Loading List Section: [MountPickupNozzle]
+Section Lines: 32
+Number of tokens in record: 15
+Current Number of Records: 1
+Number of tokens in record: 15
+Current Number of Records: 2
+Number of tokens in record: 15
+Current Number of Records: 3
+Number of tokens in record: 15
+Current Number of Records: 4
+Number of tokens in record: 15
+Current Number of Records: 5
+Number of tokens in record: 15
+Current Number of Records: 6
+Number of tokens in record: 15
+Current Number of Records: 7
+Number of tokens in record: 15
+Current Number of Records: 8
+Number of tokens in record: 15
+Current Number of Records: 9
+Number of tokens in record: 15
+Current Number of Records: 10
+Number of tokens in record: 15
+Current Number of Records: 11
+Number of tokens in record: 15
+Current Number of Records: 12
+Number of tokens in record: 15
+Current Number of Records: 13
+Number of tokens in record: 15
+Current Number of Records: 14
+Number of tokens in record: 15
+Current Number of Records: 15
+Number of tokens in record: 15
+Current Number of Records: 16
+Number of tokens in record: 15
+Current Number of Records: 17
+Number of tokens in record: 15
+Current Number of Records: 18
+Number of tokens in record: 15
+Current Number of Records: 19
+Number of tokens in record: 15
+Current Number of Records: 20
+Number of tokens in record: 15
+Current Number of Records: 21
+Number of tokens in record: 15
+Current Number of Records: 22
+Number of tokens in record: 15
+Current Number of Records: 23
+Number of tokens in record: 15
+Current Number of Records: 24
+Number of tokens in record: 15
+Current Number of Records: 25
+Number of tokens in record: 15
+Current Number of Records: 26
+Number of tokens in record: 15
+Current Number of Records: 27
+Number of tokens in record: 15
+Current Number of Records: 28
+Number of tokens in record: 15
+Current Number of Records: 29
+Number of tokens in record: 15
+Current Number of Records: 30
+Number of tokens in record: 15
+Current Number of Records: 31
+Number of tokens in record: 15
+Current Number of Records: 32
+
+Loading Name-Value Section: [InspectionData]
+Section Lines: 12
+Number of Keys: 12
+Product U01: PTA037EA001_RSA037EA001_2
+
+SECTION  : [Count]
+MACHINE  : 01
+LANE     : 1
+STAGE    : 1
+OUTPUT NO: 3
+FILE RECS : 195
+[Count] RECS: 41
+ENTRY STATE: delta
+[Count]: TRSMiss = 0
+[Count]: TMMiss = 0
+[Count]: TPMiss = 0
+[Count]: CRErr = 0
+[Count]: CPErr = 0
+[Count]: Swait = 0
+[Count]: LotBoard = 1
+[Count]: Board = 1
+[Count]: SCStop = 0
+[Count]: OtherLStop = 0
+[Count]: CDErr = 0
+[Count]: TPriming = 0
+[Count]: BRcgStop = 0
+[Count]: Fwait = 0
+[Count]: Rwait = 0
+[Count]: Pwait = 0
+[Count]: Trbl = 0
+[Count]: TDMiss = 0
+[Count]: FBStop = 0
+[Count]: CMErr = 0
+[Count]: SCEStop = 0
+[Count]: TMount = 128
+[Count]: McRwait = 0
+[Count]: BNDRcgStop = 0
+[Count]: CnvStop = 0
+[Count]: Bwait = 0
+[Count]: JointPassWait = 0
+[Count]: TRSErr = 0
+[Count]: TRMiss = 0
+[Count]: MHRcgStop = 0
+[Count]: TPickup = 128
+[Count]: OthrStop = 0
+[Count]: THMiss = 0
+[Count]: TDispense = 0
+[Count]: McFwait = 0
+[Count]: CTErr = 0
+[Count]: JudgeStop = 0
+[Count]: Cwait = 0
+[Count]: Module = 2
+[Count]: LotModule = 2
+[Count]: BNDStop = 0
+EXIT STATE: delta
+
+SECTION  : [Time]
+MACHINE  : 01
+LANE     : 1
+STAGE    : 1
+OUTPUT NO: 3
+FILE RECS : 195
+[Time] RECS: 41
+ENTRY STATE: delta
+[Time]: CRErr = 0
+[Time]: CPErr = 0
+[Time]: Swait = 0
+[Time]: SCStop = 0
+[Time]: OtherLStop = 11
+[Time]: CDErr = 0
+[Time]: BRcgStop = 0
+[Time]: Prod = 26
+[Time]: Fwait = 0
+[Time]: Rwait = 0
+[Time]: Trbl = 0
+[Time]: Pwait = 0
+[Time]: FBStop = 0
+[Time]: Idle = 0
+[Time]: UnitAdjust = 0
+[Time]: CMErr = 0
+[Time]: SCEStop = 0
+[Time]: PowerON = 26
+[Time]: McRwait = 0
+[Time]: BRcg = 3
+[Time]: BNDRcgStop = 0
+[Time]: CnvStop = 0
+[Time]: Bwait = 0
+[Time]: JointPassWait = 0
+[Time]: TRSErr = 0
+[Time]: DataEdit = 0
+[Time]: MHRcgStop = 0
+[Time]: OthrStop = 0
+[Time]: McFwait = 0
+[Time]: TotalStop = 11
+[Time]: CTErr = 0
+[Time]: Mente = 0
+[Time]: Mount = 12
+[Time]: JudgeStop = 0
+[Time]: PRDStop = 0
+[Time]: Cwait = 0
+[Time]: BNDStop = 0
+[Time]: Change = 0
+[Time]: ProdView = 0
+[Time]: Load = 0
+[Time]: Actual = 15
+EXIT STATE: delta
+
+SECTION  : [MountPickupFeeder]
+MACHINE  : 01
+LANE     : 1
+STAGE    : 1
+OUTPUT NO: 3
+FILE RECS : 195
+[MountPickupFeeder] RECS: 24
+ENTRY STATE: delta
+1425: [20150408000230867+-+01+-+1+-+1+-+1347765+-++-+3+-++-+1347765.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 10017, fsadd: 2
+1425: [20150408000230867+-+01+-+1+-+1+-+1347765+-++-+3+-++-+1347765.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 20009, fsadd: 1
+1425: [20150408000230867+-+01+-+1+-+1+-+1347765+-++-+3+-++-+1347765.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 20015, fsadd: 1
+1425: [20150408000230867+-+01+-+1+-+1+-+1347765+-++-+3+-++-+1347765.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 10021, fsadd: 1
+1425: [20150408000230867+-+01+-+1+-+1+-+1347765+-++-+3+-++-+1347765.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 10019, fsadd: 1
+1425: [20150408000230867+-+01+-+1+-+1+-+1347765+-++-+3+-++-+1347765.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 10020, fsadd: 2
+1425: [20150408000230867+-+01+-+1+-+1+-+1347765+-++-+3+-++-+1347765.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 10021, fsadd: 2
+1425: [20150408000230867+-+01+-+1+-+1+-+1347765+-++-+3+-++-+1347765.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 10020, fsadd: 1
+1425: [20150408000230867+-+01+-+1+-+1+-+1347765+-++-+3+-++-+1347765.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 20019, fsadd: 1
+1425: [20150408000230867+-+01+-+1+-+1+-+1347765+-++-+3+-++-+1347765.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 20018, fsadd: 2
+1425: [20150408000230867+-+01+-+1+-+1+-+1347765+-++-+3+-++-+1347765.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 20017, fsadd: 1
+1425: [20150408000230867+-+01+-+1+-+1+-+1347765+-++-+3+-++-+1347765.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 20019, fsadd: 2
+1425: [20150408000230867+-+01+-+1+-+1+-+1347765+-++-+3+-++-+1347765.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 20016, fsadd: 1
+1425: [20150408000230867+-+01+-+1+-+1+-+1347765+-++-+3+-++-+1347765.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 20013, fsadd: 1
+1425: [20150408000230867+-+01+-+1+-+1+-+1347765+-++-+3+-++-+1347765.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 20015, fsadd: 2
+1425: [20150408000230867+-+01+-+1+-+1+-+1347765+-++-+3+-++-+1347765.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 20013, fsadd: 2
+1425: [20150408000230867+-+01+-+1+-+1+-+1347765+-++-+3+-++-+1347765.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 10019, fsadd: 2
+1425: [20150408000230867+-+01+-+1+-+1+-+1347765+-++-+3+-++-+1347765.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 10018, fsadd: 2
+1425: [20150408000230867+-+01+-+1+-+1+-+1347765+-++-+3+-++-+1347765.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 10018, fsadd: 1
+1425: [20150408000230867+-+01+-+1+-+1+-+1347765+-++-+3+-++-+1347765.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 20011, fsadd: 2
+1425: [20150408000230867+-+01+-+1+-+1+-+1347765+-++-+3+-++-+1347765.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 20011, fsadd: 1
+1425: [20150408000230867+-+01+-+1+-+1+-+1347765+-++-+3+-++-+1347765.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 20010, fsadd: 2
+1425: [20150408000230867+-+01+-+1+-+1+-+1347765+-++-+3+-++-+1347765.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 20010, fsadd: 1
+1425: [20150408000230867+-+01+-+1+-+1+-+1347765+-++-+3+-++-+1347765.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 20009, fsadd: 2
+EXIT STATE: delta
+
+SECTION  : [MountPickupNozzle]
+MACHINE  : 01
+LANE     : 1
+STAGE    : 1
+OUTPUT NO: 3
+FILE RECS : 195
+[MountPickupNozzle] RECS: 32
+ENTRY STATE: delta
+EXIT STATE: delta
+
+Audit U01: 20150408000308380+-+01+-+1+-+1+-+0+-++-+12+-++-+0.u01
+Lines read: 111
+
+Loading Name-Value Section: [Index]
+Section Lines: 9
+Number of Keys: 9
+
+Loading Name-Value Section: [Information]
+Section Lines: 12
+Number of Keys: 12
+
+Loading Name-Value Section: [Time]
+Section Lines: 41
+Number of Keys: 41
+
+Loading Name-Value Section: [CycleTime]
+No data found.
+
+Loading Name-Value Section: [Count]
+Section Lines: 41
+Number of Keys: 41
+
+Loading List Section: [Dispenser]
+No data found.
+
+Loading List Section: [MountPickupFeeder]
+No data found.
+
+Loading List Section: [MountPickupNozzle]
+No data found.
+
+Loading Name-Value Section: [InspectionData]
+No data found.
+Product U01: PTA037EA001_RSA037EA001_2
+
+SECTION  : [Count]
+MACHINE  : 01
+LANE     : 1
+STAGE    : 1
+OUTPUT NO: 12
+FILE RECS : 111
+[Count] RECS: 41
+ENTRY STATE: delta
+[Count]: TRSMiss = 0
+[Count]: TMMiss = 0
+[Count]: TPMiss = 0
+[Count]: CRErr = 0
+[Count]: CPErr = 0
+[Count]: Swait = 0
+[Count]: LotBoard = 0
+[Count]: Board = 0
+[Count]: SCStop = 0
+[Count]: OtherLStop = 1
+[Count]: CDErr = 0
+[Count]: TPriming = 0
+[Count]: BRcgStop = 0
+[Count]: Fwait = 0
+[Count]: Rwait = 1
+[Count]: Pwait = 0
+[Count]: Trbl = 0
+[Count]: TDMiss = 0
+[Count]: FBStop = 0
+[Count]: CMErr = 0
+[Count]: SCEStop = 0
+[Count]: TMount = 64
+[Count]: McRwait = 0
+[Count]: BNDRcgStop = 0
+[Count]: CnvStop = 0
+[Count]: Bwait = 0
+[Count]: JointPassWait = 0
+[Count]: TRSErr = 0
+[Count]: TRMiss = 0
+[Count]: MHRcgStop = 0
+[Count]: TPickup = 64
+[Count]: OthrStop = 0
+[Count]: THMiss = 0
+[Count]: TDispense = 0
+[Count]: McFwait = 0
+[Count]: CTErr = 0
+[Count]: JudgeStop = 0
+[Count]: Cwait = 0
+[Count]: Module = 0
+[Count]: LotModule = 0
+[Count]: BNDStop = 0
+EXIT STATE: delta
+
+SECTION  : [Time]
+MACHINE  : 01
+LANE     : 1
+STAGE    : 1
+OUTPUT NO: 12
+FILE RECS : 111
+[Time] RECS: 41
+ENTRY STATE: delta
+[Time]: CRErr = 0
+[Time]: CPErr = 0
+[Time]: Swait = 0
+[Time]: SCStop = 0
+[Time]: OtherLStop = 9
+[Time]: CDErr = 0
+[Time]: BRcgStop = 0
+[Time]: Prod = 30
+[Time]: Fwait = 0
+[Time]: Rwait = 16
+[Time]: Trbl = 0
+[Time]: Pwait = 0
+[Time]: FBStop = 0
+[Time]: Idle = 0
+[Time]: UnitAdjust = 0
+[Time]: CMErr = 0
+[Time]: SCEStop = 0
+[Time]: PowerON = 30
+[Time]: McRwait = 0
+[Time]: BRcg = 3
+[Time]: BNDRcgStop = 0
+[Time]: CnvStop = 0
+[Time]: Bwait = 0
+[Time]: JointPassWait = 0
+[Time]: TRSErr = 0
+[Time]: DataEdit = 0
+[Time]: MHRcgStop = 0
+[Time]: OthrStop = 0
+[Time]: McFwait = 0
+[Time]: TotalStop = 25
+[Time]: CTErr = 0
+[Time]: Mente = 0
+[Time]: Mount = 0
+[Time]: JudgeStop = 0
+[Time]: PRDStop = 0
+[Time]: Cwait = 0
+[Time]: BNDStop = 0
+[Time]: Change = 0
+[Time]: ProdView = 0
+[Time]: Load = 1
+[Time]: Actual = 3
+EXIT STATE: delta
+
+SECTION  : [MountPickupFeeder]
+MACHINE  : 01
+LANE     : 1
+STAGE    : 1
+OUTPUT NO: 12
+FILE RECS : 111
+No Feeder data in Output=12 U01 files. Skipping.
+
+SECTION  : [MountPickupNozzle]
+MACHINE  : 01
+LANE     : 1
+STAGE    : 1
+OUTPUT NO: 12
+FILE RECS : 111
+No Nozzle data in Output=12 U01 files. Skipping.
+
+Audit U01: 20150408000313741+-+01+-+1+-+1+-+1347767+-++-+3+-++-+1347767.u01
+Lines read: 195
+
+Loading Name-Value Section: [Index]
+Section Lines: 9
+Number of Keys: 9
+
+Loading Name-Value Section: [Information]
+Section Lines: 12
+Number of Keys: 12
+
+Loading Name-Value Section: [Time]
+Section Lines: 41
+Number of Keys: 41
+
+Loading Name-Value Section: [CycleTime]
+Section Lines: 3
+Number of Keys: 3
+
+Loading Name-Value Section: [Count]
+Section Lines: 41
+Number of Keys: 41
+
+Loading List Section: [Dispenser]
+No data found.
+
+Loading List Section: [MountPickupFeeder]
+Section Lines: 24
+Number of tokens in record: 17
+Current Number of Records: 1
+Number of tokens in record: 17
+Current Number of Records: 2
+Number of tokens in record: 17
+Current Number of Records: 3
+Number of tokens in record: 17
+Current Number of Records: 4
+Number of tokens in record: 17
+Current Number of Records: 5
+Number of tokens in record: 17
+Current Number of Records: 6
+Number of tokens in record: 17
+Current Number of Records: 7
+Number of tokens in record: 17
+Current Number of Records: 8
+Number of tokens in record: 17
+Current Number of Records: 9
+Number of tokens in record: 17
+Current Number of Records: 10
+Number of tokens in record: 17
+Current Number of Records: 11
+Number of tokens in record: 17
+Current Number of Records: 12
+Number of tokens in record: 17
+Current Number of Records: 13
+Number of tokens in record: 17
+Current Number of Records: 14
+Number of tokens in record: 17
+Current Number of Records: 15
+Number of tokens in record: 17
+Current Number of Records: 16
+Number of tokens in record: 17
+Current Number of Records: 17
+Number of tokens in record: 17
+Current Number of Records: 18
+Number of tokens in record: 17
+Current Number of Records: 19
+Number of tokens in record: 17
+Current Number of Records: 20
+Number of tokens in record: 17
+Current Number of Records: 21
+Number of tokens in record: 17
+Current Number of Records: 22
+Number of tokens in record: 17
+Current Number of Records: 23
+Number of tokens in record: 17
+Current Number of Records: 24
+
+Loading List Section: [MountPickupNozzle]
+Section Lines: 32
+Number of tokens in record: 15
+Current Number of Records: 1
+Number of tokens in record: 15
+Current Number of Records: 2
+Number of tokens in record: 15
+Current Number of Records: 3
+Number of tokens in record: 15
+Current Number of Records: 4
+Number of tokens in record: 15
+Current Number of Records: 5
+Number of tokens in record: 15
+Current Number of Records: 6
+Number of tokens in record: 15
+Current Number of Records: 7
+Number of tokens in record: 15
+Current Number of Records: 8
+Number of tokens in record: 15
+Current Number of Records: 9
+Number of tokens in record: 15
+Current Number of Records: 10
+Number of tokens in record: 15
+Current Number of Records: 11
+Number of tokens in record: 15
+Current Number of Records: 12
+Number of tokens in record: 15
+Current Number of Records: 13
+Number of tokens in record: 15
+Current Number of Records: 14
+Number of tokens in record: 15
+Current Number of Records: 15
+Number of tokens in record: 15
+Current Number of Records: 16
+Number of tokens in record: 15
+Current Number of Records: 17
+Number of tokens in record: 15
+Current Number of Records: 18
+Number of tokens in record: 15
+Current Number of Records: 19
+Number of tokens in record: 15
+Current Number of Records: 20
+Number of tokens in record: 15
+Current Number of Records: 21
+Number of tokens in record: 15
+Current Number of Records: 22
+Number of tokens in record: 15
+Current Number of Records: 23
+Number of tokens in record: 15
+Current Number of Records: 24
+Number of tokens in record: 15
+Current Number of Records: 25
+Number of tokens in record: 15
+Current Number of Records: 26
+Number of tokens in record: 15
+Current Number of Records: 27
+Number of tokens in record: 15
+Current Number of Records: 28
+Number of tokens in record: 15
+Current Number of Records: 29
+Number of tokens in record: 15
+Current Number of Records: 30
+Number of tokens in record: 15
+Current Number of Records: 31
+Number of tokens in record: 15
+Current Number of Records: 32
+
+Loading Name-Value Section: [InspectionData]
+Section Lines: 12
+Number of Keys: 12
+Product U01: PTA037EA001_RSA037EA001_2
+
+SECTION  : [Count]
+MACHINE  : 01
+LANE     : 1
+STAGE    : 1
+OUTPUT NO: 3
+FILE RECS : 195
+[Count] RECS: 41
+ENTRY STATE: delta
+[Count]: TRSMiss = 0
+[Count]: TMMiss = 0
+[Count]: TPMiss = 0
+[Count]: CRErr = 0
+[Count]: CPErr = 0
+[Count]: Swait = 0
+[Count]: LotBoard = 1
+[Count]: Board = 1
+[Count]: SCStop = 0
+[Count]: OtherLStop = 0
+[Count]: CDErr = 0
+[Count]: TPriming = 0
+[Count]: BRcgStop = 0
+[Count]: Fwait = 0
+[Count]: Rwait = 0
+[Count]: Pwait = 0
+[Count]: Trbl = 0
+[Count]: TDMiss = 0
+[Count]: FBStop = 0
+[Count]: CMErr = 0
+[Count]: SCEStop = 0
+[Count]: TMount = 64
+[Count]: McRwait = 0
+[Count]: BNDRcgStop = 0
+[Count]: CnvStop = 0
+[Count]: Bwait = 0
+[Count]: JointPassWait = 0
+[Count]: TRSErr = 0
+[Count]: TRMiss = 0
+[Count]: MHRcgStop = 0
+[Count]: TPickup = 64
+[Count]: OthrStop = 0
+[Count]: THMiss = 0
+[Count]: TDispense = 0
+[Count]: McFwait = 0
+[Count]: CTErr = 0
+[Count]: JudgeStop = 0
+[Count]: Cwait = 0
+[Count]: Module = 2
+[Count]: LotModule = 2
+[Count]: BNDStop = 0
+EXIT STATE: delta
+
+SECTION  : [Time]
+MACHINE  : 01
+LANE     : 1
+STAGE    : 1
+OUTPUT NO: 3
+FILE RECS : 195
+[Time] RECS: 41
+ENTRY STATE: delta
+[Time]: CRErr = 0
+[Time]: CPErr = 0
+[Time]: Swait = 0
+[Time]: SCStop = 0
+[Time]: OtherLStop = 0
+[Time]: CDErr = 0
+[Time]: BRcgStop = 0
+[Time]: Prod = 12
+[Time]: Fwait = 0
+[Time]: Rwait = 0
+[Time]: Trbl = 0
+[Time]: Pwait = 0
+[Time]: FBStop = 0
+[Time]: Idle = 0
+[Time]: UnitAdjust = 0
+[Time]: CMErr = 0
+[Time]: SCEStop = 0
+[Time]: PowerON = 12
+[Time]: McRwait = 0
+[Time]: BRcg = 0
+[Time]: BNDRcgStop = 0
+[Time]: CnvStop = 0
+[Time]: Bwait = 0
+[Time]: JointPassWait = 0
+[Time]: TRSErr = 0
+[Time]: DataEdit = 0
+[Time]: MHRcgStop = 0
+[Time]: OthrStop = 0
+[Time]: McFwait = 0
+[Time]: TotalStop = 0
+[Time]: CTErr = 0
+[Time]: Mente = 0
+[Time]: Mount = 12
+[Time]: JudgeStop = 0
+[Time]: PRDStop = 0
+[Time]: Cwait = 0
+[Time]: BNDStop = 0
+[Time]: Change = 0
+[Time]: ProdView = 0
+[Time]: Load = 0
+[Time]: Actual = 12
+EXIT STATE: delta
+
+SECTION  : [MountPickupFeeder]
+MACHINE  : 01
+LANE     : 1
+STAGE    : 1
+OUTPUT NO: 3
+FILE RECS : 195
+[MountPickupFeeder] RECS: 24
+ENTRY STATE: delta
+1425: [20150408000313741+-+01+-+1+-+1+-+1347767+-++-+3+-++-+1347767.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 10017, fsadd: 2
+1425: [20150408000313741+-+01+-+1+-+1+-+1347767+-++-+3+-++-+1347767.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 20009, fsadd: 1
+1425: [20150408000313741+-+01+-+1+-+1+-+1347767+-++-+3+-++-+1347767.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 20015, fsadd: 1
+1425: [20150408000313741+-+01+-+1+-+1+-+1347767+-++-+3+-++-+1347767.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 10021, fsadd: 1
+1425: [20150408000313741+-+01+-+1+-+1+-+1347767+-++-+3+-++-+1347767.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 10019, fsadd: 1
+1425: [20150408000313741+-+01+-+1+-+1+-+1347767+-++-+3+-++-+1347767.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 10020, fsadd: 2
+1425: [20150408000313741+-+01+-+1+-+1+-+1347767+-++-+3+-++-+1347767.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 10021, fsadd: 2
+1425: [20150408000313741+-+01+-+1+-+1+-+1347767+-++-+3+-++-+1347767.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 10020, fsadd: 1
+1425: [20150408000313741+-+01+-+1+-+1+-+1347767+-++-+3+-++-+1347767.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 20019, fsadd: 1
+1425: [20150408000313741+-+01+-+1+-+1+-+1347767+-++-+3+-++-+1347767.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 20018, fsadd: 2
+1425: [20150408000313741+-+01+-+1+-+1+-+1347767+-++-+3+-++-+1347767.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 20017, fsadd: 1
+1425: [20150408000313741+-+01+-+1+-+1+-+1347767+-++-+3+-++-+1347767.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 20019, fsadd: 2
+1425: [20150408000313741+-+01+-+1+-+1+-+1347767+-++-+3+-++-+1347767.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 20016, fsadd: 1
+1425: [20150408000313741+-+01+-+1+-+1+-+1347767+-++-+3+-++-+1347767.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 20013, fsadd: 1
+1425: [20150408000313741+-+01+-+1+-+1+-+1347767+-++-+3+-++-+1347767.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 20015, fsadd: 2
+1425: [20150408000313741+-+01+-+1+-+1+-+1347767+-++-+3+-++-+1347767.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 20013, fsadd: 2
+1425: [20150408000313741+-+01+-+1+-+1+-+1347767+-++-+3+-++-+1347767.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 10019, fsadd: 2
+1425: [20150408000313741+-+01+-+1+-+1+-+1347767+-++-+3+-++-+1347767.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 10018, fsadd: 2
+1425: [20150408000313741+-+01+-+1+-+1+-+1347767+-++-+3+-++-+1347767.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 10018, fsadd: 1
+1425: [20150408000313741+-+01+-+1+-+1+-+1347767+-++-+3+-++-+1347767.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 20011, fsadd: 2
+1425: [20150408000313741+-+01+-+1+-+1+-+1347767+-++-+3+-++-+1347767.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 20011, fsadd: 1
+1425: [20150408000313741+-+01+-+1+-+1+-+1347767+-++-+3+-++-+1347767.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 20010, fsadd: 2
+1425: [20150408000313741+-+01+-+1+-+1+-+1347767+-++-+3+-++-+1347767.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 20010, fsadd: 1
+1425: [20150408000313741+-+01+-+1+-+1+-+1347767+-++-+3+-++-+1347767.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 20009, fsadd: 2
+EXIT STATE: delta
+
+SECTION  : [MountPickupNozzle]
+MACHINE  : 01
+LANE     : 1
+STAGE    : 1
+OUTPUT NO: 3
+FILE RECS : 195
+[MountPickupNozzle] RECS: 32
+ENTRY STATE: delta
+EXIT STATE: delta
+
+Audit U01: 20150408000356729+-+01+-+1+-+1+-+1347769+-++-+3+-++-+1347769.u01
+Lines read: 195
+
+Loading Name-Value Section: [Index]
+Section Lines: 9
+Number of Keys: 9
+
+Loading Name-Value Section: [Information]
+Section Lines: 12
+Number of Keys: 12
+
+Loading Name-Value Section: [Time]
+Section Lines: 41
+Number of Keys: 41
+
+Loading Name-Value Section: [CycleTime]
+Section Lines: 3
+Number of Keys: 3
+
+Loading Name-Value Section: [Count]
+Section Lines: 41
+Number of Keys: 41
+
+Loading List Section: [Dispenser]
+No data found.
+
+Loading List Section: [MountPickupFeeder]
+Section Lines: 24
+Number of tokens in record: 17
+Current Number of Records: 1
+Number of tokens in record: 17
+Current Number of Records: 2
+Number of tokens in record: 17
+Current Number of Records: 3
+Number of tokens in record: 17
+Current Number of Records: 4
+Number of tokens in record: 17
+Current Number of Records: 5
+Number of tokens in record: 17
+Current Number of Records: 6
+Number of tokens in record: 17
+Current Number of Records: 7
+Number of tokens in record: 17
+Current Number of Records: 8
+Number of tokens in record: 17
+Current Number of Records: 9
+Number of tokens in record: 17
+Current Number of Records: 10
+Number of tokens in record: 17
+Current Number of Records: 11
+Number of tokens in record: 17
+Current Number of Records: 12
+Number of tokens in record: 17
+Current Number of Records: 13
+Number of tokens in record: 17
+Current Number of Records: 14
+Number of tokens in record: 17
+Current Number of Records: 15
+Number of tokens in record: 17
+Current Number of Records: 16
+Number of tokens in record: 17
+Current Number of Records: 17
+Number of tokens in record: 17
+Current Number of Records: 18
+Number of tokens in record: 17
+Current Number of Records: 19
+Number of tokens in record: 17
+Current Number of Records: 20
+Number of tokens in record: 17
+Current Number of Records: 21
+Number of tokens in record: 17
+Current Number of Records: 22
+Number of tokens in record: 17
+Current Number of Records: 23
+Number of tokens in record: 17
+Current Number of Records: 24
+
+Loading List Section: [MountPickupNozzle]
+Section Lines: 32
+Number of tokens in record: 15
+Current Number of Records: 1
+Number of tokens in record: 15
+Current Number of Records: 2
+Number of tokens in record: 15
+Current Number of Records: 3
+Number of tokens in record: 15
+Current Number of Records: 4
+Number of tokens in record: 15
+Current Number of Records: 5
+Number of tokens in record: 15
+Current Number of Records: 6
+Number of tokens in record: 15
+Current Number of Records: 7
+Number of tokens in record: 15
+Current Number of Records: 8
+Number of tokens in record: 15
+Current Number of Records: 9
+Number of tokens in record: 15
+Current Number of Records: 10
+Number of tokens in record: 15
+Current Number of Records: 11
+Number of tokens in record: 15
+Current Number of Records: 12
+Number of tokens in record: 15
+Current Number of Records: 13
+Number of tokens in record: 15
+Current Number of Records: 14
+Number of tokens in record: 15
+Current Number of Records: 15
+Number of tokens in record: 15
+Current Number of Records: 16
+Number of tokens in record: 15
+Current Number of Records: 17
+Number of tokens in record: 15
+Current Number of Records: 18
+Number of tokens in record: 15
+Current Number of Records: 19
+Number of tokens in record: 15
+Current Number of Records: 20
+Number of tokens in record: 15
+Current Number of Records: 21
+Number of tokens in record: 15
+Current Number of Records: 22
+Number of tokens in record: 15
+Current Number of Records: 23
+Number of tokens in record: 15
+Current Number of Records: 24
+Number of tokens in record: 15
+Current Number of Records: 25
+Number of tokens in record: 15
+Current Number of Records: 26
+Number of tokens in record: 15
+Current Number of Records: 27
+Number of tokens in record: 15
+Current Number of Records: 28
+Number of tokens in record: 15
+Current Number of Records: 29
+Number of tokens in record: 15
+Current Number of Records: 30
+Number of tokens in record: 15
+Current Number of Records: 31
+Number of tokens in record: 15
+Current Number of Records: 32
+
+Loading Name-Value Section: [InspectionData]
+Section Lines: 12
+Number of Keys: 12
+Product U01: PTA037EA001_RSA037EA001_2
+
+SECTION  : [Count]
+MACHINE  : 01
+LANE     : 1
+STAGE    : 1
+OUTPUT NO: 3
+FILE RECS : 195
+[Count] RECS: 41
+ENTRY STATE: delta
+[Count]: TRSMiss = 0
+[Count]: TMMiss = 0
+[Count]: TPMiss = 0
+[Count]: CRErr = 0
+[Count]: CPErr = 0
+[Count]: Swait = 0
+[Count]: LotBoard = 1
+[Count]: Board = 1
+[Count]: SCStop = 0
+[Count]: OtherLStop = 1
+[Count]: CDErr = 0
+[Count]: TPriming = 0
+[Count]: BRcgStop = 0
+[Count]: Fwait = 0
+[Count]: Rwait = 1
+[Count]: Pwait = 0
+[Count]: Trbl = 0
+[Count]: TDMiss = 0
+[Count]: FBStop = 0
+[Count]: CMErr = 0
+[Count]: SCEStop = 0
+[Count]: TMount = 128
+[Count]: McRwait = 0
+[Count]: BNDRcgStop = 0
+[Count]: CnvStop = 0
+[Count]: Bwait = 0
+[Count]: JointPassWait = 0
+[Count]: TRSErr = 0
+[Count]: TRMiss = 0
+[Count]: MHRcgStop = 0
+[Count]: TPickup = 128
+[Count]: OthrStop = 0
+[Count]: THMiss = 0
+[Count]: TDispense = 0
+[Count]: McFwait = 0
+[Count]: CTErr = 0
+[Count]: JudgeStop = 0
+[Count]: Cwait = 0
+[Count]: Module = 2
+[Count]: LotModule = 2
+[Count]: BNDStop = 0
+EXIT STATE: delta
+
+SECTION  : [Time]
+MACHINE  : 01
+LANE     : 1
+STAGE    : 1
+OUTPUT NO: 3
+FILE RECS : 195
+[Time] RECS: 41
+ENTRY STATE: delta
+[Time]: CRErr = 0
+[Time]: CPErr = 0
+[Time]: Swait = 0
+[Time]: SCStop = 0
+[Time]: OtherLStop = 8
+[Time]: CDErr = 0
+[Time]: BRcgStop = 0
+[Time]: Prod = 42
+[Time]: Fwait = 0
+[Time]: Rwait = 16
+[Time]: Trbl = 0
+[Time]: Pwait = 0
+[Time]: FBStop = 0
+[Time]: Idle = 0
+[Time]: UnitAdjust = 0
+[Time]: CMErr = 0
+[Time]: SCEStop = 0
+[Time]: PowerON = 42
+[Time]: McRwait = 0
+[Time]: BRcg = 3
+[Time]: BNDRcgStop = 0
+[Time]: CnvStop = 0
+[Time]: Bwait = 0
+[Time]: JointPassWait = 0
+[Time]: TRSErr = 0
+[Time]: DataEdit = 0
+[Time]: MHRcgStop = 0
+[Time]: OthrStop = 0
+[Time]: McFwait = 0
+[Time]: TotalStop = 25
+[Time]: CTErr = 0
+[Time]: Mente = 0
+[Time]: Mount = 12
+[Time]: JudgeStop = 0
+[Time]: PRDStop = 0
+[Time]: Cwait = 0
+[Time]: BNDStop = 0
+[Time]: Change = 0
+[Time]: ProdView = 0
+[Time]: Load = 1
+[Time]: Actual = 15
+EXIT STATE: delta
+
+SECTION  : [MountPickupFeeder]
+MACHINE  : 01
+LANE     : 1
+STAGE    : 1
+OUTPUT NO: 3
+FILE RECS : 195
+[MountPickupFeeder] RECS: 24
+ENTRY STATE: delta
+1425: [20150408000356729+-+01+-+1+-+1+-+1347769+-++-+3+-++-+1347769.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 10017, fsadd: 2
+1425: [20150408000356729+-+01+-+1+-+1+-+1347769+-++-+3+-++-+1347769.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 20009, fsadd: 1
+1425: [20150408000356729+-+01+-+1+-+1+-+1347769+-++-+3+-++-+1347769.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 20015, fsadd: 1
+1425: [20150408000356729+-+01+-+1+-+1+-+1347769+-++-+3+-++-+1347769.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 10021, fsadd: 1
+1425: [20150408000356729+-+01+-+1+-+1+-+1347769+-++-+3+-++-+1347769.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 10019, fsadd: 1
+1425: [20150408000356729+-+01+-+1+-+1+-+1347769+-++-+3+-++-+1347769.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 10020, fsadd: 2
+1425: [20150408000356729+-+01+-+1+-+1+-+1347769+-++-+3+-++-+1347769.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 10021, fsadd: 2
+1425: [20150408000356729+-+01+-+1+-+1+-+1347769+-++-+3+-++-+1347769.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 10020, fsadd: 1
+1425: [20150408000356729+-+01+-+1+-+1+-+1347769+-++-+3+-++-+1347769.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 20019, fsadd: 1
+1425: [20150408000356729+-+01+-+1+-+1+-+1347769+-++-+3+-++-+1347769.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 20018, fsadd: 2
+1425: [20150408000356729+-+01+-+1+-+1+-+1347769+-++-+3+-++-+1347769.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 20017, fsadd: 1
+1425: [20150408000356729+-+01+-+1+-+1+-+1347769+-++-+3+-++-+1347769.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 20019, fsadd: 2
+1425: [20150408000356729+-+01+-+1+-+1+-+1347769+-++-+3+-++-+1347769.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 20016, fsadd: 1
+1425: [20150408000356729+-+01+-+1+-+1+-+1347769+-++-+3+-++-+1347769.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 20013, fsadd: 1
+1425: [20150408000356729+-+01+-+1+-+1+-+1347769+-++-+3+-++-+1347769.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 20015, fsadd: 2
+1425: [20150408000356729+-+01+-+1+-+1+-+1347769+-++-+3+-++-+1347769.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 20013, fsadd: 2
+1425: [20150408000356729+-+01+-+1+-+1+-+1347769+-++-+3+-++-+1347769.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 10019, fsadd: 2
+1425: [20150408000356729+-+01+-+1+-+1+-+1347769+-++-+3+-++-+1347769.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 10018, fsadd: 2
+1425: [20150408000356729+-+01+-+1+-+1+-+1347769+-++-+3+-++-+1347769.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 10018, fsadd: 1
+1425: [20150408000356729+-+01+-+1+-+1+-+1347769+-++-+3+-++-+1347769.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 20011, fsadd: 2
+1425: [20150408000356729+-+01+-+1+-+1+-+1347769+-++-+3+-++-+1347769.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 20011, fsadd: 1
+1425: [20150408000356729+-+01+-+1+-+1+-+1347769+-++-+3+-++-+1347769.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 20010, fsadd: 2
+1425: [20150408000356729+-+01+-+1+-+1+-+1347769+-++-+3+-++-+1347769.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 20010, fsadd: 1
+1425: [20150408000356729+-+01+-+1+-+1+-+1347769+-++-+3+-++-+1347769.u01] [MountPickupFeeder] IS NOT tray part (0) fadd: 20009, fsadd: 2
+EXIT STATE: delta
+
+SECTION  : [MountPickupNozzle]
+MACHINE  : 01
+LANE     : 1
+STAGE    : 1
+OUTPUT NO: 3
+FILE RECS : 195
+[MountPickupNozzle] RECS: 32
+ENTRY STATE: delta
+EXIT STATE: delta
+
+Audit U01: 20150408000409279+-+01+-+1+-+1+-+0+-++-+12+-++-+0.u01
+Lines read: 111
+
+Loading Name-Value Section: [Index]
+Section Lines: 9
+Number of Keys: 9
+
+Loading Name-Value Section: [Information]
+Section Lines: 12
+Number of Keys: 12
+
+Loading Name-Value Section: [Time]
+Section Lines: 41
+Number of Keys: 41
+
+Loading Name-Value Section: [CycleTime]
+No data found.
+
+Loading Name-Value Section: [Count]
+Section Lines: 41
+Number of Keys: 41
+
+Loading List Section: [Dispenser]
+No data found.
+
+Loading List Section: [MountPickupFeeder]
+No data found.
+
+Loading List Section: [MountPickupNozzle]
+No data found.
+
+Loading Name-Value Section: [InspectionData]
+No data found.
+Product U01: PTA037EA001_RSA037EA001_2
+
+SECTION  : [Count]
+MACHINE  : 01
+LANE     : 1
+STAGE    : 1
+OUTPUT NO: 12
+FILE RECS : 111
+[Count] RECS: 41
+ENTRY STATE: delta
+[Count]: TRSMiss = 0
+[Count]: TMMiss = 0
+[Count]: TPMiss = 0
+[Count]: CRErr = 0
+[Count]: CPErr = 0
+[Count]: Swait = 0
+[Count]: LotBoard = 0
+[Count]: Board = 0
+[Count]: SCStop = 0
+[Count]: OtherLStop = 0
+[Count]: CDErr = 0
+[Count]: TPriming = 0
+[Count]: BRcgStop = 0
+[Count]: Fwait = 0
+[Count]: Rwait = 0
+[Count]: Pwait = 0
+[Count]: Trbl = 0
+[Count]: TDMiss = 0
+[Count]: FBStop = 0
+[Count]: CMErr = 0
+[Count]: SCEStop = 0
+[Count]: TMount = 0
+[Count]: McRwait = 0
+[Count]: BNDRcgStop = 0
+[Count]: CnvStop = 0
+[Count]: Bwait = 0
+[Count]: JointPassWait = 0
+[Count]: TRSErr = 0
+[Count]: TRMiss = 0
+[Count]: MHRcgStop = 0
+[Count]: TPickup = 0
+[Count]: OthrStop = 0
+[Count]: THMiss = 0
+[Count]: TDispense = 0
+[Count]: McFwait = 0
+[Count]: CTErr = 0
+[Count]: JudgeStop = 0
+[Count]: Cwait = 0
+[Count]: Module = 0
+[Count]: LotModule = 0
+[Count]: BNDStop = 0
+EXIT STATE: delta
+
+SECTION  : [Time]
+MACHINE  : 01
+LANE     : 1
+STAGE    : 1
+OUTPUT NO: 12
+FILE RECS : 111
+[Time] RECS: 41
+ENTRY STATE: delta
+[Time]: CRErr = 0
+[Time]: CPErr = 0
+[Time]: Swait = 0
+[Time]: SCStop = 0
+[Time]: OtherLStop = 0
+[Time]: CDErr = 0
+[Time]: BRcgStop = 0
+[Time]: Prod = 3
+[Time]: Fwait = 0
+[Time]: Rwait = 0
+[Time]: Trbl = 0
+[Time]: Pwait = 0
+[Time]: FBStop = 0
+[Time]: Idle = 0
+[Time]: UnitAdjust = 0
+[Time]: CMErr = 0
+[Time]: SCEStop = 0
+[Time]: PowerON = 3
+[Time]: McRwait = 0
+[Time]: BRcg = 0
+[Time]: BNDRcgStop = 0
+[Time]: CnvStop = 0
+[Time]: Bwait = 0
+[Time]: JointPassWait = 0
+[Time]: TRSErr = 0
+[Time]: DataEdit = 0
+[Time]: MHRcgStop = 0
+[Time]: OthrStop = 0
+[Time]: McFwait = 0
+[Time]: TotalStop = 0
+[Time]: CTErr = 0
+[Time]: Mente = 0
+[Time]: Mount = 0
+[Time]: JudgeStop = 0
+[Time]: PRDStop = 0
+[Time]: Cwait = 0
+[Time]: BNDStop = 0
+[Time]: Change = 0
+[Time]: ProdView = 0
+[Time]: Load = 1
+[Time]: Actual = 0
+EXIT STATE: delta
+
+SECTION  : [MountPickupFeeder]
+MACHINE  : 01
+LANE     : 1
+STAGE    : 1
+OUTPUT NO: 12
+FILE RECS : 111
+No Feeder data in Output=12 U01 files. Skipping.
+
+SECTION  : [MountPickupNozzle]
+MACHINE  : 01
+LANE     : 1
+STAGE    : 1
+OUTPUT NO: 12
+FILE RECS : 111
+No Nozzle data in Output=12 U01 files. Skipping.
+
+Export Total Data For [Count]:
+
+Export Data For [Count] by Machine:
+
+Export Data For [Count] by Machine and Lane:
+
+Export Total Data For [Count] by Product:
+
+Export Data For [Count] by Product and Machine:
+
+Export Data For [Count] by Product, Machine and Lane:
+
+Export Data For [Time] by Machine:
+
+Export Data For [Time] by Machine and Lane:
+
+Export Data For [Time] by Product and Machine:
+
+Export Data For [Time] by Product, Machine and Lane:
+
+Export Data For [MountPickupNozzle] by Machine, Lane, Stage, NHAdd, NCAdd, Blkserial:
+
+Export Data For [MountPickupNozzle] by Machine, Lane, Stage, NHAdd, NCAdd:
+
+Export Data For [MountPickupNozzle] by Product, Machine, Lane, Stage, NHAdd, NCAdd, Blkserial:
+
+Export Data For [MountPickupNozzle] by Product, Machine, Lane, Stage, NHAdd, NCAdd:
+
+Export Data For [MountPickupFeeder] by Machine, Lane, Stage, FAdd, FSAdd, ReelID:
+
+Export Data For [MountPickupFeeder] by Machine, Lane, Stage, FAdd, FSAdd:
+
+Export Data For [MountPickupFeeder] by Product, Machine, Lane, Stage, FAdd, FSAdd, ReelID:
+
+Export Data For [MountPickupFeeder] by Product, Machine, Lane, Stage, FAdd, FSAdd:
+
+No U03 files to process. Returning.
+
+
+No MPR files to process. Returning.
+
+
+All Done

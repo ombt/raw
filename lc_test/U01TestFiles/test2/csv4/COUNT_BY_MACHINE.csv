@@ -1,0 +1,2 @@
+machine,BNDRcgStop,BNDStop,BRcgStop,Board,Bwait,CDErr,CMErr,CPErr,CRErr,CTErr,CnvStop,Cwait,FBStop,Fwait,JointPassWait,JudgeStop,LotBoard,LotModule,MHRcgStop,McFwait,McRwait,Module,OtherLStop,OthrStop,Pwait,Rwait,SCEStop,SCStop,Swait,TDMiss,TDispense,THMiss,TMMiss,TMount,TPMiss,TPickup,TPriming,TRMiss,TRSErr,TRSMiss,Trbl
+01,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,5,10,0,0,0,10,5,0,0,5,0,0,0,0,0,0,0,640,1,641,0,0,0,0,0

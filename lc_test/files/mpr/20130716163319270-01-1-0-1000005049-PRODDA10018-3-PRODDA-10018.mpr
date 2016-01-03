@@ -1,0 +1,46 @@
+PRODUCT6210100012013071616331800018SPG-PRODA-PFSC      SPG-PRODA-PFSC                                                           
+
+[Index]
+Format=Maihime
+Version=1.00
+Machine=NCM
+Date=2013/07/16,16:33:18
+AuthorType=Machine
+Author=SPG
+
+[Information]
+Stage=1
+Lane=0
+Serial=1000005049
+Code=PRODDA10018
+BcrStatus=0
+Output=3
+
+[TimeDataSP]
+Total Actual Fwait Rwait SCStop SCEStop CnvStop BRcgStop Trbl LenErrStop PstCntUpStop PstNonStop PaperNonStop MskRecErrStop PstRecErrStop SolvNonStop MaskInspErrStop
+56030 44157 3976 2079 4433 955 170 0 64 0 137 0 25 0 0 34 0
+
+[CountDataSP]
+Board Module Fwait Rwait SCStop SCEStop CnvStop BRcgStop Trbl LenErrStop PstCntUpStop PstNonStop PaperNonStop MskRecErrStop PstRecErrStop SolvNonStop MaskInspErrStop
+5038 5038 90 9 26 17 3 0 5 0 4 0 1 0 0 1 0
+
+[CountDataSP2]
+RecCnt PrintCnt ClnCnt PstSupplyCnt FBClnCnt FBPrintCnt RestorationCnt
+0 5044 4 0 0 0 0
+
+[TraceDataSP]
+BrdRecogX BrdRecogY BrdRecogA PrintAfter1ClnCnt PrintAfter2ClnCnt PrintDirection PrintAfterPstcupCnt ClnAfterSlvtEmpty ClnAfterPaperEmpty FSqueegeeCnt RSqueegeeCnt PstRestartTime Temperature Humidity ThermoStatus WaitT
+0.000 0.000 0.000 0 0 0 0 0 0 0 0 0 0.000 0.000 3 0
+
+[TraceDataSP_2]
+BoardID PasteKindID SqueegeeID MaskID ClnPaperID UnderSupportKindID SolventID MagazineID OperatorID PressData PrtSpeedData LeaveMode PrtPosCorrectionX PrtPosCorrectionY PrtPosCorrectionA AveRealPress BoardSerial PasteKindSerial SqueegeeSerial MaskSerial ClnPaperSerial UnderSupportKindSerial SolventSerial
+"PRODDA10018" "" "" "" "" "" "" "" "" 0.000 0.000 0 0.000 0.000 0.000 0.000 "1000005049" "1181" "1184" "1182" "1186" "1185" "1187"
+
+[ISPInfoData]
+PasteInspecCnt PasteInspecOKCnt PasteInspecOverWarnCnt PasteInspecShorWarnCnt PasteInspecOverShorWarnCnt PasteInspecNGCnt
+0 0 0 0 0 0
+
+[MaskISPInfoData]
+MaskInspCnt MaskInspOKCnt MaskInspOverWarnCnt MaskInspClogWarnCnt MaskInspOverClogWarnCnt MaskInspNGCnt
+0 0 0 0 0 0
+

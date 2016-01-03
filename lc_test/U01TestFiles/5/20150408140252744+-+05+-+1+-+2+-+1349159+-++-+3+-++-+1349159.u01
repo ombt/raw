@@ -1,0 +1,150 @@
+[Index]
+Format=ProductReport
+Version=1.0000
+Machine=NPM
+Date=2015/04/08,14:02:52
+AuthorType=Machine
+Author=
+Diff=
+MJSID="PTB887JA000"
+Comment=""
+
+[Information]
+Stage=1
+Lane=2
+Serial=1349159
+SerialStatus=0
+Code=""
+BcrStatus=2
+ProductID="1380"
+Rev=22
+PlanID="0"
+Output=3
+LotName="RRB887JA000"
+LotNumber=1
+
+[Time]
+PowerON=6334.71
+Change=1377.27
+ProdView=0.00
+Mente=0.00
+DataEdit=0.00
+UnitAdjust=0.00
+Idle=0.00
+Prod=4957.44
+Actual=721.08
+Load=606.82
+BRcg=84.83
+Mount=636.25
+TotalStop=3629.54
+Fwait=3267.58
+Rwait=280.62
+Swait=0.00
+Cwait=0.00
+Bwait=0.00
+Pwait=0.00
+SCStop=18.91
+SCEStop=0.00
+OthrStop=0.00
+CnvStop=0.00
+BRcgStop=0.00
+Trbl=0.00
+MHRcgStop=0.00
+FBStop=0.00
+BNDRcgStop=0.00
+CPErr=53.73
+CRErr=0.00
+CDErr=0.00
+CMErr=0.00
+CTErr=0.00
+TRSErr=0.00
+PRDStop=1225.26
+JudgeStop=0.00
+OtherLStop=8.70
+BNDStop=0.00
+McFwait=3050.09
+McRwait=0.00
+JointPassWait=0.00
+
+[CycleTime]
+CTime1=10.94
+CTime2=45.29
+CTime3=10.95
+
+[Count]
+Board=117
+Module=117
+Fwait=111
+Rwait=10
+Swait=0
+Cwait=0
+Bwait=0
+Pwait=0
+SCStop=1
+SCEStop=0
+OthrStop=0
+CnvStop=0
+BRcgStop=0
+Trbl=0
+MHRcgStop=0
+FBStop=0
+BNDRcgStop=0
+CPErr=1
+CRErr=0
+CDErr=0
+CMErr=0
+CTErr=0
+TRSErr=0
+TPickup=702
+TPMiss=0
+TRMiss=0
+TDMiss=0
+TMMiss=0
+THMiss=0
+TRSMiss=0
+JudgeStop=0
+OtherLStop=16
+BNDStop=0
+TDispense=0
+TPriming=0
+LotBoard=117
+LotModule=117
+McFwait=110
+McRwait=0
+JointPassWait=0
+TMount=702
+
+[Dispenser]
+Head NHAdd BLKCode BLKSerial UseN NozzleName BondID UseB BondLibName Dispense Priming PSRErr
+
+[MountPickupFeeder]
+BLKCode BLKSerial UseF PartsName FAdd FSAdd ReelID UseR Pickup PMiss RMiss DMiss MMiss HMiss TRSMiss Mount LName
+"FB30" "FA0230AEA370385" 0 "K1MY20BA0173" 10007 0 "5225E0B" 0 117 0 0 0 0 0 0 117 "NPM"
+"FB20" "FA0220AAF302687" 0 "C1ZBZ0004574" 10003 0 "532AAB7" 0 117 0 0 0 0 0 0 117 "NPM"
+"" "" 0 "C1CB00001989" 21001 1 "" 0 117 0 0 0 0 0 0 117 "NPM"
+"" "" 0 "YEP1RM03185" 22001 1 "" 0 117 0 0 0 0 0 0 117 "NPM"
+"DF10" "DF0010AAA000009" 0 "TRC-LABEL" 10026 0 "                              " 0 117 0 0 0 0 0 0 117 "NPM"
+"FB20" "FA0220AFA584465" 0 "C2HBZY000069" 10002 0 "532D94E" 0 31 0 0 0 0 0 0 31 "NPM"
+
+[MountPickupNozzle]
+Head NHAdd NCAdd BLKCode BLKSerial UseR NozzleName Pickup PMiss RMiss DMiss MMiss HMiss TRSMiss Mount
+1 3 113 "416800000" "41680000006120400004" 0 1248 117 0 0 0 0 0 0 117
+1 1 111 "462600000" "46260000001120400001" 0 1003 234 0 0 0 0 0 0 234
+1 2 112 "100300000" "10030000007120400040" 0 4168 117 0 0 0 0 0 0 117
+2 1 211 "100400000" "10040000007120400024" 0 1003 117 0 0 0 0 0 0 117
+2 3 214 "100300000" "10030000007120400038" 0 1003 117 0 0 0 0 0 0 117
+
+[InspectionData]
+Block=0
+BadBoard=0
+BadBlock=0
+BadParts=0
+OKParts=0
+RetryBoard=0
+LotBlock=0
+LotBadBoard=0
+LotBadBlock=0
+LotBadParts=0
+LotOKParts=0
+LotRetryBoard=0
+

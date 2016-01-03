@@ -1,0 +1,183 @@
+[Index]
+Format=ProductReport
+Version=1.0000
+Machine=NPM
+Date=2015/04/08,02:40:04
+AuthorType=Machine
+Author=
+Diff=
+MJSID="PTA037EA001"
+Comment=""
+
+[Information]
+Stage=1
+Lane=1
+Serial=1348143
+SerialStatus=0
+Code=""
+BcrStatus=2
+ProductID="1197"
+Rev=3
+PlanID="0"
+Output=3
+LotName="RSA037EA001"
+LotNumber=2
+
+[Time]
+PowerON=26464.76
+Change=1252.95
+ProdView=0.00
+Mente=0.00
+DataEdit=0.00
+UnitAdjust=0.00
+Idle=0.00
+Prod=25211.81
+Actual=7186.84
+Load=1549.47
+BRcg=1041.27
+Mount=6145.56
+TotalStop=16475.50
+Fwait=14999.62
+Rwait=30.84
+Swait=0.00
+Cwait=0.00
+Bwait=0.00
+Pwait=0.00
+SCStop=117.90
+SCEStop=0.00
+OthrStop=0.00
+CnvStop=0.00
+BRcgStop=0.00
+Trbl=0.00
+MHRcgStop=0.00
+FBStop=0.00
+BNDRcgStop=0.00
+CPErr=548.40
+CRErr=0.00
+CDErr=0.00
+CMErr=0.00
+CTErr=0.00
+TRSErr=0.00
+PRDStop=6250.72
+JudgeStop=0.00
+OtherLStop=778.73
+BNDStop=0.00
+McFwait=9858.36
+McRwait=0.00
+JointPassWait=0.00
+
+[CycleTime]
+CTime1=24.45
+CTime2=44.23
+CTime3=24.45
+
+[Count]
+Board=321
+Module=642
+Fwait=266
+Rwait=32
+Swait=0
+Cwait=0
+Bwait=0
+Pwait=0
+SCStop=5
+SCEStop=0
+OthrStop=0
+CnvStop=0
+BRcgStop=0
+Trbl=0
+MHRcgStop=0
+FBStop=0
+BNDRcgStop=0
+CPErr=10
+CRErr=0
+CDErr=0
+CMErr=0
+CTErr=0
+TRSErr=0
+TPickup=7070
+TPMiss=8
+TRMiss=0
+TDMiss=0
+TMMiss=0
+THMiss=0
+TRSMiss=0
+JudgeStop=0
+OtherLStop=80
+BNDStop=0
+TDispense=0
+TPriming=0
+LotBoard=321
+LotModule=642
+McFwait=410
+McRwait=0
+JointPassWait=0
+TMount=7062
+
+[Dispenser]
+Head NHAdd BLKCode BLKSerial UseN NozzleName BondID UseB BondLibName Dispense Priming PSRErr
+
+[MountPickupFeeder]
+BLKCode BLKSerial UseF PartsName FAdd FSAdd ReelID UseR Pickup PMiss RMiss DMiss MMiss HMiss TRSMiss Mount LName
+"" "" 0 "YEP1RM00078" 22011 1 "" 0 192 0 0 0 0 0 0 192 "NPM"
+"" "" 0 "C1AB00002201" 21006 1 "" 0 48 0 0 0 0 0 0 48 "NPM"
+"" "" 0 "YEP1RM00307" 22001 1 "" 0 102 0 0 0 0 0 0 102 "NPM"
+"FB20" "FA0220AAF308595" 0 "C0CBCBG00012" 10015 0 "542073F" 0 642 0 0 0 0 0 0 642 "NPM"
+"" "" 0 "C1AB00002201" 21007 1 "" 0 48 0 0 0 0 0 0 48 "NPM"
+"" "" 0 "C1AB00002201" 21008 1 "" 0 48 0 0 0 0 0 0 48 "NPM"
+"" "" 0 "YEP1RM00307" 22002 1 "" 0 60 0 0 0 0 0 0 60 "NPM"
+"" "" 0 "C1AB00002201" 21009 1 "" 0 48 0 0 0 0 0 0 48 "NPM"
+"" "" 0 "YEP1RM00078" 22012 1 "" 0 162 0 0 0 0 0 0 162 "NPM"
+"" "" 0 "C1AB00002201" 21010 1 "" 0 48 0 0 0 0 0 0 48 "NPM"
+"" "" 0 "C1AB00002201" 21011 1 "" 0 48 0 0 0 0 0 0 48 "NPM"
+"" "" 0 "YEP1RM00307" 22003 1 "" 0 60 0 0 0 0 0 0 60 "NPM"
+"FB30" "FA0230AEA370396" 0 "H0J476400001" 10023 0 "5421678" 0 520 0 0 0 0 0 0 520 "NPM"
+"FB20" "FA0220AAF308604" 0 "H1C3815B0003" 10018 0 "5421686" 0 511 1 0 0 0 0 0 510 "NPM"
+"FB20" "FA0220AAF308629" 0 "B1BDEL000002" 10019 0 "532800B" 0 507 1 0 0 0 0 0 506 "NPM"
+"" "" 0 "C1AB00002201" 21012 1 "" 0 48 0 0 0 0 0 0 48 "NPM"
+"FB30" "FA0230AHA351628" 0 "F2G1E331A178" 10025 0 "5421515" 0 496 0 0 0 0 0 0 496 "NPM"
+"" "" 0 "C1AB00002201" 21013 1 "" 0 48 0 0 0 0 0 0 48 "NPM"
+"" "" 0 "YEP1RM00307" 22004 1 "" 0 60 0 0 0 0 0 0 60 "NPM"
+"" "" 0 "YEP1RM00078" 22013 1 "" 0 96 0 0 0 0 0 0 96 "NPM"
+"" "" 0 "C1AB00002201" 21014 1 "" 0 48 0 0 0 0 0 0 48 "NPM"
+"" "" 0 "C1AB00002201" 21015 1 "" 0 48 0 0 0 0 0 0 48 "NPM"
+"" "" 0 "C1AB00002201" 21016 1 "" 0 48 0 0 0 0 0 0 48 "NPM"
+"" "" 0 "YEP1RM00307" 22005 1 "" 0 60 0 0 0 0 0 0 60 "NPM"
+"" "" 0 "C1AB00002201" 21017 1 "" 0 42 0 0 0 0 0 0 42 "NPM"
+"" "" 0 "YEP1RM00078" 22014 1 "" 0 96 0 0 0 0 0 0 96 "NPM"
+"" "" 0 "C1AB00002201" 21018 1 "" 0 24 0 0 0 0 0 0 24 "NPM"
+"" "" 0 "YEP1RM00307" 22006 1 "" 0 60 0 0 0 0 0 0 60 "NPM"
+"" "" 0 "C1AB00002201" 21019 1 "" 0 24 0 0 0 0 0 0 24 "NPM"
+"" "" 0 "C1AB00002201" 21020 1 "" 0 24 0 0 0 0 0 0 24 "NPM"
+"" "" 0 "YEP1RM00307" 22007 1 "" 0 60 0 0 0 0 0 0 60 "NPM"
+"" "" 0 "YEP1RM00078" 22015 1 "" 0 96 0 0 0 0 0 0 96 "NPM"
+"" "" 0 "YEP1RM00307" 22008 1 "" 0 60 0 0 0 0 0 0 60 "NPM"
+"" "" 0 "YEP1RM00307" 22009 1 "" 0 60 0 0 0 0 0 0 60 "NPM"
+"FB20" "FA0220AFA584545" 0 "G1C220Z00008" 10020 0 "54215E3" 0 105 1 0 0 0 0 0 104 "NPM"
+"" "" 0 "YEP1RM00307" 22010 1 "" 0 60 0 0 0 0 0 0 60 "NPM"
+"FB20" "FA0220AFA584419" 0 "C1ZBZ0004979" 10017 0 "54208F5" 0 99 1 0 0 0 0 0 98 "NPM"
+"FB30" "FA0230AEA370362" 0 "F2G1V101A158" 10027 0 "5421545" 0 13 0 0 0 0 0 0 13 "NPM"
+
+[MountPickupNozzle]
+Head NHAdd NCAdd BLKCode BLKSerial UseR NozzleName Pickup PMiss RMiss DMiss MMiss HMiss TRSMiss Mount
+2 1 211 "100400000" "10040000003130400031" 0 1004 1284 0 0 0 0 0 0 1284
+2 2 212 "100300000" "10030000007120400038" 0 1005 321 0 0 0 0 0 0 321
+2 3 213 "100500000" "10050000007120300005" 0 1005 321 0 0 0 0 0 0 321
+1 2 113 "416800000" "41680000006120400004" 0 4168 1925 3 0 0 0 0 0 1922
+1 1 121 "100500000" "10050000003140100033" 0 4168 1932 2 0 0 0 0 0 1930
+1 3 123 "133300000" "13330000006120400001" 0 1004 1287 3 0 0 0 0 0 1284
+
+[InspectionData]
+Block=0
+BadBoard=0
+BadBlock=0
+BadParts=0
+OKParts=0
+RetryBoard=0
+LotBlock=0
+LotBadBoard=0
+LotBadBlock=0
+LotBadParts=0
+LotOKParts=0
+LotRetryBoard=0
+
