@@ -1,0 +1,11 @@
+cd CRB
+#
+# all machines
+#
+maih2csv.pl -R cicor_20151013 GEN_4052184.CRB
+#
+# only machine 1
+#
+maih2csv.pl -R cicor_20151013 MINI_4072524_15.CRB
+#
+exit 0

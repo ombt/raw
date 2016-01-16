@@ -1,0 +1,11 @@
+cd CRB
+#
+# all machines
+#
+maih2csv.pl -R angelo_npm_w1_0830 PTA635AA001_BA001_CA001.CRB
+#
+# only machine 1
+#
+maih2csv.pl -R angelo_npm_w1_1_0830 PTA635AA001_BA001_CA001.CRB
+#
+exit 0
