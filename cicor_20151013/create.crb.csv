@@ -2,7 +2,7 @@ cd CRB
 #
 # all machines
 #
-maih2csv.pl -R cicor_20151013 GEN_4052184.CRB
-maih2csv.pl -R cicor_20151013 MINI_4072524_15.CRB
+maih2csv.pl -R cicor_20151013 -L GEN_4052184.CRB
+maih2csv.pl -R cicor_20151013 -L MINI_4072524_15.CRB
 #
 exit 0

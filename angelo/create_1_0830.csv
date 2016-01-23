@@ -25,6 +25,6 @@ set -x
 #
 find NPM-W1-1-* -type f -print | 
 egrep '/20130830/' |
-maih2csv.pl -R angelo_npm_w1_1_0830 -r -c -l /tmp/out 
+maih2csv.pl -R angelo_npm_w1_1_0830 -c -l /tmp/out 
 #
 exit 0
