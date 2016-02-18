@@ -1,0 +1,9 @@
+2014-07-14 10:58:12.4980 3580 MES.Runtime 11  calling GetProductsForImport
+2014-07-14 10:58:12.6120 3580 MES.Runtime 1  ApplicationId id : 9999 Mail Box id: 122 Application Name: Panacim Import
+2014-07-14 10:58:13.8321 3580 MES.Runtime 11  received GetProductsForImport response
+2014-07-14 10:58:57.5886 3580 MES.Runtime 1  ApplicationId id : 9999 Mail Box id: 126 Application Name: Panacim Import
+2014-07-15 12:14:48.9553 3580 MES.Runtime 1  ApplicationId id : 9999 Mail Box id: 14 Application Name: Panacim Import
+2014-08-19 17:47:26.3477 896 MES.Runtime 4  calling GetProductsForImport
+2014-08-19 17:47:26.4547 896 MES.Runtime 1  ApplicationId id : 9999 Mail Box id: 594 Application Name: Panacim Import
+2014-08-20 09:22:12.5991 896 MES.Runtime 1  ApplicationId id : 9999 Mail Box id: 626 Application Name: Panacim Import
+2014-08-20 10:16:18.7597 896 MES.Runtime 1  ApplicationId id : 9999 Mail Box id: 6 Application Name: Panacim Import

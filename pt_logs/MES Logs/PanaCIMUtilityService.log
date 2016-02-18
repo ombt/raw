@@ -1,0 +1,923 @@
+2014-04-10 12:27:35.4091 1736 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2014-04-10 12:27:35.4361 1736 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2014-04-10 12:28:47.0372 3672 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2014-04-10 12:28:47.0762 3672 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2014-04-10 12:28:47.9772 3672 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting PanaCIM Utility Service components
+2014-04-10 12:28:49.1673 3672 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Production alerts is not enabled
+2014-04-10 12:28:49.1673 3672 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: EventQueueMonitor
+2014-04-10 12:28:49.1673 3672 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: SystemChecker
+2014-04-10 12:28:49.1803 3672 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: BackupRecoveryCtrlService
+2014-04-10 12:28:49.1943 3672 PanaCIM.Utility.Service 5  PanaCIMUtilityService: PanaCIM Utility Service has started
+2014-04-10 12:34:40.2424 3672 PanaCIM.Utility.Service 7  PanaCIMUtilityService: Stopping PanaCIM Utility Service components
+2014-04-10 12:34:40.2424 3672 PanaCIM.Utility.Service 7  PanaCIMUtilityService: Stopping service component: EventQueueMonitor
+2014-04-10 12:34:40.2594 3672 PanaCIM.Utility.Service 7  PanaCIMUtilityService: Stopping service component: SystemChecker
+2014-04-10 12:34:40.2744 3672 PanaCIM.Utility.Service 7  PanaCIMUtilityService: Stopping service component: BackupRecoveryCtrlService
+2014-04-10 12:34:40.4814 3672 PanaCIM.Utility.Service 7  PanaCIMUtilityService: PanaCIM Utility Service has stopped
+2014-04-10 13:28:32.4753 4636 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2014-04-10 13:28:32.5993 4636 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2014-04-10 13:28:33.2383 4636 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting PanaCIM Utility Service components
+2014-04-10 13:28:35.8615 4636 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Production alerts is not enabled
+2014-04-10 13:28:35.8615 4636 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: EventQueueMonitor
+2014-04-10 13:28:35.8615 4636 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: SystemChecker
+2014-04-10 13:28:35.8755 4636 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: BackupRecoveryCtrlService
+2014-04-10 13:28:36.0685 4636 PanaCIM.Utility.Service 5  PanaCIMUtilityService: PanaCIM Utility Service has started
+2014-04-10 13:28:44.8800 4636 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Stopping PanaCIM Utility Service components
+2014-04-10 13:28:44.8800 4636 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Stopping service component: EventQueueMonitor
+2014-04-10 13:28:44.9690 4636 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Stopping service component: SystemChecker
+2014-04-10 13:28:44.9690 4636 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Stopping service component: BackupRecoveryCtrlService
+2014-04-10 13:28:50.2043 4636 PanaCIM.Utility.Service 5  PanaCIMUtilityService: PanaCIM Utility Service has stopped
+2014-04-10 13:45:27.1383 1840 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2014-04-10 13:45:27.1693 1840 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2014-04-10 13:45:27.6183 1840 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting PanaCIM Utility Service components
+2014-04-10 13:45:28.2144 1840 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Production alerts is not enabled
+2014-04-10 13:45:28.2274 1840 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: EventQueueMonitor
+2014-04-10 13:45:28.2274 1840 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: SystemChecker
+2014-04-10 13:45:28.2274 1840 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: BackupRecoveryCtrlService
+2014-04-10 13:45:28.2444 1840 PanaCIM.Utility.Service 5  PanaCIMUtilityService: PanaCIM Utility Service has started
+2014-04-10 13:45:29.6674 1840 PanaCIM.Utility.Service 7  PanaCIMUtilityService: Stopping PanaCIM Utility Service components
+2014-04-10 13:45:29.6674 1840 PanaCIM.Utility.Service 7  PanaCIMUtilityService: Stopping service component: EventQueueMonitor
+2014-04-10 13:45:29.8945 1840 PanaCIM.Utility.Service 7  PanaCIMUtilityService: Stopping service component: SystemChecker
+2014-04-10 13:45:29.9905 1840 PanaCIM.Utility.Service 7  PanaCIMUtilityService: Stopping service component: BackupRecoveryCtrlService
+2014-04-10 13:45:35.4258 1840 PanaCIM.Utility.Service 7  PanaCIMUtilityService: PanaCIM Utility Service has stopped
+2014-04-10 13:52:19.0639 5000 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2014-04-10 13:52:19.2899 5000 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2014-04-10 13:52:20.0759 5000 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting PanaCIM Utility Service components
+2014-04-10 13:52:21.3800 5000 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Production alerts is not enabled
+2014-04-10 13:52:21.3800 5000 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: EventQueueMonitor
+2014-04-10 13:52:21.3800 5000 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: SystemChecker
+2014-04-10 13:52:21.3970 5000 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: BackupRecoveryCtrlService
+2014-04-10 13:52:21.4130 5000 PanaCIM.Utility.Service 5  PanaCIMUtilityService: PanaCIM Utility Service has started
+2014-04-10 21:14:23.5908 5000 PanaCIM.Utility.Service 7  PanaCIMUtilityService: Stopping PanaCIM Utility Service components
+2014-04-10 21:14:23.6278 5000 PanaCIM.Utility.Service 7  PanaCIMUtilityService: Stopping service component: EventQueueMonitor
+2014-04-10 21:14:23.6549 5000 PanaCIM.Utility.Service 7  PanaCIMUtilityService: Stopping service component: SystemChecker
+2014-04-10 21:14:23.6779 5000 PanaCIM.Utility.Service 7  PanaCIMUtilityService: Stopping service component: BackupRecoveryCtrlService
+2014-04-10 21:14:24.8729 5000 PanaCIM.Utility.Service 7  PanaCIMUtilityService: PanaCIM Utility Service has stopped
+2014-04-10 21:14:27.2411 4032 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2014-04-10 21:14:27.2411 4032 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2014-04-10 21:14:27.7151 4032 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting PanaCIM Utility Service components
+2014-04-10 21:14:29.2702 4032 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Production alerts is not enabled
+2014-04-10 21:14:29.2702 4032 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: EventQueueMonitor
+2014-04-10 21:14:29.2702 4032 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: SystemChecker
+2014-04-10 21:14:29.3092 4032 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: BackupRecoveryCtrlService
+2014-04-10 21:14:29.4472 4032 PanaCIM.Utility.Service 5  PanaCIMUtilityService: PanaCIM Utility Service has started
+2014-04-10 21:16:31.1091 4032 PanaCIM.Utility.Service 7  PanaCIMUtilityService: Stopping PanaCIM Utility Service components
+2014-04-10 21:16:31.1091 4032 PanaCIM.Utility.Service 7  PanaCIMUtilityService: Stopping service component: EventQueueMonitor
+2014-04-10 21:16:31.1091 4032 PanaCIM.Utility.Service 7  PanaCIMUtilityService: Stopping service component: SystemChecker
+2014-04-10 21:16:31.1241 4032 PanaCIM.Utility.Service 7  PanaCIMUtilityService: Stopping service component: BackupRecoveryCtrlService
+2014-04-10 21:16:32.1992 4032 PanaCIM.Utility.Service 7  PanaCIMUtilityService: PanaCIM Utility Service has stopped
+2014-04-10 21:16:34.3353 3768 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2014-04-10 21:16:34.3743 3768 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2014-04-10 21:16:34.5103 3768 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting PanaCIM Utility Service components
+2014-04-10 21:16:34.6773 3768 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Production alerts is not enabled
+2014-04-10 21:16:34.6783 3768 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: EventQueueMonitor
+2014-04-10 21:16:34.6783 3768 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: SystemChecker
+2014-04-10 21:16:34.6783 3768 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: BackupRecoveryCtrlService
+2014-04-10 21:16:34.7613 3768 PanaCIM.Utility.Service 5  PanaCIMUtilityService: PanaCIM Utility Service has started
+2014-04-12 14:49:40.8298 1920 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2014-04-12 14:49:41.2968 1920 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2014-04-12 14:49:41.8338 1920 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting PanaCIM Utility Service components
+2014-04-12 14:49:44.5550 1920 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Production alerts is not enabled
+2014-04-12 14:49:44.5570 1920 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: EventQueueMonitor
+2014-04-12 14:49:44.5570 1920 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: SystemChecker
+2014-04-12 14:49:44.5720 1920 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: BackupRecoveryCtrlService
+2014-04-12 14:49:45.0970 1920 PanaCIM.Utility.Service 5  PanaCIMUtilityService: PanaCIM Utility Service has started
+2014-04-12 14:52:33.7599 1920 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Stopping PanaCIM Utility Service components
+2014-04-12 14:52:33.7599 1920 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Stopping service component: EventQueueMonitor
+2014-04-12 14:52:33.7599 1920 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Stopping service component: SystemChecker
+2014-04-12 14:52:33.7599 1920 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Stopping service component: BackupRecoveryCtrlService
+2014-04-12 14:52:52.8140 1920 PanaCIM.Utility.Service 5  PanaCIMUtilityService: PanaCIM Utility Service has stopped
+2014-04-12 15:03:59.1511 2028 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2014-04-12 15:03:59.1741 2028 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2014-04-12 15:03:59.6361 2028 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting PanaCIM Utility Service components
+2014-04-12 15:04:00.0521 2028 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Production alerts is not enabled
+2014-04-12 15:04:00.0521 2028 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: EventQueueMonitor
+2014-04-12 15:04:00.0521 2028 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: SystemChecker
+2014-04-12 15:04:00.0521 2028 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: BackupRecoveryCtrlService
+2014-04-12 15:04:00.0771 2028 PanaCIM.Utility.Service 5  PanaCIMUtilityService: PanaCIM Utility Service has started
+2014-04-12 15:04:18.4312 2028 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Stopping PanaCIM Utility Service components
+2014-04-12 15:04:18.4312 2028 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Stopping service component: EventQueueMonitor
+2014-04-12 15:04:18.4312 2028 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Stopping service component: SystemChecker
+2014-04-12 15:04:18.4472 2028 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Stopping service component: BackupRecoveryCtrlService
+2014-04-12 15:04:19.5623 2028 PanaCIM.Utility.Service 5  PanaCIMUtilityService: PanaCIM Utility Service has stopped
+2014-04-12 15:14:09.6120 3560 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2014-04-12 15:14:09.9010 3560 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2014-04-12 15:14:10.9131 3560 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting PanaCIM Utility Service components
+2014-04-12 15:14:12.3572 3560 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Production alerts is not enabled
+2014-04-12 15:14:12.3572 3560 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: EventQueueMonitor
+2014-04-12 15:14:12.3572 3560 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: SystemChecker
+2014-04-12 15:14:12.3942 3560 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: BackupRecoveryCtrlService
+2014-04-12 15:14:13.5822 3560 PanaCIM.Utility.Service 5  PanaCIMUtilityService: PanaCIM Utility Service has started
+2014-04-12 15:15:25.4113 3560 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Stopping PanaCIM Utility Service components
+2014-04-12 15:15:25.4113 3560 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Stopping service component: EventQueueMonitor
+2014-04-12 15:15:25.9044 3560 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Stopping service component: SystemChecker
+2014-04-12 15:15:25.9764 3560 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Stopping service component: BackupRecoveryCtrlService
+2014-04-12 15:15:27.0084 3560 PanaCIM.Utility.Service 5  PanaCIMUtilityService: PanaCIM Utility Service has stopped
+2014-04-12 15:28:11.8802 4308 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2014-04-12 15:28:11.9282 4308 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2014-04-12 15:28:12.3512 4308 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting PanaCIM Utility Service components
+2014-04-12 15:28:12.8222 4308 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Production alerts is not enabled
+2014-04-12 15:28:12.8222 4308 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: EventQueueMonitor
+2014-04-12 15:28:12.8222 4308 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: SystemChecker
+2014-04-12 15:28:12.8272 4308 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: BackupRecoveryCtrlService
+2014-04-12 15:28:12.8592 4308 PanaCIM.Utility.Service 5  PanaCIMUtilityService: PanaCIM Utility Service has started
+2014-04-16 14:45:06.2181 4308 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Stopping PanaCIM Utility Service components
+2014-04-16 14:45:06.2181 4308 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Stopping service component: EventQueueMonitor
+2014-04-16 14:45:06.2241 4308 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Stopping service component: SystemChecker
+2014-04-16 14:45:06.2371 4308 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Stopping service component: BackupRecoveryCtrlService
+2014-04-16 14:45:06.4431 4308 PanaCIM.Utility.Service 5  PanaCIMUtilityService: PanaCIM Utility Service has stopped
+2014-04-16 14:46:06.0846 3756 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2014-04-16 14:46:06.1146 3756 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2014-04-16 14:46:06.2866 3756 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting PanaCIM Utility Service components
+2014-04-16 14:46:06.4086 3756 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Production alerts is not enabled
+2014-04-16 14:46:06.4086 3756 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: EventQueueMonitor
+2014-04-16 14:46:06.4086 3756 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: SystemChecker
+2014-04-16 14:46:06.4086 3756 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: BackupRecoveryCtrlService
+2014-04-16 14:46:06.5306 3756 PanaCIM.Utility.Service 5  PanaCIMUtilityService: PanaCIM Utility Service has started
+2014-04-16 15:24:00.9009 436 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2014-04-16 15:24:00.9279 436 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2014-04-16 15:24:01.8409 436 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting PanaCIM Utility Service components
+2014-04-16 15:24:02.6590 436 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Production alerts is not enabled
+2014-04-16 15:24:02.6590 436 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: EventQueueMonitor
+2014-04-16 15:24:02.6590 436 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: SystemChecker
+2014-04-16 15:24:02.6640 436 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: BackupRecoveryCtrlService
+2014-04-16 15:24:03.1210 436 PanaCIM.Utility.Service 5  PanaCIMUtilityService: PanaCIM Utility Service has started
+2014-04-16 15:30:45.1835 436 PanaCIM.Utility.Service 7  PanaCIMUtilityService: Stopping PanaCIM Utility Service components
+2014-04-16 15:30:45.1835 436 PanaCIM.Utility.Service 7  PanaCIMUtilityService: Stopping service component: EventQueueMonitor
+2014-04-16 15:30:45.1845 436 PanaCIM.Utility.Service 7  PanaCIMUtilityService: Stopping service component: SystemChecker
+2014-04-16 15:30:45.2015 436 PanaCIM.Utility.Service 7  PanaCIMUtilityService: Stopping service component: BackupRecoveryCtrlService
+2014-04-16 15:30:49.0177 436 PanaCIM.Utility.Service 7  PanaCIMUtilityService: PanaCIM Utility Service has stopped
+2014-04-16 15:33:09.5327 5036 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2014-04-16 15:33:09.5637 5036 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2014-04-16 15:33:09.9168 5036 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting PanaCIM Utility Service components
+2014-04-16 15:33:10.4498 5036 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Production alerts is not enabled
+2014-04-16 15:33:10.4498 5036 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: EventQueueMonitor
+2014-04-16 15:33:10.4498 5036 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: SystemChecker
+2014-04-16 15:33:10.4528 5036 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: BackupRecoveryCtrlService
+2014-04-16 15:33:10.9988 5036 PanaCIM.Utility.Service 5  PanaCIMUtilityService: PanaCIM Utility Service has started
+2014-04-16 15:39:34.5668 5036 PanaCIM.Utility.Service 14  PanaCIMUtilityService: Stopping PanaCIM Utility Service components
+2014-04-16 15:39:34.5668 5036 PanaCIM.Utility.Service 14  PanaCIMUtilityService: Stopping service component: EventQueueMonitor
+2014-04-16 15:39:34.5668 5036 PanaCIM.Utility.Service 14  PanaCIMUtilityService: Stopping service component: SystemChecker
+2014-04-16 15:39:34.5738 5036 PanaCIM.Utility.Service 14  PanaCIMUtilityService: Stopping service component: BackupRecoveryCtrlService
+2014-04-16 15:39:35.7948 5036 PanaCIM.Utility.Service 14  PanaCIMUtilityService: PanaCIM Utility Service has stopped
+2014-04-16 15:55:45.6403 948 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2014-04-16 15:55:45.6723 948 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2014-04-16 15:55:46.1243 948 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting PanaCIM Utility Service components
+2014-04-16 15:55:46.5464 948 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Production alerts is not enabled
+2014-04-16 15:55:46.5464 948 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: EventQueueMonitor
+2014-04-16 15:55:46.5464 948 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: SystemChecker
+2014-04-16 15:55:46.5534 948 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: BackupRecoveryCtrlService
+2014-04-16 15:55:46.5784 948 PanaCIM.Utility.Service 5  PanaCIMUtilityService: PanaCIM Utility Service has started
+2014-04-16 15:55:49.2775 948 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Stopping PanaCIM Utility Service components
+2014-04-16 15:55:49.2775 948 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Stopping service component: EventQueueMonitor
+2014-04-16 15:55:49.2945 948 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Stopping service component: SystemChecker
+2014-04-16 15:55:49.3005 948 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Stopping service component: BackupRecoveryCtrlService
+2014-04-16 15:55:50.5486 948 PanaCIM.Utility.Service 5  PanaCIMUtilityService: PanaCIM Utility Service has stopped
+2014-04-16 16:11:19.4337 2668 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2014-04-16 16:11:19.4997 2668 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2014-04-16 16:11:20.0488 2668 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting PanaCIM Utility Service components
+2014-04-16 16:11:21.0038 2668 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Production alerts is not enabled
+2014-04-16 16:11:21.0038 2668 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: EventQueueMonitor
+2014-04-16 16:11:21.0038 2668 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: SystemChecker
+2014-04-16 16:11:21.0418 2668 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: BackupRecoveryCtrlService
+2014-04-16 16:11:21.2148 2668 PanaCIM.Utility.Service 5  PanaCIMUtilityService: PanaCIM Utility Service has started
+2014-04-16 16:11:44.2751 2668 PanaCIM.Utility.Service 7  PanaCIMUtilityService: Stopping PanaCIM Utility Service components
+2014-04-16 16:11:44.2751 2668 PanaCIM.Utility.Service 7  PanaCIMUtilityService: Stopping service component: EventQueueMonitor
+2014-04-16 16:11:44.2751 2668 PanaCIM.Utility.Service 7  PanaCIMUtilityService: Stopping service component: SystemChecker
+2014-04-16 16:11:44.2751 2668 PanaCIM.Utility.Service 7  PanaCIMUtilityService: Stopping service component: BackupRecoveryCtrlService
+2014-04-16 16:11:44.9032 2668 PanaCIM.Utility.Service 7  PanaCIMUtilityService: PanaCIM Utility Service has stopped
+2014-04-16 16:18:53.2457 1596 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2014-04-16 16:18:53.2997 1596 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2014-04-16 16:18:53.7377 1596 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting PanaCIM Utility Service components
+2014-04-16 16:18:54.3697 1596 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Production alerts is not enabled
+2014-04-16 16:18:54.3697 1596 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: EventQueueMonitor
+2014-04-16 16:18:54.3697 1596 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: SystemChecker
+2014-04-16 16:18:54.4087 1596 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: BackupRecoveryCtrlService
+2014-04-16 16:18:54.5997 1596 PanaCIM.Utility.Service 5  PanaCIMUtilityService: PanaCIM Utility Service has started
+2014-04-16 16:24:24.3321 1916 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2014-04-16 16:24:24.6582 1916 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2014-04-16 16:24:25.6382 1916 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting PanaCIM Utility Service components
+2014-04-16 16:24:27.9593 1916 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Production alerts is not enabled
+2014-04-16 16:24:27.9593 1916 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: EventQueueMonitor
+2014-04-16 16:24:27.9593 1916 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: SystemChecker
+2014-04-16 16:24:27.9663 1916 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: BackupRecoveryCtrlService
+2014-04-16 16:24:28.3114 1916 PanaCIM.Utility.Service 5  PanaCIMUtilityService: PanaCIM Utility Service has started
+2014-04-17 10:03:53.0997 1984 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2014-04-17 10:03:53.3347 1984 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2014-04-17 10:03:53.9537 1984 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting PanaCIM Utility Service components
+2014-04-17 10:03:54.7738 1984 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Production alerts is not enabled
+2014-04-17 10:03:54.7738 1984 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: EventQueueMonitor
+2014-04-17 10:03:54.7738 1984 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: SystemChecker
+2014-04-17 10:03:54.7858 1984 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: BackupRecoveryCtrlService
+2014-04-17 10:03:54.9648 1984 PanaCIM.Utility.Service 5  PanaCIMUtilityService: PanaCIM Utility Service has started
+2014-04-17 12:56:36.1148 1328 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2014-04-17 12:56:36.3228 1328 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2014-04-17 12:56:37.2539 1328 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting PanaCIM Utility Service components
+2014-04-17 12:56:41.3961 1328 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Production alerts is not enabled
+2014-04-17 12:56:41.3961 1328 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: EventQueueMonitor
+2014-04-17 12:56:41.3961 1328 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: SystemChecker
+2014-04-17 12:56:41.4071 1328 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: BackupRecoveryCtrlService
+2014-04-17 12:56:41.8141 1328 PanaCIM.Utility.Service 5  PanaCIMUtilityService: PanaCIM Utility Service has started
+2014-04-17 17:50:40.6741 1328 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Stopping PanaCIM Utility Service components
+2014-04-17 17:50:40.6821 1328 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Stopping service component: EventQueueMonitor
+2014-04-17 17:50:40.7011 1328 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Stopping service component: SystemChecker
+2014-04-17 17:50:40.7651 1328 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Stopping service component: BackupRecoveryCtrlService
+2014-04-17 17:50:40.9901 1328 PanaCIM.Utility.Service 5  PanaCIMUtilityService: PanaCIM Utility Service has stopped
+2014-04-17 17:51:41.4105 5116 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2014-04-17 17:51:41.4185 5116 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2014-04-17 17:51:41.5435 5116 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting PanaCIM Utility Service components
+2014-04-17 17:51:41.6375 5116 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Production alerts is not enabled
+2014-04-17 17:51:41.6375 5116 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: EventQueueMonitor
+2014-04-17 17:51:41.6375 5116 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: SystemChecker
+2014-04-17 17:51:41.6465 5116 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: BackupRecoveryCtrlService
+2014-04-17 17:51:42.4736 5116 PanaCIM.Utility.Service 5  PanaCIMUtilityService: PanaCIM Utility Service has started
+2014-04-18 09:24:05.3491 1932 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2014-04-18 09:24:05.4531 1932 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2014-04-18 09:24:06.3601 1932 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting PanaCIM Utility Service components
+2014-04-18 09:24:07.7582 1932 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Production alerts is not enabled
+2014-04-18 09:24:07.7582 1932 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: EventQueueMonitor
+2014-04-18 09:24:07.7582 1932 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: SystemChecker
+2014-04-18 09:24:07.7732 1932 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: BackupRecoveryCtrlService
+2014-04-18 09:24:07.9522 1932 PanaCIM.Utility.Service 5  PanaCIMUtilityService: PanaCIM Utility Service has started
+2014-04-18 14:23:10.1505 1932 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Stopping PanaCIM Utility Service components
+2014-04-18 14:23:10.2025 1932 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Stopping service component: EventQueueMonitor
+2014-04-18 14:23:10.2965 1932 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Stopping service component: SystemChecker
+2014-04-18 14:23:10.4315 1932 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Stopping service component: BackupRecoveryCtrlService
+2014-04-18 14:23:10.9545 1932 PanaCIM.Utility.Service 5  PanaCIMUtilityService: PanaCIM Utility Service has stopped
+2014-04-18 14:24:14.7092 3820 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2014-04-18 14:24:14.7242 3820 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2014-04-18 14:24:14.8682 3820 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting PanaCIM Utility Service components
+2014-04-18 14:24:14.9732 3820 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Production alerts is not enabled
+2014-04-18 14:24:14.9732 3820 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: EventQueueMonitor
+2014-04-18 14:24:14.9832 3820 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: SystemChecker
+2014-04-18 14:24:14.9832 3820 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: BackupRecoveryCtrlService
+2014-04-18 14:24:15.0962 3820 PanaCIM.Utility.Service 5  PanaCIMUtilityService: PanaCIM Utility Service has started
+2014-04-22 09:05:00.5168 1764 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2014-04-22 09:05:00.7008 1764 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2014-04-22 09:05:01.7409 1764 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting PanaCIM Utility Service components
+2014-04-22 09:05:02.4479 1764 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Production alerts is not enabled
+2014-04-22 09:05:02.4479 1764 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: EventQueueMonitor
+2014-04-22 09:05:02.4529 1764 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: SystemChecker
+2014-04-22 09:05:02.4529 1764 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: BackupRecoveryCtrlService
+2014-04-22 09:05:03.0609 1764 PanaCIM.Utility.Service 5  PanaCIMUtilityService: PanaCIM Utility Service has started
+2014-04-22 15:31:07.7802 884 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2014-04-22 15:31:07.8552 884 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2014-04-22 15:31:08.7383 884 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting PanaCIM Utility Service components
+2014-04-22 15:31:09.8634 884 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Production alerts is not enabled
+2014-04-22 15:31:09.8634 884 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: EventQueueMonitor
+2014-04-22 15:31:09.8704 884 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: SystemChecker
+2014-04-22 15:31:09.8704 884 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: BackupRecoveryCtrlService
+2014-04-22 15:31:09.9794 884 PanaCIM.Utility.Service 5  PanaCIMUtilityService: PanaCIM Utility Service has started
+2014-04-22 16:12:12.7596 884 PanaCIM.Utility.Service 7  PanaCIMUtilityService: Stopping PanaCIM Utility Service components
+2014-04-22 16:12:12.7596 884 PanaCIM.Utility.Service 7  PanaCIMUtilityService: Stopping service component: EventQueueMonitor
+2014-04-22 16:12:12.7606 884 PanaCIM.Utility.Service 7  PanaCIMUtilityService: Stopping service component: SystemChecker
+2014-04-22 16:12:12.7796 884 PanaCIM.Utility.Service 7  PanaCIMUtilityService: Stopping service component: BackupRecoveryCtrlService
+2014-04-22 16:12:13.8017 884 PanaCIM.Utility.Service 7  PanaCIMUtilityService: PanaCIM Utility Service has stopped
+2014-04-22 16:13:06.9707 652 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2014-04-22 16:13:06.9867 652 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2014-04-22 16:13:07.1117 652 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting PanaCIM Utility Service components
+2014-04-22 16:13:07.1617 652 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Production alerts is not enabled
+2014-04-22 16:13:07.1617 652 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: EventQueueMonitor
+2014-04-22 16:13:07.1617 652 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: SystemChecker
+2014-04-22 16:13:07.1737 652 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: BackupRecoveryCtrlService
+2014-04-22 16:13:07.2518 652 PanaCIM.Utility.Service 5  PanaCIMUtilityService: PanaCIM Utility Service has started
+2014-04-22 16:59:28.6958 652 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Stopping PanaCIM Utility Service components
+2014-04-22 16:59:28.6958 652 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Stopping service component: EventQueueMonitor
+2014-04-22 16:59:28.6958 652 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Stopping service component: SystemChecker
+2014-04-22 16:59:28.7028 652 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Stopping service component: BackupRecoveryCtrlService
+2014-04-22 16:59:29.7689 652 PanaCIM.Utility.Service 5  PanaCIMUtilityService: PanaCIM Utility Service has stopped
+2014-04-22 17:00:21.6329 3600 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2014-04-22 17:00:21.6409 3600 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2014-04-22 17:00:21.8069 3600 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting PanaCIM Utility Service components
+2014-04-22 17:00:21.8689 3600 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Production alerts is not enabled
+2014-04-22 17:00:21.8689 3600 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: EventQueueMonitor
+2014-04-22 17:00:21.8689 3600 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: SystemChecker
+2014-04-22 17:00:21.8689 3600 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: BackupRecoveryCtrlService
+2014-04-22 17:00:21.9539 3600 PanaCIM.Utility.Service 5  PanaCIMUtilityService: PanaCIM Utility Service has started
+2014-04-23 09:28:57.3625 1988 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2014-04-23 09:28:57.4335 1988 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2014-04-23 09:28:58.4816 1988 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting PanaCIM Utility Service components
+2014-04-23 09:28:59.1066 1988 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Production alerts is not enabled
+2014-04-23 09:28:59.1066 1988 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: EventQueueMonitor
+2014-04-23 09:28:59.1066 1988 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: SystemChecker
+2014-04-23 09:28:59.1226 1988 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: BackupRecoveryCtrlService
+2014-04-23 09:28:59.1986 1988 PanaCIM.Utility.Service 5  PanaCIMUtilityService: PanaCIM Utility Service has started
+2014-04-24 09:31:01.7145 232 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2014-04-24 09:31:01.7525 232 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2014-04-24 09:31:03.0546 232 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting PanaCIM Utility Service components
+2014-04-24 09:31:03.9357 232 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Production alerts is not enabled
+2014-04-24 09:31:03.9357 232 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: EventQueueMonitor
+2014-04-24 09:31:03.9357 232 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: SystemChecker
+2014-04-24 09:31:03.9397 232 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: BackupRecoveryCtrlService
+2014-04-24 09:31:04.3247 232 PanaCIM.Utility.Service 5  PanaCIMUtilityService: PanaCIM Utility Service has started
+2014-04-28 10:50:30.4673 1980 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2014-04-28 10:50:30.6323 1980 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2014-04-28 10:50:33.9785 1980 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting PanaCIM Utility Service components
+2014-04-28 10:50:35.2396 1980 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Production alerts is not enabled
+2014-04-28 10:50:35.2396 1980 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: EventQueueMonitor
+2014-04-28 10:50:35.2396 1980 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: SystemChecker
+2014-04-28 10:50:35.2496 1980 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: BackupRecoveryCtrlService
+2014-04-28 10:50:36.1356 1980 PanaCIM.Utility.Service 5  PanaCIMUtilityService: PanaCIM Utility Service has started
+2014-05-13 12:10:46.4085 2008 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2014-05-13 12:10:46.6665 2008 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2014-05-13 12:10:47.2626 2008 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting PanaCIM Utility Service components
+2014-05-13 12:10:47.9686 2008 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Production alerts is not enabled
+2014-05-13 12:10:47.9686 2008 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: EventQueueMonitor
+2014-05-13 12:10:47.9686 2008 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: SystemChecker
+2014-05-13 12:10:47.9836 2008 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: BackupRecoveryCtrlService
+2014-05-13 12:10:48.5346 2008 PanaCIM.Utility.Service 5  PanaCIMUtilityService: PanaCIM Utility Service has started
+2014-07-07 11:16:51.5179 852 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2014-07-07 11:16:51.8519 852 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2014-07-07 11:16:52.2139 852 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting PanaCIM Utility Service components
+2014-07-07 11:16:53.0740 852 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Production alerts is not enabled
+2014-07-07 11:16:53.0740 852 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: EventQueueMonitor
+2014-07-07 11:16:53.0740 852 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: SystemChecker
+2014-07-07 11:16:53.0870 852 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: BackupRecoveryCtrlService
+2014-07-07 11:16:53.1390 852 PanaCIM.Utility.Service 5  PanaCIMUtilityService: PanaCIM Utility Service has started
+2014-07-07 11:22:37.7282 852 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Stopping PanaCIM Utility Service components
+2014-07-07 11:22:37.7472 852 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Stopping service component: EventQueueMonitor
+2014-07-07 11:22:37.7472 852 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Stopping service component: SystemChecker
+2014-07-07 11:22:37.7712 852 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Stopping service component: BackupRecoveryCtrlService
+2014-07-07 11:22:38.8903 852 PanaCIM.Utility.Service 4  PanaCIMUtilityService: PanaCIM Utility Service has stopped
+2014-07-07 11:47:30.3076 3268 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2014-07-07 11:47:30.5456 3268 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2014-07-07 11:47:30.8916 3268 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting PanaCIM Utility Service components
+2014-07-07 11:47:32.0557 3268 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Production alerts is not enabled
+2014-07-07 11:47:32.0557 3268 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: EventQueueMonitor
+2014-07-07 11:47:32.0557 3268 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: SystemChecker
+2014-07-07 11:47:32.1097 3268 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: BackupRecoveryCtrlService
+2014-07-07 11:47:32.3427 3268 PanaCIM.Utility.Service 5  PanaCIMUtilityService: PanaCIM Utility Service has started
+2014-07-07 13:51:16.1220 3268 PanaCIM.Utility.Service 6  PanaCIMUtilityService: Stopping PanaCIM Utility Service components
+2014-07-07 13:51:16.1220 3268 PanaCIM.Utility.Service 6  PanaCIMUtilityService: Stopping service component: EventQueueMonitor
+2014-07-07 13:51:16.1850 3268 PanaCIM.Utility.Service 6  PanaCIMUtilityService: Stopping service component: SystemChecker
+2014-07-07 13:51:16.2780 3268 PanaCIM.Utility.Service 6  PanaCIMUtilityService: Stopping service component: BackupRecoveryCtrlService
+2014-07-07 13:51:16.9430 3268 PanaCIM.Utility.Service 6  PanaCIMUtilityService: PanaCIM Utility Service has stopped
+2014-07-07 13:53:09.0344 3936 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2014-07-07 13:53:09.2694 3936 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2014-07-07 13:53:09.4204 3936 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting PanaCIM Utility Service components
+2014-07-07 13:53:09.5924 3936 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Production alerts is not enabled
+2014-07-07 13:53:09.5924 3936 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: EventQueueMonitor
+2014-07-07 13:53:09.6224 3936 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: SystemChecker
+2014-07-07 13:53:09.6294 3936 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: BackupRecoveryCtrlService
+2014-07-07 13:53:09.7725 3936 PanaCIM.Utility.Service 5  PanaCIMUtilityService: PanaCIM Utility Service has started
+2014-07-07 14:13:20.3475 596 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2014-07-07 14:13:20.5365 596 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2014-07-07 14:13:23.9757 596 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting PanaCIM Utility Service components
+2014-07-07 14:13:26.7519 596 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Production alerts is not enabled
+2014-07-07 14:13:26.7519 596 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: EventQueueMonitor
+2014-07-07 14:13:26.7519 596 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: SystemChecker
+2014-07-07 14:13:26.7639 596 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: BackupRecoveryCtrlService
+2014-07-07 14:13:27.2909 596 PanaCIM.Utility.Service 5  PanaCIMUtilityService: PanaCIM Utility Service has started
+2014-07-07 15:14:39.7798 596 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Stopping PanaCIM Utility Service components
+2014-07-07 15:14:39.7798 596 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Stopping service component: EventQueueMonitor
+2014-07-07 15:14:39.7798 596 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Stopping service component: SystemChecker
+2014-07-07 15:14:39.7898 596 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Stopping service component: BackupRecoveryCtrlService
+2014-07-07 15:14:40.0428 596 PanaCIM.Utility.Service 5  PanaCIMUtilityService: PanaCIM Utility Service has stopped
+2014-07-07 15:21:36.4966 3056 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2014-07-07 15:21:36.5196 3056 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2014-07-07 15:21:36.6716 3056 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting PanaCIM Utility Service components
+2014-07-07 15:21:36.9376 3056 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Production alerts is not enabled
+2014-07-07 15:21:36.9376 3056 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: EventQueueMonitor
+2014-07-07 15:21:36.9526 3056 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: SystemChecker
+2014-07-07 15:21:36.9996 3056 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: BackupRecoveryCtrlService
+2014-07-07 15:21:37.1046 3056 PanaCIM.Utility.Service 5  PanaCIMUtilityService: PanaCIM Utility Service has started
+2014-07-07 15:50:35.3696 1632 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2014-07-07 15:50:35.7707 1632 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2014-07-07 15:50:37.2878 1632 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting PanaCIM Utility Service components
+2014-07-07 15:50:43.8541 1632 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Production alerts is not enabled
+2014-07-07 15:50:43.8541 1632 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: EventQueueMonitor
+2014-07-07 15:50:43.8541 1632 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: SystemChecker
+2014-07-07 15:50:43.9201 1632 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: BackupRecoveryCtrlService
+2014-07-07 15:50:44.3702 1632 PanaCIM.Utility.Service 5  PanaCIMUtilityService: PanaCIM Utility Service has started
+2014-07-08 15:21:35.1428 888 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2014-07-08 15:21:36.1549 888 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2014-07-08 15:21:39.6631 888 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting PanaCIM Utility Service components
+2014-07-08 15:21:46.9135 888 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Production alerts is not enabled
+2014-07-08 15:21:46.9135 888 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: EventQueueMonitor
+2014-07-08 15:21:46.9395 888 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: SystemChecker
+2014-07-08 15:21:47.0255 888 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: BackupRecoveryCtrlService
+2014-07-08 15:21:47.4615 888 PanaCIM.Utility.Service 5  PanaCIMUtilityService: PanaCIM Utility Service has started
+2014-07-08 17:35:25.3763 2132 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2014-07-08 17:35:25.3853 2132 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2014-07-08 17:35:40.7992 4460 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2014-07-08 17:35:40.8162 4460 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2014-07-08 17:50:16.6063 4712 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2014-07-08 17:50:16.6303 4712 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2014-07-08 17:50:16.7733 4712 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting PanaCIM Utility Service components
+2014-07-08 17:50:17.5984 4712 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Production alerts is not enabled
+2014-07-08 17:50:17.5984 4712 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: EventQueueMonitor
+2014-07-08 17:50:17.5984 4712 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: SystemChecker
+2014-07-08 17:50:17.6164 4712 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: BackupRecoveryCtrlService
+2014-07-08 17:50:18.0194 4712 PanaCIM.Utility.Service 5  PanaCIMUtilityService: PanaCIM Utility Service has started
+2014-07-09 14:54:30.5167 4712 PanaCIM.Utility.Service 12  PanaCIMUtilityService: Stopping PanaCIM Utility Service components
+2014-07-09 14:54:30.5537 4712 PanaCIM.Utility.Service 12  PanaCIMUtilityService: Stopping service component: EventQueueMonitor
+2014-07-09 14:54:30.5537 4712 PanaCIM.Utility.Service 12  PanaCIMUtilityService: Stopping service component: SystemChecker
+2014-07-09 14:54:30.5537 4712 PanaCIM.Utility.Service 12  PanaCIMUtilityService: Stopping service component: BackupRecoveryCtrlService
+2014-07-09 14:54:31.7938 4712 PanaCIM.Utility.Service 12  PanaCIMUtilityService: PanaCIM Utility Service has stopped
+2014-07-09 14:54:33.7809 2540 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2014-07-09 14:54:33.7889 2540 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2014-07-09 14:54:33.9289 2540 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting PanaCIM Utility Service components
+2014-07-09 14:54:34.1909 2540 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Production alerts is not enabled
+2014-07-09 14:54:34.1909 2540 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: EventQueueMonitor
+2014-07-09 14:54:34.1909 2540 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: SystemChecker
+2014-07-09 14:54:34.2089 2540 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: BackupRecoveryCtrlService
+2014-07-09 14:54:34.2649 2540 PanaCIM.Utility.Service 5  PanaCIMUtilityService: PanaCIM Utility Service has started
+2014-07-09 14:56:10.3964 2540 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Stopping PanaCIM Utility Service components
+2014-07-09 14:56:10.3964 2540 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Stopping service component: EventQueueMonitor
+2014-07-09 14:56:10.4244 2540 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Stopping service component: SystemChecker
+2014-07-09 14:56:10.4244 2540 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Stopping service component: BackupRecoveryCtrlService
+2014-07-09 14:56:11.1895 2540 PanaCIM.Utility.Service 5  PanaCIMUtilityService: PanaCIM Utility Service has stopped
+2014-07-09 14:56:12.5206 608 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2014-07-09 14:56:12.5666 608 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2014-07-09 14:56:12.7146 608 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting PanaCIM Utility Service components
+2014-07-09 14:56:12.7966 608 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Production alerts is not enabled
+2014-07-09 14:56:12.7966 608 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: EventQueueMonitor
+2014-07-09 14:56:12.7966 608 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: SystemChecker
+2014-07-09 14:56:12.8146 608 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: BackupRecoveryCtrlService
+2014-07-09 14:56:12.8936 608 PanaCIM.Utility.Service 5  PanaCIMUtilityService: PanaCIM Utility Service has started
+2014-07-09 15:00:06.1984 1916 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2014-07-09 15:00:06.4365 1916 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2014-07-09 15:00:07.0535 1916 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting PanaCIM Utility Service components
+2014-07-09 15:00:09.1526 1916 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Production alerts is not enabled
+2014-07-09 15:00:09.1526 1916 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: EventQueueMonitor
+2014-07-09 15:00:09.1526 1916 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: SystemChecker
+2014-07-09 15:00:09.1656 1916 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: BackupRecoveryCtrlService
+2014-07-09 15:00:09.4276 1916 PanaCIM.Utility.Service 5  PanaCIMUtilityService: PanaCIM Utility Service has started
+2014-07-15 12:25:34.1491 1352 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2014-07-15 12:25:34.2642 1352 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2014-07-15 12:25:35.3062 1352 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting PanaCIM Utility Service components
+2014-07-15 12:25:36.2133 1352 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Production alerts is not enabled
+2014-07-15 12:25:36.2133 1352 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: EventQueueMonitor
+2014-07-15 12:25:36.2133 1352 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: SystemChecker
+2014-07-15 12:25:36.2273 1352 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: BackupRecoveryCtrlService
+2014-07-15 12:25:36.2803 1352 PanaCIM.Utility.Service 5  PanaCIMUtilityService: PanaCIM Utility Service has started
+2014-07-23 11:36:57.9359 1352 PanaCIM.Utility.Service 23  PanaCIMUtilityService: Stopping PanaCIM Utility Service components
+2014-07-23 11:36:57.9899 1352 PanaCIM.Utility.Service 23  PanaCIMUtilityService: Stopping service component: EventQueueMonitor
+2014-07-23 11:36:58.0949 1352 PanaCIM.Utility.Service 23  PanaCIMUtilityService: Stopping service component: SystemChecker
+2014-07-23 11:36:58.1289 1352 PanaCIM.Utility.Service 23  PanaCIMUtilityService: Stopping service component: BackupRecoveryCtrlService
+2014-07-23 11:37:01.5411 1352 PanaCIM.Utility.Service 23  PanaCIMUtilityService: PanaCIM Utility Service has stopped
+2014-07-23 12:12:03.5704 588 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2014-07-23 12:12:03.6894 588 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2014-07-23 12:12:04.6344 588 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting PanaCIM Utility Service components
+2014-07-23 12:12:06.9205 588 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Production alerts is not enabled
+2014-07-23 12:12:06.9205 588 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: EventQueueMonitor
+2014-07-23 12:12:06.9205 588 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: SystemChecker
+2014-07-23 12:12:07.0246 588 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: BackupRecoveryCtrlService
+2014-07-23 12:12:07.5446 588 PanaCIM.Utility.Service 5  PanaCIMUtilityService: PanaCIM Utility Service has started
+2014-08-06 10:18:35.6819 1932 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2014-08-06 10:18:35.9679 1932 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2014-08-06 10:18:36.6229 1932 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting PanaCIM Utility Service components
+2014-08-06 10:18:37.7740 1932 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Production alerts is not enabled
+2014-08-06 10:18:37.7760 1932 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: EventQueueMonitor
+2014-08-06 10:18:37.7760 1932 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: SystemChecker
+2014-08-06 10:18:37.7930 1932 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: BackupRecoveryCtrlService
+2014-08-06 10:18:37.9560 1932 PanaCIM.Utility.Service 5  PanaCIMUtilityService: PanaCIM Utility Service has started
+2014-08-06 10:44:30.8238 1912 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2014-08-06 10:44:30.9038 1912 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2014-08-06 10:44:31.4639 1912 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting PanaCIM Utility Service components
+2014-08-06 10:44:32.8940 1912 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Production alerts is not enabled
+2014-08-06 10:44:32.8940 1912 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: EventQueueMonitor
+2014-08-06 10:44:32.8940 1912 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: SystemChecker
+2014-08-06 10:44:32.9080 1912 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: BackupRecoveryCtrlService
+2014-08-06 10:44:32.9860 1912 PanaCIM.Utility.Service 5  PanaCIMUtilityService: PanaCIM Utility Service has started
+2014-08-07 15:12:04.3766 4176 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2014-08-07 15:12:04.4316 4176 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2014-08-07 15:12:15.7173 3328 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2014-08-07 15:12:15.7253 3328 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2014-08-07 15:40:31.8253 2656 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2014-08-07 15:40:31.8473 2656 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2014-08-07 15:40:31.9713 2656 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting PanaCIM Utility Service components
+2014-08-07 15:40:32.1083 2656 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Production alerts is not enabled
+2014-08-07 15:40:32.1083 2656 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: EventQueueMonitor
+2014-08-07 15:40:32.1083 2656 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: SystemChecker
+2014-08-07 15:40:32.1083 2656 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: BackupRecoveryCtrlService
+2014-08-07 15:40:32.1843 2656 PanaCIM.Utility.Service 5  PanaCIMUtilityService: PanaCIM Utility Service has started
+2014-08-07 15:43:38.9110 3988 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2014-08-07 15:43:39.0100 3988 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2014-08-07 15:43:50.9867 2108 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2014-08-07 15:43:50.9937 2108 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2014-08-07 15:44:57.1854 756 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2014-08-07 15:44:57.1994 756 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2014-08-07 15:44:57.3264 756 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting PanaCIM Utility Service components
+2014-08-07 15:44:57.4155 756 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Production alerts is not enabled
+2014-08-07 15:44:57.4155 756 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: EventQueueMonitor
+2014-08-07 15:44:57.4155 756 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: SystemChecker
+2014-08-07 15:44:57.4155 756 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: BackupRecoveryCtrlService
+2014-08-07 15:44:57.6055 756 PanaCIM.Utility.Service 5  PanaCIMUtilityService: PanaCIM Utility Service has started
+2014-08-20 11:42:53.6670 1952 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2014-08-20 11:42:54.8251 1952 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2014-08-20 11:42:55.8992 1952 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting PanaCIM Utility Service components
+2014-08-20 11:43:00.5964 1952 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Production alerts is not enabled
+2014-08-20 11:43:00.5964 1952 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: EventQueueMonitor
+2014-08-20 11:43:00.6084 1952 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: SystemChecker
+2014-08-20 11:43:00.7184 1952 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: BackupRecoveryCtrlService
+2014-08-20 11:43:01.0765 1952 PanaCIM.Utility.Service 5  PanaCIMUtilityService: PanaCIM Utility Service has started
+2014-08-20 17:28:45.9190 1952 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Stopping PanaCIM Utility Service components
+2014-08-20 17:28:45.9190 1952 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Stopping service component: EventQueueMonitor
+2014-08-20 17:28:46.0090 1952 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Stopping service component: SystemChecker
+2014-08-20 17:28:46.0810 1952 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Stopping service component: BackupRecoveryCtrlService
+2014-08-20 17:28:47.4971 1952 PanaCIM.Utility.Service 5  PanaCIMUtilityService: PanaCIM Utility Service has stopped
+2014-08-20 17:30:11.3589 1880 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2014-08-20 17:30:11.3849 1880 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2014-08-20 17:30:11.5429 1880 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting PanaCIM Utility Service components
+2014-08-20 17:30:11.8089 1880 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Production alerts is not enabled
+2014-08-20 17:30:11.8089 1880 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: EventQueueMonitor
+2014-08-20 17:30:11.8089 1880 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: SystemChecker
+2014-08-20 17:30:11.8249 1880 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: BackupRecoveryCtrlService
+2014-08-20 17:30:11.9089 1880 PanaCIM.Utility.Service 5  PanaCIMUtilityService: PanaCIM Utility Service has started
+2014-08-28 13:35:12.6632 1960 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2014-08-28 13:35:13.0902 1960 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2014-08-28 13:35:13.9152 1960 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting PanaCIM Utility Service components
+2014-08-28 13:35:15.2483 1960 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Production alerts is not enabled
+2014-08-28 13:35:15.2483 1960 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: EventQueueMonitor
+2014-08-28 13:35:15.2523 1960 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: SystemChecker
+2014-08-28 13:35:15.2683 1960 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: BackupRecoveryCtrlService
+2014-08-28 13:35:15.4993 1960 PanaCIM.Utility.Service 5  PanaCIMUtilityService: PanaCIM Utility Service has started
+2014-08-28 14:39:20.5380 1960 PanaCIM.Utility.Service 7  PanaCIMUtilityService: Stopping PanaCIM Utility Service components
+2014-08-28 14:39:20.5380 1960 PanaCIM.Utility.Service 7  PanaCIMUtilityService: Stopping service component: EventQueueMonitor
+2014-08-28 14:39:20.5510 1960 PanaCIM.Utility.Service 7  PanaCIMUtilityService: Stopping service component: SystemChecker
+2014-08-28 14:39:20.5510 1960 PanaCIM.Utility.Service 7  PanaCIMUtilityService: Stopping service component: BackupRecoveryCtrlService
+2014-08-28 14:39:21.5711 1960 PanaCIM.Utility.Service 7  PanaCIMUtilityService: PanaCIM Utility Service has stopped
+2014-08-28 14:40:24.1727 2628 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2014-08-28 14:40:24.2387 2628 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2014-08-28 14:40:24.4387 2628 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting PanaCIM Utility Service components
+2014-08-28 14:40:26.0098 2628 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Production alerts is not enabled
+2014-08-28 14:40:26.0098 2628 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: EventQueueMonitor
+2014-08-28 14:40:26.0098 2628 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: SystemChecker
+2014-08-28 14:40:26.0098 2628 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: BackupRecoveryCtrlService
+2014-08-28 14:40:26.1058 2628 PanaCIM.Utility.Service 5  PanaCIMUtilityService: PanaCIM Utility Service has started
+2014-08-28 16:11:45.7852 2628 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Stopping PanaCIM Utility Service components
+2014-08-28 16:11:45.7852 2628 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Stopping service component: EventQueueMonitor
+2014-08-28 16:11:45.7942 2628 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Stopping service component: SystemChecker
+2014-08-28 16:11:45.7942 2628 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Stopping service component: BackupRecoveryCtrlService
+2014-08-28 16:11:46.8223 2628 PanaCIM.Utility.Service 5  PanaCIMUtilityService: PanaCIM Utility Service has stopped
+2014-08-28 16:12:49.1498 3832 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2014-08-28 16:12:49.3268 3832 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2014-08-28 16:12:49.4568 3832 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting PanaCIM Utility Service components
+2014-08-28 16:12:50.1609 3832 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Production alerts is not enabled
+2014-08-28 16:12:50.1609 3832 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: EventQueueMonitor
+2014-08-28 16:12:50.1759 3832 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: SystemChecker
+2014-08-28 16:12:50.1759 3832 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: BackupRecoveryCtrlService
+2014-08-28 16:12:50.2619 3832 PanaCIM.Utility.Service 5  PanaCIMUtilityService: PanaCIM Utility Service has started
+2014-08-28 16:14:07.3733 3832 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Stopping PanaCIM Utility Service components
+2014-08-28 16:14:07.3733 3832 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Stopping service component: EventQueueMonitor
+2014-08-28 16:14:07.3733 3832 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Stopping service component: SystemChecker
+2014-08-28 16:14:07.3813 3832 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Stopping service component: BackupRecoveryCtrlService
+2014-08-28 16:14:08.0843 3832 PanaCIM.Utility.Service 5  PanaCIMUtilityService: PanaCIM Utility Service has stopped
+2014-08-28 16:15:03.5895 4960 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2014-08-28 16:15:03.6115 4960 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2014-08-28 16:15:03.9325 4960 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting PanaCIM Utility Service components
+2014-08-28 16:15:04.1045 4960 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Production alerts is not enabled
+2014-08-28 16:15:04.1045 4960 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: EventQueueMonitor
+2014-08-28 16:15:04.1045 4960 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: SystemChecker
+2014-08-28 16:15:04.1045 4960 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: BackupRecoveryCtrlService
+2014-08-28 16:15:04.1876 4960 PanaCIM.Utility.Service 5  PanaCIMUtilityService: PanaCIM Utility Service has started
+2014-08-28 16:24:56.7095 1564 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2014-08-28 16:24:57.2565 1564 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2014-08-28 16:24:58.3766 1564 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting PanaCIM Utility Service components
+2014-08-28 16:24:59.3727 1564 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Production alerts is not enabled
+2014-08-28 16:24:59.3727 1564 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: EventQueueMonitor
+2014-08-28 16:24:59.3727 1564 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: SystemChecker
+2014-08-28 16:24:59.7637 1564 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: BackupRecoveryCtrlService
+2014-08-28 16:24:59.8397 1564 PanaCIM.Utility.Service 5  PanaCIMUtilityService: PanaCIM Utility Service has started
+2014-09-03 09:13:49.7697 1152 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2014-09-03 09:13:50.1517 1152 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2014-09-03 09:13:51.6158 1152 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting PanaCIM Utility Service components
+2014-09-03 09:13:55.3940 1152 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Production alerts is not enabled
+2014-09-03 09:13:55.3940 1152 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: EventQueueMonitor
+2014-09-03 09:13:55.3940 1152 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: SystemChecker
+2014-09-03 09:13:55.4090 1152 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: BackupRecoveryCtrlService
+2014-09-03 09:13:55.5861 1152 PanaCIM.Utility.Service 5  PanaCIMUtilityService: PanaCIM Utility Service has started
+2014-09-04 11:26:48.5894 1544 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2014-09-04 11:26:48.7274 1544 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2014-09-04 11:26:50.5465 1544 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting PanaCIM Utility Service components
+2014-09-04 11:26:51.5386 1544 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Production alerts is not enabled
+2014-09-04 11:26:51.5386 1544 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: EventQueueMonitor
+2014-09-04 11:26:51.5386 1544 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: SystemChecker
+2014-09-04 11:26:51.5496 1544 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: BackupRecoveryCtrlService
+2014-09-04 11:26:51.7696 1544 PanaCIM.Utility.Service 5  PanaCIMUtilityService: PanaCIM Utility Service has started
+2014-11-06 10:18:19.8951 1732 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2014-11-06 10:18:20.1991 1732 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2014-11-06 10:18:21.8082 1732 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting PanaCIM Utility Service components
+2014-11-06 10:18:22.6123 1732 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Production alerts is not enabled
+2014-11-06 10:18:22.6123 1732 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: EventQueueMonitor
+2014-11-06 10:18:22.6123 1732 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: SystemChecker
+2014-11-06 10:18:22.6223 1732 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: BackupRecoveryCtrlService
+2014-11-06 10:18:22.7743 1732 PanaCIM.Utility.Service 5  PanaCIMUtilityService: PanaCIM Utility Service has started
+2014-11-06 10:24:42.7554 2040 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2014-11-06 10:24:42.9314 2040 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2014-11-06 10:24:44.2505 2040 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting PanaCIM Utility Service components
+2014-11-06 10:24:45.7136 2040 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Production alerts is not enabled
+2014-11-06 10:24:45.7136 2040 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting service component: EventQueueMonitor
+2014-11-06 10:24:45.7136 2040 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting service component: SystemChecker
+2014-11-06 10:24:45.7206 2040 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting service component: BackupRecoveryCtrlService
+2014-11-06 10:24:45.8936 2040 PanaCIM.Utility.Service 4  PanaCIMUtilityService: PanaCIM Utility Service has started
+2014-11-06 10:29:18.2395 952 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2014-11-06 10:29:18.3665 952 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2014-11-06 10:29:19.1075 952 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting PanaCIM Utility Service components
+2014-11-06 10:29:22.2367 952 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Production alerts is not enabled
+2014-11-06 10:29:22.2367 952 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting service component: EventQueueMonitor
+2014-11-06 10:29:22.2367 952 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting service component: SystemChecker
+2014-11-06 10:29:22.2367 952 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting service component: BackupRecoveryCtrlService
+2014-11-06 10:29:22.4067 952 PanaCIM.Utility.Service 4  PanaCIMUtilityService: PanaCIM Utility Service has started
+2015-12-10 10:36:58.9773 1944 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2015-12-10 10:36:59.5453 1944 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2015-12-10 10:37:00.0603 1944 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting PanaCIM Utility Service components
+2015-12-10 10:37:02.1284 1944 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Production alerts is not enabled
+2015-12-10 10:37:02.1284 1944 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting service component: EventQueueMonitor
+2015-12-10 10:37:02.1284 1944 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting service component: SystemChecker
+2015-12-10 10:37:02.3365 1944 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting service component: BackupRecoveryCtrlService
+2015-12-10 10:37:02.9655 1944 PanaCIM.Utility.Service 4  PanaCIMUtilityService: PanaCIM Utility Service has started
+2015-12-10 10:43:02.0832 1760 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2015-12-10 10:43:02.6552 1760 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2015-12-10 10:43:03.3053 1760 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting PanaCIM Utility Service components
+2015-12-10 10:43:06.0144 1760 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Production alerts is not enabled
+2015-12-10 10:43:06.0144 1760 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting service component: EventQueueMonitor
+2015-12-10 10:43:06.0144 1760 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting service component: SystemChecker
+2015-12-10 10:43:06.0144 1760 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting service component: BackupRecoveryCtrlService
+2015-12-10 10:43:07.2455 1760 PanaCIM.Utility.Service 4  PanaCIMUtilityService: PanaCIM Utility Service has started
+2015-12-16 15:34:07.2726 1760 PanaCIM.Utility.Service 20  PanaCIMUtilityService: Stopping PanaCIM Utility Service components
+2015-12-16 15:34:07.2726 1760 PanaCIM.Utility.Service 20  PanaCIMUtilityService: Stopping service component: EventQueueMonitor
+2015-12-16 15:34:07.2756 1760 PanaCIM.Utility.Service 20  PanaCIMUtilityService: Stopping service component: SystemChecker
+2015-12-16 15:34:07.2756 1760 PanaCIM.Utility.Service 20  PanaCIMUtilityService: Stopping service component: BackupRecoveryCtrlService
+2015-12-16 15:34:07.6887 1760 PanaCIM.Utility.Service 20  PanaCIMUtilityService: PanaCIM Utility Service has stopped
+2015-12-16 15:59:08.3135 1060 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2015-12-16 15:59:08.3825 1060 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2015-12-16 15:59:08.6415 1060 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting PanaCIM Utility Service components
+2015-12-16 15:59:10.0816 1060 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Production alerts is not enabled
+2015-12-16 15:59:10.0816 1060 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting service component: EventQueueMonitor
+2015-12-16 15:59:10.0816 1060 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting service component: SystemChecker
+2015-12-16 15:59:10.0816 1060 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting service component: BackupRecoveryCtrlService
+2015-12-16 15:59:10.2686 1060 PanaCIM.Utility.Service 4  PanaCIMUtilityService: PanaCIM Utility Service has started
+2015-12-16 16:32:44.4252 1060 PanaCIM.Utility.Service 11  PanaCIMUtilityService: Stopping PanaCIM Utility Service components
+2015-12-16 16:32:44.5022 1060 PanaCIM.Utility.Service 11  PanaCIMUtilityService: Stopping service component: EventQueueMonitor
+2015-12-16 16:32:44.5053 1060 PanaCIM.Utility.Service 11  PanaCIMUtilityService: Stopping service component: SystemChecker
+2015-12-16 16:32:44.5053 1060 PanaCIM.Utility.Service 11  PanaCIMUtilityService: Stopping service component: BackupRecoveryCtrlService
+2015-12-16 16:32:46.1073 1060 PanaCIM.Utility.Service 11  PanaCIMUtilityService: PanaCIM Utility Service has stopped
+2015-12-16 16:34:47.0283 4988 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2015-12-16 16:34:47.0813 4988 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2015-12-16 16:34:47.2343 4988 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting PanaCIM Utility Service components
+2015-12-16 16:34:47.4183 4988 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Production alerts is not enabled
+2015-12-16 16:34:47.4183 4988 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting service component: EventQueueMonitor
+2015-12-16 16:34:47.4183 4988 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting service component: SystemChecker
+2015-12-16 16:34:47.4183 4988 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting service component: BackupRecoveryCtrlService
+2015-12-16 16:34:47.4333 4988 PanaCIM.Utility.Service 4  PanaCIMUtilityService: PanaCIM Utility Service has started
+2015-12-16 16:44:51.4688 4988 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Stopping PanaCIM Utility Service components
+2015-12-16 16:44:51.4688 4988 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Stopping service component: EventQueueMonitor
+2015-12-16 16:44:51.4688 4988 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Stopping service component: SystemChecker
+2015-12-16 16:44:51.4688 4988 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Stopping service component: BackupRecoveryCtrlService
+2015-12-16 16:44:52.4759 4988 PanaCIM.Utility.Service 4  PanaCIMUtilityService: PanaCIM Utility Service has stopped
+2015-12-16 16:46:42.9162 2284 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2015-12-16 16:46:42.9162 2284 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2015-12-16 16:46:43.0212 2284 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting PanaCIM Utility Service components
+2015-12-16 16:46:43.0822 2284 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Production alerts is not enabled
+2015-12-16 16:46:43.0822 2284 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting service component: EventQueueMonitor
+2015-12-16 16:46:43.0882 2284 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting service component: SystemChecker
+2015-12-16 16:46:43.0882 2284 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting service component: BackupRecoveryCtrlService
+2015-12-16 16:46:43.0882 2284 PanaCIM.Utility.Service 4  PanaCIMUtilityService: PanaCIM Utility Service has started
+2015-12-16 16:53:13.0695 2284 PanaCIM.Utility.Service 7  PanaCIMUtilityService: Stopping PanaCIM Utility Service components
+2015-12-16 16:53:13.0695 2284 PanaCIM.Utility.Service 7  PanaCIMUtilityService: Stopping service component: EventQueueMonitor
+2015-12-16 16:53:13.0695 2284 PanaCIM.Utility.Service 7  PanaCIMUtilityService: Stopping service component: SystemChecker
+2015-12-16 16:53:13.0745 2284 PanaCIM.Utility.Service 7  PanaCIMUtilityService: Stopping service component: BackupRecoveryCtrlService
+2015-12-16 16:53:13.3725 2284 PanaCIM.Utility.Service 7  PanaCIMUtilityService: PanaCIM Utility Service has stopped
+2015-12-16 16:54:29.5389 4024 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2015-12-16 16:54:29.6129 4024 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2015-12-16 16:54:29.8009 4024 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting PanaCIM Utility Service components
+2015-12-16 16:54:29.8999 4024 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Production alerts is not enabled
+2015-12-16 16:54:29.8999 4024 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting service component: EventQueueMonitor
+2015-12-16 16:54:29.8999 4024 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting service component: SystemChecker
+2015-12-16 16:54:29.9059 4024 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting service component: BackupRecoveryCtrlService
+2015-12-16 16:54:29.9059 4024 PanaCIM.Utility.Service 4  PanaCIMUtilityService: PanaCIM Utility Service has started
+2015-12-18 14:33:40.1570 872 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2015-12-18 14:33:40.2580 872 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2015-12-18 14:33:42.1711 872 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting PanaCIM Utility Service components
+2015-12-18 14:33:43.2792 872 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Production alerts is not enabled
+2015-12-18 14:33:43.2792 872 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting service component: EventQueueMonitor
+2015-12-18 14:33:43.2792 872 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting service component: SystemChecker
+2015-12-18 14:33:43.2792 872 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting service component: BackupRecoveryCtrlService
+2015-12-18 14:33:43.2952 872 PanaCIM.Utility.Service 4  PanaCIMUtilityService: PanaCIM Utility Service has started
+2015-12-22 15:29:29.6831 872 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Stopping PanaCIM Utility Service components
+2015-12-22 15:29:29.7361 872 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Stopping service component: EventQueueMonitor
+2015-12-22 15:29:29.7731 872 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Stopping service component: SystemChecker
+2015-12-22 15:29:29.7731 872 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Stopping service component: BackupRecoveryCtrlService
+2015-12-22 15:29:31.0772 872 PanaCIM.Utility.Service 4  PanaCIMUtilityService: PanaCIM Utility Service has stopped
+2015-12-22 15:29:33.5563 3228 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2015-12-22 15:29:33.5673 3228 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2015-12-22 15:29:33.8843 3228 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting PanaCIM Utility Service components
+2015-12-22 15:29:34.4274 3228 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Production alerts is not enabled
+2015-12-22 15:29:34.4274 3228 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting service component: EventQueueMonitor
+2015-12-22 15:29:34.4274 3228 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting service component: SystemChecker
+2015-12-22 15:29:34.4664 3228 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting service component: BackupRecoveryCtrlService
+2015-12-22 15:29:34.4664 3228 PanaCIM.Utility.Service 4  PanaCIMUtilityService: PanaCIM Utility Service has started
+2015-12-22 16:12:55.1011 1808 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2015-12-22 16:12:55.1391 1808 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2015-12-22 16:12:55.8301 1808 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting PanaCIM Utility Service components
+2015-12-22 16:12:57.5622 1808 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Production alerts is not enabled
+2015-12-22 16:12:57.5622 1808 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting service component: EventQueueMonitor
+2015-12-22 16:12:57.5622 1808 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting service component: SystemChecker
+2015-12-22 16:12:57.5622 1808 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting service component: BackupRecoveryCtrlService
+2015-12-22 16:12:57.9643 1808 PanaCIM.Utility.Service 4  PanaCIMUtilityService: PanaCIM Utility Service has started
+2015-12-22 19:07:04.9360 2000 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2015-12-22 19:07:05.1360 2000 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2015-12-22 19:07:05.4510 2000 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting PanaCIM Utility Service components
+2015-12-22 19:07:06.8951 2000 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Production alerts is not enabled
+2015-12-22 19:07:06.8951 2000 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting service component: EventQueueMonitor
+2015-12-22 19:07:06.8951 2000 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting service component: SystemChecker
+2015-12-22 19:07:06.9011 2000 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting service component: BackupRecoveryCtrlService
+2015-12-22 19:07:07.2831 2000 PanaCIM.Utility.Service 4  PanaCIMUtilityService: PanaCIM Utility Service has started
+2015-12-22 20:13:10.8194 2000 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Stopping PanaCIM Utility Service components
+2015-12-22 20:13:10.9124 2000 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Stopping service component: EventQueueMonitor
+2015-12-22 20:13:11.0944 2000 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Stopping service component: SystemChecker
+2015-12-22 20:13:11.2864 2000 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Stopping service component: BackupRecoveryCtrlService
+2015-12-22 20:13:16.2867 2000 PanaCIM.Utility.Service 4  PanaCIMUtilityService: PanaCIM Utility Service has stopped
+2015-12-22 20:29:37.3798 4808 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2015-12-22 20:29:37.4708 4808 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2015-12-22 20:30:31.1219 3668 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2015-12-22 20:30:31.1329 3668 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2015-12-23 09:21:46.3993 3960 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2015-12-23 09:21:46.9464 3960 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2015-12-23 09:21:50.0066 3960 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting PanaCIM Utility Service components
+2015-12-23 09:21:53.5398 3960 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting service component: EventQueueMonitor
+2015-12-23 09:21:53.5398 3960 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting service component: SystemChecker
+2015-12-23 09:21:53.5398 3960 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting service component: BackupRecoveryCtrlService
+2015-12-23 09:21:53.7528 3960 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting service component: ProductionAlerts_Monitor
+2015-12-23 09:21:53.7588 3960 PanaCIM.Utility.Service 4  PanaCIMUtilityService: PanaCIM Utility Service has started
+2015-12-23 10:13:45.8888 3960 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Stopping PanaCIM Utility Service components
+2015-12-23 10:13:45.9188 3960 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Stopping service component: EventQueueMonitor
+2015-12-23 10:13:45.9188 3960 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Stopping service component: SystemChecker
+2015-12-23 10:13:45.9188 3960 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Stopping service component: BackupRecoveryCtrlService
+2015-12-23 10:13:45.9188 3960 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Stopping service component: ProductionAlerts_Monitor
+2015-12-23 10:13:56.6494 3960 PanaCIM.Utility.Service 4  PanaCIMUtilityService: PanaCIM Utility Service has stopped
+2015-12-23 10:13:59.0055 3016 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2015-12-23 10:13:59.0225 3016 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2015-12-23 10:13:59.2035 3016 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting PanaCIM Utility Service components
+2015-12-23 10:14:00.5376 3016 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Production alerts is not enabled
+2015-12-23 10:14:00.5376 3016 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting service component: EventQueueMonitor
+2015-12-23 10:14:00.5376 3016 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting service component: SystemChecker
+2015-12-23 10:14:00.5376 3016 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting service component: BackupRecoveryCtrlService
+2015-12-23 10:14:00.5666 3016 PanaCIM.Utility.Service 4  PanaCIMUtilityService: PanaCIM Utility Service has started
+2015-12-23 10:15:28.6957 3016 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Stopping PanaCIM Utility Service components
+2015-12-23 10:15:28.6957 3016 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Stopping service component: EventQueueMonitor
+2015-12-23 10:15:28.7317 3016 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Stopping service component: SystemChecker
+2015-12-23 10:15:28.7317 3016 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Stopping service component: BackupRecoveryCtrlService
+2015-12-23 10:15:29.5357 3016 PanaCIM.Utility.Service 4  PanaCIMUtilityService: PanaCIM Utility Service has stopped
+2015-12-23 10:15:30.7938 1692 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2015-12-23 10:15:30.8578 1692 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2015-12-23 10:15:30.9488 1692 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting PanaCIM Utility Service components
+2015-12-23 10:15:31.1098 1692 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Production alerts is not enabled
+2015-12-23 10:15:31.1098 1692 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting service component: EventQueueMonitor
+2015-12-23 10:15:31.3068 1692 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting service component: SystemChecker
+2015-12-23 10:15:31.3068 1692 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting service component: BackupRecoveryCtrlService
+2015-12-23 10:15:31.5048 1692 PanaCIM.Utility.Service 4  PanaCIMUtilityService: PanaCIM Utility Service has started
+2016-01-08 13:25:36.0892 2268 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2016-01-08 13:25:36.6452 2268 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2016-01-08 13:25:37.0852 2268 PanaCIM.Utility.Service 6  PanaCIMUtilityService: Starting PanaCIM Utility Service components
+2016-01-08 13:25:37.6392 2268 PanaCIM.Utility.Service 6  PanaCIMUtilityService: Production alerts is not enabled
+2016-01-08 13:25:37.6392 2268 PanaCIM.Utility.Service 6  PanaCIMUtilityService: Starting service component: EventQueueMonitor
+2016-01-08 13:25:37.6392 2268 PanaCIM.Utility.Service 6  PanaCIMUtilityService: Starting service component: SystemChecker
+2016-01-08 13:25:37.6472 2268 PanaCIM.Utility.Service 6  PanaCIMUtilityService: Starting service component: BackupRecoveryCtrlService
+2016-01-08 13:25:37.7282 2268 PanaCIM.Utility.Service 6  PanaCIMUtilityService: PanaCIM Utility Service has started
+2016-01-08 13:55:46.9857 2268 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Stopping PanaCIM Utility Service components
+2016-01-08 13:55:47.0357 2268 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Stopping service component: EventQueueMonitor
+2016-01-08 13:55:47.0357 2268 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Stopping service component: SystemChecker
+2016-01-08 13:55:47.0577 2268 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Stopping service component: BackupRecoveryCtrlService
+2016-01-08 13:55:48.3878 2268 PanaCIM.Utility.Service 4  PanaCIMUtilityService: PanaCIM Utility Service has stopped
+2016-01-08 13:56:52.6334 4764 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2016-01-08 13:56:52.6434 4764 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2016-01-08 13:56:52.7334 4764 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting PanaCIM Utility Service components
+2016-01-08 13:56:53.4285 4764 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Production alerts is not enabled
+2016-01-08 13:56:53.4285 4764 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting service component: EventQueueMonitor
+2016-01-08 13:56:53.4285 4764 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting service component: SystemChecker
+2016-01-08 13:56:53.4385 4764 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting service component: BackupRecoveryCtrlService
+2016-01-08 13:56:53.4385 4764 PanaCIM.Utility.Service 4  PanaCIMUtilityService: PanaCIM Utility Service has started
+2016-01-08 14:04:05.7528 2512 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2016-01-08 14:04:05.8248 2512 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2016-01-08 14:04:05.9249 2512 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting PanaCIM Utility Service components
+2016-01-08 14:04:06.4479 2512 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Production alerts is not enabled
+2016-01-08 14:04:06.4479 2512 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting service component: EventQueueMonitor
+2016-01-08 14:04:06.4479 2512 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting service component: SystemChecker
+2016-01-08 14:04:06.4549 2512 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting service component: BackupRecoveryCtrlService
+2016-01-08 14:04:06.7199 2512 PanaCIM.Utility.Service 4  PanaCIMUtilityService: PanaCIM Utility Service has started
+2016-01-14 16:45:51.5532 2512 PanaCIM.Utility.Service 7  PanaCIMUtilityService: Stopping PanaCIM Utility Service components
+2016-01-14 16:45:51.6442 2512 PanaCIM.Utility.Service 7  PanaCIMUtilityService: Stopping service component: EventQueueMonitor
+2016-01-14 16:45:51.7972 2512 PanaCIM.Utility.Service 7  PanaCIMUtilityService: Stopping service component: SystemChecker
+2016-01-14 16:45:51.7972 2512 PanaCIM.Utility.Service 7  PanaCIMUtilityService: Stopping service component: BackupRecoveryCtrlService
+2016-01-14 16:45:57.4525 2512 PanaCIM.Utility.Service 7  PanaCIMUtilityService: PanaCIM Utility Service has stopped
+2016-01-14 17:29:24.6096 3824 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2016-01-14 17:29:24.8686 3824 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2016-01-14 17:29:25.8097 3824 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting PanaCIM Utility Service components
+2016-01-14 17:29:31.1270 3824 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: EventQueueMonitor
+2016-01-14 17:29:31.1270 3824 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: SystemChecker
+2016-01-14 17:29:31.4050 3824 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: BackupRecoveryCtrlService
+2016-01-14 17:29:31.4050 3824 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: ProductionAlerts_Monitor
+2016-01-14 17:29:31.5040 3824 PanaCIM.Utility.Service 5  PanaCIMUtilityService: PanaCIM Utility Service has started
+2016-01-15 12:05:24.8205 3824 PanaCIM.Utility.Service 6 Processor_ProductionAlerts Settings: Unable to open CIMC database connection: System.Data.SqlClient.SqlException: Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParserStateObject.ReadSniError(TdsParserStateObject stateObj, UInt32 error)
+   at System.Data.SqlClient.TdsParserStateObject.ReadSni(DbAsyncResult asyncResult, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParserStateObject.ReadNetworkPacket()
+   at System.Data.SqlClient.TdsParser.ConsumePreLoginHandshake(Boolean encrypt, Boolean trustServerCert, Boolean& marsCapable)
+   at System.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, Boolean encrypt, Boolean trustServerCert, Boolean integratedSecurity, SqlConnection owningObject)
+   at System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnection owningObject)
+   at System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(String host, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, Int64 timerStart)
+   at System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   at System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at PanaCIM.Utility.Service.Settings.GetDBConnection(Boolean bOptional, Boolean bPooling)
+2016-01-20 08:33:09.1303 3824 PanaCIM.Utility.Service 23  PanaCIMUtilityService: Stopping PanaCIM Utility Service components
+2016-01-20 08:33:09.1703 3824 PanaCIM.Utility.Service 23  PanaCIMUtilityService: Stopping service component: EventQueueMonitor
+2016-01-20 08:33:09.1703 3824 PanaCIM.Utility.Service 23  PanaCIMUtilityService: Stopping service component: SystemChecker
+2016-01-20 08:33:09.1703 3824 PanaCIM.Utility.Service 23  PanaCIMUtilityService: Stopping service component: BackupRecoveryCtrlService
+2016-01-20 08:33:09.1703 3824 PanaCIM.Utility.Service 23  PanaCIMUtilityService: Stopping service component: ProductionAlerts_Monitor
+2016-01-20 08:33:29.2725 3824 PanaCIM.Utility.Service 23  PanaCIMUtilityService: PanaCIM Utility Service has stopped
+2016-01-20 08:33:32.1396 4872 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2016-01-20 08:33:32.1516 4872 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2016-01-20 08:33:32.4686 4872 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting PanaCIM Utility Service components
+2016-01-20 08:33:33.2297 4872 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Production alerts is not enabled
+2016-01-20 08:33:33.2297 4872 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting service component: EventQueueMonitor
+2016-01-20 08:33:33.2297 4872 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting service component: SystemChecker
+2016-01-20 08:33:33.2297 4872 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting service component: BackupRecoveryCtrlService
+2016-01-20 08:33:33.2417 4872 PanaCIM.Utility.Service 4  PanaCIMUtilityService: PanaCIM Utility Service has started
+2016-01-20 08:35:32.9355 4872 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Stopping PanaCIM Utility Service components
+2016-01-20 08:35:32.9355 4872 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Stopping service component: EventQueueMonitor
+2016-01-20 08:35:32.9355 4872 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Stopping service component: SystemChecker
+2016-01-20 08:35:32.9425 4872 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Stopping service component: BackupRecoveryCtrlService
+2016-01-20 08:35:33.9436 4872 PanaCIM.Utility.Service 4  PanaCIMUtilityService: PanaCIM Utility Service has stopped
+2016-01-20 08:35:36.1347 2440 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2016-01-20 08:35:36.1407 2440 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2016-01-20 08:35:36.2567 2440 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting PanaCIM Utility Service components
+2016-01-20 08:35:36.3897 2440 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Production alerts is not enabled
+2016-01-20 08:35:36.3897 2440 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting service component: EventQueueMonitor
+2016-01-20 08:35:36.4577 2440 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting service component: SystemChecker
+2016-01-20 08:35:36.4577 2440 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting service component: BackupRecoveryCtrlService
+2016-01-20 08:35:36.6537 2440 PanaCIM.Utility.Service 4  PanaCIMUtilityService: PanaCIM Utility Service has started
+2016-02-08 09:49:30.8691 2180 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2016-02-08 09:49:30.9831 2180 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2016-02-08 09:49:31.0721 2180 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting PanaCIM Utility Service components
+2016-02-08 09:49:31.4381 2180 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Production alerts is not enabled
+2016-02-08 09:49:31.4381 2180 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting service component: EventQueueMonitor
+2016-02-08 09:49:31.4381 2180 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting service component: SystemChecker
+2016-02-08 09:49:31.4381 2180 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting service component: BackupRecoveryCtrlService
+2016-02-08 09:49:31.6251 2180 PanaCIM.Utility.Service 4  PanaCIMUtilityService: PanaCIM Utility Service has started
+2016-02-08 14:34:09.6680 2180 PanaCIM.Utility.Service 10  PanaCIMUtilityService: Stopping PanaCIM Utility Service components
+2016-02-08 14:34:09.7160 2180 PanaCIM.Utility.Service 10  PanaCIMUtilityService: Stopping service component: EventQueueMonitor
+2016-02-08 14:34:09.7600 2180 PanaCIM.Utility.Service 10  PanaCIMUtilityService: Stopping service component: SystemChecker
+2016-02-08 14:34:09.8550 2180 PanaCIM.Utility.Service 10  PanaCIMUtilityService: Stopping service component: BackupRecoveryCtrlService
+2016-02-08 14:34:12.9892 2180 PanaCIM.Utility.Service 10  PanaCIMUtilityService: PanaCIM Utility Service has stopped
+2016-02-08 15:12:53.9409 2724 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2016-02-08 15:12:54.0239 2724 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2016-02-08 15:12:54.3749 2724 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting PanaCIM Utility Service components
+2016-02-08 15:12:55.6190 2724 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: EventQueueMonitor
+2016-02-08 15:12:55.6190 2724 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: SystemChecker
+2016-02-08 15:12:55.6320 2724 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: BackupRecoveryCtrlService
+2016-02-08 15:12:56.0340 2724 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: ProductionAlerts_Monitor
+2016-02-08 15:12:56.0490 2724 PanaCIM.Utility.Service 5  PanaCIMUtilityService: PanaCIM Utility Service has started
+2016-02-08 15:21:32.1656 2724 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Stopping PanaCIM Utility Service components
+2016-02-08 15:21:32.1656 2724 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Stopping service component: EventQueueMonitor
+2016-02-08 15:21:32.1656 2724 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Stopping service component: SystemChecker
+2016-02-08 15:21:32.3046 2724 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Stopping service component: BackupRecoveryCtrlService
+2016-02-08 15:21:32.3046 2724 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Stopping service component: ProductionAlerts_Monitor
+2016-02-08 15:21:44.0652 2724 PanaCIM.Utility.Service 5  PanaCIMUtilityService: PanaCIM Utility Service has stopped
+2016-02-08 15:21:52.1817 4328 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2016-02-08 15:21:52.2187 4328 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2016-02-08 15:21:52.6947 4328 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting PanaCIM Utility Service components
+2016-02-08 15:21:53.6198 4328 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Production alerts is not enabled
+2016-02-08 15:21:53.6198 4328 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: EventQueueMonitor
+2016-02-08 15:21:53.6318 4328 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: SystemChecker
+2016-02-08 15:21:53.6968 4328 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Starting service component: BackupRecoveryCtrlService
+2016-02-08 15:21:53.6968 4328 PanaCIM.Utility.Service 5  PanaCIMUtilityService: PanaCIM Utility Service has started
+2016-02-08 15:23:11.1282 4328 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Stopping PanaCIM Utility Service components
+2016-02-08 15:23:11.1282 4328 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Stopping service component: EventQueueMonitor
+2016-02-08 15:23:11.1302 4328 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Stopping service component: SystemChecker
+2016-02-08 15:23:11.1592 4328 PanaCIM.Utility.Service 5  PanaCIMUtilityService: Stopping service component: BackupRecoveryCtrlService
+2016-02-08 15:23:11.8123 4328 PanaCIM.Utility.Service 5  PanaCIMUtilityService: PanaCIM Utility Service has stopped
+2016-02-08 15:23:13.4723 1556 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2016-02-08 15:23:13.4873 1556 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2016-02-08 15:23:13.5784 1556 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting PanaCIM Utility Service components
+2016-02-08 15:23:13.7714 1556 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Production alerts is not enabled
+2016-02-08 15:23:13.7714 1556 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting service component: EventQueueMonitor
+2016-02-08 15:23:13.8374 1556 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting service component: SystemChecker
+2016-02-08 15:23:13.8374 1556 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting service component: BackupRecoveryCtrlService
+2016-02-08 15:23:14.0324 1556 PanaCIM.Utility.Service 4  PanaCIMUtilityService: PanaCIM Utility Service has started
+2016-02-09 13:25:20.1253 2268 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2016-02-09 13:25:20.2863 2268 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2016-02-09 13:25:20.5533 2268 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting PanaCIM Utility Service components
+2016-02-09 13:25:20.9254 2268 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Production alerts is not enabled
+2016-02-09 13:25:20.9254 2268 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting service component: EventQueueMonitor
+2016-02-09 13:25:20.9254 2268 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting service component: SystemChecker
+2016-02-09 13:25:20.9284 2268 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting service component: BackupRecoveryCtrlService
+2016-02-09 13:25:21.1214 2268 PanaCIM.Utility.Service 4  PanaCIMUtilityService: PanaCIM Utility Service has started
+2016-02-09 16:17:02.8673 2328 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: ****************************************************************
+2016-02-09 16:17:03.5173 2328 PanaCIM.Utility.Service 1  PanaCIM.Utility.Service.Main: Starting PanaCIM Utility Service
+2016-02-09 16:17:03.6603 2328 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting PanaCIM Utility Service components
+2016-02-09 16:17:04.2194 2328 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Production alerts is not enabled
+2016-02-09 16:17:04.2194 2328 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting service component: EventQueueMonitor
+2016-02-09 16:17:04.2194 2328 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting service component: SystemChecker
+2016-02-09 16:17:04.2194 2328 PanaCIM.Utility.Service 4  PanaCIMUtilityService: Starting service component: BackupRecoveryCtrlService
+2016-02-09 16:17:04.5784 2328 PanaCIM.Utility.Service 4  PanaCIMUtilityService: PanaCIM Utility Service has started

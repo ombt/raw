@@ -1,0 +1,1704 @@
+2014-07-14 09:56:59.0379 3580 MES.Runtime 1  PMListener_Config:OnStart() Entered.
+2014-07-14 09:56:59.0379 3580 MES.Runtime 10 PMListener_MachineFileImport - StartPMListener Connecting to Postmaster:CIMC-SRV
+2014-07-14 09:56:59.0379 3580 MES.Runtime 1  PMListener_Config:OnStart() Exited.
+2014-07-14 09:56:59.1549 3580 MES.Runtime 4 PMLib-ManageConnection PostMaster is connected.
+2014-07-14 09:56:59.1749 3580 MES.Runtime 4 PMLib-ManageConnection Checking PEM running status.
+2014-07-14 09:56:59.3009 3580 MES.Runtime 4 PMLib-ManageConnection PEM is Disconnected
+2014-07-14 09:56:59.3009 3580 MES.Runtime 4 PMLib-ManageConnection Substitute Import Deamon is not running
+2014-07-14 09:57:08.2284 3580 MES.Runtime 4 PMLib-ManageConnection DGS is Connected
+2014-07-14 09:57:08.9325 3580 MES.Runtime 4 PMLib-ManageConnection PEM is Connected
+2014-07-14 09:57:15.0768 3580 MES.Runtime 4 PMLib-ManageConnection Substitute Import Deamon is running
+2014-07-14 09:57:23.8383 3580 MES.Runtime 4 PMLib-ManageConnection Machine interface Connected.
+2014-07-14 09:57:23.8393 3580 MES.Runtime 4 PMLib-ManageConnection DBHelp.GetMachineType() Entered.
+2014-07-14 09:57:23.9433 3580 MES.Runtime 4 PMLib-ManageConnection Getting route information for Machine Interface with Equipmend id =21011.
+2014-07-14 09:57:24.0163 3580 MES.Runtime 4 PMLib-ManageConnection Success:Getting route information for Machine Interface with Equipmend id =21011 is successful.
+2014-07-14 09:57:24.0163 3580 MES.Runtime 4 PMLib-ManageConnection Machine Interface name = CM402-ZONE-Machin1 with mailbox id=43.
+2014-07-14 09:57:24.0163 3580 MES.Runtime 4 PMLib-ManageConnection PT200MAIImportCtrl:AddNoneRoute() Entered.
+2014-07-14 09:57:24.0163 3580 MES.Runtime 4 PMLib-ManageConnection PT200MAIImportCtrl:AddNoneRoute() Exited.
+2014-07-14 09:57:24.0163 3580 MES.Runtime 4 PMLib-ManageConnection Route ID is 21003 with name=CM402-LINE for machine interface
+2014-07-14 09:57:24.0443 3580 MES.Runtime 4 PMLib-ManageConnection Added a None Route
+2014-07-14 09:57:24.0443 3580 MES.Runtime 4 PMLib-ManageConnection Machine interface Connected.
+2014-07-14 09:57:24.1823 3580 MES.Runtime 1  PT200MAIImportCtrl.cmbRoutes_SelectionChanged() Entered.
+2014-07-14 09:57:24.1823 3580 MES.Runtime 1  PT200MAIImportCtrl.cmbProductSrc_SelectionChanged() Entered.
+2014-07-14 09:57:24.1823 3580 MES.Runtime 1  PT200MAIImportCtrl.cmbProductSrc_SelectionChanged() Exited.
+2014-07-14 09:57:24.1973 3580 MES.Runtime 1  PT200MAIImportCtrl.cmbRoutes_SelectionChanged() Exited.
+2014-07-14 09:57:32.9378 3580 MES.Runtime 4 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-14 09:57:32.9378 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 09:57:32.9378 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 09:57:32.9528 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 09:57:32.9528 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 09:57:33.1419 3580 MES.Runtime 4 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-14 09:57:33.1419 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 09:57:33.1419 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 09:57:33.1419 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 09:57:33.1419 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 10:02:29.4428 3580 MES.Runtime 1  PMListener_Config:OnStart() Entered.
+2014-07-14 10:02:29.4448 3580 MES.Runtime 15 PMListener_MachineFileImport - StartPMListener Connecting to Postmaster:CIMC-SRV
+2014-07-14 10:02:29.4448 3580 MES.Runtime 1  PMListener_Config:OnStart() Exited.
+2014-07-14 10:02:29.5608 3580 MES.Runtime 16 PMLib-ManageConnection PostMaster is connected.
+2014-07-14 10:02:29.5608 3580 MES.Runtime 16 PMLib-ManageConnection Checking PEM running status.
+2014-07-14 10:02:29.7758 3580 MES.Runtime 16 PMLib-ManageConnection PEM is Connected
+2014-07-14 10:02:29.7758 3580 MES.Runtime 16 PMLib-ManageConnection PEM is Connected
+2014-07-14 10:02:29.7758 3580 MES.Runtime 16 PMLib-ManageConnection Substitute Import Deamon is running
+2014-07-14 10:02:29.7758 3580 MES.Runtime 16 PMLib-ManageConnection Substitute Import Deamon is running
+2014-07-14 10:02:29.7878 3580 MES.Runtime 16 PMLib-ManageConnection Machine interface Connected.
+2014-07-14 10:02:29.7878 3580 MES.Runtime 16 PMLib-ManageConnection DBHelp.GetMachineType() Entered.
+2014-07-14 10:02:29.7878 3580 MES.Runtime 16 PMLib-ManageConnection Getting route information for Machine Interface with Equipmend id =21011.
+2014-07-14 10:02:29.8328 3580 MES.Runtime 16 PMLib-ManageConnection Success:Getting route information for Machine Interface with Equipmend id =21011 is successful.
+2014-07-14 10:02:29.8328 3580 MES.Runtime 16 PMLib-ManageConnection Machine Interface name = CM402-ZONE-Machin1 with mailbox id=43.
+2014-07-14 10:02:29.8328 3580 MES.Runtime 16 PMLib-ManageConnection Route ID is 21003 with name=CM402-LINE for machine interface
+2014-07-14 10:02:29.8348 3580 MES.Runtime 16 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-14 10:02:30.4679 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 10:02:30.4679 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 10:02:30.4679 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 10:02:30.4679 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 10:08:07.1381 3580 MES.Runtime 4 PMLib-ManageConnection Machine interface Connected.
+2014-07-14 10:08:07.1381 3580 MES.Runtime 4 PMLib-ManageConnection DBHelp.GetMachineType() Entered.
+2014-07-14 10:08:07.1401 3580 MES.Runtime 4 PMLib-ManageConnection Machine with Equipmend id =21013 is a Non KX machine. Ignoring it.
+2014-07-14 10:08:07.1401 3580 MES.Runtime 4 PMLib-ManageConnection Machine interface Connected.
+2014-07-14 10:08:07.1401 3580 MES.Runtime 4 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-14 10:08:07.1401 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 10:08:07.1401 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 10:08:07.1401 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 10:08:07.1401 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 10:08:07.1911 3580 MES.Runtime 16 PMLib-ManageConnection Machine interface Connected.
+2014-07-14 10:08:07.1911 3580 MES.Runtime 16 PMLib-ManageConnection DBHelp.GetMachineType() Entered.
+2014-07-14 10:08:07.1911 3580 MES.Runtime 16 PMLib-ManageConnection Machine with Equipmend id =21013 is a Non KX machine. Ignoring it.
+2014-07-14 10:08:07.1911 3580 MES.Runtime 16 PMLib-ManageConnection Machine interface Connected.
+2014-07-14 10:08:07.1911 3580 MES.Runtime 16 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-14 10:08:07.2041 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 10:08:07.2041 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 10:08:07.2041 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 10:08:07.2041 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 10:08:07.2691 3580 MES.Runtime 16 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-14 10:08:07.2691 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 10:08:07.2691 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 10:08:07.2691 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 10:08:07.2691 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 10:08:07.4841 3580 MES.Runtime 16 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-14 10:08:07.4991 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 10:08:07.4991 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 10:08:07.4991 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 10:08:07.4991 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 10:08:09.9203 3580 MES.Runtime 16 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-14 10:08:09.9203 3580 MES.Runtime 16 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-14 10:08:09.9203 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 10:08:09.9323 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 10:08:09.9323 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 10:08:09.9323 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 10:08:09.9323 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 10:08:09.9323 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 10:08:09.9323 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 10:08:09.9323 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 10:13:47.8706 3580 MES.Runtime 4 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-14 10:13:47.8816 3580 MES.Runtime 16 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-14 10:13:47.8816 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 10:13:47.8816 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 10:13:47.8816 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 10:13:47.8816 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 10:13:47.9496 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 10:13:47.9496 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 10:13:47.9496 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 10:13:47.9496 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 10:17:26.2561 3580 MES.Runtime 16 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-14 10:17:26.2561 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 10:17:26.2561 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 10:17:26.2561 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 10:17:26.2561 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 10:17:26.2681 3580 MES.Runtime 4 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-14 10:17:26.2681 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 10:17:26.2681 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 10:17:26.2681 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 10:17:26.2681 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 10:17:26.5601 3580 MES.Runtime 16 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-14 10:17:26.5601 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 10:17:26.5601 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 10:17:26.5601 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 10:17:26.5601 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 10:17:26.5601 3580 MES.Runtime 4 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-14 10:17:26.5601 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 10:17:26.5601 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 10:17:26.5601 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 10:17:26.5601 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 10:17:27.0611 3580 MES.Runtime 16 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-14 10:17:27.0611 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 10:17:27.0611 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 10:17:27.0611 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 10:17:27.0611 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 10:17:27.0611 3580 MES.Runtime 4 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-14 10:17:27.0611 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 10:17:27.0611 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 10:17:27.0611 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 10:17:27.0611 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 10:58:02.3504 3580 MES.Runtime 1  PMListener_Config:OnStart() Entered.
+2014-07-14 10:58:02.3504 3580 MES.Runtime 14 PMListener_MachineFileImport - StartPMListener Connecting to Postmaster:CIMC-SRV
+2014-07-14 10:58:02.3504 3580 MES.Runtime 1  PMListener_Config:OnStart() Exited.
+2014-07-14 10:58:02.4694 3580 MES.Runtime 13 PMLib-ManageConnection PostMaster is connected.
+2014-07-14 10:58:02.4854 3580 MES.Runtime 13 PMLib-ManageConnection Checking PEM running status.
+2014-07-14 10:58:02.5994 3580 MES.Runtime 13 PMLib-ManageConnection PEM is Connected
+2014-07-14 10:58:02.5994 3580 MES.Runtime 13 PMLib-ManageConnection PEM is Connected
+2014-07-14 10:58:02.5994 3580 MES.Runtime 13 PMLib-ManageConnection Substitute Import Deamon is running
+2014-07-14 10:58:02.5994 3580 MES.Runtime 13 PMLib-ManageConnection Substitute Import Deamon is running
+2014-07-14 10:58:02.5994 3580 MES.Runtime 13 PMLib-ManageConnection Machine interface Connected.
+2014-07-14 10:58:02.5994 3580 MES.Runtime 13 PMLib-ManageConnection DBHelp.GetMachineType() Entered.
+2014-07-14 10:58:02.6094 3580 MES.Runtime 13 PMLib-ManageConnection Getting route information for Machine Interface with Equipmend id =21011.
+2014-07-14 10:58:02.6094 3580 MES.Runtime 13 PMLib-ManageConnection Success:Getting route information for Machine Interface with Equipmend id =21011 is successful.
+2014-07-14 10:58:02.6094 3580 MES.Runtime 13 PMLib-ManageConnection Machine Interface name = CM402-ZONE-Machin1 with mailbox id=43.
+2014-07-14 10:58:02.6094 3580 MES.Runtime 13 PMLib-ManageConnection Route ID is 21003 with name=CM402-LINE for machine interface
+2014-07-14 10:58:02.6094 3580 MES.Runtime 13 PMLib-ManageConnection Machine interface Connected.
+2014-07-14 10:58:02.6094 3580 MES.Runtime 13 PMLib-ManageConnection DBHelp.GetMachineType() Entered.
+2014-07-14 10:58:02.6094 3580 MES.Runtime 13 PMLib-ManageConnection Machine with Equipmend id =21013 is a Non KX machine. Ignoring it.
+2014-07-14 10:58:02.6094 3580 MES.Runtime 13 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-14 10:58:03.3675 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 10:58:03.3675 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 10:58:03.3675 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 10:58:03.3675 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 10:58:04.0665 3580 MES.Runtime 13 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-14 10:58:04.0665 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 10:58:04.0665 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 10:58:04.0665 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 10:58:04.0665 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:07:06.0852 3580 MES.Runtime 4 PMLib-ManageConnection Machine interface disconnected
+2014-07-14 15:07:06.1542 3580 MES.Runtime 4 PMLib-ManageConnection Clearing after machine interface disconnected
+2014-07-14 15:07:06.1542 3580 MES.Runtime 4 PMLib-ManageConnection PT200MAIImportCtrl:AddNoneRoute() Entered.
+2014-07-14 15:07:06.1542 3580 MES.Runtime 4 PMLib-ManageConnection PT200MAIImportCtrl:AddNoneRoute() Exited.
+2014-07-14 15:07:06.1542 3580 MES.Runtime 4 PMLib-ManageConnection Machine interface DisConnected
+2014-07-14 15:07:06.1812 3580 MES.Runtime 16 PMLib-ManageConnection Machine interface disconnected
+2014-07-14 15:07:06.1812 3580 MES.Runtime 16 PMLib-ManageConnection Clearing after machine interface disconnected
+2014-07-14 15:07:06.1812 3580 MES.Runtime 16 PMLib-ManageConnection PT200MAIImportCtrl:AddNoneRoute() Entered.
+2014-07-14 15:07:06.1812 3580 MES.Runtime 16 PMLib-ManageConnection PT200MAIImportCtrl:AddNoneRoute() Exited.
+2014-07-14 15:07:06.1812 3580 MES.Runtime 16 PMLib-ManageConnection Machine interface DisConnected
+2014-07-14 15:07:06.1942 3580 MES.Runtime 13 PMLib-ManageConnection Machine interface disconnected
+2014-07-14 15:07:06.1942 3580 MES.Runtime 13 PMLib-ManageConnection Clearing after machine interface disconnected
+2014-07-14 15:07:06.1942 3580 MES.Runtime 13 PMLib-ManageConnection PT200MAIImportCtrl:AddNoneRoute() Entered.
+2014-07-14 15:07:06.1942 3580 MES.Runtime 13 PMLib-ManageConnection PT200MAIImportCtrl:AddNoneRoute() Exited.
+2014-07-14 15:07:06.1942 3580 MES.Runtime 13 PMLib-ManageConnection Machine interface DisConnected
+2014-07-14 15:07:41.3812 3580 MES.Runtime 4 PMLib-ManageConnection Machine interface Connected.
+2014-07-14 15:07:41.3812 3580 MES.Runtime 4 PMLib-ManageConnection DBHelp.GetMachineType() Entered.
+2014-07-14 15:07:41.3812 3580 MES.Runtime 16 PMLib-ManageConnection Machine interface Connected.
+2014-07-14 15:07:41.3812 3580 MES.Runtime 16 PMLib-ManageConnection DBHelp.GetMachineType() Entered.
+2014-07-14 15:07:41.4142 3580 MES.Runtime 13 PMLib-ManageConnection Machine interface Connected.
+2014-07-14 15:07:41.4142 3580 MES.Runtime 13 PMLib-ManageConnection DBHelp.GetMachineType() Entered.
+2014-07-14 15:07:41.5562 3580 MES.Runtime 4 PMLib-ManageConnection Machine with Equipmend id =21013 is a Non KX machine. Ignoring it.
+2014-07-14 15:07:41.5562 3580 MES.Runtime 4 PMLib-ManageConnection Machine interface Connected.
+2014-07-14 15:07:41.5562 3580 MES.Runtime 4 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-14 15:07:41.5612 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:07:41.5612 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:07:41.5612 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:07:41.5612 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:07:41.5612 3580 MES.Runtime 16 PMLib-ManageConnection Machine with Equipmend id =21013 is a Non KX machine. Ignoring it.
+2014-07-14 15:07:41.5612 3580 MES.Runtime 16 PMLib-ManageConnection Machine interface Connected.
+2014-07-14 15:07:41.5612 3580 MES.Runtime 16 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-14 15:07:41.5612 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:07:41.5612 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:07:41.5612 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:07:41.5612 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:07:41.5612 3580 MES.Runtime 13 PMLib-ManageConnection Machine with Equipmend id =21013 is a Non KX machine. Ignoring it.
+2014-07-14 15:07:41.5612 3580 MES.Runtime 13 PMLib-ManageConnection Machine interface Connected.
+2014-07-14 15:07:41.5612 3580 MES.Runtime 13 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-14 15:07:41.5752 3580 MES.Runtime 13 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-14 15:07:41.5912 3580 MES.Runtime 13 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-14 15:07:41.5912 3580 MES.Runtime 13 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-14 15:07:41.5912 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:07:41.5912 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:07:41.5912 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:07:41.5912 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:07:41.5912 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:07:41.5912 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:07:41.5912 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:07:41.5912 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:07:41.5912 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:07:41.5912 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:07:41.5912 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:07:41.5912 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:07:41.5912 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:07:41.5912 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:07:41.5912 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:07:41.5912 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:07:43.2913 3580 MES.Runtime 13 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-14 15:07:43.2913 3580 MES.Runtime 13 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-14 15:07:43.2913 3580 MES.Runtime 13 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-14 15:07:43.3083 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:07:43.3083 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:07:43.3083 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:07:43.3083 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:07:43.3083 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:07:43.3083 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:07:43.3083 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:07:43.3083 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:07:43.3083 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:07:43.3083 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:07:43.3083 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:07:43.3083 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:07:45.7894 3580 MES.Runtime 4 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-14 15:07:45.7894 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:07:45.7894 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:07:45.7894 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:07:45.7894 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:07:45.7894 3580 MES.Runtime 16 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-14 15:07:45.7894 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:07:45.7894 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:07:45.7894 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:07:45.7894 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:07:45.8504 3580 MES.Runtime 13 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-14 15:07:45.8504 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:07:45.8504 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:07:45.8504 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:07:45.8504 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:24:08.2506 3580 MES.Runtime 4 PMLib-ManageConnection Machine interface disconnected
+2014-07-14 15:24:08.2506 3580 MES.Runtime 4 PMLib-ManageConnection Clearing after machine interface disconnected
+2014-07-14 15:24:08.2506 3580 MES.Runtime 4 PMLib-ManageConnection PT200MAIImportCtrl:AddNoneRoute() Entered.
+2014-07-14 15:24:08.2506 3580 MES.Runtime 4 PMLib-ManageConnection PT200MAIImportCtrl:AddNoneRoute() Exited.
+2014-07-14 15:24:08.2666 3580 MES.Runtime 13 PMLib-ManageConnection Machine interface disconnected
+2014-07-14 15:24:08.2666 3580 MES.Runtime 13 PMLib-ManageConnection Clearing after machine interface disconnected
+2014-07-14 15:24:08.2666 3580 MES.Runtime 13 PMLib-ManageConnection PT200MAIImportCtrl:AddNoneRoute() Entered.
+2014-07-14 15:24:08.2666 3580 MES.Runtime 13 PMLib-ManageConnection PT200MAIImportCtrl:AddNoneRoute() Exited.
+2014-07-14 15:24:08.2666 3580 MES.Runtime 4 PMLib-ManageConnection Machine interface DisConnected
+2014-07-14 15:24:08.2666 3580 MES.Runtime 13 PMLib-ManageConnection Machine interface DisConnected
+2014-07-14 15:24:08.3446 3580 MES.Runtime 16 PMLib-ManageConnection Machine interface disconnected
+2014-07-14 15:24:08.3446 3580 MES.Runtime 16 PMLib-ManageConnection Clearing after machine interface disconnected
+2014-07-14 15:24:08.3446 3580 MES.Runtime 16 PMLib-ManageConnection PT200MAIImportCtrl:AddNoneRoute() Entered.
+2014-07-14 15:24:08.3446 3580 MES.Runtime 16 PMLib-ManageConnection PT200MAIImportCtrl:AddNoneRoute() Exited.
+2014-07-14 15:24:08.3446 3580 MES.Runtime 16 PMLib-ManageConnection Machine interface DisConnected
+2014-07-14 15:25:35.9056 3580 MES.Runtime 4 PMLib-ManageConnection Machine interface Connected.
+2014-07-14 15:25:35.9076 3580 MES.Runtime 4 PMLib-ManageConnection DBHelp.GetMachineType() Entered.
+2014-07-14 15:25:35.9076 3580 MES.Runtime 13 PMLib-ManageConnection Machine interface Connected.
+2014-07-14 15:25:35.9076 3580 MES.Runtime 13 PMLib-ManageConnection DBHelp.GetMachineType() Entered.
+2014-07-14 15:25:35.9236 3580 MES.Runtime 16 PMLib-ManageConnection Machine interface Connected.
+2014-07-14 15:25:35.9236 3580 MES.Runtime 16 PMLib-ManageConnection DBHelp.GetMachineType() Entered.
+2014-07-14 15:25:35.9426 3580 MES.Runtime 4 PMLib-ManageConnection Machine with Equipmend id =21013 is a Non KX machine. Ignoring it.
+2014-07-14 15:25:35.9426 3580 MES.Runtime 4 PMLib-ManageConnection Machine interface Connected.
+2014-07-14 15:25:35.9426 3580 MES.Runtime 4 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-14 15:25:35.9426 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:25:35.9426 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:25:35.9426 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:25:35.9426 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:25:35.9426 3580 MES.Runtime 16 PMLib-ManageConnection Machine with Equipmend id =21013 is a Non KX machine. Ignoring it.
+2014-07-14 15:25:35.9426 3580 MES.Runtime 16 PMLib-ManageConnection Machine interface Connected.
+2014-07-14 15:25:35.9546 3580 MES.Runtime 16 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-14 15:25:35.9546 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:25:35.9546 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:25:35.9546 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:25:35.9546 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:25:35.9546 3580 MES.Runtime 13 PMLib-ManageConnection Machine with Equipmend id =21013 is a Non KX machine. Ignoring it.
+2014-07-14 15:25:35.9546 3580 MES.Runtime 13 PMLib-ManageConnection Machine interface Connected.
+2014-07-14 15:25:35.9546 3580 MES.Runtime 13 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-14 15:25:35.9546 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:25:35.9546 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:25:35.9546 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:25:35.9546 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:25:36.0947 3580 MES.Runtime 13 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-14 15:25:36.1107 3580 MES.Runtime 13 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-14 15:25:36.1107 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:25:36.1107 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:25:36.1107 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:25:36.1107 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:25:36.1107 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:25:36.1107 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:25:36.1107 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:25:36.1107 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:25:36.2997 3580 MES.Runtime 13 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-14 15:25:36.2997 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:25:36.2997 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:25:36.2997 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:25:36.2997 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:25:36.4107 3580 MES.Runtime 13 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-14 15:25:36.4107 3580 MES.Runtime 13 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-14 15:25:36.4107 3580 MES.Runtime 13 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-14 15:25:36.4877 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:25:36.4877 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:25:36.4877 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:25:36.4877 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:25:36.4877 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:25:36.4877 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:25:36.4877 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:25:36.4877 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:25:36.4877 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:25:36.4877 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:25:36.4877 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:25:36.4877 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:25:40.5019 3580 MES.Runtime 13 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-14 15:25:40.5019 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:25:40.5019 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:25:40.5019 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:25:40.5019 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:25:40.5019 3580 MES.Runtime 4 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-14 15:25:40.5019 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:25:40.5019 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:25:40.5019 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:25:40.5019 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:25:40.5019 3580 MES.Runtime 16 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-14 15:25:40.5019 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:25:40.5019 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:25:40.5019 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:25:40.5019 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:32:59.8710 3580 MES.Runtime 16 PMLib-ManageConnection Machine interface disconnected
+2014-07-14 15:32:59.8710 3580 MES.Runtime 16 PMLib-ManageConnection Clearing after machine interface disconnected
+2014-07-14 15:32:59.8710 3580 MES.Runtime 16 PMLib-ManageConnection PT200MAIImportCtrl:AddNoneRoute() Entered.
+2014-07-14 15:32:59.8710 3580 MES.Runtime 16 PMLib-ManageConnection PT200MAIImportCtrl:AddNoneRoute() Exited.
+2014-07-14 15:32:59.8710 3580 MES.Runtime 16 PMLib-ManageConnection Machine interface DisConnected
+2014-07-14 15:32:59.9330 3580 MES.Runtime 13 PMLib-ManageConnection Machine interface disconnected
+2014-07-14 15:32:59.9330 3580 MES.Runtime 13 PMLib-ManageConnection Clearing after machine interface disconnected
+2014-07-14 15:32:59.9330 3580 MES.Runtime 13 PMLib-ManageConnection PT200MAIImportCtrl:AddNoneRoute() Entered.
+2014-07-14 15:32:59.9330 3580 MES.Runtime 13 PMLib-ManageConnection PT200MAIImportCtrl:AddNoneRoute() Exited.
+2014-07-14 15:32:59.9330 3580 MES.Runtime 4 PMLib-ManageConnection Machine interface disconnected
+2014-07-14 15:32:59.9330 3580 MES.Runtime 4 PMLib-ManageConnection Clearing after machine interface disconnected
+2014-07-14 15:32:59.9330 3580 MES.Runtime 4 PMLib-ManageConnection PT200MAIImportCtrl:AddNoneRoute() Entered.
+2014-07-14 15:32:59.9330 3580 MES.Runtime 4 PMLib-ManageConnection PT200MAIImportCtrl:AddNoneRoute() Exited.
+2014-07-14 15:32:59.9590 3580 MES.Runtime 13 PMLib-ManageConnection Machine interface DisConnected
+2014-07-14 15:32:59.9640 3580 MES.Runtime 4 PMLib-ManageConnection Machine interface DisConnected
+2014-07-14 15:33:26.8506 3580 MES.Runtime 16 PMLib-ManageConnection Machine interface Connected.
+2014-07-14 15:33:26.8506 3580 MES.Runtime 16 PMLib-ManageConnection DBHelp.GetMachineType() Entered.
+2014-07-14 15:33:26.8586 3580 MES.Runtime 16 PMLib-ManageConnection Machine with Equipmend id =21013 is a Non KX machine. Ignoring it.
+2014-07-14 15:33:26.8586 3580 MES.Runtime 16 PMLib-ManageConnection Machine interface Connected.
+2014-07-14 15:33:26.8586 3580 MES.Runtime 16 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-14 15:33:26.8586 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:33:26.8586 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:33:26.8586 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:33:26.8586 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:33:26.8586 3580 MES.Runtime 13 PMLib-ManageConnection Machine interface Connected.
+2014-07-14 15:33:26.8586 3580 MES.Runtime 13 PMLib-ManageConnection DBHelp.GetMachineType() Entered.
+2014-07-14 15:33:26.8586 3580 MES.Runtime 4 PMLib-ManageConnection Machine interface Connected.
+2014-07-14 15:33:26.8586 3580 MES.Runtime 4 PMLib-ManageConnection DBHelp.GetMachineType() Entered.
+2014-07-14 15:33:26.8586 3580 MES.Runtime 13 PMLib-ManageConnection Machine with Equipmend id =21013 is a Non KX machine. Ignoring it.
+2014-07-14 15:33:26.8586 3580 MES.Runtime 13 PMLib-ManageConnection Machine interface Connected.
+2014-07-14 15:33:26.8586 3580 MES.Runtime 13 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-14 15:33:26.8586 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:33:26.8586 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:33:26.8586 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:33:26.8586 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:33:26.8796 3580 MES.Runtime 4 PMLib-ManageConnection Machine with Equipmend id =21013 is a Non KX machine. Ignoring it.
+2014-07-14 15:33:26.8796 3580 MES.Runtime 4 PMLib-ManageConnection Machine interface Connected.
+2014-07-14 15:33:26.8796 3580 MES.Runtime 4 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-14 15:33:26.8796 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:33:26.8796 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:33:26.8796 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:33:26.8796 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:33:26.9716 3580 MES.Runtime 13 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-14 15:33:26.9716 3580 MES.Runtime 13 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-14 15:33:26.9836 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:33:26.9836 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:33:26.9836 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:33:26.9836 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:33:26.9836 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:33:26.9836 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:33:26.9836 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:33:26.9836 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:33:27.2646 3580 MES.Runtime 13 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-14 15:33:27.2646 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:33:27.2646 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:33:27.2646 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:33:27.2646 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:33:28.4987 3580 MES.Runtime 13 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-14 15:33:28.4987 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:33:28.4987 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:33:28.4987 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:33:28.4987 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:33:28.4987 3580 MES.Runtime 13 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-14 15:33:28.4987 3580 MES.Runtime 13 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-14 15:33:28.5127 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:33:28.5127 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:33:28.5127 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:33:28.5127 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:33:28.5127 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:33:28.5127 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:33:28.5127 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:33:28.5127 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:33:30.8498 3580 MES.Runtime 13 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-14 15:33:30.8498 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:33:30.8498 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:33:30.8498 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:33:30.8498 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:33:30.8998 3580 MES.Runtime 16 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-14 15:33:30.8998 3580 MES.Runtime 4 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-14 15:33:30.8998 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:33:30.8998 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:33:30.8998 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:33:30.8998 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:33:30.8998 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:33:30.8998 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:33:30.8998 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-14 15:33:30.8998 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 09:38:57.6664 3580 MES.Runtime 4 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-15 09:38:57.7524 3580 MES.Runtime 13 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-15 09:38:57.7524 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 09:38:57.7524 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 09:38:57.7524 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 09:38:57.7524 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 09:38:57.7524 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 09:38:57.7524 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 09:38:57.7524 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 09:38:57.7524 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 09:38:57.7524 3580 MES.Runtime 16 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-15 09:38:57.7524 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 09:38:57.7524 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 09:38:57.7524 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 09:38:57.7524 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 09:39:00.2516 3580 MES.Runtime 4 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-15 09:39:00.2516 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 09:39:00.2516 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 09:39:00.2516 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 09:39:00.2516 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 09:39:00.2516 3580 MES.Runtime 13 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-15 09:39:00.2516 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 09:39:00.2516 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 09:39:00.2516 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 09:39:00.2516 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 09:39:00.2656 3580 MES.Runtime 16 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-15 09:39:00.2656 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 09:39:00.2656 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 09:39:00.2656 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 09:39:00.2656 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 09:39:00.4526 3580 MES.Runtime 4 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-15 09:39:00.4526 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 09:39:00.4526 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 09:39:00.4526 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 09:39:00.4526 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 09:39:00.4526 3580 MES.Runtime 13 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-15 09:39:00.4526 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 09:39:00.4526 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 09:39:00.4526 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 09:39:00.4526 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 09:39:00.4676 3580 MES.Runtime 16 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-15 09:39:00.4676 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 09:39:00.4676 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 09:39:00.4676 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 09:39:00.4676 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:25:00.5574 3580 MES.Runtime 13 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-15 11:25:00.5574 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:25:00.5574 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:25:00.5574 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:25:00.5574 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:25:00.5574 3580 MES.Runtime 16 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-15 11:25:00.5574 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:25:00.5574 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:25:00.5574 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:25:00.5574 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:25:00.5644 3580 MES.Runtime 4 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-15 11:25:00.5644 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:25:00.5644 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:25:00.5644 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:25:00.5644 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:25:02.4875 3580 MES.Runtime 13 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-15 11:25:02.4875 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:25:02.4875 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:25:02.4875 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:25:02.4875 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:25:02.4875 3580 MES.Runtime 16 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-15 11:25:02.4875 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:25:02.4875 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:25:02.4875 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:25:02.4875 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:25:02.4875 3580 MES.Runtime 4 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-15 11:25:02.4875 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:25:02.4875 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:25:02.4875 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:25:02.4875 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:25:12.2430 3580 MES.Runtime 16 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-15 11:25:12.2430 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:25:12.2430 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:25:12.2430 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:25:12.2430 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:25:12.2430 3580 MES.Runtime 4 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-15 11:25:12.2430 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:25:12.2430 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:25:12.2430 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:25:12.2430 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:25:12.2960 3580 MES.Runtime 13 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-15 11:25:12.2960 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:25:12.2960 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:25:12.2960 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:25:12.2960 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:47:00.2249 3580 MES.Runtime 4 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-15 11:47:00.2249 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:47:00.2249 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:47:00.2249 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:47:00.2249 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:47:00.2569 3580 MES.Runtime 13 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-15 11:47:00.2569 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:47:00.2569 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:47:00.2569 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:47:00.2569 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:47:00.2569 3580 MES.Runtime 16 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-15 11:47:00.2569 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:47:00.2569 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:47:00.2569 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:47:00.2569 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:47:31.7257 3580 MES.Runtime 4 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-15 11:47:31.7257 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:47:31.7257 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:47:31.7257 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:47:31.7257 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:47:31.7257 3580 MES.Runtime 16 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-15 11:47:31.7257 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:47:31.7257 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:47:31.7257 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:47:31.7257 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:47:31.7517 3580 MES.Runtime 13 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-15 11:47:31.7517 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:47:31.7517 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:47:31.7517 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:47:31.7517 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:47:40.5952 3580 MES.Runtime 4 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-15 11:47:40.5972 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:47:40.5972 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:47:40.5972 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:47:40.5972 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:47:40.5972 3580 MES.Runtime 16 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-15 11:47:40.5972 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:47:40.5972 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:47:40.5972 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:47:40.5972 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:47:40.5972 3580 MES.Runtime 13 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-15 11:47:40.5972 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:47:40.5972 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:47:40.5972 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:47:40.5972 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:48:48.9491 3580 MES.Runtime 4 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-15 11:48:48.9491 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:48:48.9491 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:48:48.9491 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:48:48.9491 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:48:48.9491 3580 MES.Runtime 16 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-15 11:48:48.9491 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:48:48.9491 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:48:48.9491 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:48:48.9571 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:48:48.9571 3580 MES.Runtime 13 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-15 11:48:48.9571 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:48:48.9571 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:48:48.9571 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:48:48.9571 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:48:59.6257 3580 MES.Runtime 16 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-15 11:48:59.6287 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:48:59.6287 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:48:59.6287 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:48:59.6287 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:48:59.6987 3580 MES.Runtime 13 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-15 11:48:59.7057 3580 MES.Runtime 4 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-15 11:48:59.7057 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:48:59.7057 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:48:59.7057 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:48:59.7057 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:48:59.7057 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:48:59.7057 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:48:59.7057 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:48:59.7057 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:49:20.9389 3580 MES.Runtime 16 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-15 11:49:20.9389 3580 MES.Runtime 4 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-15 11:49:20.9389 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:49:20.9389 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:49:20.9389 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:49:20.9389 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:49:20.9389 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:49:20.9389 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:49:20.9389 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:49:20.9389 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:49:20.9389 3580 MES.Runtime 13 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-15 11:49:20.9709 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:49:20.9709 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:49:20.9709 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:49:20.9709 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:49:29.5374 3580 MES.Runtime 16 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-15 11:49:29.5374 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:49:29.5374 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:49:29.5374 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:49:29.5374 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:49:29.5544 3580 MES.Runtime 4 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-15 11:49:29.5544 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:49:29.5544 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:49:29.5544 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:49:29.5544 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:49:29.6044 3580 MES.Runtime 13 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-15 11:49:29.6044 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:49:29.6044 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:49:29.6044 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 11:49:29.6044 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 12:12:10.4612 3580 MES.Runtime 16 PMLib-ManageConnection Machine interface disconnected
+2014-07-15 12:12:10.4612 3580 MES.Runtime 16 PMLib-ManageConnection Clearing after machine interface disconnected
+2014-07-15 12:12:10.4612 3580 MES.Runtime 16 PMLib-ManageConnection PT200MAIImportCtrl:AddNoneRoute() Entered.
+2014-07-15 12:12:10.4612 3580 MES.Runtime 16 PMLib-ManageConnection PT200MAIImportCtrl:AddNoneRoute() Exited.
+2014-07-15 12:12:10.4702 3580 MES.Runtime 13 PMLib-ManageConnection Machine interface disconnected
+2014-07-15 12:12:10.4702 3580 MES.Runtime 13 PMLib-ManageConnection Clearing after machine interface disconnected
+2014-07-15 12:12:10.4702 3580 MES.Runtime 13 PMLib-ManageConnection PT200MAIImportCtrl:AddNoneRoute() Entered.
+2014-07-15 12:12:10.4702 3580 MES.Runtime 13 PMLib-ManageConnection PT200MAIImportCtrl:AddNoneRoute() Exited.
+2014-07-15 12:12:10.4702 3580 MES.Runtime 4 PMLib-ManageConnection Machine interface disconnected
+2014-07-15 12:12:10.4702 3580 MES.Runtime 4 PMLib-ManageConnection Clearing after machine interface disconnected
+2014-07-15 12:12:10.4702 3580 MES.Runtime 4 PMLib-ManageConnection PT200MAIImportCtrl:AddNoneRoute() Entered.
+2014-07-15 12:12:10.4702 3580 MES.Runtime 4 PMLib-ManageConnection PT200MAIImportCtrl:AddNoneRoute() Exited.
+2014-07-15 12:12:10.4852 3580 MES.Runtime 4 PMLib-ManageConnection Machine interface DisConnected
+2014-07-15 12:12:10.5152 3580 MES.Runtime 16 PMLib-ManageConnection Machine interface DisConnected
+2014-07-15 12:12:10.5162 3580 MES.Runtime 13 PMLib-ManageConnection Machine interface DisConnected
+2014-07-15 12:12:26.9332 3580 MES.Runtime 4 PMLib-ManageConnection Machine interface Connected.
+2014-07-15 12:12:26.9332 3580 MES.Runtime 4 PMLib-ManageConnection DBHelp.GetMachineType() Entered.
+2014-07-15 12:12:26.9902 3580 MES.Runtime 13 PMLib-ManageConnection Machine interface Connected.
+2014-07-15 12:12:26.9902 3580 MES.Runtime 13 PMLib-ManageConnection DBHelp.GetMachineType() Entered.
+2014-07-15 12:12:26.9902 3580 MES.Runtime 16 PMLib-ManageConnection Machine interface Connected.
+2014-07-15 12:12:26.9902 3580 MES.Runtime 16 PMLib-ManageConnection DBHelp.GetMachineType() Entered.
+2014-07-15 12:12:27.3942 3580 MES.Runtime 16 PMLib-ManageConnection Machine with Equipmend id =21013 is a Non KX machine. Ignoring it.
+2014-07-15 12:12:27.3942 3580 MES.Runtime 16 PMLib-ManageConnection Machine interface Connected.
+2014-07-15 12:12:27.3962 3580 MES.Runtime 16 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-15 12:12:27.3962 3580 MES.Runtime 4 PMLib-ManageConnection Machine with Equipmend id =21013 is a Non KX machine. Ignoring it.
+2014-07-15 12:12:27.3962 3580 MES.Runtime 4 PMLib-ManageConnection Machine interface Connected.
+2014-07-15 12:12:27.4512 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 12:12:27.4512 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 12:12:27.4512 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 12:12:27.4512 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 12:12:27.4512 3580 MES.Runtime 13 PMLib-ManageConnection Machine with Equipmend id =21013 is a Non KX machine. Ignoring it.
+2014-07-15 12:12:27.4512 3580 MES.Runtime 13 PMLib-ManageConnection Machine interface Connected.
+2014-07-15 12:12:27.4582 3580 MES.Runtime 13 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-15 12:12:27.4582 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 12:12:27.4582 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 12:12:27.4582 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 12:12:27.4582 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 12:12:27.4582 3580 MES.Runtime 4 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-15 12:12:27.4582 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 12:12:27.4582 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 12:12:27.4582 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 12:12:27.4582 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 12:12:27.5682 3580 MES.Runtime 13 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-15 12:12:27.5682 3580 MES.Runtime 13 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-15 12:12:27.5682 3580 MES.Runtime 13 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-15 12:12:27.5832 3580 MES.Runtime 13 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-15 12:12:27.6542 3580 MES.Runtime 13 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-15 12:12:27.6632 3580 MES.Runtime 13 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-15 12:12:27.6632 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 12:12:27.6632 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 12:12:27.6632 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 12:12:27.6632 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 12:12:27.6632 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 12:12:27.6632 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 12:12:27.6632 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 12:12:27.6632 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 12:12:27.6632 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 12:12:27.6632 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 12:12:27.6632 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 12:12:27.6632 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 12:12:27.6632 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 12:12:27.6632 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 12:12:27.6632 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 12:12:27.6632 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 12:12:27.6632 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 12:12:27.6632 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 12:12:27.6632 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 12:12:27.6632 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 12:12:27.6632 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 12:12:27.6632 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 12:12:27.6632 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 12:12:27.6632 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 12:14:09.6181 3580 MES.Runtime 16 PMLib-ManageConnection DGS is Disconnected
+2014-07-15 12:14:09.6231 3580 MES.Runtime 13 PMLib-ManageConnection DGS is Disconnected
+2014-07-15 12:14:09.6471 3580 MES.Runtime 4 PMLib-ManageConnection DGS is Disconnected
+2014-07-15 12:14:09.7981 3580 MES.Runtime 16 PMLib-ManageConnection Machine interface disconnected
+2014-07-15 12:14:09.7981 3580 MES.Runtime 16 PMLib-ManageConnection Clearing after machine interface disconnected
+2014-07-15 12:14:09.7981 3580 MES.Runtime 16 PMLib-ManageConnection PT200MAIImportCtrl:AddNoneRoute() Entered.
+2014-07-15 12:14:09.7981 3580 MES.Runtime 16 PMLib-ManageConnection PT200MAIImportCtrl:AddNoneRoute() Exited.
+2014-07-15 12:14:09.9661 3580 MES.Runtime 4 PMLib-ManageConnection Machine interface disconnected
+2014-07-15 12:14:09.9661 3580 MES.Runtime 4 PMLib-ManageConnection Clearing after machine interface disconnected
+2014-07-15 12:14:09.9661 3580 MES.Runtime 4 PMLib-ManageConnection PT200MAIImportCtrl:AddNoneRoute() Entered.
+2014-07-15 12:14:09.9661 3580 MES.Runtime 4 PMLib-ManageConnection PT200MAIImportCtrl:AddNoneRoute() Exited.
+2014-07-15 12:14:09.9351 3580 MES.Runtime 13 PMLib-ManageConnection Machine interface disconnected
+2014-07-15 12:14:09.9981 3580 MES.Runtime 13 PMLib-ManageConnection Clearing after machine interface disconnected
+2014-07-15 12:14:09.9981 3580 MES.Runtime 13 PMLib-ManageConnection PT200MAIImportCtrl:AddNoneRoute() Entered.
+2014-07-15 12:14:09.9981 3580 MES.Runtime 13 PMLib-ManageConnection PT200MAIImportCtrl:AddNoneRoute() Exited.
+2014-07-15 12:14:10.2791 3580 MES.Runtime 16 PMLib-ManageConnection Machine interface DisConnected
+2014-07-15 12:14:10.2791 3580 MES.Runtime 16 PMLib-ManageConnection Substitute Import Deamon is not running
+2014-07-15 12:14:10.3401 3580 MES.Runtime 16 PMLib-ManageConnection PEM is Disconnected
+2014-07-15 12:14:10.3421 3580 MES.Runtime 4 PMLib-ManageConnection Machine interface DisConnected
+2014-07-15 12:14:10.3421 3580 MES.Runtime 4 PMLib-ManageConnection Substitute Import Deamon is not running
+2014-07-15 12:14:10.3421 3580 MES.Runtime 4 PMLib-ManageConnection PEM is Disconnected
+2014-07-15 12:14:10.3421 3580 MES.Runtime 13 PMLib-ManageConnection Machine interface DisConnected
+2014-07-15 12:14:10.5151 3580 MES.Runtime 13 PMLib-ManageConnection Substitute Import Deamon is not running
+2014-07-15 12:14:10.5151 3580 MES.Runtime 13 PMLib-ManageConnection PEM is Disconnected
+2014-07-15 12:14:12.0312 3580 MES.Runtime 13 PMLib-ManageConnection Machine interface disconnected
+2014-07-15 12:14:12.0412 3580 MES.Runtime 13 PMLib-ManageConnection Clearing after machine interface disconnected
+2014-07-15 12:14:12.0412 3580 MES.Runtime 13 PMLib-ManageConnection PT200MAIImportCtrl:AddNoneRoute() Entered.
+2014-07-15 12:14:12.0412 3580 MES.Runtime 13 PMLib-ManageConnection PT200MAIImportCtrl:AddNoneRoute() Exited.
+2014-07-15 12:14:12.0412 3580 MES.Runtime 13 PMLib-ManageConnection Machine interface DisConnected
+2014-07-15 12:14:12.0582 3580 MES.Runtime 16 PMLib-ManageConnection Machine interface disconnected
+2014-07-15 12:14:12.0582 3580 MES.Runtime 16 PMLib-ManageConnection Clearing after machine interface disconnected
+2014-07-15 12:14:12.0582 3580 MES.Runtime 16 PMLib-ManageConnection PT200MAIImportCtrl:AddNoneRoute() Entered.
+2014-07-15 12:14:12.0582 3580 MES.Runtime 16 PMLib-ManageConnection PT200MAIImportCtrl:AddNoneRoute() Exited.
+2014-07-15 12:14:12.0732 3580 MES.Runtime 4 PMLib-ManageConnection Machine interface disconnected
+2014-07-15 12:14:12.0732 3580 MES.Runtime 4 PMLib-ManageConnection Clearing after machine interface disconnected
+2014-07-15 12:14:12.0732 3580 MES.Runtime 4 PMLib-ManageConnection PT200MAIImportCtrl:AddNoneRoute() Entered.
+2014-07-15 12:14:12.0732 3580 MES.Runtime 4 PMLib-ManageConnection PT200MAIImportCtrl:AddNoneRoute() Exited.
+2014-07-15 12:14:12.1012 3580 MES.Runtime 16 PMLib-ManageConnection Machine interface DisConnected
+2014-07-15 12:14:12.1012 3580 MES.Runtime 4 PMLib-ManageConnection Machine interface DisConnected
+2014-07-15 12:14:18.7806 3580 MES.Runtime 4 PMLib-ManageConnection PostMasterLibrary Connection error: Did not receive successfuly translated request response message.
+2014-07-15 12:14:18.7806 3580 MES.Runtime 4 PMLib-ManageConnection PostMasterLibrary Connection error: Failed to connect.
+2014-07-15 12:14:18.7806 3580 MES.Runtime 16 PMLib-ManageConnection PostMasterLibrary Connection error: Did not receive successfuly translated request response message.
+2014-07-15 12:14:18.7806 3580 MES.Runtime 16 PMLib-ManageConnection PostMasterLibrary Connection error: Failed to connect.
+2014-07-15 12:14:18.7806 3580 MES.Runtime 13 PMLib-ManageConnection PostMasterLibrary Connection error: Did not receive successfuly translated request response message.
+2014-07-15 12:14:18.7806 3580 MES.Runtime 13 PMLib-ManageConnection PostMasterLibrary Connection error: Failed to connect.
+2014-07-15 12:14:21.0707 3580 MES.Runtime 13 PMLib-ManageConnection PostMasterLibrary Connection error: Failed to connect.
+2014-07-15 12:14:21.0737 3580 MES.Runtime 4 PMLib-ManageConnection PostMasterLibrary Connection error: Failed to connect.
+2014-07-15 12:14:21.0737 3580 MES.Runtime 16 PMLib-ManageConnection PostMasterLibrary Connection error: Failed to connect.
+2014-07-15 12:14:23.0798 3580 MES.Runtime 13 PMLib-ManageConnection PostMasterLibrary Connection error: Failed to connect.
+2014-07-15 12:14:23.0858 3580 MES.Runtime 4 PMLib-ManageConnection PostMasterLibrary Connection error: Failed to connect.
+2014-07-15 12:14:23.0858 3580 MES.Runtime 16 PMLib-ManageConnection PostMasterLibrary Connection error: Failed to connect.
+2014-07-15 12:14:25.0859 3580 MES.Runtime 13 PMLib-ManageConnection PostMasterLibrary Connection error: Failed to connect.
+2014-07-15 12:14:25.0859 3580 MES.Runtime 4 PMLib-ManageConnection PostMasterLibrary Connection error: Failed to connect.
+2014-07-15 12:14:25.0859 3580 MES.Runtime 16 PMLib-ManageConnection PostMasterLibrary Connection error: Failed to connect.
+2014-07-15 12:14:27.0911 3580 MES.Runtime 13 PMLib-ManageConnection PostMasterLibrary Connection error: Failed to connect.
+2014-07-15 12:14:27.0951 3580 MES.Runtime 4 PMLib-ManageConnection PostMasterLibrary Connection error: Failed to connect.
+2014-07-15 12:14:27.0951 3580 MES.Runtime 16 PMLib-ManageConnection PostMasterLibrary Connection error: Failed to connect.
+2014-07-15 12:14:29.1002 3580 MES.Runtime 13 PMLib-ManageConnection PostMasterLibrary Connection error: Failed to connect.
+2014-07-15 12:14:29.1092 3580 MES.Runtime 4 PMLib-ManageConnection PostMasterLibrary Connection error: Failed to connect.
+2014-07-15 12:14:29.1092 3580 MES.Runtime 16 PMLib-ManageConnection PostMasterLibrary Connection error: Failed to connect.
+2014-07-15 12:14:31.1233 3580 MES.Runtime 13 PMLib-ManageConnection PostMasterLibrary Connection error: Failed to connect.
+2014-07-15 12:14:31.1233 3580 MES.Runtime 4 PMLib-ManageConnection PostMasterLibrary Connection error: Failed to connect.
+2014-07-15 12:14:31.1233 3580 MES.Runtime 16 PMLib-ManageConnection PostMasterLibrary Connection error: Failed to connect.
+2014-07-15 12:14:33.1264 3580 MES.Runtime 13 PMLib-ManageConnection PostMasterLibrary Connection error: Failed to connect.
+2014-07-15 12:14:33.1364 3580 MES.Runtime 4 PMLib-ManageConnection PostMasterLibrary Connection error: Failed to connect.
+2014-07-15 12:14:33.1364 3580 MES.Runtime 16 PMLib-ManageConnection PostMasterLibrary Connection error: Failed to connect.
+2014-07-15 12:14:35.1295 3580 MES.Runtime 13 PMLib-ManageConnection PostMasterLibrary Connection error: Failed to connect.
+2014-07-15 12:14:35.1295 3580 MES.Runtime 4 PMLib-ManageConnection PostMasterLibrary Connection error: Failed to connect.
+2014-07-15 12:14:35.1295 3580 MES.Runtime 16 PMLib-ManageConnection PostMasterLibrary Connection error: Failed to connect.
+2014-07-15 12:14:37.1426 3580 MES.Runtime 13 PMLib-ManageConnection PostMasterLibrary Connection error: Failed to connect.
+2014-07-15 12:14:37.1426 3580 MES.Runtime 4 PMLib-ManageConnection PostMasterLibrary Connection error: Failed to connect.
+2014-07-15 12:14:37.1426 3580 MES.Runtime 16 PMLib-ManageConnection PostMasterLibrary Connection error: Failed to connect.
+2014-07-15 12:14:38.8017 3580 MES.Runtime 13 PMLib-ManageConnection PostMaster is connected.
+2014-07-15 12:14:38.8017 3580 MES.Runtime 13 PMLib-ManageConnection Checking PEM running status.
+2014-07-15 12:14:38.8107 3580 MES.Runtime 13 PMLib-ManageConnection PEM is Disconnected
+2014-07-15 12:14:38.8107 3580 MES.Runtime 13 PMLib-ManageConnection Substitute Import Deamon is not running
+2014-07-15 12:14:38.8107 3580 MES.Runtime 4 PMLib-ManageConnection PostMaster is connected.
+2014-07-15 12:14:38.8107 3580 MES.Runtime 16 PMLib-ManageConnection PostMaster is connected.
+2014-07-15 12:14:38.8277 3580 MES.Runtime 4 PMLib-ManageConnection Checking PEM running status.
+2014-07-15 12:14:38.8277 3580 MES.Runtime 16 PMLib-ManageConnection Checking PEM running status.
+2014-07-15 12:14:39.0137 3580 MES.Runtime 13 PMLib-ManageConnection PEM is Disconnected
+2014-07-15 12:14:39.0137 3580 MES.Runtime 13 PMLib-ManageConnection Substitute Import Deamon is not running
+2014-07-15 12:14:39.0137 3580 MES.Runtime 13 PMLib-ManageConnection PEM is Disconnected
+2014-07-15 12:14:39.0137 3580 MES.Runtime 13 PMLib-ManageConnection Substitute Import Deamon is not running
+2014-07-15 12:16:27.6689 3580 MES.Runtime 13 PMLib-ManageConnection DGS is Connected
+2014-07-15 12:16:27.6689 3580 MES.Runtime 13 PMLib-ManageConnection PEM is Connected
+2014-07-15 12:16:33.6963 3580 MES.Runtime 13 PMLib-ManageConnection Substitute Import Deamon is running
+2014-07-15 12:16:46.9681 3580 MES.Runtime 13 PMLib-ManageConnection Machine interface Connected.
+2014-07-15 12:16:46.9681 3580 MES.Runtime 13 PMLib-ManageConnection DBHelp.GetMachineType() Entered.
+2014-07-15 12:16:46.9811 3580 MES.Runtime 13 PMLib-ManageConnection Machine with Equipmend id =21013 is a Non KX machine. Ignoring it.
+2014-07-15 12:16:46.9811 3580 MES.Runtime 13 PMLib-ManageConnection Machine interface Connected.
+2014-07-15 12:16:46.9811 3580 MES.Runtime 13 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-15 12:16:46.9811 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 12:16:46.9811 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 12:16:46.9811 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 12:16:46.9811 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 12:16:47.2821 3580 MES.Runtime 13 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-15 12:16:47.2931 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 12:16:47.2931 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 12:16:47.2931 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 12:16:47.2931 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 12:16:54.8105 3580 MES.Runtime 13 PMLib-ManageConnection Machine interface Connected.
+2014-07-15 12:16:54.8105 3580 MES.Runtime 13 PMLib-ManageConnection DBHelp.GetMachineType() Entered.
+2014-07-15 12:16:54.8125 3580 MES.Runtime 13 PMLib-ManageConnection Getting route information for Machine Interface with Equipmend id =21011.
+2014-07-15 12:16:54.8455 3580 MES.Runtime 13 PMLib-ManageConnection Success:Getting route information for Machine Interface with Equipmend id =21011 is successful.
+2014-07-15 12:16:54.8455 3580 MES.Runtime 13 PMLib-ManageConnection Machine Interface name = CM402-ZONE-Machin1 with mailbox id=64.
+2014-07-15 12:16:54.8455 3580 MES.Runtime 13 PMLib-ManageConnection Route ID is 21003 with name=CM402-LINE for machine interface
+2014-07-15 12:16:54.8455 3580 MES.Runtime 13 PMLib-ManageConnection Added a None Route
+2014-07-15 12:16:54.8455 3580 MES.Runtime 13 PMLib-ManageConnection Machine interface Connected.
+2014-07-15 12:16:54.8775 3580 MES.Runtime 1  PT200MAIImportCtrl.cmbRoutes_SelectionChanged() Entered.
+2014-07-15 12:16:54.8775 3580 MES.Runtime 1  PT200MAIImportCtrl.cmbRoutes_SelectionChanged() Exited.
+2014-07-15 12:16:54.8775 3580 MES.Runtime 1  PT200MAIImportCtrl.cmbRoutes_SelectionChanged() Entered.
+2014-07-15 12:16:54.9145 3580 MES.Runtime 1  PT200MAIImportCtrl.cmbProductSrc_SelectionChanged() Entered.
+2014-07-15 12:16:54.9145 3580 MES.Runtime 1  PT200MAIImportCtrl.cmbProductSrc_SelectionChanged() Exited.
+2014-07-15 12:16:54.9145 3580 MES.Runtime 1  PT200MAIImportCtrl.cmbProductSrc_SelectionChanged() Entered.
+2014-07-15 12:16:54.9145 3580 MES.Runtime 1  PT200MAIImportCtrl.cmbProductSrc_SelectionChanged() Exited.
+2014-07-15 12:16:54.9145 3580 MES.Runtime 1  PT200MAIImportCtrl.cmbRoutes_SelectionChanged() Exited.
+2014-07-15 12:16:55.1715 3580 MES.Runtime 13 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-15 12:16:55.2045 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 12:16:55.2045 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 12:16:55.2045 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 12:16:55.2045 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 12:17:03.8810 3580 MES.Runtime 13 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-15 12:17:03.8810 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 12:17:03.8810 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 12:17:03.8810 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 12:17:03.8810 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 12:17:04.0840 3580 MES.Runtime 13 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-15 12:17:04.0840 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 12:17:04.0840 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 12:17:04.0840 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 12:17:04.0840 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 12:19:29.2853 3580 MES.Runtime 13 PMLib-ManageConnection Machine interface disconnected
+2014-07-15 12:19:29.2853 3580 MES.Runtime 13 PMLib-ManageConnection Clearing after machine interface disconnected
+2014-07-15 12:19:29.2853 3580 MES.Runtime 13 PMLib-ManageConnection PT200MAIImportCtrl:AddNoneRoute() Entered.
+2014-07-15 12:19:29.2853 3580 MES.Runtime 13 PMLib-ManageConnection PT200MAIImportCtrl:AddNoneRoute() Exited.
+2014-07-15 12:19:29.3053 3580 MES.Runtime 13 PMLib-ManageConnection Machine interface DisConnected
+2014-07-15 12:19:45.1272 3580 MES.Runtime 13 PMLib-ManageConnection Machine interface Connected.
+2014-07-15 12:19:45.1272 3580 MES.Runtime 13 PMLib-ManageConnection DBHelp.GetMachineType() Entered.
+2014-07-15 12:19:45.1272 3580 MES.Runtime 13 PMLib-ManageConnection Machine with Equipmend id =21013 is a Non KX machine. Ignoring it.
+2014-07-15 12:19:45.1272 3580 MES.Runtime 13 PMLib-ManageConnection Machine interface Connected.
+2014-07-15 12:19:45.1272 3580 MES.Runtime 13 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-15 12:19:45.1272 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 12:19:45.1272 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 12:19:45.1272 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 12:19:45.1272 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 12:19:45.4313 3580 MES.Runtime 13 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-15 12:19:45.4313 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 12:19:45.4313 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 12:19:45.4313 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 12:19:45.4313 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 12:19:48.3854 3580 MES.Runtime 13 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-07-15 12:19:48.3954 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 12:19:48.3954 3580 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 12:19:48.3954 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-07-15 12:19:48.3954 3580 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 16:04:20.2212 2956 MES.Runtime 1  PMListener_Config:OnStart() Entered.
+2014-08-05 16:04:20.7042 2956 MES.Runtime 4 PMListener_MachineFileImport - StartPMListener Connecting to Postmaster:CIMC-SRV
+2014-08-05 16:04:20.7142 2956 MES.Runtime 1  PMListener_Config:OnStart() Exited.
+2014-08-05 16:04:21.4573 2956 MES.Runtime 8 PMLib-ManageConnection PostMaster is connected.
+2014-08-05 16:04:21.8003 2956 MES.Runtime 8 PMLib-ManageConnection Checking PEM running status.
+2014-08-05 16:04:22.4113 2956 MES.Runtime 8 PMLib-ManageConnection PEM is Disconnected
+2014-08-05 16:04:22.5083 2956 MES.Runtime 8 PMLib-ManageConnection Substitute Import Deamon is not running
+2014-08-05 16:04:22.5183 2956 MES.Runtime 8 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-08-05 16:04:22.5183 2956 MES.Runtime 8 PMLib-ManageConnection Machine interface Connected.
+2014-08-05 16:04:22.5183 2956 MES.Runtime 8 PMLib-ManageConnection DBHelp.GetMachineType() Entered.
+2014-08-05 16:04:22.7044 2956 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 16:04:22.7054 2956 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 16:04:22.7054 2956 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 16:04:22.7054 2956 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 16:04:23.5574 2956 MES.Runtime 8 PMLib-ManageConnection Getting route information for Machine Interface with Equipmend id =21011.
+2014-08-05 16:04:25.6855 2956 MES.Runtime 8 PMLib-ManageConnection Success:Getting route information for Machine Interface with Equipmend id =21011 is successful.
+2014-08-05 16:04:25.6855 2956 MES.Runtime 8 PMLib-ManageConnection Machine Interface name = CM402-ZONE-Machin1 with mailbox id=550.
+2014-08-05 16:04:25.6855 2956 MES.Runtime 8 PMLib-ManageConnection PT200MAIImportCtrl:AddNoneRoute() Entered.
+2014-08-05 16:04:25.6855 2956 MES.Runtime 8 PMLib-ManageConnection PT200MAIImportCtrl:AddNoneRoute() Exited.
+2014-08-05 16:04:25.6855 2956 MES.Runtime 8 PMLib-ManageConnection Route ID is 21003 with name=CM402-LINE for machine interface
+2014-08-05 16:04:25.7555 2956 MES.Runtime 8 PMLib-ManageConnection Added a None Route
+2014-08-05 16:04:27.9407 2956 MES.Runtime 1  PT200MAIImportCtrl.cmbRoutes_SelectionChanged() Entered.
+2014-08-05 16:04:28.0127 2956 MES.Runtime 1  PT200MAIImportCtrl.cmbProductSrc_SelectionChanged() Entered.
+2014-08-05 16:04:28.0127 2956 MES.Runtime 1  PT200MAIImportCtrl.cmbProductSrc_SelectionChanged() Exited.
+2014-08-05 16:04:28.0127 2956 MES.Runtime 1  PT200MAIImportCtrl.cmbRoutes_SelectionChanged() Exited.
+2014-08-05 17:04:31.4258 2956 MES.Runtime 8 PMLib-ManageConnection PostMasterLibrary Connection error: Did not receive successfuly translated request response message.
+2014-08-05 17:04:31.4298 2956 MES.Runtime 8 PMLib-ManageConnection PostMasterLibrary Connection error: Failed to connect.
+2014-08-05 17:04:35.8360 2956 MES.Runtime 8 PMLib-ManageConnection PostMasterLibrary Connection error: Failed to connect.
+2014-08-05 17:04:37.8541 2956 MES.Runtime 8 PMLib-ManageConnection PostMasterLibrary Connection error: Failed to connect.
+2014-08-05 17:04:39.8592 2956 MES.Runtime 8 PMLib-ManageConnection PostMasterLibrary Connection error: Failed to connect.
+2014-08-05 17:04:41.8734 2956 MES.Runtime 8 PMLib-ManageConnection PostMasterLibrary Connection error: Failed to connect.
+2014-08-05 17:04:43.8785 2956 MES.Runtime 8 PMLib-ManageConnection PostMasterLibrary Connection error: Failed to connect.
+2014-08-05 17:04:45.8906 2956 MES.Runtime 8 PMLib-ManageConnection PostMasterLibrary Connection error: Failed to connect.
+2014-08-05 17:04:47.9097 2956 MES.Runtime 8 PMLib-ManageConnection PostMasterLibrary Connection error: Failed to connect.
+2014-08-05 17:04:49.9288 2956 MES.Runtime 8 PMLib-ManageConnection PostMasterLibrary Connection error: Failed to connect.
+2014-08-05 17:04:51.9519 2956 MES.Runtime 8 PMLib-ManageConnection PostMasterLibrary Connection error: Failed to connect.
+2014-08-05 17:04:53.9540 2956 MES.Runtime 8 PMLib-ManageConnection PostMasterLibrary Connection error: Failed to connect.
+2014-08-05 17:04:55.9572 2956 MES.Runtime 8 PMLib-ManageConnection PostMasterLibrary Connection error: Failed to connect.
+2014-08-05 17:04:57.9593 2956 MES.Runtime 8 PMLib-ManageConnection PostMasterLibrary Connection error: Failed to connect.
+2014-08-05 17:04:59.9824 2956 MES.Runtime 8 PMLib-ManageConnection PostMasterLibrary Connection error: Failed to connect.
+2014-08-05 17:05:01.9855 2956 MES.Runtime 8 PMLib-ManageConnection PostMasterLibrary Connection error: Failed to connect.
+2014-08-05 17:05:03.9906 2956 MES.Runtime 8 PMLib-ManageConnection PostMasterLibrary Connection error: Failed to connect.
+2014-08-05 17:05:05.1207 2956 MES.Runtime 8 PMLib-ManageConnection PostMaster is connected.
+2014-08-05 17:05:05.1317 2956 MES.Runtime 8 PMLib-ManageConnection Checking PEM running status.
+2014-08-05 17:05:05.1417 2956 MES.Runtime 8 PMLib-ManageConnection PEM is Disconnected
+2014-08-05 17:05:05.1417 2956 MES.Runtime 8 PMLib-ManageConnection Substitute Import Deamon is not running
+2014-08-05 17:06:39.8041 2956 MES.Runtime 8 PMLib-ManageConnection DGS is Connected
+2014-08-05 17:06:39.8341 2956 MES.Runtime 8 PMLib-ManageConnection PEM is Connected
+2014-08-05 17:06:45.7104 2956 MES.Runtime 8 PMLib-ManageConnection Substitute Import Deamon is running
+2014-08-05 17:07:00.2613 2956 MES.Runtime 8 PMLib-ManageConnection Machine interface Connected.
+2014-08-05 17:07:00.2613 2956 MES.Runtime 8 PMLib-ManageConnection DBHelp.GetMachineType() Entered.
+2014-08-05 17:07:00.2823 2956 MES.Runtime 8 PMLib-ManageConnection Machine with Equipmend id =21021 is a Non KX machine. Ignoring it.
+2014-08-05 17:07:00.2823 2956 MES.Runtime 8 PMLib-ManageConnection Machine interface Connected.
+2014-08-05 17:07:00.2823 2956 MES.Runtime 8 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-08-05 17:07:00.2863 2956 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 17:07:00.2863 2956 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 17:07:00.2863 2956 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 17:07:00.2863 2956 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 17:07:00.5213 2956 MES.Runtime 8 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-08-05 17:07:00.5213 2956 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 17:07:00.5353 2956 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 17:07:00.5353 2956 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 17:07:00.5353 2956 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 17:07:08.6398 2956 MES.Runtime 8 PMLib-ManageConnection Machine interface Connected.
+2014-08-05 17:07:08.6398 2956 MES.Runtime 8 PMLib-ManageConnection DBHelp.GetMachineType() Entered.
+2014-08-05 17:07:08.6598 2956 MES.Runtime 8 PMLib-ManageConnection Getting route information for Machine Interface with Equipmend id =21011.
+2014-08-05 17:07:08.6848 2956 MES.Runtime 8 PMLib-ManageConnection Success:Getting route information for Machine Interface with Equipmend id =21011 is successful.
+2014-08-05 17:07:08.6848 2956 MES.Runtime 8 PMLib-ManageConnection Machine Interface name = CM402-ZONE-Machin1 with mailbox id=47.
+2014-08-05 17:07:08.6848 2956 MES.Runtime 8 PMLib-ManageConnection Route ID is 21003 with name=CM402-LINE for machine interface
+2014-08-05 17:07:08.6848 2956 MES.Runtime 8 PMLib-ManageConnection Machine interface Connected.
+2014-08-05 17:07:08.8988 2956 MES.Runtime 8 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-08-05 17:07:08.8988 2956 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 17:07:08.8988 2956 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 17:07:08.8988 2956 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 17:07:08.8988 2956 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 17:07:18.2613 2956 MES.Runtime 8 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-08-05 17:07:18.2613 2956 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 17:07:18.2613 2956 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 17:07:18.2613 2956 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 17:07:18.2613 2956 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 17:07:18.3663 2956 MES.Runtime 8 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-08-05 17:07:18.3823 2956 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 17:07:18.3823 2956 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 17:07:18.3823 2956 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 17:07:18.3823 2956 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 17:22:32.6956 2956 MES.Runtime 8 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-08-05 17:22:32.6956 2956 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 17:22:32.6956 2956 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 17:22:32.6956 2956 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 17:22:32.6956 2956 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 17:22:39.0250 2956 MES.Runtime 8 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-08-05 17:22:39.1400 2956 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 17:22:39.1400 2956 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 17:22:39.1400 2956 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 17:22:39.1400 2956 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 19:09:00.7223 2956 MES.Runtime 8 PMLib-ManageConnection PostMasterLibrary Connection error: Failed to connect.
+2014-08-05 19:09:22.7246 2956 MES.Runtime 8 PMLib-ManageConnection PostMasterLibrary Connection error: Failed to connect.
+2014-08-05 19:09:44.7258 2956 MES.Runtime 8 PMLib-ManageConnection PostMasterLibrary Connection error: Failed to connect.
+2014-08-05 19:09:45.8469 2956 MES.Runtime 8 PMLib-ManageConnection PostMaster is connected.
+2014-08-05 19:09:45.8689 2956 MES.Runtime 8 PMLib-ManageConnection Checking PEM running status.
+2014-08-05 19:09:45.8819 2956 MES.Runtime 8 PMLib-ManageConnection PEM is Connected
+2014-08-05 19:09:45.9879 2956 MES.Runtime 8 PMLib-ManageConnection PEM is Connected
+2014-08-05 19:09:45.9879 2956 MES.Runtime 8 PMLib-ManageConnection Substitute Import Deamon is running
+2014-08-05 19:09:45.9919 2956 MES.Runtime 8 PMLib-ManageConnection Substitute Import Deamon is running
+2014-08-05 19:09:45.9919 2956 MES.Runtime 8 PMLib-ManageConnection Machine interface Connected.
+2014-08-05 19:09:45.9919 2956 MES.Runtime 8 PMLib-ManageConnection DBHelp.GetMachineType() Entered.
+2014-08-05 19:09:46.0079 2956 MES.Runtime 8 PMLib-ManageConnection Machine with Equipmend id =21021 is a Non KX machine. Ignoring it.
+2014-08-05 19:09:46.0229 2956 MES.Runtime 8 PMLib-ManageConnection Machine interface Connected.
+2014-08-05 19:09:46.0229 2956 MES.Runtime 8 PMLib-ManageConnection DBHelp.GetMachineType() Entered.
+2014-08-05 19:09:46.0229 2956 MES.Runtime 8 PMLib-ManageConnection Getting route information for Machine Interface with Equipmend id =21011.
+2014-08-05 19:09:46.0629 2956 MES.Runtime 8 PMLib-ManageConnection Success:Getting route information for Machine Interface with Equipmend id =21011 is successful.
+2014-08-05 19:09:46.0629 2956 MES.Runtime 8 PMLib-ManageConnection Machine Interface name = CM402-ZONE-Machin1 with mailbox id=47.
+2014-08-05 19:09:46.0629 2956 MES.Runtime 8 PMLib-ManageConnection Route ID is 21003 with name=CM402-LINE for machine interface
+2014-08-05 19:09:46.0629 2956 MES.Runtime 8 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-08-05 19:09:46.0699 2956 MES.Runtime 8 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-08-05 19:09:46.0699 2956 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 19:09:46.0699 2956 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 19:09:46.0699 2956 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 19:09:46.0699 2956 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 19:09:46.0699 2956 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 19:09:46.0699 2956 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 19:09:46.0699 2956 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 19:09:46.0699 2956 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 19:10:46.9364 2956 MES.Runtime 8 PMLib-ManageConnection Substitute Import Deamon is not running
+2014-08-05 19:10:47.1374 2956 MES.Runtime 8 PMLib-ManageConnection DGS is Disconnected
+2014-08-05 19:11:22.1194 2956 MES.Runtime 8 PMLib-ManageConnection Machine interface disconnected
+2014-08-05 19:11:22.1194 2956 MES.Runtime 8 PMLib-ManageConnection Clearing after machine interface disconnected
+2014-08-05 19:11:22.1194 2956 MES.Runtime 8 PMLib-ManageConnection PT200MAIImportCtrl:AddNoneRoute() Entered.
+2014-08-05 19:11:22.1194 2956 MES.Runtime 8 PMLib-ManageConnection PT200MAIImportCtrl:AddNoneRoute() Exited.
+2014-08-05 19:11:22.1194 2956 MES.Runtime 8 PMLib-ManageConnection Machine interface DisConnected
+2014-08-05 19:11:22.6964 2956 MES.Runtime 8 PMLib-ManageConnection PEM is Disconnected
+2014-08-05 19:13:02.4461 2956 MES.Runtime 8 PMLib-ManageConnection Machine interface disconnected
+2014-08-05 19:13:02.4461 2956 MES.Runtime 8 PMLib-ManageConnection Clearing after machine interface disconnected
+2014-08-05 19:13:02.4461 2956 MES.Runtime 8 PMLib-ManageConnection PT200MAIImportCtrl:AddNoneRoute() Entered.
+2014-08-05 19:13:02.4461 2956 MES.Runtime 8 PMLib-ManageConnection PT200MAIImportCtrl:AddNoneRoute() Exited.
+2014-08-05 19:13:02.4591 2956 MES.Runtime 8 PMLib-ManageConnection Machine interface DisConnected
+2014-08-05 19:45:43.6413 2956 MES.Runtime 8 PMLib-ManageConnection PostMasterLibrary Connection error: Did not receive successfuly translated request response message.
+2014-08-05 19:45:43.6413 2956 MES.Runtime 8 PMLib-ManageConnection PostMasterLibrary Connection error: Failed to connect.
+2014-08-05 19:45:45.6434 2956 MES.Runtime 8 PMLib-ManageConnection PostMasterLibrary Connection error: Failed to connect.
+2014-08-05 19:45:47.7316 2956 MES.Runtime 8 PMLib-ManageConnection PostMasterLibrary Connection error: Failed to connect.
+2014-08-05 19:45:49.7407 2956 MES.Runtime 8 PMLib-ManageConnection PostMasterLibrary Connection error: Failed to connect.
+2014-08-05 19:45:51.7398 2956 MES.Runtime 8 PMLib-ManageConnection PostMasterLibrary Connection error: Failed to connect.
+2014-08-05 19:45:53.7409 2956 MES.Runtime 8 PMLib-ManageConnection PostMasterLibrary Connection error: Failed to connect.
+2014-08-05 19:45:55.7420 2956 MES.Runtime 8 PMLib-ManageConnection PostMasterLibrary Connection error: Failed to connect.
+2014-08-05 19:45:57.7501 2956 MES.Runtime 8 PMLib-ManageConnection PostMasterLibrary Connection error: Failed to connect.
+2014-08-05 19:45:59.7502 2956 MES.Runtime 8 PMLib-ManageConnection PostMasterLibrary Connection error: Failed to connect.
+2014-08-05 19:46:01.7514 2956 MES.Runtime 8 PMLib-ManageConnection PostMasterLibrary Connection error: Failed to connect.
+2014-08-05 19:46:02.8604 2956 MES.Runtime 8 PMLib-ManageConnection PostMaster is connected.
+2014-08-05 19:46:02.8774 2956 MES.Runtime 8 PMLib-ManageConnection Checking PEM running status.
+2014-08-05 19:46:03.0014 2956 MES.Runtime 8 PMLib-ManageConnection PEM is Disconnected
+2014-08-05 19:46:03.0014 2956 MES.Runtime 8 PMLib-ManageConnection Substitute Import Deamon is not running
+2014-08-05 19:47:59.7851 2956 MES.Runtime 8 PMLib-ManageConnection DGS is Connected
+2014-08-05 19:47:59.7851 2956 MES.Runtime 8 PMLib-ManageConnection PEM is Connected
+2014-08-05 19:48:05.7514 2956 MES.Runtime 8 PMLib-ManageConnection Substitute Import Deamon is running
+2014-08-05 19:48:19.7142 2956 MES.Runtime 8 PMLib-ManageConnection Machine interface Connected.
+2014-08-05 19:48:19.7142 2956 MES.Runtime 8 PMLib-ManageConnection DBHelp.GetMachineType() Entered.
+2014-08-05 19:48:19.8433 2956 MES.Runtime 8 PMLib-ManageConnection Machine with Equipmend id =21021 is a Non KX machine. Ignoring it.
+2014-08-05 19:48:19.8433 2956 MES.Runtime 8 PMLib-ManageConnection Machine interface Connected.
+2014-08-05 19:48:19.8453 2956 MES.Runtime 8 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-08-05 19:48:19.8453 2956 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 19:48:19.8453 2956 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 19:48:19.8453 2956 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 19:48:19.8453 2956 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 19:48:20.1463 2956 MES.Runtime 8 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-08-05 19:48:20.1463 2956 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 19:48:20.1463 2956 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 19:48:20.1463 2956 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 19:48:20.1463 2956 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 19:48:31.2669 2956 MES.Runtime 8 PMLib-ManageConnection Machine interface Connected.
+2014-08-05 19:48:31.2669 2956 MES.Runtime 8 PMLib-ManageConnection DBHelp.GetMachineType() Entered.
+2014-08-05 19:48:31.2669 2956 MES.Runtime 8 PMLib-ManageConnection Getting route information for Machine Interface with Equipmend id =21025.
+2014-08-05 19:48:31.9239 2956 MES.Runtime 8 PMLib-ManageConnection Success:Getting route information for Machine Interface with Equipmend id =21025 is successful.
+2014-08-05 19:48:31.9239 2956 MES.Runtime 8 PMLib-ManageConnection Machine Interface name = DZ1-Machine-1 with mailbox id=54.
+2014-08-05 19:48:31.9239 2956 MES.Runtime 8 PMLib-ManageConnection Route ID is 21010 with name=DT-401TESTR for machine interface
+2014-08-05 19:48:31.9239 2956 MES.Runtime 8 PMLib-ManageConnection Added a None Route
+2014-08-05 19:48:31.9239 2956 MES.Runtime 8 PMLib-ManageConnection Machine interface Connected.
+2014-08-05 19:48:31.9239 2956 MES.Runtime 1  PT200MAIImportCtrl.cmbRoutes_SelectionChanged() Entered.
+2014-08-05 19:48:31.9239 2956 MES.Runtime 1  PT200MAIImportCtrl.cmbRoutes_SelectionChanged() Exited.
+2014-08-05 19:48:31.9239 2956 MES.Runtime 1  PT200MAIImportCtrl.cmbRoutes_SelectionChanged() Entered.
+2014-08-05 19:48:31.9239 2956 MES.Runtime 1  PT200MAIImportCtrl.cmbProductSrc_SelectionChanged() Entered.
+2014-08-05 19:48:31.9239 2956 MES.Runtime 1  PT200MAIImportCtrl.cmbProductSrc_SelectionChanged() Exited.
+2014-08-05 19:48:31.9239 2956 MES.Runtime 1  PT200MAIImportCtrl.cmbProductSrc_SelectionChanged() Entered.
+2014-08-05 19:48:31.9239 2956 MES.Runtime 1  PT200MAIImportCtrl.cmbProductSrc_SelectionChanged() Exited.
+2014-08-05 19:48:31.9599 2956 MES.Runtime 1  PT200MAIImportCtrl.cmbRoutes_SelectionChanged() Exited.
+2014-08-05 19:48:32.2250 2956 MES.Runtime 8 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-08-05 19:48:32.2320 2956 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 19:48:32.2320 2956 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 19:48:32.2320 2956 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 19:48:32.2320 2956 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 19:48:35.2391 2956 MES.Runtime 8 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-08-05 19:48:35.2541 2956 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 19:48:35.2541 2956 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 19:48:35.2541 2956 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 19:48:35.2541 2956 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 19:48:35.3391 2956 MES.Runtime 8 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-08-05 19:48:35.3391 2956 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 19:48:35.3391 2956 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 19:48:35.3391 2956 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 19:48:35.3391 2956 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 19:48:48.3999 2956 MES.Runtime 8 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-08-05 19:48:48.3999 2956 MES.Runtime 8 PMLib-ManageConnection Current Running Program is DATA:401DATA1:401DATA1_DT401LINE:DT401LINE_1
+2014-08-05 19:48:48.3999 2956 MES.Runtime 8 PMLib-ManageConnection PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 19:48:48.3999 2956 MES.Runtime 8 PMLib-ManageConnection PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 19:48:48.3999 2956 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 19:48:48.3999 2956 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 19:48:48.3999 2956 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 19:48:48.3999 2956 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 19:51:57.6377 2956 MES.Runtime 8 PMLib-ManageConnection Machine interface disconnected
+2014-08-05 19:51:57.6377 2956 MES.Runtime 8 PMLib-ManageConnection Clearing after machine interface disconnected
+2014-08-05 19:51:57.6377 2956 MES.Runtime 8 PMLib-ManageConnection PT200MAIImportCtrl:AddNoneRoute() Entered.
+2014-08-05 19:51:57.6377 2956 MES.Runtime 8 PMLib-ManageConnection PT200MAIImportCtrl:AddNoneRoute() Exited.
+2014-08-05 19:51:57.6377 2956 MES.Runtime 8 PMLib-ManageConnection Machine interface DisConnected
+2014-08-05 19:52:18.1419 2956 MES.Runtime 8 PMLib-ManageConnection Machine interface Connected.
+2014-08-05 19:52:18.1419 2956 MES.Runtime 8 PMLib-ManageConnection DBHelp.GetMachineType() Entered.
+2014-08-05 19:52:18.3329 2956 MES.Runtime 8 PMLib-ManageConnection Getting route information for Machine Interface with Equipmend id =21025.
+2014-08-05 19:52:18.7519 2956 MES.Runtime 8 PMLib-ManageConnection Success:Getting route information for Machine Interface with Equipmend id =21025 is successful.
+2014-08-05 19:52:18.7519 2956 MES.Runtime 8 PMLib-ManageConnection Machine Interface name = DZ1-Machine-1 with mailbox id=67.
+2014-08-05 19:52:18.7519 2956 MES.Runtime 8 PMLib-ManageConnection Route ID is 21010 with name=DT-401TESTR for machine interface
+2014-08-05 19:52:18.7519 2956 MES.Runtime 8 PMLib-ManageConnection Added a None Route
+2014-08-05 19:52:18.7519 2956 MES.Runtime 8 PMLib-ManageConnection Machine interface Connected.
+2014-08-05 19:52:18.7619 2956 MES.Runtime 1  PT200MAIImportCtrl.cmbRoutes_SelectionChanged() Entered.
+2014-08-05 19:52:18.7619 2956 MES.Runtime 1  PT200MAIImportCtrl.cmbRoutes_SelectionChanged() Exited.
+2014-08-05 19:52:18.7619 2956 MES.Runtime 1  PT200MAIImportCtrl.cmbRoutes_SelectionChanged() Entered.
+2014-08-05 19:52:18.7619 2956 MES.Runtime 1  PT200MAIImportCtrl.cmbProductSrc_SelectionChanged() Entered.
+2014-08-05 19:52:18.7619 2956 MES.Runtime 1  PT200MAIImportCtrl.cmbProductSrc_SelectionChanged() Exited.
+2014-08-05 19:52:18.7619 2956 MES.Runtime 1  PT200MAIImportCtrl.cmbProductSrc_SelectionChanged() Entered.
+2014-08-05 19:52:18.7619 2956 MES.Runtime 1  PT200MAIImportCtrl.cmbProductSrc_SelectionChanged() Exited.
+2014-08-05 19:52:18.7619 2956 MES.Runtime 1  PT200MAIImportCtrl.cmbRoutes_SelectionChanged() Exited.
+2014-08-05 19:52:21.9961 2956 MES.Runtime 8 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-08-05 19:52:21.9961 2956 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 19:52:21.9961 2956 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 19:52:21.9961 2956 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 19:52:21.9961 2956 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 19:52:22.3971 2956 MES.Runtime 8 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-08-05 19:52:22.3971 2956 MES.Runtime 8 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-08-05 19:52:22.3971 2956 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 19:52:22.3971 2956 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 19:52:22.3971 2956 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 19:52:22.3971 2956 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 19:52:22.3971 2956 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 19:52:22.3971 2956 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 19:52:22.3971 2956 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 19:52:22.3971 2956 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 19:52:32.5477 2956 MES.Runtime 8 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-08-05 19:52:32.5477 2956 MES.Runtime 8 PMLib-ManageConnection Current Running Program is DATA:401DATA1:401DATA1_DT401LINE:DT401LINE_1
+2014-08-05 19:52:32.5477 2956 MES.Runtime 8 PMLib-ManageConnection PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 19:52:32.5477 2956 MES.Runtime 8 PMLib-ManageConnection PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 19:52:32.5477 2956 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 19:52:32.5507 2956 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 19:52:32.5507 2956 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 19:52:32.5507 2956 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 20:07:09.4529 2956 MES.Runtime 8 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-08-05 20:07:09.4529 2956 MES.Runtime 8 PMLib-ManageConnection Current Running Program is DATA:401DATA2:401DATA2_DT401LINE:DT401LINE_1
+2014-08-05 20:07:09.4529 2956 MES.Runtime 8 PMLib-ManageConnection PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 20:07:09.4529 2956 MES.Runtime 8 PMLib-ManageConnection PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 20:07:09.4529 2956 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 20:07:09.4529 2956 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 20:07:09.4529 2956 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 20:07:09.4529 2956 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 20:07:18.1614 2956 MES.Runtime 8 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-08-05 20:07:18.1614 2956 MES.Runtime 8 PMLib-ManageConnection Current Running Program is DATA:401DATA2:401DATA2_DT401LINE:DT401LINE_1
+2014-08-05 20:07:18.1614 2956 MES.Runtime 8 PMLib-ManageConnection PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 20:07:18.1614 2956 MES.Runtime 8 PMLib-ManageConnection PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 20:07:18.1614 2956 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 20:07:18.1614 2956 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 20:07:18.1614 2956 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 20:07:18.1614 2956 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 20:11:38.2832 2956 MES.Runtime 8 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-08-05 20:11:38.2832 2956 MES.Runtime 8 PMLib-ManageConnection Current Running Program is DATA:401DATA1:401DATA1_DT401LINE:DT401LINE_1
+2014-08-05 20:11:38.2852 2956 MES.Runtime 8 PMLib-ManageConnection PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 20:11:38.2852 2956 MES.Runtime 8 PMLib-ManageConnection PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 20:11:38.2852 2956 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 20:11:38.2852 2956 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 20:11:38.2852 2956 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 20:11:38.2852 2956 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 20:13:01.9020 2956 MES.Runtime 8 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-08-05 20:13:01.9020 2956 MES.Runtime 8 PMLib-ManageConnection Current Running Program is DATA:401DATA2:401DATA2_DT401LINE:DT401LINE_1
+2014-08-05 20:13:01.9020 2956 MES.Runtime 8 PMLib-ManageConnection PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 20:13:01.9020 2956 MES.Runtime 8 PMLib-ManageConnection PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 20:13:01.9020 2956 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 20:13:01.9020 2956 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 20:13:01.9020 2956 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 20:13:01.9020 2956 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 20:54:22.8249 2956 MES.Runtime 8 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-08-05 20:54:22.8249 2956 MES.Runtime 8 PMLib-ManageConnection Current Running Program is DATA:401DATA1:401DATA1_DT401LINE:DT401LINE_1
+2014-08-05 20:54:22.8249 2956 MES.Runtime 8 PMLib-ManageConnection PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 20:54:22.8249 2956 MES.Runtime 8 PMLib-ManageConnection PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 20:54:22.8249 2956 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 20:54:22.8249 2956 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 20:54:22.8249 2956 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 20:54:22.8249 2956 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 20:59:58.6341 2956 MES.Runtime 8 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-08-05 20:59:58.6341 2956 MES.Runtime 8 PMLib-ManageConnection Current Running Program is DATA:401DATA3:401DATA3_DT401LINE:DT401LINE_3
+2014-08-05 20:59:58.6341 2956 MES.Runtime 8 PMLib-ManageConnection PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 20:59:58.6341 2956 MES.Runtime 8 PMLib-ManageConnection PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 20:59:58.6341 2956 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 20:59:58.6341 2956 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 20:59:58.6341 2956 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 20:59:58.6341 2956 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 21:00:04.5945 2956 MES.Runtime 8 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-08-05 21:00:04.5945 2956 MES.Runtime 8 PMLib-ManageConnection Current Running Program is DATA:401DATA3:401DATA3_DT401LINE:DT401LINE_3
+2014-08-05 21:00:04.5945 2956 MES.Runtime 8 PMLib-ManageConnection PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 21:00:04.5945 2956 MES.Runtime 8 PMLib-ManageConnection PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 21:00:04.5945 2956 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 21:00:04.5945 2956 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 21:00:04.5945 2956 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 21:00:04.5945 2956 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 21:01:11.3393 2956 MES.Runtime 8 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-08-05 21:01:11.3393 2956 MES.Runtime 8 PMLib-ManageConnection Current Running Program is DATA:401DATA2:401DATA2_DT401LINE:DT401LINE_1
+2014-08-05 21:01:11.3393 2956 MES.Runtime 8 PMLib-ManageConnection PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 21:01:11.3393 2956 MES.Runtime 8 PMLib-ManageConnection PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 21:01:11.3393 2956 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 21:01:11.3393 2956 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 21:01:11.3393 2956 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 21:01:11.3393 2956 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 21:03:42.2719 2956 MES.Runtime 8 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-08-05 21:03:42.2719 2956 MES.Runtime 8 PMLib-ManageConnection Current Running Program is DATA:401DATA3:401DATA3_DT401LINE:DT401LINE_3
+2014-08-05 21:03:42.2719 2956 MES.Runtime 8 PMLib-ManageConnection PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 21:03:42.2719 2956 MES.Runtime 8 PMLib-ManageConnection PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 21:03:42.2719 2956 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 21:03:42.2719 2956 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 21:03:42.2719 2956 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 21:03:42.2719 2956 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 21:06:23.5541 2956 MES.Runtime 8 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-08-05 21:06:23.5541 2956 MES.Runtime 8 PMLib-ManageConnection Current Running Program is DATA:401DATA2:401DATA2_DT401LINE:DT401LINE_1
+2014-08-05 21:06:23.5541 2956 MES.Runtime 8 PMLib-ManageConnection PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 21:06:23.5541 2956 MES.Runtime 8 PMLib-ManageConnection PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 21:06:23.5541 2956 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 21:06:23.5541 2956 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 21:06:23.5541 2956 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 21:06:23.5541 2956 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 21:12:52.0304 2956 MES.Runtime 8 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-08-05 21:12:52.0304 2956 MES.Runtime 8 PMLib-ManageConnection Current Running Program is DATA:401DATA1:401DATA1_DT401LINE:DT401LINE_1
+2014-08-05 21:12:52.0304 2956 MES.Runtime 8 PMLib-ManageConnection PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 21:12:52.0304 2956 MES.Runtime 8 PMLib-ManageConnection PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 21:12:52.0304 2956 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 21:12:52.0304 2956 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 21:12:52.0304 2956 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 21:12:52.0304 2956 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 21:28:30.0290 2956 MES.Runtime 8 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-08-05 21:28:30.0290 2956 MES.Runtime 8 PMLib-ManageConnection Current Running Program is DATA:401DATA2:401DATA2_DT401LINE:DT401LINE_1
+2014-08-05 21:28:30.0290 2956 MES.Runtime 8 PMLib-ManageConnection PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 21:28:30.0290 2956 MES.Runtime 8 PMLib-ManageConnection PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 21:28:30.0290 2956 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 21:28:30.0290 2956 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 21:28:30.0290 2956 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-05 21:28:30.0290 2956 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-06 09:37:02.4768 2956 MES.Runtime 8 PMLib-ManageConnection Machine interface disconnected
+2014-08-06 09:37:02.4768 2956 MES.Runtime 8 PMLib-ManageConnection Clearing after machine interface disconnected
+2014-08-06 09:37:02.4768 2956 MES.Runtime 8 PMLib-ManageConnection PT200MAIImportCtrl:AddNoneRoute() Entered.
+2014-08-06 09:37:02.4768 2956 MES.Runtime 8 PMLib-ManageConnection PT200MAIImportCtrl:AddNoneRoute() Exited.
+2014-08-06 09:37:02.7088 2956 MES.Runtime 8 PMLib-ManageConnection Machine interface DisConnected
+2014-08-06 09:37:03.0218 2956 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-06 09:37:03.0218 2956 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-06 09:37:03.0218 2956 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-06 09:37:03.0218 2956 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-06 09:39:40.8008 2956 MES.Runtime 8 PMLib-ManageConnection Machine interface Connected.
+2014-08-06 09:39:40.8008 2956 MES.Runtime 8 PMLib-ManageConnection DBHelp.GetMachineType() Entered.
+2014-08-06 09:39:41.2548 2956 MES.Runtime 8 PMLib-ManageConnection Getting route information for Machine Interface with Equipmend id =21025.
+2014-08-06 09:39:41.3598 2956 MES.Runtime 8 PMLib-ManageConnection Success:Getting route information for Machine Interface with Equipmend id =21025 is successful.
+2014-08-06 09:39:41.3598 2956 MES.Runtime 8 PMLib-ManageConnection Machine Interface name = DZ1-Machine-1 with mailbox id=258.
+2014-08-06 09:39:41.3598 2956 MES.Runtime 8 PMLib-ManageConnection Route ID is 21010 with name=DT-401TESTR for machine interface
+2014-08-06 09:39:41.3598 2956 MES.Runtime 8 PMLib-ManageConnection Added a None Route
+2014-08-06 09:39:41.3598 2956 MES.Runtime 8 PMLib-ManageConnection Machine interface Connected.
+2014-08-06 09:39:41.5758 2956 MES.Runtime 1  PT200MAIImportCtrl.cmbRoutes_SelectionChanged() Entered.
+2014-08-06 09:39:41.5758 2956 MES.Runtime 1  PT200MAIImportCtrl.cmbRoutes_SelectionChanged() Exited.
+2014-08-06 09:39:41.5758 2956 MES.Runtime 1  PT200MAIImportCtrl.cmbRoutes_SelectionChanged() Entered.
+2014-08-06 09:39:41.6059 2956 MES.Runtime 1  PT200MAIImportCtrl.cmbProductSrc_SelectionChanged() Entered.
+2014-08-06 09:39:41.6059 2956 MES.Runtime 1  PT200MAIImportCtrl.cmbProductSrc_SelectionChanged() Exited.
+2014-08-06 09:39:41.6059 2956 MES.Runtime 1  PT200MAIImportCtrl.cmbProductSrc_SelectionChanged() Entered.
+2014-08-06 09:39:41.6359 2956 MES.Runtime 1  PT200MAIImportCtrl.cmbProductSrc_SelectionChanged() Exited.
+2014-08-06 09:39:41.7169 2956 MES.Runtime 8 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-08-06 09:39:41.7349 2956 MES.Runtime 1  PT200MAIImportCtrl.cmbRoutes_SelectionChanged() Exited.
+2014-08-06 09:39:41.7349 2956 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-06 09:39:41.7349 2956 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-06 09:39:41.7349 2956 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-06 09:39:41.7349 2956 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-06 09:39:44.1640 2956 MES.Runtime 8 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-08-06 09:39:44.1640 2956 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-06 09:39:44.1640 2956 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-06 09:39:44.1640 2956 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-06 09:39:44.1640 2956 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-06 09:39:44.7820 2956 MES.Runtime 8 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-08-06 09:39:44.7820 2956 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-06 09:39:44.7820 2956 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-06 09:39:44.7820 2956 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-06 09:39:44.7820 2956 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-06 09:39:52.4885 2956 MES.Runtime 8 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-08-06 09:39:52.4885 2956 MES.Runtime 8 PMLib-ManageConnection Current Running Program is DATA:401DATA2:401DATA2_DT401LINE:DT401LINE_1
+2014-08-06 09:39:52.4885 2956 MES.Runtime 8 PMLib-ManageConnection PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-06 09:39:52.4885 2956 MES.Runtime 8 PMLib-ManageConnection PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-06 09:39:52.4885 2956 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-06 09:39:52.4885 2956 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-06 09:39:52.4885 2956 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-06 09:39:52.4885 2956 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-06 09:42:57.9351 2956 MES.Runtime 8 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-08-06 09:42:57.9351 2956 MES.Runtime 8 PMLib-ManageConnection Current Running Program is DATA:401DATA3:401DATA3_DT401LINE:DT401LINE_3
+2014-08-06 09:42:57.9351 2956 MES.Runtime 8 PMLib-ManageConnection PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-06 09:42:57.9351 2956 MES.Runtime 8 PMLib-ManageConnection PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-06 09:42:57.9351 2956 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-06 09:42:57.9351 2956 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-06 09:42:57.9351 2956 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-06 09:42:57.9351 2956 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-06 09:43:55.6734 2956 MES.Runtime 8 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-08-06 09:43:55.6734 2956 MES.Runtime 8 PMLib-ManageConnection Current Running Program is DATA:401DATA2:401DATA2_DT401LINE:DT401LINE_1
+2014-08-06 09:43:55.6734 2956 MES.Runtime 8 PMLib-ManageConnection PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-06 09:43:55.6734 2956 MES.Runtime 8 PMLib-ManageConnection PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-06 09:43:55.6734 2956 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-06 09:43:55.6734 2956 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-06 09:43:55.6734 2956 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-06 09:43:55.6734 2956 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 14:11:23.3324 2772 MES.Runtime 1  PMListener_Config:OnStart() Entered.
+2014-08-27 14:11:23.4024 2772 MES.Runtime 1  PMListener_Config:OnStart() Exited.
+2014-08-27 14:11:23.4504 2772 MES.Runtime 4 PMListener_MachineFileImport - StartPMListener Connecting to Postmaster:CIMC-SRV
+2014-08-27 14:11:23.5844 2772 MES.Runtime 3 PMLib-ManageConnection PostMaster is connected.
+2014-08-27 14:11:23.6064 2772 MES.Runtime 3 PMLib-ManageConnection Checking PEM running status.
+2014-08-27 14:11:23.8515 2772 MES.Runtime 3 PMLib-ManageConnection PEM is Connected
+2014-08-27 14:11:23.8545 2772 MES.Runtime 3 PMLib-ManageConnection PEM is Connected
+2014-08-27 14:11:23.8545 2772 MES.Runtime 3 PMLib-ManageConnection Substitute Import Deamon is running
+2014-08-27 14:11:23.8545 2772 MES.Runtime 3 PMLib-ManageConnection Substitute Import Deamon is running
+2014-08-27 14:11:23.8725 2772 MES.Runtime 3 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-08-27 14:11:23.8855 2772 MES.Runtime 3 PMLib-ManageConnection Machine interface Connected.
+2014-08-27 14:11:23.8855 2772 MES.Runtime 3 PMLib-ManageConnection DBHelp.GetMachineType() Entered.
+2014-08-27 14:11:24.2945 2772 MES.Runtime 3 PMLib-ManageConnection Machine with Equipmend id =21033 is a Non KX machine. Ignoring it.
+2014-08-27 14:11:24.2945 2772 MES.Runtime 3 PMLib-ManageConnection Machine interface Connected.
+2014-08-27 14:11:24.2945 2772 MES.Runtime 3 PMLib-ManageConnection DBHelp.GetMachineType() Entered.
+2014-08-27 14:11:24.3075 2772 MES.Runtime 3 PMLib-ManageConnection Getting route information for Machine Interface with Equipmend id =21025.
+2014-08-27 14:11:24.6385 2772 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 14:11:24.6385 2772 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 14:11:24.6385 2772 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 14:11:24.6385 2772 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 14:11:25.3225 2772 MES.Runtime 3 PMLib-ManageConnection Success:Getting route information for Machine Interface with Equipmend id =21025 is successful.
+2014-08-27 14:11:25.3225 2772 MES.Runtime 3 PMLib-ManageConnection Machine Interface name = DZ1-Machine-1 with mailbox id=63.
+2014-08-27 14:11:25.3225 2772 MES.Runtime 3 PMLib-ManageConnection PT200MAIImportCtrl:AddNoneRoute() Entered.
+2014-08-27 14:11:25.3225 2772 MES.Runtime 3 PMLib-ManageConnection PT200MAIImportCtrl:AddNoneRoute() Exited.
+2014-08-27 14:11:25.3225 2772 MES.Runtime 3 PMLib-ManageConnection Route ID is 21010 with name=DT-401TESTR for machine interface
+2014-08-27 14:11:25.3225 2772 MES.Runtime 3 PMLib-ManageConnection Added a None Route
+2014-08-27 14:11:25.3515 2772 MES.Runtime 3 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-08-27 14:11:25.5346 2772 MES.Runtime 1  PT200MAIImportCtrl.cmbRoutes_SelectionChanged() Entered.
+2014-08-27 14:11:25.5426 2772 MES.Runtime 1  PT200MAIImportCtrl.cmbProductSrc_SelectionChanged() Entered.
+2014-08-27 14:11:25.5426 2772 MES.Runtime 1  PT200MAIImportCtrl.cmbProductSrc_SelectionChanged() Exited.
+2014-08-27 14:11:25.5426 2772 MES.Runtime 1  PT200MAIImportCtrl.cmbRoutes_SelectionChanged() Exited.
+2014-08-27 14:11:25.5426 2772 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 14:11:25.5426 2772 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 14:11:25.5426 2772 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 14:11:25.5426 2772 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 14:57:03.1261 2772 MES.Runtime 3 PMLib-ManageConnection Machine interface disconnected
+2014-08-27 14:57:03.1261 2772 MES.Runtime 3 PMLib-ManageConnection Clearing after machine interface disconnected
+2014-08-27 14:57:03.1261 2772 MES.Runtime 3 PMLib-ManageConnection PT200MAIImportCtrl:AddNoneRoute() Entered.
+2014-08-27 14:57:03.1261 2772 MES.Runtime 3 PMLib-ManageConnection PT200MAIImportCtrl:AddNoneRoute() Exited.
+2014-08-27 14:57:03.1261 2772 MES.Runtime 3 PMLib-ManageConnection Machine interface DisConnected
+2014-08-27 14:57:03.4032 2772 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 14:57:03.4032 2772 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 14:57:03.4032 2772 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 14:57:03.4032 2772 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 14:57:47.6007 2772 MES.Runtime 3 PMLib-ManageConnection Machine interface Connected.
+2014-08-27 14:57:47.6007 2772 MES.Runtime 3 PMLib-ManageConnection DBHelp.GetMachineType() Entered.
+2014-08-27 14:57:47.7437 2772 MES.Runtime 3 PMLib-ManageConnection Machine with Equipmend id =21033 is a Non KX machine. Ignoring it.
+2014-08-27 14:57:47.7437 2772 MES.Runtime 3 PMLib-ManageConnection Machine interface Connected.
+2014-08-27 14:57:47.7437 2772 MES.Runtime 3 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-08-27 14:57:47.7437 2772 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 14:57:47.7437 2772 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 14:57:47.7437 2772 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 14:57:47.7437 2772 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 14:57:48.0507 2772 MES.Runtime 3 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-08-27 14:57:48.0507 2772 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 14:57:48.0507 2772 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 14:57:48.0507 2772 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 14:57:48.0507 2772 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 14:57:48.7858 2772 MES.Runtime 3 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-08-27 14:57:48.7858 2772 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 14:57:48.7858 2772 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 14:57:48.7858 2772 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 14:57:48.7858 2772 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 14:57:48.9928 2772 MES.Runtime 3 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-08-27 14:57:48.9928 2772 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 14:57:49.0028 2772 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 14:57:49.0028 2772 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 14:57:49.0028 2772 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 14:59:28.0854 2772 MES.Runtime 1  PMListener_Config:OnStart() Entered.
+2014-08-27 14:59:28.2974 2772 MES.Runtime 4 PMListener_MachineFileImport - StartPMListener Connecting to Postmaster:CIMC-SRV
+2014-08-27 14:59:28.2974 2772 MES.Runtime 1  PMListener_Config:OnStart() Exited.
+2014-08-27 14:59:29.0035 2772 MES.Runtime 16 PMLib-ManageConnection PostMaster is connected.
+2014-08-27 14:59:29.0035 2772 MES.Runtime 16 PMLib-ManageConnection Checking PEM running status.
+2014-08-27 14:59:29.1125 2772 MES.Runtime 16 PMLib-ManageConnection PEM is Connected
+2014-08-27 14:59:29.1125 2772 MES.Runtime 16 PMLib-ManageConnection PEM is Connected
+2014-08-27 14:59:29.1125 2772 MES.Runtime 16 PMLib-ManageConnection Substitute Import Deamon is running
+2014-08-27 14:59:29.1125 2772 MES.Runtime 16 PMLib-ManageConnection Substitute Import Deamon is running
+2014-08-27 14:59:29.1125 2772 MES.Runtime 16 PMLib-ManageConnection Machine interface Connected.
+2014-08-27 14:59:29.1125 2772 MES.Runtime 16 PMLib-ManageConnection DBHelp.GetMachineType() Entered.
+2014-08-27 14:59:29.2725 2772 MES.Runtime 16 PMLib-ManageConnection Getting route information for Machine Interface with Equipmend id =21025.
+2014-08-27 14:59:29.7835 2772 MES.Runtime 16 PMLib-ManageConnection Success:Getting route information for Machine Interface with Equipmend id =21025 is successful.
+2014-08-27 14:59:29.7835 2772 MES.Runtime 16 PMLib-ManageConnection Machine Interface name = DZ1-Machine-1 with mailbox id=63.
+2014-08-27 14:59:29.7835 2772 MES.Runtime 16 PMLib-ManageConnection Route ID is 21010 with name=DT-401TESTR for machine interface
+2014-08-27 14:59:29.7835 2772 MES.Runtime 16 PMLib-ManageConnection Added a None Route
+2014-08-27 14:59:29.7835 2772 MES.Runtime 16 PMLib-ManageConnection Machine interface Connected.
+2014-08-27 14:59:29.7835 2772 MES.Runtime 16 PMLib-ManageConnection DBHelp.GetMachineType() Entered.
+2014-08-27 14:59:29.7835 2772 MES.Runtime 1  PT200MAIImportCtrl.cmbRoutes_SelectionChanged() Entered.
+2014-08-27 14:59:29.7835 2772 MES.Runtime 1  PT200MAIImportCtrl.cmbRoutes_SelectionChanged() Exited.
+2014-08-27 14:59:29.7835 2772 MES.Runtime 1  PT200MAIImportCtrl.cmbRoutes_SelectionChanged() Entered.
+2014-08-27 14:59:29.7835 2772 MES.Runtime 1  PT200MAIImportCtrl.cmbProductSrc_SelectionChanged() Entered.
+2014-08-27 14:59:29.7835 2772 MES.Runtime 1  PT200MAIImportCtrl.cmbProductSrc_SelectionChanged() Exited.
+2014-08-27 14:59:29.7835 2772 MES.Runtime 1  PT200MAIImportCtrl.cmbProductSrc_SelectionChanged() Entered.
+2014-08-27 14:59:29.7835 2772 MES.Runtime 1  PT200MAIImportCtrl.cmbProductSrc_SelectionChanged() Exited.
+2014-08-27 14:59:29.7835 2772 MES.Runtime 1  PT200MAIImportCtrl.cmbRoutes_SelectionChanged() Exited.
+2014-08-27 14:59:29.7835 2772 MES.Runtime 16 PMLib-ManageConnection Machine with Equipmend id =21033 is a Non KX machine. Ignoring it.
+2014-08-27 14:59:29.7945 2772 MES.Runtime 16 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-08-27 14:59:29.7945 2772 MES.Runtime 16 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-08-27 14:59:29.7945 2772 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 14:59:29.7945 2772 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 14:59:29.8105 2772 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 14:59:29.8105 2772 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 14:59:29.8105 2772 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 14:59:29.8105 2772 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 14:59:29.8105 2772 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 14:59:29.8105 2772 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 14:59:34.0018 2772 MES.Runtime 1  PMListener_Config:OnStart() Entered.
+2014-08-27 14:59:34.0448 2772 MES.Runtime 11 PMListener_MachineFileImport - StartPMListener Connecting to Postmaster:CIMC-SRV
+2014-08-27 14:59:34.0448 2772 MES.Runtime 1  PMListener_Config:OnStart() Exited.
+2014-08-27 14:59:34.2198 2772 MES.Runtime 10 PMLib-ManageConnection PostMaster is connected.
+2014-08-27 14:59:34.2258 2772 MES.Runtime 10 PMLib-ManageConnection Checking PEM running status.
+2014-08-27 14:59:34.3658 2772 MES.Runtime 10 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-08-27 14:59:34.3658 2772 MES.Runtime 10 PMLib-ManageConnection PEM is Connected
+2014-08-27 14:59:34.3658 2772 MES.Runtime 10 PMLib-ManageConnection PEM is Connected
+2014-08-27 14:59:34.3818 2772 MES.Runtime 10 PMLib-ManageConnection Substitute Import Deamon is running
+2014-08-27 14:59:34.3818 2772 MES.Runtime 10 PMLib-ManageConnection Substitute Import Deamon is running
+2014-08-27 14:59:34.3818 2772 MES.Runtime 10 PMLib-ManageConnection Machine interface Connected.
+2014-08-27 14:59:34.3818 2772 MES.Runtime 10 PMLib-ManageConnection DBHelp.GetMachineType() Entered.
+2014-08-27 14:59:34.3818 2772 MES.Runtime 10 PMLib-ManageConnection Getting route information for Machine Interface with Equipmend id =21025.
+2014-08-27 14:59:34.3818 2772 MES.Runtime 10 PMLib-ManageConnection Success:Getting route information for Machine Interface with Equipmend id =21025 is successful.
+2014-08-27 14:59:34.3818 2772 MES.Runtime 10 PMLib-ManageConnection Machine Interface name = DZ1-Machine-1 with mailbox id=63.
+2014-08-27 14:59:34.3818 2772 MES.Runtime 10 PMLib-ManageConnection Route ID is 21010 with name=DT-401TESTR for machine interface
+2014-08-27 14:59:34.3818 2772 MES.Runtime 10 PMLib-ManageConnection Machine interface Connected.
+2014-08-27 14:59:34.3818 2772 MES.Runtime 10 PMLib-ManageConnection DBHelp.GetMachineType() Entered.
+2014-08-27 14:59:34.3818 2772 MES.Runtime 10 PMLib-ManageConnection Machine with Equipmend id =21033 is a Non KX machine. Ignoring it.
+2014-08-27 14:59:35.0578 2772 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 14:59:35.0578 2772 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 14:59:35.0578 2772 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 14:59:35.0578 2772 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 14:59:36.2339 2772 MES.Runtime 10 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-08-27 14:59:36.2389 2772 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 14:59:36.2529 2772 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 14:59:36.2529 2772 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 14:59:36.2529 2772 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 15:01:44.6612 2772 MES.Runtime 3 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-08-27 15:01:44.6612 2772 MES.Runtime 10 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-08-27 15:01:44.6612 2772 MES.Runtime 16 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-08-27 15:01:44.6612 2772 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 15:01:44.6612 2772 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 15:01:44.6612 2772 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 15:01:44.6612 2772 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 15:01:44.6612 2772 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 15:01:44.6612 2772 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 15:01:44.6612 2772 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 15:01:44.6612 2772 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 15:01:44.6612 2772 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 15:01:44.6732 2772 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 15:01:44.6732 2772 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 15:01:44.6732 2772 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 17:06:31.5635 2772 MES.Runtime 10 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-08-27 17:06:31.5725 2772 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 17:06:31.5725 2772 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 17:06:31.5725 2772 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 17:06:31.5725 2772 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 17:06:31.5845 2772 MES.Runtime 16 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-08-27 17:06:31.5845 2772 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 17:06:31.5845 2772 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 17:06:31.5845 2772 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 17:06:31.5845 2772 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 17:06:31.5985 2772 MES.Runtime 3 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-08-27 17:06:31.5985 2772 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 17:06:31.5985 2772 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 17:06:31.5985 2772 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 17:06:31.5985 2772 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 17:06:38.0598 2772 MES.Runtime 10 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-08-27 17:06:38.0598 2772 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 17:06:38.0598 2772 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 17:06:38.0598 2772 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 17:06:38.0598 2772 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 17:06:38.0598 2772 MES.Runtime 3 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-08-27 17:06:38.0598 2772 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 17:06:38.0598 2772 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 17:06:38.0598 2772 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 17:06:38.0598 2772 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 17:06:38.0918 2772 MES.Runtime 16 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-08-27 17:06:38.0918 2772 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 17:06:38.0918 2772 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 17:06:38.0918 2772 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 17:06:38.0918 2772 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 17:06:50.8326 2772 MES.Runtime 10 PMLib-ManageConnection Machine interface disconnected
+2014-08-27 17:06:50.8326 2772 MES.Runtime 10 PMLib-ManageConnection Clearing after machine interface disconnected
+2014-08-27 17:06:50.8326 2772 MES.Runtime 10 PMLib-ManageConnection PT200MAIImportCtrl:AddNoneRoute() Entered.
+2014-08-27 17:06:50.8326 2772 MES.Runtime 10 PMLib-ManageConnection PT200MAIImportCtrl:AddNoneRoute() Exited.
+2014-08-27 17:06:50.8326 2772 MES.Runtime 10 PMLib-ManageConnection Machine interface DisConnected
+2014-08-27 17:06:50.9056 2772 MES.Runtime 3 PMLib-ManageConnection Machine interface disconnected
+2014-08-27 17:06:50.9056 2772 MES.Runtime 3 PMLib-ManageConnection Clearing after machine interface disconnected
+2014-08-27 17:06:50.9056 2772 MES.Runtime 3 PMLib-ManageConnection PT200MAIImportCtrl:AddNoneRoute() Entered.
+2014-08-27 17:06:50.9056 2772 MES.Runtime 3 PMLib-ManageConnection PT200MAIImportCtrl:AddNoneRoute() Exited.
+2014-08-27 17:06:50.9116 2772 MES.Runtime 3 PMLib-ManageConnection Machine interface DisConnected
+2014-08-27 17:06:50.9116 2772 MES.Runtime 16 PMLib-ManageConnection Machine interface disconnected
+2014-08-27 17:06:50.9116 2772 MES.Runtime 16 PMLib-ManageConnection Clearing after machine interface disconnected
+2014-08-27 17:06:50.9116 2772 MES.Runtime 16 PMLib-ManageConnection PT200MAIImportCtrl:AddNoneRoute() Entered.
+2014-08-27 17:06:50.9116 2772 MES.Runtime 16 PMLib-ManageConnection PT200MAIImportCtrl:AddNoneRoute() Exited.
+2014-08-27 17:06:50.9266 2772 MES.Runtime 16 PMLib-ManageConnection Machine interface DisConnected
+2014-08-27 17:09:40.8743 2772 MES.Runtime 16 PMLib-ManageConnection Machine interface Connected.
+2014-08-27 17:09:40.8743 2772 MES.Runtime 16 PMLib-ManageConnection DBHelp.GetMachineType() Entered.
+2014-08-27 17:09:40.8743 2772 MES.Runtime 10 PMLib-ManageConnection Machine interface Connected.
+2014-08-27 17:09:40.8743 2772 MES.Runtime 10 PMLib-ManageConnection DBHelp.GetMachineType() Entered.
+2014-08-27 17:09:40.9423 2772 MES.Runtime 3 PMLib-ManageConnection Machine interface Connected.
+2014-08-27 17:09:40.9423 2772 MES.Runtime 3 PMLib-ManageConnection DBHelp.GetMachineType() Entered.
+2014-08-27 17:09:41.6533 2772 MES.Runtime 3 PMLib-ManageConnection Machine with Equipmend id =21036 is a Non KX machine. Ignoring it.
+2014-08-27 17:09:41.6533 2772 MES.Runtime 3 PMLib-ManageConnection Machine interface Connected.
+2014-08-27 17:09:41.6543 2772 MES.Runtime 3 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-08-27 17:09:41.6543 2772 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 17:09:41.6543 2772 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 17:09:41.6543 2772 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 17:09:41.6543 2772 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 17:09:41.6543 2772 MES.Runtime 16 PMLib-ManageConnection Machine with Equipmend id =21036 is a Non KX machine. Ignoring it.
+2014-08-27 17:09:41.6543 2772 MES.Runtime 16 PMLib-ManageConnection Machine interface Connected.
+2014-08-27 17:09:41.6543 2772 MES.Runtime 16 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-08-27 17:09:41.6543 2772 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 17:09:41.6543 2772 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 17:09:41.6543 2772 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 17:09:41.6543 2772 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 17:09:41.6543 2772 MES.Runtime 10 PMLib-ManageConnection Machine with Equipmend id =21036 is a Non KX machine. Ignoring it.
+2014-08-27 17:09:41.6543 2772 MES.Runtime 10 PMLib-ManageConnection Machine interface Connected.
+2014-08-27 17:09:41.6543 2772 MES.Runtime 10 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-08-27 17:09:41.6543 2772 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 17:09:41.6543 2772 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 17:09:41.6543 2772 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 17:09:41.6543 2772 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 17:09:41.7633 2772 MES.Runtime 10 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-08-27 17:09:41.7633 2772 MES.Runtime 10 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-08-27 17:09:41.7793 2772 MES.Runtime 10 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-08-27 17:09:41.7793 2772 MES.Runtime 10 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-08-27 17:09:41.7793 2772 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 17:09:41.7793 2772 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 17:09:41.7793 2772 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 17:09:41.7793 2772 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 17:09:41.7793 2772 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 17:09:41.7793 2772 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 17:09:41.7793 2772 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 17:09:41.7793 2772 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 17:09:41.7793 2772 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 17:09:41.7793 2772 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 17:09:41.7793 2772 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 17:09:41.7793 2772 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 17:09:41.7793 2772 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 17:09:41.7793 2772 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 17:09:41.7793 2772 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 17:09:41.7793 2772 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 17:09:44.9125 2772 MES.Runtime 10 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-08-27 17:09:44.9145 2772 MES.Runtime 10 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-08-27 17:09:44.9145 2772 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 17:09:44.9145 2772 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 17:09:44.9145 2772 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 17:09:44.9145 2772 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 17:09:44.9145 2772 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 17:09:44.9145 2772 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 17:09:44.9145 2772 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 17:09:44.9145 2772 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 17:09:56.0742 2772 MES.Runtime 10 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-08-27 17:09:56.0742 2772 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 17:09:56.0742 2772 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 17:09:56.0742 2772 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 17:09:56.0742 2772 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 17:09:56.1382 2772 MES.Runtime 16 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-08-27 17:09:56.1382 2772 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 17:09:56.1382 2772 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 17:09:56.1382 2772 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 17:09:56.1382 2772 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 17:09:56.1482 2772 MES.Runtime 3 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-08-27 17:09:56.1482 2772 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 17:09:56.1482 2772 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 17:09:56.1482 2772 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 17:09:56.1482 2772 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-27 18:02:30.6296 2772 MES.Runtime 3 PMLib-ManageConnection Machine interface disconnected
+2014-08-27 18:02:30.6296 2772 MES.Runtime 3 PMLib-ManageConnection Clearing after machine interface disconnected
+2014-08-27 18:02:30.6296 2772 MES.Runtime 3 PMLib-ManageConnection PT200MAIImportCtrl:AddNoneRoute() Entered.
+2014-08-27 18:02:30.6296 2772 MES.Runtime 3 PMLib-ManageConnection PT200MAIImportCtrl:AddNoneRoute() Exited.
+2014-08-27 18:02:30.6296 2772 MES.Runtime 3 PMLib-ManageConnection Machine interface DisConnected
+2014-08-27 18:02:30.6586 2772 MES.Runtime 10 PMLib-ManageConnection Machine interface disconnected
+2014-08-27 18:02:30.6586 2772 MES.Runtime 10 PMLib-ManageConnection Clearing after machine interface disconnected
+2014-08-27 18:02:30.6586 2772 MES.Runtime 10 PMLib-ManageConnection PT200MAIImportCtrl:AddNoneRoute() Entered.
+2014-08-27 18:02:30.6586 2772 MES.Runtime 10 PMLib-ManageConnection PT200MAIImportCtrl:AddNoneRoute() Exited.
+2014-08-27 18:02:30.6586 2772 MES.Runtime 10 PMLib-ManageConnection Machine interface DisConnected
+2014-08-27 18:02:30.7016 2772 MES.Runtime 16 PMLib-ManageConnection Machine interface disconnected
+2014-08-27 18:02:30.7016 2772 MES.Runtime 16 PMLib-ManageConnection Clearing after machine interface disconnected
+2014-08-27 18:02:30.7016 2772 MES.Runtime 16 PMLib-ManageConnection PT200MAIImportCtrl:AddNoneRoute() Entered.
+2014-08-27 18:02:30.7016 2772 MES.Runtime 16 PMLib-ManageConnection PT200MAIImportCtrl:AddNoneRoute() Exited.
+2014-08-27 18:02:30.7056 2772 MES.Runtime 16 PMLib-ManageConnection Machine interface DisConnected
+2014-08-27 18:18:09.9103 2772 MES.Runtime 3 PMLib-ManageConnection PostMasterLibrary Connection error: Failed to connect.
+2014-08-27 18:18:09.9103 2772 MES.Runtime 10 PMLib-ManageConnection PostMasterLibrary Connection error: Failed to connect.
+2014-08-27 18:18:09.9103 2772 MES.Runtime 16 PMLib-ManageConnection PostMasterLibrary Connection error: Failed to connect.
+2014-08-27 18:18:31.9206 2772 MES.Runtime 3 PMLib-ManageConnection PostMasterLibrary Connection error: Failed to connect.
+2014-08-27 18:18:31.9206 2772 MES.Runtime 10 PMLib-ManageConnection PostMasterLibrary Connection error: Failed to connect.
+2014-08-27 18:18:31.9206 2772 MES.Runtime 16 PMLib-ManageConnection PostMasterLibrary Connection error: Failed to connect.
+2014-08-27 18:18:53.9218 2772 MES.Runtime 3 PMLib-ManageConnection PostMasterLibrary Connection error: Failed to connect.
+2014-08-27 18:18:53.9218 2772 MES.Runtime 10 PMLib-ManageConnection PostMasterLibrary Connection error: Failed to connect.
+2014-08-27 18:18:53.9218 2772 MES.Runtime 16 PMLib-ManageConnection PostMasterLibrary Connection error: Failed to connect.
+2014-08-28 09:23:07.0740 2772 MES.Runtime 3 PMLib-ManageConnection PostMasterLibrary Connection error: Failed to connect.
+2014-08-28 09:23:07.0740 2772 MES.Runtime 10 PMLib-ManageConnection PostMasterLibrary Connection error: Failed to connect.
+2014-08-28 09:23:07.0740 2772 MES.Runtime 16 PMLib-ManageConnection PostMasterLibrary Connection error: Failed to connect.
+2014-08-28 09:23:29.0792 2772 MES.Runtime 3 PMLib-ManageConnection PostMasterLibrary Connection error: Failed to connect.
+2014-08-28 09:23:29.0792 2772 MES.Runtime 10 PMLib-ManageConnection PostMasterLibrary Connection error: Failed to connect.
+2014-08-28 09:23:29.0792 2772 MES.Runtime 16 PMLib-ManageConnection PostMasterLibrary Connection error: Failed to connect.
+2014-08-28 09:23:51.0795 2772 MES.Runtime 3 PMLib-ManageConnection PostMasterLibrary Connection error: Failed to connect.
+2014-08-28 09:23:51.0795 2772 MES.Runtime 10 PMLib-ManageConnection PostMasterLibrary Connection error: Failed to connect.
+2014-08-28 09:23:51.0795 2772 MES.Runtime 16 PMLib-ManageConnection PostMasterLibrary Connection error: Failed to connect.
+2014-08-28 09:24:01.2071 2772 MES.Runtime 3 PMLib-ManageConnection PostMaster is connected.
+2014-08-28 09:24:01.2071 2772 MES.Runtime 3 PMLib-ManageConnection Checking PEM running status.
+2014-08-28 09:24:01.2071 2772 MES.Runtime 10 PMLib-ManageConnection PostMaster is connected.
+2014-08-28 09:24:01.2071 2772 MES.Runtime 16 PMLib-ManageConnection PostMaster is connected.
+2014-08-28 09:24:01.2151 2772 MES.Runtime 10 PMLib-ManageConnection Checking PEM running status.
+2014-08-28 09:24:01.2151 2772 MES.Runtime 10 PMLib-ManageConnection PEM is Connected
+2014-08-28 09:24:01.2301 2772 MES.Runtime 16 PMLib-ManageConnection Checking PEM running status.
+2014-08-28 09:24:01.4261 2772 MES.Runtime 10 PMLib-ManageConnection PEM is Connected
+2014-08-28 09:24:01.4341 2772 MES.Runtime 10 PMLib-ManageConnection Substitute Import Deamon is running
+2014-08-28 09:24:01.4341 2772 MES.Runtime 10 PMLib-ManageConnection Substitute Import Deamon is running
+2014-08-28 09:24:01.4341 2772 MES.Runtime 10 PMLib-ManageConnection Machine interface Connected.
+2014-08-28 09:24:01.4341 2772 MES.Runtime 10 PMLib-ManageConnection DBHelp.GetMachineType() Entered.
+2014-08-28 09:24:01.6291 2772 MES.Runtime 10 PMLib-ManageConnection Getting route information for Machine Interface with Equipmend id =21025.
+2014-08-28 09:24:01.7301 2772 MES.Runtime 10 PMLib-ManageConnection Success:Getting route information for Machine Interface with Equipmend id =21025 is successful.
+2014-08-28 09:24:01.7301 2772 MES.Runtime 10 PMLib-ManageConnection Machine Interface name = DZ1-Machine-1 with mailbox id=63.
+2014-08-28 09:24:01.7301 2772 MES.Runtime 10 PMLib-ManageConnection Route ID is 21010 with name=DT-401TESTR for machine interface
+2014-08-28 09:24:01.7301 2772 MES.Runtime 10 PMLib-ManageConnection Added a None Route
+2014-08-28 09:24:01.7301 2772 MES.Runtime 10 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-08-28 09:24:01.7451 2772 MES.Runtime 10 PMLib-ManageConnection PEM is Connected
+2014-08-28 09:24:01.7451 2772 MES.Runtime 10 PMLib-ManageConnection PEM is Connected
+2014-08-28 09:24:01.7451 2772 MES.Runtime 10 PMLib-ManageConnection Substitute Import Deamon is running
+2014-08-28 09:24:01.7451 2772 MES.Runtime 10 PMLib-ManageConnection Substitute Import Deamon is running
+2014-08-28 09:24:01.7451 2772 MES.Runtime 10 PMLib-ManageConnection Machine interface Connected.
+2014-08-28 09:24:01.7451 2772 MES.Runtime 10 PMLib-ManageConnection DBHelp.GetMachineType() Entered.
+2014-08-28 09:24:01.7451 2772 MES.Runtime 1  PT200MAIImportCtrl.cmbRoutes_SelectionChanged() Entered.
+2014-08-28 09:24:01.7451 2772 MES.Runtime 1  PT200MAIImportCtrl.cmbRoutes_SelectionChanged() Exited.
+2014-08-28 09:24:01.7451 2772 MES.Runtime 1  PT200MAIImportCtrl.cmbRoutes_SelectionChanged() Entered.
+2014-08-28 09:24:01.7451 2772 MES.Runtime 1  PT200MAIImportCtrl.cmbProductSrc_SelectionChanged() Entered.
+2014-08-28 09:24:01.7451 2772 MES.Runtime 1  PT200MAIImportCtrl.cmbProductSrc_SelectionChanged() Exited.
+2014-08-28 09:24:01.7451 2772 MES.Runtime 1  PT200MAIImportCtrl.cmbProductSrc_SelectionChanged() Entered.
+2014-08-28 09:24:01.7451 2772 MES.Runtime 1  PT200MAIImportCtrl.cmbProductSrc_SelectionChanged() Exited.
+2014-08-28 09:24:01.7451 2772 MES.Runtime 1  PT200MAIImportCtrl.cmbRoutes_SelectionChanged() Exited.
+2014-08-28 09:24:01.7451 2772 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-28 09:24:01.7451 2772 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-28 09:24:01.7451 2772 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-28 09:24:01.7451 2772 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-28 09:24:01.7691 2772 MES.Runtime 10 PMLib-ManageConnection Getting route information for Machine Interface with Equipmend id =21025.
+2014-08-28 09:24:01.7691 2772 MES.Runtime 10 PMLib-ManageConnection Success:Getting route information for Machine Interface with Equipmend id =21025 is successful.
+2014-08-28 09:24:01.7691 2772 MES.Runtime 10 PMLib-ManageConnection Machine Interface name = DZ1-Machine-1 with mailbox id=63.
+2014-08-28 09:24:01.7691 2772 MES.Runtime 10 PMLib-ManageConnection Route ID is 21010 with name=DT-401TESTR for machine interface
+2014-08-28 09:24:01.7761 2772 MES.Runtime 10 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-08-28 09:24:01.7761 2772 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-28 09:24:01.7761 2772 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-28 09:24:01.7761 2772 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-28 09:24:01.7761 2772 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-28 09:24:31.7368 2772 MES.Runtime 10 PMLib-ManageConnection DGS is Disconnected
+2014-08-28 09:24:32.8299 2772 MES.Runtime 10 PMLib-ManageConnection PEM is Disconnected
+2014-08-28 09:24:32.8299 2772 MES.Runtime 10 PMLib-ManageConnection Substitute Import Deamon is not running
+2014-08-28 09:24:43.3725 2772 MES.Runtime 10 PMLib-ManageConnection DGS is Connected
+2014-08-28 09:24:43.3725 2772 MES.Runtime 10 PMLib-ManageConnection PEM is Connected
+2014-08-28 09:24:43.3725 2772 MES.Runtime 10 PMLib-ManageConnection Substitute Import Deamon is running
+2014-08-28 10:22:29.3697 2772 MES.Runtime 10 PMLib-ManageConnection Machine interface Connected.
+2014-08-28 10:22:29.3697 2772 MES.Runtime 10 PMLib-ManageConnection DBHelp.GetMachineType() Entered.
+2014-08-28 10:22:29.3997 2772 MES.Runtime 10 PMLib-ManageConnection Machine with Equipmend id =21036 is a Non KX machine. Ignoring it.
+2014-08-28 10:22:29.3997 2772 MES.Runtime 10 PMLib-ManageConnection Machine interface Connected.
+2014-08-28 10:22:29.3997 2772 MES.Runtime 10 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-08-28 10:22:29.3997 2772 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-28 10:22:29.3997 2772 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-28 10:22:29.3997 2772 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-28 10:22:29.3997 2772 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-28 10:22:29.6147 2772 MES.Runtime 10 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-08-28 10:22:29.6147 2772 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-28 10:22:29.6147 2772 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-28 10:22:29.6147 2772 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-28 10:22:29.6147 2772 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-28 10:22:32.3129 2772 MES.Runtime 10 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-08-28 10:22:32.3129 2772 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-28 10:22:32.3129 2772 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-28 10:22:32.3129 2772 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-28 10:22:32.3129 2772 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-28 10:22:33.6100 2772 MES.Runtime 10 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-08-28 10:22:33.6100 2772 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-28 10:22:33.6100 2772 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-28 10:22:33.6100 2772 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-28 10:22:33.6100 2772 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-28 12:33:32.5225 2772 MES.Runtime 10 PMLib-ManageConnection Machine interface disconnected
+2014-08-28 12:33:32.5225 2772 MES.Runtime 10 PMLib-ManageConnection Clearing after machine interface disconnected
+2014-08-28 12:33:32.5225 2772 MES.Runtime 10 PMLib-ManageConnection PT200MAIImportCtrl:AddNoneRoute() Entered.
+2014-08-28 12:33:32.5225 2772 MES.Runtime 10 PMLib-ManageConnection PT200MAIImportCtrl:AddNoneRoute() Exited.
+2014-08-28 12:33:32.5225 2772 MES.Runtime 10 PMLib-ManageConnection Machine interface DisConnected
+2014-08-28 12:33:38.3688 2772 MES.Runtime 10 PMLib-ManageConnection Machine interface Connected.
+2014-08-28 12:33:38.3688 2772 MES.Runtime 10 PMLib-ManageConnection DBHelp.GetMachineType() Entered.
+2014-08-28 12:33:38.4158 2772 MES.Runtime 10 PMLib-ManageConnection Getting route information for Machine Interface with Equipmend id =21025.
+2014-08-28 12:33:38.5948 2772 MES.Runtime 10 PMLib-ManageConnection Success:Getting route information for Machine Interface with Equipmend id =21025 is successful.
+2014-08-28 12:33:38.5948 2772 MES.Runtime 10 PMLib-ManageConnection Machine Interface name = DZ1-Machine-1 with mailbox id=674.
+2014-08-28 12:33:38.5948 2772 MES.Runtime 10 PMLib-ManageConnection Route ID is 21010 with name=DT-401TESTR for machine interface
+2014-08-28 12:33:38.5948 2772 MES.Runtime 10 PMLib-ManageConnection Added a None Route
+2014-08-28 12:33:38.5948 2772 MES.Runtime 10 PMLib-ManageConnection Machine interface Connected.
+2014-08-28 12:33:38.5948 2772 MES.Runtime 1  PT200MAIImportCtrl.cmbRoutes_SelectionChanged() Entered.
+2014-08-28 12:33:38.5948 2772 MES.Runtime 1  PT200MAIImportCtrl.cmbRoutes_SelectionChanged() Exited.
+2014-08-28 12:33:38.5948 2772 MES.Runtime 1  PT200MAIImportCtrl.cmbRoutes_SelectionChanged() Entered.
+2014-08-28 12:33:38.5948 2772 MES.Runtime 1  PT200MAIImportCtrl.cmbProductSrc_SelectionChanged() Entered.
+2014-08-28 12:33:38.5948 2772 MES.Runtime 1  PT200MAIImportCtrl.cmbProductSrc_SelectionChanged() Exited.
+2014-08-28 12:33:38.5948 2772 MES.Runtime 1  PT200MAIImportCtrl.cmbProductSrc_SelectionChanged() Entered.
+2014-08-28 12:33:38.5948 2772 MES.Runtime 1  PT200MAIImportCtrl.cmbProductSrc_SelectionChanged() Exited.
+2014-08-28 12:33:38.5948 2772 MES.Runtime 1  PT200MAIImportCtrl.cmbRoutes_SelectionChanged() Exited.
+2014-08-28 12:33:38.9128 2772 MES.Runtime 10 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-08-28 12:33:38.9128 2772 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-28 12:33:38.9128 2772 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-28 12:33:38.9128 2772 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-28 12:33:38.9128 2772 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-28 12:33:47.7523 2772 MES.Runtime 10 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-08-28 12:33:47.7523 2772 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-28 12:33:47.7523 2772 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-28 12:33:47.7523 2772 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-28 12:33:47.7523 2772 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-28 12:34:02.2482 2772 MES.Runtime 10 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2014-08-28 12:34:02.2482 2772 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-28 12:34:02.2482 2772 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2014-08-28 12:34:02.2482 2772 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2014-08-28 12:34:02.2482 2772 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2015-12-24 19:41:38.2339 1716 MES.Runtime 1  PMListener_Config:OnStart() Entered.
+2015-12-24 19:41:38.2569 1716 MES.Runtime 1  PMListener_Config:OnStart() Exited.
+2015-12-24 19:41:38.2569 1716 MES.Runtime 19 PMListener_MachineFileImport - StartPMListener Connecting to Postmaster:CIMC-SRV
+2015-12-24 19:41:38.4679 1716 MES.Runtime 20 PMLib-ManageConnection PostMaster is connected.
+2015-12-24 19:41:38.4769 1716 MES.Runtime 20 PMLib-ManageConnection Checking PEM running status.
+2015-12-24 19:41:38.6369 1716 MES.Runtime 20 PMLib-ManageConnection PEM is Connected
+2015-12-24 19:41:38.6369 1716 MES.Runtime 20 PMLib-ManageConnection PEM is Connected
+2015-12-24 19:41:38.6449 1716 MES.Runtime 20 PMLib-ManageConnection Substitute Import Deamon is running
+2015-12-24 19:41:38.6449 1716 MES.Runtime 20 PMLib-ManageConnection Substitute Import Deamon is running
+2015-12-24 19:41:38.6449 1716 MES.Runtime 20 PMLib-ManageConnection Machine interface Connected.
+2015-12-24 19:41:38.6449 1716 MES.Runtime 20 PMLib-ManageConnection DBHelp.GetMachineType() Entered.
+2015-12-24 19:41:38.7089 1716 MES.Runtime 20 PMLib-ManageConnection DBHelp.GetMachineType() Exited.
+2015-12-24 19:41:38.7089 1716 MES.Runtime 20 PMLib-ManageConnection Machine with Equipmend id =21039 is a Non KX machine. Ignoring it.
+2015-12-24 19:41:38.7089 1716 MES.Runtime 20 PMLib-ManageConnection Machine interface Connected.
+2015-12-24 19:41:38.7089 1716 MES.Runtime 20 PMLib-ManageConnection DBHelp.GetMachineType() Entered.
+2015-12-24 19:41:38.7089 1716 MES.Runtime 20 PMLib-ManageConnection DBHelp.GetMachineType() Exited.
+2015-12-24 19:41:38.7089 1716 MES.Runtime 20 PMLib-ManageConnection Getting route information for Machine Interface with Equipmend id =31040.
+2015-12-24 19:41:38.7369 1716 MES.Runtime 20 PMLib-ManageConnection Success:Getting route information for Machine Interface with Equipmend id =31040 is successful.
+2015-12-24 19:41:38.7509 1716 MES.Runtime 20 PMLib-ManageConnection Machine Interface name = Zone-8-Machine-1 with mailbox id=910.
+2015-12-24 19:41:38.7509 1716 MES.Runtime 20 PMLib-ManageConnection PT200MAIImportCtrl:AddNoneRoute() Entered.
+2015-12-24 19:41:38.7509 1716 MES.Runtime 20 PMLib-ManageConnection PT200MAIImportCtrl:AddNoneRoute() Exited.
+2015-12-24 19:41:38.7509 1716 MES.Runtime 20 PMLib-ManageConnection Route ID is 31015 with name=Route-7 for machine interface
+2015-12-24 19:41:38.7509 1716 MES.Runtime 20 PMLib-ManageConnection Added a None Route
+2015-12-24 19:41:38.7669 1716 MES.Runtime 20 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2015-12-24 19:41:38.7669 1716 MES.Runtime 20 PMLib-ManageConnection Recieved a PCurrentProgramMsg Message
+2015-12-24 19:41:38.7669 1716 MES.Runtime 20 PMLib-ManageConnection Current Running Program is TESTTEMP4:TEST4:TEST4:TEST4
+2015-12-24 19:41:38.7669 1716 MES.Runtime 20 PMLib-ManageConnection PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2015-12-24 19:41:38.7669 1716 MES.Runtime 20 PMLib-ManageConnection PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2015-12-24 19:41:39.4390 1716 MES.Runtime 1  PT200MAIImportCtrl.cmbRoutes_SelectionChanged() Entered.
+2015-12-24 19:41:39.4390 1716 MES.Runtime 1  PT200MAIImportCtrl.cmbProductSrc_SelectionChanged() Entered.
+2015-12-24 19:41:39.4390 1716 MES.Runtime 1  PT200MAIImportCtrl.cmbProductSrc_SelectionChanged() Exited.
+2015-12-24 19:41:39.4390 1716 MES.Runtime 1  PT200MAIImportCtrl.cmbRoutes_SelectionChanged() Exited.
+2015-12-24 19:41:39.4390 1716 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2015-12-24 19:41:39.4390 1716 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2015-12-24 19:41:39.4640 1716 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2015-12-24 19:41:39.4640 1716 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2015-12-24 19:41:39.4640 1716 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2015-12-24 19:41:39.4640 1716 MES.Runtime 1  PT200MAIImportCtrl.SetCurrentRunningStatus() Entered.
+2015-12-24 19:41:39.4640 1716 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.
+2015-12-24 19:41:39.4640 1716 MES.Runtime 1  CCSSetupTemplatesCtrl.SetCurrentRunningStatus() Entered.

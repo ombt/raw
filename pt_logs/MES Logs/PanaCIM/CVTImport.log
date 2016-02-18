@@ -1,0 +1,56 @@
+2014-07-14 10:59:00.0277 3580 MES.Runtime 1  CVTImportMainCtrl:LoadDataContext() Entered.
+2014-07-14 10:59:00.0277 3580 MES.Runtime 1  Preparing for the Postmaster Connection.
+2014-07-14 10:59:00.0277 3580 MES.Runtime 1  PMListener_Config:OnStart() Entered.
+2014-07-14 10:59:00.0327 3580 MES.Runtime 18 PMListener_MachineFileImport - StartPMListener Connecting to Postmaster:CIMC-SRV
+2014-07-14 10:59:00.0327 3580 MES.Runtime 1  PMListener_Config:OnStart() Exited.
+2014-07-14 10:59:00.0327 3580 MES.Runtime 21 PMLib-ManageConnection PostMaster ConnectionState = Connecting
+2014-07-14 10:59:00.1347 3580 MES.Runtime 1  Load Startup data.
+2014-07-14 10:59:00.1347 3580 MES.Runtime 1  CVTImportMainCtrl:LoadStartupData() Entered.
+2014-07-14 10:59:00.1347 3580 MES.Runtime 1  CVTImportMainCtrl:LoadStartupData() Exited.
+2014-07-14 10:59:00.1347 3580 MES.Runtime 1  CVTImportMainCtrl:ClearConttextOnRouteSelChanged() Entered.
+2014-07-14 10:59:00.1347 3580 MES.Runtime 1  CVTImportMainCtrl:ClearConttextOnRouteSelChanged() Exited.
+2014-07-14 10:59:00.1347 3580 MES.Runtime 1  CVTImportMainCtrl:LoadDataContext() Exited.
+2014-07-14 10:59:00.1457 3580 MES.Runtime 21 PMLib-ManageConnection PostMaster ConnectionState = Connected
+2014-07-14 10:59:00.1457 3580 MES.Runtime 21 PMLib-ManageConnection PostMaster is connected.
+2014-07-14 10:59:00.1457 3580 MES.Runtime 1  Loading all routes in the PanaCIM.
+2014-07-14 10:59:00.1457 3580 MES.Runtime 1  CVTImportMainCtrl:LoadPanacimRoutes() Entered.
+2014-07-14 10:59:00.1577 3580 MES.Runtime 21 PMLib-ManageConnection Checking PEM running status.
+2014-07-14 10:59:00.2617 3580 MES.Runtime 21 PMLib-ManageConnection PEM is running...............
+2014-07-14 10:59:00.6548 3580 MES.Runtime 1  Executing Rule:DR_LoadAllRoutes to get data with argument:.
+2014-07-14 10:59:00.6548 3580 MES.Runtime 1  Received response from DR:<Success><Data><DRReturnData><PRoute ID="21004" Name="Route-3"><Zones /></PRoute><PRoute ID="1001" Name="PRE-1"><Zones /></PRoute><PRoute ID="21003" Name="CM402-LINE"><Zones /></PRoute></DRReturnData></Data></Success>
+2014-07-14 10:59:00.6548 3580 MES.Runtime 1  Check if response is Valid.
+2014-07-14 10:59:00.6548 3580 MES.Runtime 1  Found response is Valid.Check if response is successfull.
+2014-07-14 10:59:00.6548 3580 MES.Runtime 1  Found response is successfull. Check if the response data is OK.
+2014-07-14 10:59:00.6548 3580 MES.Runtime 1  Found response DATA is OK. Now process the DATA.
+2014-07-14 10:59:00.6548 3580 MES.Runtime 1  Extract all Route nodes from XML.
+2014-07-14 10:59:00.6548 3580 MES.Runtime 1  Adding route to the list:<PRoute ID="21004" Name="Route-3">
+  <Zones />
+</PRoute>
+2014-07-14 10:59:00.8798 3580 MES.Runtime 1  Adding route to the list:<PRoute ID="1001" Name="PRE-1">
+  <Zones />
+</PRoute>
+2014-07-14 10:59:00.8798 3580 MES.Runtime 1  Adding route to the list:<PRoute ID="21003" Name="CM402-LINE">
+  <Zones />
+</PRoute>
+2014-07-14 10:59:00.8978 3580 MES.Runtime 1  CVTImportMainCtrl:LoadPanacimRoutes() Exited.
+2014-07-14 10:59:00.8978 3580 MES.Runtime 1  Select and display the Setup Tab as no route is selected.
+2014-07-15 12:14:09.8731 3580 MES.Runtime 21 PMLib-ManageConnection PEM is not running...............
+2014-07-15 12:14:12.7132 3580 MES.Runtime 21 PMLib-ManageConnection PostMaster ConnectionState = Disconnected
+2014-07-15 12:14:12.7132 3580 MES.Runtime 21 PMLib-ManageConnection PostMaster is disconnected.
+2014-07-15 12:14:12.7132 3580 MES.Runtime 21 PMLib-ManageConnection PostMaster ConnectionState = Connecting
+2014-07-15 12:14:18.7726 3580 MES.Runtime 21 PMLib-ManageConnection PostMasterLibrary Connection error: Did not receive successfuly translated request response message.
+2014-07-15 12:14:18.7726 3580 MES.Runtime 21 PMLib-ManageConnection PostMasterLibrary Connection error: Failed to connect.
+2014-07-15 12:14:21.0737 3580 MES.Runtime 21 PMLib-ManageConnection PostMasterLibrary Connection error: Failed to connect.
+2014-07-15 12:14:23.0798 3580 MES.Runtime 21 PMLib-ManageConnection PostMasterLibrary Connection error: Failed to connect.
+2014-07-15 12:14:25.0859 3580 MES.Runtime 21 PMLib-ManageConnection PostMasterLibrary Connection error: Failed to connect.
+2014-07-15 12:14:27.0951 3580 MES.Runtime 21 PMLib-ManageConnection PostMasterLibrary Connection error: Failed to connect.
+2014-07-15 12:14:29.1002 3580 MES.Runtime 21 PMLib-ManageConnection PostMasterLibrary Connection error: Failed to connect.
+2014-07-15 12:14:31.1233 3580 MES.Runtime 21 PMLib-ManageConnection PostMasterLibrary Connection error: Failed to connect.
+2014-07-15 12:14:33.1264 3580 MES.Runtime 21 PMLib-ManageConnection PostMasterLibrary Connection error: Failed to connect.
+2014-07-15 12:14:35.1295 3580 MES.Runtime 21 PMLib-ManageConnection PostMasterLibrary Connection error: Failed to connect.
+2014-07-15 12:14:37.1426 3580 MES.Runtime 21 PMLib-ManageConnection PostMasterLibrary Connection error: Failed to connect.
+2014-07-15 12:14:38.8107 3580 MES.Runtime 21 PMLib-ManageConnection PostMaster ConnectionState = Connected
+2014-07-15 12:14:38.8107 3580 MES.Runtime 21 PMLib-ManageConnection PostMaster is connected.
+2014-07-15 12:14:38.8107 3580 MES.Runtime 21 PMLib-ManageConnection Checking PEM running status.
+2014-07-15 12:14:38.9207 3580 MES.Runtime 21 PMLib-ManageConnection PEM is not running...............
+2014-07-15 12:16:27.7320 3580 MES.Runtime 21 PMLib-ManageConnection PEM is running...............

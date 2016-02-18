@@ -1,0 +1,78 @@
+23/12/2015 10:10:34 - loop:0
+23/12/2015 10:10:34 - 3 instance of dllhost process is exist on this system
+23/12/2015 10:10:34 - process id of dllhost process is 4880
+23/12/2015 10:10:35 - The owner of process id 4880 is ePlantView
+23/12/2015 10:10:35 - Killing dllhost process
+23/12/2015 10:10:35 - process id of dllhost process is 4080
+23/12/2015 10:10:35 - The owner of process id 4080 is Administrator
+23/12/2015 10:10:35 - The entered process owner does not match with existing process owner
+23/12/2015 10:10:35 - process id of dllhost process is 2568
+23/12/2015 10:10:35 - The owner of process id 2568 is SYSTEM
+23/12/2015 10:10:35 - The entered process owner does not match with existing process owner
+08/01/2016 13:30:54 - loop:0
+08/01/2016 13:30:55 - 2 instance of dllhost process is exist on this system
+08/01/2016 13:30:55 - process id of dllhost process is 4668
+08/01/2016 13:30:56 - The owner of process id 4668 is ePlantView
+08/01/2016 13:30:56 - Killing dllhost process
+08/01/2016 13:30:56 - process id of dllhost process is 3676
+08/01/2016 13:30:56 - The owner of process id 3676 is SYSTEM
+08/01/2016 13:30:56 - The entered process owner does not match with existing process owner
+08/01/2016 14:05:29 - loop:0
+08/01/2016 14:05:30 - 3 instance of dllhost process is exist on this system
+08/01/2016 14:05:30 - process id of dllhost process is 3720
+08/01/2016 14:06:02 - The owner of process id 3720 is SYSTEM
+08/01/2016 14:06:02 - The entered process owner does not match with existing process owner
+08/01/2016 14:06:02 - process id of dllhost process is 2484
+08/01/2016 14:06:02 - The owner of process id 2484 is SYSTEM
+08/01/2016 14:06:02 - The entered process owner does not match with existing process owner
+08/01/2016 14:06:02 - process id of dllhost process is 1412
+08/01/2016 14:06:02 - The owner of process id 1412 is ePlantView
+08/01/2016 14:06:02 - Killing dllhost process
+14/01/2016 18:02:53 - loop:0
+14/01/2016 18:02:54 - 3 instance of dllhost process is exist on this system
+14/01/2016 18:02:54 - process id of dllhost process is 3720
+14/01/2016 18:02:56 - The owner of process id 3720 is SYSTEM
+14/01/2016 18:02:56 - The entered process owner does not match with existing process owner
+14/01/2016 18:02:56 - process id of dllhost process is 3688
+14/01/2016 18:02:56 - Didn't get any process from management object
+14/01/2016 18:02:56 - process id of dllhost process is 3880
+14/01/2016 18:02:56 - The owner of process id 3880 is ePlantView
+14/01/2016 18:02:56 - Killing dllhost process
+08/02/2016 09:53:12 - loop:0
+08/02/2016 09:53:12 - 2 instance of dllhost process is exist on this system
+08/02/2016 09:53:12 - process id of dllhost process is 3652
+08/02/2016 09:53:13 - The owner of process id 3652 is SYSTEM
+08/02/2016 09:53:13 - The entered process owner does not match with existing process owner
+08/02/2016 09:53:13 - process id of dllhost process is 3984
+08/02/2016 09:53:13 - The owner of process id 3984 is SYSTEM
+08/02/2016 09:53:13 - The entered process owner does not match with existing process owner
+08/02/2016 09:54:13 - loop:1
+08/02/2016 09:54:13 - 2 instance of dllhost process is exist on this system
+08/02/2016 09:54:13 - process id of dllhost process is 3652
+08/02/2016 09:54:13 - The owner of process id 3652 is SYSTEM
+08/02/2016 09:54:13 - The entered process owner does not match with existing process owner
+08/02/2016 09:54:13 - process id of dllhost process is 4548
+08/02/2016 09:54:13 - The owner of process id 4548 is ePlantView
+08/02/2016 09:54:13 - Killing dllhost process
+09/02/2016 13:28:18 - loop:0
+09/02/2016 13:28:18 - 3 instance of dllhost process is exist on this system
+09/02/2016 13:28:18 - process id of dllhost process is 2552
+09/02/2016 13:28:19 - The owner of process id 2552 is ePlantView
+09/02/2016 13:28:19 - Killing dllhost process
+09/02/2016 13:28:19 - process id of dllhost process is 2536
+09/02/2016 13:28:19 - The owner of process id 2536 is SYSTEM
+09/02/2016 13:28:19 - The entered process owner does not match with existing process owner
+09/02/2016 13:28:19 - process id of dllhost process is 3904
+09/02/2016 13:28:19 - The owner of process id 3904 is SYSTEM
+09/02/2016 13:28:19 - The entered process owner does not match with existing process owner
+09/02/2016 16:18:41 - loop:0
+09/02/2016 16:18:42 - 3 instance of dllhost process is exist on this system
+09/02/2016 16:18:42 - process id of dllhost process is 3912
+09/02/2016 16:19:42 - The owner of process id 3912 is SYSTEM
+09/02/2016 16:19:42 - The entered process owner does not match with existing process owner
+09/02/2016 16:19:42 - process id of dllhost process is 3120
+09/02/2016 16:19:42 - The owner of process id 3120 is ePlantView
+09/02/2016 16:19:42 - Killing dllhost process
+09/02/2016 16:19:42 - process id of dllhost process is 1976
+09/02/2016 16:19:43 - The owner of process id 1976 is SYSTEM
+09/02/2016 16:19:43 - The entered process owner does not match with existing process owner

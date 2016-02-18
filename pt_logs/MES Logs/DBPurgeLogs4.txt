@@ -1,0 +1,212 @@
+2016/01/14 17:17:55: dbpurge.cpp:2316 C:\BACKUPDB\archive
+2016/01/14 17:20:01: dbpurge.cpp:1818 Sending Event: Should have checked for available space at 01/09/16 22:00:00.  Doing it NOW.
+2016/01/14 17:20:02: dbpurge.cpp:1818 Should have checked for available space at 01/09/16 22:00:00.  Doing it NOW.
+2016/01/14 17:20:02: dbpurge.cpp:2103 KillDBPurgeEvent already exists.
+2016/01/14 17:20:02: dbpurge.cpp:2134 Waiting for events with timeout: 0 seconds
+2016/01/14 17:20:02: dbpurge.cpp:2177 Timeout occured while waiting for events.
+2016/01/14 17:20:07: dbpurge.cpp:1818 Calculating object sizes
+2016/01/14 17:20:21: dbpurge.cpp:1818 Calculating database sizes
+2016/01/14 17:20:24: dbpurge.cpp:1818 Calculating filegroup sizes
+2016/01/14 17:20:24: dbpurge.cpp:1818 Deleting RAW data tar files older than 12 days
+2016/01/14 17:20:25: dbpurge.cpp:1818 Backup RAW data
+2016/01/14 17:20:25: dbpurge.cpp:1888 Backup ONLY of RAW table data upto : 01/11/16 00:00:00
+2016/01/14 17:20:25: dbpurge.cpp:1888 Backup ONLY of RAW data from : nozzle_raw
+2016/01/14 17:20:26: dbpurge.cpp:1888     Backing up tuples from table: dbo.nozzle_raw
+2016/01/14 17:20:26: dbpurge.cpp:1915  0 tuples.
+2016/01/14 17:20:27: dbpurge.cpp:1888 Backup ONLY of RAW data from : nozzle_header_raw
+2016/01/14 17:20:27: dbpurge.cpp:1888     Backing up tuples from table: dbo.nozzle_header_raw
+2016/01/14 17:20:27: dbpurge.cpp:1915  0 tuples.
+2016/01/14 17:20:27: dbpurge.cpp:1888 Backup ONLY of RAW data from : nozzle_kx_raw
+2016/01/14 17:20:28: dbpurge.cpp:1888     Backing up tuples from table: dbo.nozzle_kx_raw
+2016/01/14 17:20:28: dbpurge.cpp:1915  13 tuples.
+2016/01/14 17:20:28: dbpurge.cpp:1888 Backup ONLY of RAW data from : nozzle_header_kx_raw
+2016/01/14 17:20:28: dbpurge.cpp:1888     Backing up tuples from table: dbo.nozzle_header_kx_raw
+2016/01/14 17:20:28: dbpurge.cpp:1915  12 tuples.
+2016/01/14 17:20:29: dbpurge.cpp:1888 Backup ONLY of RAW data from : production_reports_raw
+2016/01/14 17:20:29: dbpurge.cpp:1888     Backing up tuples from table: dbo.production_reports_raw
+2016/01/14 17:20:29: dbpurge.cpp:1915  0 tuples.
+2016/01/14 17:20:29: dbpurge.cpp:1888 Backup ONLY of RAW data from : production_reports_gsm_raw
+2016/01/14 17:20:29: dbpurge.cpp:1888     Backing up tuples from table: dbo.production_reports_gsm_raw
+2016/01/14 17:20:29: dbpurge.cpp:1915  0 tuples.
+2016/01/14 17:20:29: dbpurge.cpp:1888 Backup ONLY of RAW data from : production_reports_kx_raw
+2016/01/14 17:20:30: dbpurge.cpp:1888     Backing up tuples from table: dbo.production_reports_kx_raw
+2016/01/14 17:20:30: dbpurge.cpp:1915  26 tuples.
+2016/01/14 17:20:30: dbpurge.cpp:1888 Backup ONLY of RAW data from : production_reports_kx_hdr_raw
+2016/01/14 17:20:30: dbpurge.cpp:1888     Backing up tuples from table: dbo.production_reports_kx_hdr_raw
+2016/01/14 17:20:30: dbpurge.cpp:1915  12 tuples.
+2016/01/14 17:20:30: dbpurge.cpp:1888 Backup ONLY of RAW data from : production_reports_uvs_raw
+2016/01/14 17:20:30: dbpurge.cpp:1888     Backing up tuples from table: dbo.production_reports_uvs_raw
+2016/01/14 17:20:30: dbpurge.cpp:1915  0 tuples.
+2016/01/14 17:20:30: dbpurge.cpp:1888 Backup ONLY of RAW data from : z_cass_raw
+2016/01/14 17:20:31: dbpurge.cpp:1888     Backing up tuples from table: dbo.z_cass_raw
+2016/01/14 17:20:31: dbpurge.cpp:1915  33 tuples.
+2016/01/14 17:20:31: dbpurge.cpp:1888 Backup ONLY of RAW data from : z_cass_header_raw
+2016/01/14 17:20:31: dbpurge.cpp:1888     Backing up tuples from table: dbo.z_cass_header_raw
+2016/01/14 17:20:31: dbpurge.cpp:1915  12 tuples.
+2016/01/14 17:20:31: dbpurge.cpp:1888 Backup ONLY of RAW data from : additional_info_npm_raw
+2016/01/14 17:20:31: dbpurge.cpp:1888     Backing up tuples from table: dbo.additional_info_npm_raw
+2016/01/14 17:20:32: dbpurge.cpp:1915  0 tuples.
+2016/01/14 17:20:32: dbpurge.cpp:1888 Backup ONLY of RAW data from : additional_info_npm_hdr_raw
+2016/01/14 17:20:32: dbpurge.cpp:1888     Backing up tuples from table: dbo.additional_info_npm_hdr_raw
+2016/01/14 17:20:32: dbpurge.cpp:1915  0 tuples.
+2016/01/14 17:20:32: dbpurge.cpp:1888 Backup ONLY of RAW data from : lnb_files_seen
+2016/01/14 17:20:32: dbpurge.cpp:1888     Backing up tuples from table: dbo.lnb_files_seen
+2016/01/14 17:20:32: dbpurge.cpp:1915  0 tuples.
+2016/01/14 17:20:32: dbpurge.cpp:1888 Backup ONLY of RAW data from : nozzle_npm_raw
+2016/01/14 17:20:32: dbpurge.cpp:1888     Backing up tuples from table: dbo.nozzle_npm_raw
+2016/01/14 17:20:32: dbpurge.cpp:1915  0 tuples.
+2016/01/14 17:20:32: dbpurge.cpp:1888 Backup ONLY of RAW data from : nozzle_npm_hdr_raw
+2016/01/14 17:20:32: dbpurge.cpp:1888     Backing up tuples from table: dbo.nozzle_npm_hdr_raw
+2016/01/14 17:20:33: dbpurge.cpp:1915  11 tuples.
+2016/01/14 17:20:33: dbpurge.cpp:1888 Backup ONLY of RAW data from : production_count_reports_npm_raw
+2016/01/14 17:20:33: dbpurge.cpp:1888     Backing up tuples from table: dbo.production_count_reports_npm_raw
+2016/01/14 17:20:33: dbpurge.cpp:1915  0 tuples.
+2016/01/14 17:20:33: dbpurge.cpp:1888 Backup ONLY of RAW data from : production_count_reports_npm_hdr_raw
+2016/01/14 17:20:33: dbpurge.cpp:1888     Backing up tuples from table: dbo.production_count_reports_npm_hdr_raw
+2016/01/14 17:20:33: dbpurge.cpp:1915  0 tuples.
+2016/01/14 17:20:33: dbpurge.cpp:1888 Backup ONLY of RAW data from : production_reports_npm_raw
+2016/01/14 17:20:34: dbpurge.cpp:1888     Backing up tuples from table: dbo.production_reports_npm_raw
+2016/01/14 17:20:42: dbpurge.cpp:1915  811 tuples.
+2016/01/14 17:20:42: dbpurge.cpp:1888     Backing up tuples from table: dbo.production_reports_npm_raw
+2016/01/14 17:20:42: dbpurge.cpp:1915  0 tuples.
+2016/01/14 17:20:42: dbpurge.cpp:1888 Backup ONLY of RAW data from : production_reports_npm_hdr_raw
+2016/01/14 17:20:42: dbpurge.cpp:1888     Backing up tuples from table: dbo.production_reports_npm_hdr_raw
+2016/01/14 17:20:42: dbpurge.cpp:1915  821 tuples.
+2016/01/14 17:20:43: dbpurge.cpp:1888 Backup ONLY of RAW data from : production_time_reports_npm_raw
+2016/01/14 17:20:43: dbpurge.cpp:1888     Backing up tuples from table: dbo.production_time_reports_npm_raw
+2016/01/14 17:20:43: dbpurge.cpp:1915  0 tuples.
+2016/01/14 17:20:44: dbpurge.cpp:1888 Backup ONLY of RAW data from : production_time_reports_npm_hdr_raw
+2016/01/14 17:20:44: dbpurge.cpp:1888     Backing up tuples from table: dbo.production_time_reports_npm_hdr_raw
+2016/01/14 17:20:44: dbpurge.cpp:1915  0 tuples.
+2016/01/14 17:20:44: dbpurge.cpp:1888 Backup ONLY of RAW data from : z_cass_npm_raw
+2016/01/14 17:20:45: dbpurge.cpp:1888     Backing up tuples from table: dbo.z_cass_npm_raw
+2016/01/14 17:20:46: dbpurge.cpp:1915  0 tuples.
+2016/01/14 17:20:46: dbpurge.cpp:1888 Backup ONLY of RAW data from : z_cass_npm_hdr_raw
+2016/01/14 17:20:46: dbpurge.cpp:1888     Backing up tuples from table: dbo.z_cass_npm_hdr_raw
+2016/01/14 17:20:47: dbpurge.cpp:1915  11 tuples.
+2016/01/14 17:20:54: dbpurge.cpp:1888 Backup ONLY of RAW data from : weld_alarm_data_hdr_raw
+2016/01/14 17:20:54: dbpurge.cpp:1888     Backing up tuples from table: dbo.weld_alarm_data_hdr_raw
+2016/01/14 17:20:54: dbpurge.cpp:1915  0 tuples.
+2016/01/14 17:20:55: dbpurge.cpp:1888 Backup ONLY of RAW data from : weld_alarm_data_raw
+2016/01/14 17:20:55: dbpurge.cpp:1888     Backing up tuples from table: dbo.weld_alarm_data_raw
+2016/01/14 17:20:55: dbpurge.cpp:1915  0 tuples.
+2016/01/14 17:20:55: dbpurge.cpp:1888 Backup ONLY of RAW data from : weld_log_data_hdr_raw
+2016/01/14 17:20:55: dbpurge.cpp:1888     Backing up tuples from table: dbo.weld_log_data_hdr_raw
+2016/01/14 17:20:55: dbpurge.cpp:1915  0 tuples.
+2016/01/14 17:20:55: dbpurge.cpp:1888 Backup ONLY of RAW data from : weld_log_data_raw
+2016/01/14 17:20:55: dbpurge.cpp:1888     Backing up tuples from table: dbo.weld_log_data_raw
+2016/01/14 17:20:55: dbpurge.cpp:1915  0 tuples.
+2016/01/14 17:20:55: dbpurge.cpp:1888 Backup ONLY of RAW data from : weld_error_data_hdr_raw
+2016/01/14 17:20:55: dbpurge.cpp:1888     Backing up tuples from table: dbo.weld_error_data_hdr_raw
+2016/01/14 17:20:55: dbpurge.cpp:1915  0 tuples.
+2016/01/14 17:20:56: dbpurge.cpp:1888 Backup ONLY of RAW data from : weld_error_data_raw
+2016/01/14 17:20:56: dbpurge.cpp:1888     Backing up tuples from table: dbo.weld_error_data_raw
+2016/01/14 17:20:56: dbpurge.cpp:1915  0 tuples.
+2016/01/14 17:20:56: dbpurge.cpp:1818 Deleting RAW data
+2016/01/14 17:20:57: dbpurge.cpp:1888 Delete ONLY of RAW table data upto : 01/11/16 00:00:00
+2016/01/14 17:20:57: dbpurge.cpp:1888 Delete ONLY of data from : nozzle_raw
+2016/01/14 17:20:57: dbpurge.cpp:1915     Deleting tuples from table : dbo.nozzle_raw
+2016/01/14 17:20:57: dbpurge.cpp:1915  0 tuples.
+2016/01/14 17:20:57: dbpurge.cpp:1888 Delete ONLY of data from : nozzle_header_raw
+2016/01/14 17:20:57: dbpurge.cpp:1915     Deleting tuples from table : dbo.nozzle_header_raw
+2016/01/14 17:20:57: dbpurge.cpp:1915  0 tuples.
+2016/01/14 17:20:57: dbpurge.cpp:1888 Delete ONLY of data from : nozzle_kx_raw
+2016/01/14 17:20:57: dbpurge.cpp:1915     Deleting tuples from table : dbo.nozzle_kx_raw
+2016/01/14 17:20:58: DbARecordset.cpp:1163 Processed 12 
+2016/01/14 17:20:58: dbpurge.cpp:1915  12 tuples.
+2016/01/14 17:20:58: dbpurge.cpp:1888 Delete ONLY of data from : nozzle_header_kx_raw
+2016/01/14 17:20:58: dbpurge.cpp:1915     Deleting tuples from table : dbo.nozzle_header_kx_raw
+2016/01/14 17:20:58: DbARecordset.cpp:1163 Processed 12 
+2016/01/14 17:20:58: dbpurge.cpp:1915  12 tuples.
+2016/01/14 17:20:58: dbpurge.cpp:1888 Delete ONLY of data from : production_reports_raw
+2016/01/14 17:20:58: dbpurge.cpp:1915     Deleting tuples from table : dbo.production_reports_raw
+2016/01/14 17:20:58: dbpurge.cpp:1915  0 tuples.
+2016/01/14 17:20:58: dbpurge.cpp:1888 Delete ONLY of data from : production_reports_gsm_raw
+2016/01/14 17:20:58: dbpurge.cpp:1915     Deleting tuples from table : dbo.production_reports_gsm_raw
+2016/01/14 17:20:58: dbpurge.cpp:1915  0 tuples.
+2016/01/14 17:20:58: dbpurge.cpp:1888 Delete ONLY of data from : production_reports_kx_raw
+2016/01/14 17:20:58: dbpurge.cpp:1915     Deleting tuples from table : dbo.production_reports_kx_raw
+2016/01/14 17:20:58: DbARecordset.cpp:1163 Processed 24 
+2016/01/14 17:20:58: dbpurge.cpp:1915  24 tuples.
+2016/01/14 17:20:58: dbpurge.cpp:1888 Delete ONLY of data from : production_reports_kx_hdr_raw
+2016/01/14 17:20:58: dbpurge.cpp:1915     Deleting tuples from table : dbo.production_reports_kx_hdr_raw
+2016/01/14 17:20:58: DbARecordset.cpp:1163 Processed 12 
+2016/01/14 17:20:58: dbpurge.cpp:1915  12 tuples.
+2016/01/14 17:20:59: dbpurge.cpp:1888 Delete ONLY of data from : production_reports_uvs_raw
+2016/01/14 17:20:59: dbpurge.cpp:1915     Deleting tuples from table : dbo.production_reports_uvs_raw
+2016/01/14 17:20:59: dbpurge.cpp:1915  0 tuples.
+2016/01/14 17:20:59: dbpurge.cpp:1888 Delete ONLY of data from : z_cass_raw
+2016/01/14 17:20:59: dbpurge.cpp:1915     Deleting tuples from table : dbo.z_cass_raw
+2016/01/14 17:20:59: DbARecordset.cpp:1163 Processed 36 
+2016/01/14 17:20:59: dbpurge.cpp:1915  36 tuples.
+2016/01/14 17:20:59: dbpurge.cpp:1888 Delete ONLY of data from : z_cass_header_raw
+2016/01/14 17:20:59: dbpurge.cpp:1915     Deleting tuples from table : dbo.z_cass_header_raw
+2016/01/14 17:21:00: DbARecordset.cpp:1163 Processed 12 
+2016/01/14 17:21:00: dbpurge.cpp:1915  12 tuples.
+2016/01/14 17:21:00: dbpurge.cpp:1888 Delete ONLY of data from : additional_info_npm_raw
+2016/01/14 17:21:00: dbpurge.cpp:1915     Deleting tuples from table : dbo.additional_info_npm_raw
+2016/01/14 17:21:00: dbpurge.cpp:1915  0 tuples.
+2016/01/14 17:21:00: dbpurge.cpp:1888 Delete ONLY of data from : additional_info_npm_hdr_raw
+2016/01/14 17:21:00: dbpurge.cpp:1915     Deleting tuples from table : dbo.additional_info_npm_hdr_raw
+2016/01/14 17:21:00: dbpurge.cpp:1915  0 tuples.
+2016/01/14 17:21:00: dbpurge.cpp:1888 Delete ONLY of data from : lnb_files_seen
+2016/01/14 17:21:00: dbpurge.cpp:1915     Deleting tuples from table : dbo.lnb_files_seen
+2016/01/14 17:21:00: dbpurge.cpp:1915  0 tuples.
+2016/01/14 17:21:00: dbpurge.cpp:1888 Delete ONLY of data from : nozzle_npm_raw
+2016/01/14 17:21:01: dbpurge.cpp:1915     Deleting tuples from table : dbo.nozzle_npm_raw
+2016/01/14 17:21:01: dbpurge.cpp:1915  0 tuples.
+2016/01/14 17:21:01: dbpurge.cpp:1888 Delete ONLY of data from : nozzle_npm_hdr_raw
+2016/01/14 17:21:01: dbpurge.cpp:1915     Deleting tuples from table : dbo.nozzle_npm_hdr_raw
+2016/01/14 17:21:01: DbARecordset.cpp:1163 Processed 11 
+2016/01/14 17:21:01: dbpurge.cpp:1915  11 tuples.
+2016/01/14 17:21:01: dbpurge.cpp:1888 Delete ONLY of data from : production_count_reports_npm_raw
+2016/01/14 17:21:01: dbpurge.cpp:1915     Deleting tuples from table : dbo.production_count_reports_npm_raw
+2016/01/14 17:21:01: dbpurge.cpp:1915  0 tuples.
+2016/01/14 17:21:01: dbpurge.cpp:1888 Delete ONLY of data from : production_count_reports_npm_hdr_raw
+2016/01/14 17:21:01: dbpurge.cpp:1915     Deleting tuples from table : dbo.production_count_reports_npm_hdr_raw
+2016/01/14 17:21:01: dbpurge.cpp:1915  0 tuples.
+2016/01/14 17:21:01: dbpurge.cpp:1888 Delete ONLY of data from : production_reports_npm_raw
+2016/01/14 17:21:01: dbpurge.cpp:1915     Deleting tuples from table : dbo.production_reports_npm_raw
+2016/01/14 17:21:09: DbARecordset.cpp:1163 Processed 810 
+2016/01/14 17:21:09: dbpurge.cpp:1915  810 tuples.
+2016/01/14 17:21:09: dbpurge.cpp:1888 Delete ONLY of data from : production_reports_npm_hdr_raw
+2016/01/14 17:21:09: dbpurge.cpp:1915     Deleting tuples from table : dbo.production_reports_npm_hdr_raw
+2016/01/14 17:21:10: DbARecordset.cpp:1163 Processed 821 
+2016/01/14 17:21:10: dbpurge.cpp:1915  821 tuples.
+2016/01/14 17:21:10: dbpurge.cpp:1888 Delete ONLY of data from : production_time_reports_npm_raw
+2016/01/14 17:21:10: dbpurge.cpp:1915     Deleting tuples from table : dbo.production_time_reports_npm_raw
+2016/01/14 17:21:10: dbpurge.cpp:1915  0 tuples.
+2016/01/14 17:21:10: dbpurge.cpp:1888 Delete ONLY of data from : production_time_reports_npm_hdr_raw
+2016/01/14 17:21:10: dbpurge.cpp:1915     Deleting tuples from table : dbo.production_time_reports_npm_hdr_raw
+2016/01/14 17:21:10: dbpurge.cpp:1915  0 tuples.
+2016/01/14 17:21:10: dbpurge.cpp:1888 Delete ONLY of data from : z_cass_npm_raw
+2016/01/14 17:21:10: dbpurge.cpp:1915     Deleting tuples from table : dbo.z_cass_npm_raw
+2016/01/14 17:21:10: dbpurge.cpp:1915  0 tuples.
+2016/01/14 17:21:10: dbpurge.cpp:1888 Delete ONLY of data from : z_cass_npm_hdr_raw
+2016/01/14 17:21:10: dbpurge.cpp:1915     Deleting tuples from table : dbo.z_cass_npm_hdr_raw
+2016/01/14 17:21:10: DbARecordset.cpp:1163 Processed 11 
+2016/01/14 17:21:10: dbpurge.cpp:1915  11 tuples.
+2016/01/14 17:21:10: dbpurge.cpp:1888 Delete ONLY of data from : weld_alarm_data_hdr_raw
+2016/01/14 17:21:10: dbpurge.cpp:1915     Deleting tuples from table : dbo.weld_alarm_data_hdr_raw
+2016/01/14 17:21:10: dbpurge.cpp:1915  0 tuples.
+2016/01/14 17:21:10: dbpurge.cpp:1888 Delete ONLY of data from : weld_alarm_data_raw
+2016/01/14 17:21:11: dbpurge.cpp:1915     Deleting tuples from table : dbo.weld_alarm_data_raw
+2016/01/14 17:21:11: dbpurge.cpp:1915  0 tuples.
+2016/01/14 17:21:11: dbpurge.cpp:1888 Delete ONLY of data from : weld_log_data_hdr_raw
+2016/01/14 17:21:11: dbpurge.cpp:1915     Deleting tuples from table : dbo.weld_log_data_hdr_raw
+2016/01/14 17:21:11: dbpurge.cpp:1915  0 tuples.
+2016/01/14 17:21:11: dbpurge.cpp:1888 Delete ONLY of data from : weld_log_data_raw
+2016/01/14 17:21:11: dbpurge.cpp:1915     Deleting tuples from table : dbo.weld_log_data_raw
+2016/01/14 17:21:11: dbpurge.cpp:1915  0 tuples.
+2016/01/14 17:21:11: dbpurge.cpp:1888 Delete ONLY of data from : weld_error_data_hdr_raw
+2016/01/14 17:21:11: dbpurge.cpp:1915     Deleting tuples from table : dbo.weld_error_data_hdr_raw
+2016/01/14 17:21:11: dbpurge.cpp:1915  0 tuples.
+2016/01/14 17:21:11: dbpurge.cpp:1888 Delete ONLY of data from : weld_error_data_raw
+2016/01/14 17:21:11: dbpurge.cpp:1915     Deleting tuples from table : dbo.weld_error_data_raw
+2016/01/14 17:21:11: dbpurge.cpp:1915  0 tuples.
+2016/01/14 17:21:11: dbpurge.cpp:1818 Sending Event: Next space check will be done at 01/15/16 22:00:00
+2016/01/14 17:21:11: dbpurge.cpp:1818 Next space check will be done at 01/15/16 22:00:00
+2016/01/14 17:21:11: dbpurge.cpp:1818 Re-reading system config
+2016/01/14 17:21:11: dbpurge.cpp:1818 Next space check will be done at 01/15/16 22:00:00
+2016/01/14 17:21:11: dbpurge.cpp:2316 C:\BACKUPDB\archive
+2016/01/14 17:21:11: dbpurge.cpp:2134 Waiting for events with timeout: 103129 seconds

@@ -1,0 +1,882 @@
+2014-07-09 14:44:19.8028 2932 MES.Runtime 1  SystemBarcodeParserCfgCtrl() Entered.
+2014-07-09 14:44:19.8608 2932 MES.Runtime 1  SystemBarcodeParserCfgCtrl() Exited.
+2014-07-09 14:44:19.9028 2932 MES.Runtime 1  SystemOperatorConfigCtrl.SystemOperatorConfigCtrl() Entered.
+2014-07-09 14:44:19.9028 2932 MES.Runtime 1  SystemOperatorNameConfigCtrl.SystemOperatorNameConfigCtrl() Entered.
+2014-07-09 14:44:19.9408 2932 MES.Runtime 1  SystemOperatorNameConfigCtrl.SystemOperatorNameConfigCtrl() Exited.
+2014-07-09 14:44:19.9408 2932 MES.Runtime 1  SystemOperatorGroupsConfigCtrl.SystemOperatorGroupsConfigCtrl() Entered.
+2014-07-09 14:44:20.0278 2932 MES.Runtime 1  Exception caught in SystemOperatorGroupsConfigCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-07-09 14:44:20.0278 2932 MES.Runtime 1  Exception caught in SystemOperatorGroupsConfigCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-07-09 14:44:20.0278 2932 MES.Runtime 1  SystemOperatorGroupsConfigCtrl.SystemOperatorGroupsConfigCtrl() Exited.
+2014-07-09 14:44:20.0278 2932 MES.Runtime 1  SystemOperatorConfigCtrl.SystemOperatorConfigCtrl() Exited.
+2014-07-09 14:44:20.1128 2932 MES.Runtime 1  PasswordHelper.Attach() Entered.
+2014-07-09 14:44:20.2738 2932 MES.Runtime 1  PasswordHelper.Attach() Entered.
+2014-07-09 14:44:20.2738 2932 MES.Runtime 1  PasswordHelper.Attach() Entered.
+2014-07-09 14:44:20.5138 2932 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-07-09 14:44:20.5138 2932 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-07-09 14:44:20.5138 2932 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-07-09 14:44:20.5138 2932 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-07-09 14:44:20.5138 2932 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-07-09 14:44:20.5138 2932 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-07-09 14:44:20.5138 2932 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-07-09 14:44:20.6208 2932 MES.Runtime 1  Exception caught in AppOracleDataSourcesCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-07-09 14:44:20.6208 2932 MES.Runtime 1  Exception caught in AppOracleDataSourcesCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-07-09 14:44:20.6348 2932 MES.Runtime 1  Exception caught in AppSQLDataSourcesCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-07-09 14:44:20.6348 2932 MES.Runtime 1  Exception caught in AppSQLDataSourcesCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-07-09 14:44:20.6518 2932 MES.Runtime 1  Exception caught in AppTEXTDataSourcesCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-07-09 14:44:20.6518 2932 MES.Runtime 1  Exception caught in AppTEXTDataSourcesCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-07-09 14:44:20.7318 2932 MES.Runtime 1  Exception caught in AppImportConfigCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-07-09 14:44:20.7318 2932 MES.Runtime 1  Exception caught in AppImportConfigCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-07-09 14:44:20.7318 2932 MES.Runtime 1  Exception caught in AppMachineLockingCtrl.UpdateButtonStatus().. Error: Object reference not set to an instance of an object.
+2014-07-09 14:44:20.7318 2932 MES.Runtime 1  Exception caught in AppMachineLockingCtrl.UpdateButtonStatus().. Error: Object reference not set to an instance of an object.
+2014-07-09 14:44:20.7448 2932 MES.Runtime 1  Exception caught in AppMachineLockingCtrl.UpdateButtonStatus().. Error: Object reference not set to an instance of an object.
+2014-07-09 14:44:20.7448 2932 MES.Runtime 1  Exception caught in AppMachineLockingCtrl.UpdateButtonStatus().. Error: Object reference not set to an instance of an object.
+2014-07-09 14:44:21.1179 2932 MES.Runtime 1  PMListener On Start.
+2014-07-09 14:44:21.1359 2932 MES.Runtime 10 PMListener_MESProductChangeOver - StartPMListener spawning thread (Thread_System Configuration_PM)
+2014-07-09 14:44:21.2779 2932 MES.Runtime 10 PMListener_MESProductChangeOver - StartPMListener thread (Thread_System Configuration_PM) started
+2014-07-09 14:44:21.2779 2932 MES.Runtime 13 PMLib-ManageConnection PostMasterLibrary ConnectionState = Connecting
+2014-07-09 14:44:21.3409 2932 MES.Runtime 13 PMLib-ManageConnection PostMasterLibrary ConnectionState = Connected
+2014-07-09 14:44:22.1379 2932 MES.Runtime 1  Post Master Connection State: Connected
+2014-07-09 14:44:22.6150 2932 MES.Runtime 1  Content_Loaded Entered
+2014-07-09 14:44:22.6160 2932 MES.Runtime 1  Sys.Config.Plugin.MESConsolePluginContent.ProcessCommandAction Entered
+2014-07-09 14:44:24.0480 2932 MES.Runtime 1  Sys.Config.Plugin.MESConsolePluginContent.ProcessCommandAction Exited.
+2014-07-09 14:44:24.0540 2932 MES.Runtime 1  Message added to internal queue
+2014-07-09 14:44:24.1490 3796 MES.Server 18  BaseDataRule.ProcessConfig() Entered for Sys.Config.DR.Library.PipelineStages.DRGlobalConfig.
+2014-07-09 14:44:24.1490 3796 MES.Server 18  Deserialize the request for Sys.Config.DR.Library.PipelineStages.DRGlobalConfig.
+2014-07-09 14:44:24.2630 3796 MES.Server 18  ACTION - LOAD Data for Sys.Config.DR.Library.PipelineStages.DRGlobalConfig.
+2014-07-09 14:44:24.2630 3796 MES.Server 18  DRGlobalConfig.LoadConfig() Entered.
+2014-07-09 14:44:24.2630 3796 MES.Server 18  Call GetAttributeValues to get the attribute values from SYSTEM_CONFIG in a data table for GlobalSettings.
+2014-07-09 14:44:24.2630 3796 MES.Server 18  DR_Common.GetAttributeValues Entered.
+2014-07-09 14:44:24.2630 3796 MES.Server 18  Create a SQL Command and set the sql query for COMMON config.
+2014-07-09 14:44:24.2630 3796 MES.Server 18  Set the sql query for COMMON config.
+2014-07-09 14:44:24.2630 3796 MES.Server 18  Fill the sql data adapter with the values fetched by SQL Command for COMMON config.
+2014-07-09 14:44:24.3240 3796 MES.Server 18  DR_Common.GetAttributeValues Exited.
+2014-07-09 14:44:24.3330 3796 MES.Server 18  DRGlobalConfig.ExecuteSP() - Preparing execute SP: [dbo].[usp_get_panacim_option_setting].
+2014-07-09 14:44:24.3671 3796 MES.Server 18  Sys.Config.DR.Library.PipelineStages.DRGlobalConfig:Fill the sql data adapter.
+2014-07-09 14:44:24.5391 2932 MES.Runtime 13 PMLib-ManageConnection Message added to internal queue
+2014-07-09 14:44:24.5771 3796 MES.Server 18  DRGlobalConfig.LoadConfig() Exited.
+2014-07-09 14:44:24.6441 2932 MES.Runtime 13 PMLib-ManageConnection Message added to internal queue
+2014-07-09 14:44:24.6441 2932 MES.Runtime 12 Processor_System Configuration_PM System.String
+2014-07-09 14:44:24.6441 2932 MES.Runtime 12 Processor_System Configuration_PM System.String
+2014-07-09 14:44:24.6441 2932 MES.Runtime 1  Content_Loaded Exited
+2014-07-09 14:44:24.7011 3796 MES.Server 18  Load the serialized data into the XML Document for Sys.Config.DR.Library.PipelineStages.DRGlobalConfig.
+2014-07-09 14:44:24.7011 3796 MES.Server 18  BaseDataRule.ProcessConfig() Exited.
+2014-07-09 14:44:24.9771 2932 MES.Runtime 1  MESConsolePluginContext.ClickHandler Entered 
+2014-07-09 14:44:24.9771 2932 MES.Runtime 1  MESConsolePluginContext.ClickHandler Exited 
+2014-07-09 14:44:25.0461 2932 MES.Runtime 13 PMLib-ManageConnection Message added to internal queue
+2014-07-09 14:44:27.0872 2932 MES.Runtime 13 PMLib-ManageConnection PostMasterLibrary ConnectionState = Disconnected
+2014-07-09 14:44:27.1122 2932 MES.Runtime 12 Processor_System Configuration_PM _threadName has completed.
+2014-07-14 09:56:14.5124 3580 MES.Runtime 1  SystemBarcodeParserCfgCtrl() Entered.
+2014-07-14 09:56:14.5654 3580 MES.Runtime 1  SystemBarcodeParserCfgCtrl() Exited.
+2014-07-14 09:56:14.5974 3580 MES.Runtime 1  SystemOperatorConfigCtrl.SystemOperatorConfigCtrl() Entered.
+2014-07-14 09:56:14.6334 3580 MES.Runtime 1  SystemOperatorNameConfigCtrl.SystemOperatorNameConfigCtrl() Entered.
+2014-07-14 09:56:14.6704 3580 MES.Runtime 1  SystemOperatorNameConfigCtrl.SystemOperatorNameConfigCtrl() Exited.
+2014-07-14 09:56:14.6924 3580 MES.Runtime 1  SystemOperatorGroupsConfigCtrl.SystemOperatorGroupsConfigCtrl() Entered.
+2014-07-14 09:56:14.7414 3580 MES.Runtime 1  Exception caught in SystemOperatorGroupsConfigCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-07-14 09:56:14.7414 3580 MES.Runtime 1  Exception caught in SystemOperatorGroupsConfigCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-07-14 09:56:14.7464 3580 MES.Runtime 1  SystemOperatorGroupsConfigCtrl.SystemOperatorGroupsConfigCtrl() Exited.
+2014-07-14 09:56:14.7464 3580 MES.Runtime 1  SystemOperatorConfigCtrl.SystemOperatorConfigCtrl() Exited.
+2014-07-14 09:56:14.8444 3580 MES.Runtime 1  PasswordHelper.Attach() Entered.
+2014-07-14 09:56:15.0804 3580 MES.Runtime 1  PasswordHelper.Attach() Entered.
+2014-07-14 09:56:15.0804 3580 MES.Runtime 1  PasswordHelper.Attach() Entered.
+2014-07-14 09:56:15.2884 3580 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-07-14 09:56:15.2884 3580 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-07-14 09:56:15.2884 3580 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-07-14 09:56:15.2934 3580 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-07-14 09:56:15.2934 3580 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-07-14 09:56:15.2934 3580 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-07-14 09:56:15.2934 3580 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-07-14 09:56:15.3824 3580 MES.Runtime 1  Exception caught in AppOracleDataSourcesCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-07-14 09:56:15.3824 3580 MES.Runtime 1  Exception caught in AppOracleDataSourcesCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-07-14 09:56:15.3964 3580 MES.Runtime 1  Exception caught in AppSQLDataSourcesCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-07-14 09:56:15.3964 3580 MES.Runtime 1  Exception caught in AppSQLDataSourcesCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-07-14 09:56:15.4124 3580 MES.Runtime 1  Exception caught in AppTEXTDataSourcesCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-07-14 09:56:15.4124 3580 MES.Runtime 1  Exception caught in AppTEXTDataSourcesCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-07-14 09:56:15.4714 3580 MES.Runtime 1  Exception caught in AppImportConfigCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-07-14 09:56:15.4714 3580 MES.Runtime 1  Exception caught in AppImportConfigCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-07-14 09:56:15.4794 3580 MES.Runtime 1  Exception caught in AppMachineLockingCtrl.UpdateButtonStatus().. Error: Object reference not set to an instance of an object.
+2014-07-14 09:56:15.4794 3580 MES.Runtime 1  Exception caught in AppMachineLockingCtrl.UpdateButtonStatus().. Error: Object reference not set to an instance of an object.
+2014-07-14 09:56:15.4794 3580 MES.Runtime 1  Exception caught in AppMachineLockingCtrl.UpdateButtonStatus().. Error: Object reference not set to an instance of an object.
+2014-07-14 09:56:15.4794 3580 MES.Runtime 1  Exception caught in AppMachineLockingCtrl.UpdateButtonStatus().. Error: Object reference not set to an instance of an object.
+2014-07-14 09:56:16.0124 3580 MES.Runtime 1  PMListener On Start.
+2014-07-14 09:56:16.0324 3580 MES.Runtime 11 PMListener_MESProductChangeOver - StartPMListener spawning thread (Thread_System Configuration_PM)
+2014-07-14 09:56:16.2465 3580 MES.Runtime 11 PMListener_MESProductChangeOver - StartPMListener thread (Thread_System Configuration_PM) started
+2014-07-14 09:56:16.2465 3580 MES.Runtime 10 PMLib-ManageConnection PostMasterLibrary ConnectionState = Connecting
+2014-07-14 09:56:16.3025 3580 MES.Runtime 10 PMLib-ManageConnection PostMasterLibrary ConnectionState = Connected
+2014-07-14 09:56:17.0395 3580 MES.Runtime 1  Post Master Connection State: Connected
+2014-07-14 09:56:17.4985 3580 MES.Runtime 1  Content_Loaded Entered
+2014-07-14 09:56:17.4985 3580 MES.Runtime 1  Sys.Config.Plugin.MESConsolePluginContent.ProcessCommandAction Entered
+2014-07-14 09:56:19.9597 3580 MES.Runtime 1  Sys.Config.Plugin.MESConsolePluginContent.ProcessCommandAction Exited.
+2014-07-14 09:56:19.9597 3580 MES.Runtime 1  Message added to internal queue
+2014-07-14 09:56:20.0747 1660 MES.Server 8  BaseDataRule.ProcessConfig() Entered for Sys.Config.DR.Library.PipelineStages.DRGlobalConfig.
+2014-07-14 09:56:20.0747 1660 MES.Server 8  Deserialize the request for Sys.Config.DR.Library.PipelineStages.DRGlobalConfig.
+2014-07-14 09:56:20.2637 1660 MES.Server 8  ACTION - LOAD Data for Sys.Config.DR.Library.PipelineStages.DRGlobalConfig.
+2014-07-14 09:56:20.2637 1660 MES.Server 8  DRGlobalConfig.LoadConfig() Entered.
+2014-07-14 09:56:20.2637 1660 MES.Server 8  Call GetAttributeValues to get the attribute values from SYSTEM_CONFIG in a data table for GlobalSettings.
+2014-07-14 09:56:20.2637 1660 MES.Server 8  DR_Common.GetAttributeValues Entered.
+2014-07-14 09:56:20.2637 1660 MES.Server 8  Create a SQL Command and set the sql query for COMMON config.
+2014-07-14 09:56:20.2637 1660 MES.Server 8  Set the sql query for COMMON config.
+2014-07-14 09:56:20.2637 1660 MES.Server 8  Fill the sql data adapter with the values fetched by SQL Command for COMMON config.
+2014-07-14 09:56:20.2937 1660 MES.Server 8  DR_Common.GetAttributeValues Exited.
+2014-07-14 09:56:20.2937 1660 MES.Server 8  DRGlobalConfig.ExecuteSP() - Preparing execute SP: [dbo].[usp_get_panacim_option_setting].
+2014-07-14 09:56:20.2937 1660 MES.Server 8  Sys.Config.DR.Library.PipelineStages.DRGlobalConfig:Fill the sql data adapter.
+2014-07-14 09:56:20.3637 1660 MES.Server 8  DRGlobalConfig.LoadConfig() Exited.
+2014-07-14 09:56:20.5167 1660 MES.Server 8  Load the serialized data into the XML Document for Sys.Config.DR.Library.PipelineStages.DRGlobalConfig.
+2014-07-14 09:56:20.5177 3580 MES.Runtime 10 PMLib-ManageConnection Message added to internal queue
+2014-07-14 09:56:20.5237 1660 MES.Server 8  BaseDataRule.ProcessConfig() Exited.
+2014-07-14 09:56:20.6217 3580 MES.Runtime 10 PMLib-ManageConnection Message added to internal queue
+2014-07-14 09:56:20.6287 3580 MES.Runtime 4 Processor_System Configuration_PM System.String
+2014-07-14 09:56:20.6287 3580 MES.Runtime 4 Processor_System Configuration_PM System.String
+2014-07-14 09:56:20.6287 3580 MES.Runtime 1  Content_Loaded Exited
+2014-07-14 09:56:20.9737 3580 MES.Runtime 1  MESConsolePluginContext.ClickHandler Entered 
+2014-07-14 09:56:20.9737 3580 MES.Runtime 1  MESConsolePluginContext.ClickHandler Exited 
+2014-07-14 09:56:46.3602 3580 MES.Runtime 10 PMLib-ManageConnection Message added to internal queue
+2014-07-14 09:56:47.4102 3580 MES.Runtime 10 PMLib-ManageConnection PostMasterLibrary ConnectionState = Disconnected
+2014-07-14 09:56:47.5102 3580 MES.Runtime 4 Processor_System Configuration_PM _threadName has completed.
+2014-08-05 19:22:33.3378 2956 MES.Runtime 1  SystemBarcodeParserCfgCtrl() Entered.
+2014-08-05 19:22:33.5478 2956 MES.Runtime 1  SystemBarcodeParserCfgCtrl() Exited.
+2014-08-05 19:22:33.5958 2956 MES.Runtime 1  SystemOperatorConfigCtrl.SystemOperatorConfigCtrl() Entered.
+2014-08-05 19:22:33.6128 2956 MES.Runtime 1  SystemOperatorNameConfigCtrl.SystemOperatorNameConfigCtrl() Entered.
+2014-08-05 19:22:33.6618 2956 MES.Runtime 1  SystemOperatorNameConfigCtrl.SystemOperatorNameConfigCtrl() Exited.
+2014-08-05 19:22:33.6828 2956 MES.Runtime 1  SystemOperatorGroupsConfigCtrl.SystemOperatorGroupsConfigCtrl() Entered.
+2014-08-05 19:22:33.6928 2956 MES.Runtime 1  Exception caught in SystemOperatorGroupsConfigCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-08-05 19:22:33.6928 2956 MES.Runtime 1  Exception caught in SystemOperatorGroupsConfigCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-08-05 19:22:33.6928 2956 MES.Runtime 1  SystemOperatorGroupsConfigCtrl.SystemOperatorGroupsConfigCtrl() Exited.
+2014-08-05 19:22:33.6928 2956 MES.Runtime 1  SystemOperatorConfigCtrl.SystemOperatorConfigCtrl() Exited.
+2014-08-05 19:22:33.7918 2956 MES.Runtime 1  PasswordHelper.Attach() Entered.
+2014-08-05 19:22:33.9858 2956 MES.Runtime 1  PasswordHelper.Attach() Entered.
+2014-08-05 19:22:33.9858 2956 MES.Runtime 1  PasswordHelper.Attach() Entered.
+2014-08-05 19:22:34.2418 2956 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-08-05 19:22:34.2418 2956 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-08-05 19:22:34.2418 2956 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-08-05 19:22:34.2418 2956 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-08-05 19:22:34.2418 2956 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-08-05 19:22:34.2418 2956 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-08-05 19:22:34.2418 2956 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-08-05 19:22:34.3489 2956 MES.Runtime 1  Exception caught in AppOracleDataSourcesCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-08-05 19:22:34.3489 2956 MES.Runtime 1  Exception caught in AppOracleDataSourcesCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-08-05 19:22:34.3649 2956 MES.Runtime 1  Exception caught in AppSQLDataSourcesCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-08-05 19:22:34.3649 2956 MES.Runtime 1  Exception caught in AppSQLDataSourcesCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-08-05 19:22:34.3809 2956 MES.Runtime 1  Exception caught in AppTEXTDataSourcesCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-08-05 19:22:34.3809 2956 MES.Runtime 1  Exception caught in AppTEXTDataSourcesCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-08-05 19:22:34.4929 2956 MES.Runtime 1  Exception caught in AppImportConfigCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-08-05 19:22:34.4929 2956 MES.Runtime 1  Exception caught in AppImportConfigCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-08-05 19:22:34.5029 2956 MES.Runtime 1  Exception caught in AppMachineLockingCtrl.UpdateButtonStatus().. Error: Object reference not set to an instance of an object.
+2014-08-05 19:22:34.5029 2956 MES.Runtime 1  Exception caught in AppMachineLockingCtrl.UpdateButtonStatus().. Error: Object reference not set to an instance of an object.
+2014-08-05 19:22:34.5029 2956 MES.Runtime 1  Exception caught in AppMachineLockingCtrl.UpdateButtonStatus().. Error: Object reference not set to an instance of an object.
+2014-08-05 19:22:34.5029 2956 MES.Runtime 1  Exception caught in AppMachineLockingCtrl.UpdateButtonStatus().. Error: Object reference not set to an instance of an object.
+2014-08-05 19:22:35.2669 2956 MES.Runtime 1  PMListener On Start.
+2014-08-05 19:22:35.2669 2956 MES.Runtime 10 PMListener_MESProductChangeOver - StartPMListener spawning thread (Thread_System Configuration_PM)
+2014-08-05 19:22:35.2669 2956 MES.Runtime 10 PMListener_MESProductChangeOver - StartPMListener thread (Thread_System Configuration_PM) started
+2014-08-05 19:22:35.2669 2956 MES.Runtime 13 PMLib-ManageConnection PostMasterLibrary ConnectionState = Connecting
+2014-08-05 19:22:35.3879 2956 MES.Runtime 13 PMLib-ManageConnection PostMasterLibrary ConnectionState = Connected
+2014-08-05 19:22:36.2730 2956 MES.Runtime 1  Post Master Connection State: Connected
+2014-08-05 19:22:37.0570 2956 MES.Runtime 1  Content_Loaded Entered
+2014-08-05 19:22:37.0580 2956 MES.Runtime 1  Sys.Config.Plugin.MESConsolePluginContent.ProcessCommandAction Entered
+2014-08-05 19:22:40.0392 2956 MES.Runtime 1  Sys.Config.Plugin.MESConsolePluginContent.ProcessCommandAction Exited.
+2014-08-05 19:22:40.0392 2956 MES.Runtime 1  Message added to internal queue
+2014-08-05 19:22:40.2952 3080 MES.Server 32  BaseDataRule.ProcessConfig() Entered for Sys.Config.DR.Library.PipelineStages.DRGlobalConfig.
+2014-08-05 19:22:40.2952 3080 MES.Server 32  Deserialize the request for Sys.Config.DR.Library.PipelineStages.DRGlobalConfig.
+2014-08-05 19:22:40.3712 3080 MES.Server 32  ACTION - LOAD Data for Sys.Config.DR.Library.PipelineStages.DRGlobalConfig.
+2014-08-05 19:22:40.3712 3080 MES.Server 32  DRGlobalConfig.LoadConfig() Entered.
+2014-08-05 19:22:40.3712 3080 MES.Server 32  Call GetAttributeValues to get the attribute values from SYSTEM_CONFIG in a data table for GlobalSettings.
+2014-08-05 19:22:40.3712 3080 MES.Server 32  DR_Common.GetAttributeValues Entered.
+2014-08-05 19:22:40.5362 3080 MES.Server 32  Create a SQL Command and set the sql query for COMMON config.
+2014-08-05 19:22:40.5362 3080 MES.Server 32  Set the sql query for COMMON config.
+2014-08-05 19:22:40.5362 3080 MES.Server 32  Fill the sql data adapter with the values fetched by SQL Command for COMMON config.
+2014-08-05 19:22:40.5872 3080 MES.Server 32  DR_Common.GetAttributeValues Exited.
+2014-08-05 19:22:40.5872 3080 MES.Server 32  DRGlobalConfig.ExecuteSP() - Preparing execute SP: [dbo].[usp_get_panacim_option_setting].
+2014-08-05 19:22:40.5872 3080 MES.Server 32  Sys.Config.DR.Library.PipelineStages.DRGlobalConfig:Fill the sql data adapter.
+2014-08-05 19:22:40.7332 2956 MES.Runtime 13 PMLib-ManageConnection Message added to internal queue
+2014-08-05 19:22:40.9332 2956 MES.Runtime 13 PMLib-ManageConnection Message added to internal queue
+2014-08-05 19:22:40.9332 2956 MES.Runtime 3 Processor_System Configuration_PM System.String
+2014-08-05 19:22:40.9332 2956 MES.Runtime 3 Processor_System Configuration_PM System.String
+2014-08-05 19:22:40.9332 2956 MES.Runtime 1  Content_Loaded Exited
+2014-08-05 19:22:42.1963 3080 MES.Server 32  DRGlobalConfig.LoadConfig() Exited.
+2014-08-05 19:22:42.6653 3080 MES.Server 32  Load the serialized data into the XML Document for Sys.Config.DR.Library.PipelineStages.DRGlobalConfig.
+2014-08-05 19:22:42.6653 3080 MES.Server 32  BaseDataRule.ProcessConfig() Exited.
+2014-08-05 19:22:43.2414 2956 MES.Runtime 1  MESConsolePluginContext.ClickHandler Entered 
+2014-08-05 19:22:43.2414 2956 MES.Runtime 1  MESConsolePluginContext.ClickHandler Exited 
+2014-08-05 19:23:21.6546 2956 MES.Runtime 13 PMLib-ManageConnection Message added to internal queue
+2014-08-05 19:23:23.6557 2956 MES.Runtime 13 PMLib-ManageConnection Message added to internal queue
+2014-08-05 19:25:21.7594 2956 MES.Runtime 13 PMLib-ManageConnection Message added to internal queue
+2014-08-05 19:25:23.7925 2956 MES.Runtime 13 PMLib-ManageConnection Message added to internal queue
+2014-08-05 19:27:21.9423 2956 MES.Runtime 13 PMLib-ManageConnection Message added to internal queue
+2014-08-05 19:27:24.0124 2956 MES.Runtime 13 PMLib-ManageConnection Message added to internal queue
+2014-08-05 19:28:28.8041 2956 MES.Runtime 13 PMLib-ManageConnection Message added to internal queue
+2014-08-05 19:29:22.1182 2956 MES.Runtime 13 PMLib-ManageConnection Message added to internal queue
+2014-08-05 19:29:24.1623 2956 MES.Runtime 13 PMLib-ManageConnection Message added to internal queue
+2014-08-05 19:30:00.8914 2956 MES.Runtime 13 PMLib-ManageConnection Message added to internal queue
+2014-08-05 19:30:01.0944 2956 MES.Runtime 13 PMLib-ManageConnection Message added to internal queue
+2014-08-05 19:30:01.0944 2956 MES.Runtime 13 PMLib-ManageConnection Message added to internal queue
+2014-08-05 19:30:01.0944 2956 MES.Runtime 13 PMLib-ManageConnection Message added to internal queue
+2014-08-05 19:30:01.0944 2956 MES.Runtime 13 PMLib-ManageConnection Message added to internal queue
+2014-08-05 19:30:11.7140 2956 MES.Runtime 13 PMLib-ManageConnection Message added to internal queue
+2014-08-05 19:30:11.9140 2956 MES.Runtime 13 PMLib-ManageConnection Message added to internal queue
+2014-08-05 19:30:18.4064 2956 MES.Runtime 13 PMLib-ManageConnection Message added to internal queue
+2014-08-05 19:30:18.6074 2956 MES.Runtime 13 PMLib-ManageConnection Message added to internal queue
+2014-08-05 19:30:22.4276 2956 MES.Runtime 13 PMLib-ManageConnection Message added to internal queue
+2014-08-05 19:30:22.6286 2956 MES.Runtime 13 PMLib-ManageConnection Message added to internal queue
+2014-08-05 19:30:36.0744 2956 MES.Runtime 13 PMLib-ManageConnection Message added to internal queue
+2014-08-05 19:31:21.1910 2956 MES.Runtime 13 PMLib-ManageConnection Message added to internal queue
+2014-08-05 19:31:23.6931 2956 MES.Runtime 13 PMLib-ManageConnection Message added to internal queue
+2014-08-05 19:33:21.6849 2956 MES.Runtime 13 PMLib-ManageConnection Message added to internal queue
+2014-08-05 19:33:24.5090 2956 MES.Runtime 13 PMLib-ManageConnection Message added to internal queue
+2014-08-05 19:35:21.5997 2956 MES.Runtime 13 PMLib-ManageConnection Message added to internal queue
+2014-08-05 19:35:23.0768 2956 MES.Runtime 13 PMLib-ManageConnection Message added to internal queue
+2014-08-05 19:35:36.9556 2956 MES.Runtime 13 PMLib-ManageConnection Message added to internal queue
+2014-08-05 19:35:37.1576 2956 MES.Runtime 13 PMLib-ManageConnection Message added to internal queue
+2014-08-05 19:35:37.3586 2956 MES.Runtime 13 PMLib-ManageConnection Message added to internal queue
+2014-08-05 19:36:49.7328 2956 MES.Runtime 13 PMLib-ManageConnection Message added to internal queue
+2014-08-05 19:36:50.1268 2956 MES.Runtime 13 PMLib-ManageConnection Message added to internal queue
+2014-08-05 19:37:05.3627 2956 MES.Runtime 13 PMLib-ManageConnection Message added to internal queue
+2014-08-05 19:37:21.2476 2956 MES.Runtime 13 PMLib-ManageConnection Message added to internal queue
+2014-08-05 19:37:23.1437 2956 MES.Runtime 13 PMLib-ManageConnection Message added to internal queue
+2014-08-05 19:38:39.1570 2956 MES.Runtime 13 PMLib-ManageConnection Message added to internal queue
+2014-08-05 19:38:39.3590 2956 MES.Runtime 13 PMLib-ManageConnection Message added to internal queue
+2014-08-05 19:38:39.3590 2956 MES.Runtime 13 PMLib-ManageConnection Message added to internal queue
+2014-08-05 19:38:45.6504 2956 MES.Runtime 13 PMLib-ManageConnection Message added to internal queue
+2014-08-05 19:39:21.3214 2956 MES.Runtime 13 PMLib-ManageConnection Message added to internal queue
+2014-08-05 19:39:23.5226 2956 MES.Runtime 13 PMLib-ManageConnection Message added to internal queue
+2014-08-05 19:39:26.8058 2956 MES.Runtime 13 PMLib-ManageConnection Message added to internal queue
+2014-08-05 19:39:27.1058 2956 MES.Runtime 13 PMLib-ManageConnection Message added to internal queue
+2014-08-05 19:39:41.8146 2956 MES.Runtime 13 PMLib-ManageConnection Message added to internal queue
+2014-08-05 19:39:45.9959 2956 MES.Runtime 13 PMLib-ManageConnection Message added to internal queue
+2014-08-05 19:39:46.1959 2956 MES.Runtime 13 PMLib-ManageConnection Message added to internal queue
+2014-08-05 19:39:46.1959 2956 MES.Runtime 13 PMLib-ManageConnection Message added to internal queue
+2014-08-05 19:40:30.4584 2956 MES.Runtime 13 PMLib-ManageConnection Message added to internal queue
+2014-08-05 19:40:45.1672 2956 MES.Runtime 13 PMLib-ManageConnection Message added to internal queue
+2014-08-05 19:40:45.3683 2956 MES.Runtime 13 PMLib-ManageConnection Message added to internal queue
+2014-08-05 19:41:00.1801 2956 MES.Runtime 13 PMLib-ManageConnection Message added to internal queue
+2014-08-05 19:41:21.4663 2956 MES.Runtime 13 PMLib-ManageConnection Message added to internal queue
+2014-08-05 19:41:24.1905 2956 MES.Runtime 13 PMLib-ManageConnection Message added to internal queue
+2014-08-05 19:41:53.3251 2956 MES.Runtime 13 PMLib-ManageConnection PostMasterLibrary ConnectionState = Disconnected
+2014-08-05 19:41:53.4321 2956 MES.Runtime 3 Processor_System Configuration_PM _threadName has completed.
+2014-08-18 16:59:13.6320 2860 MES.Runtime 1  SystemBarcodeParserCfgCtrl() Entered.
+2014-08-18 16:59:13.8240 2860 MES.Runtime 1  SystemBarcodeParserCfgCtrl() Exited.
+2014-08-18 16:59:13.9130 2860 MES.Runtime 1  SystemOperatorConfigCtrl.SystemOperatorConfigCtrl() Entered.
+2014-08-18 16:59:13.9130 2860 MES.Runtime 1  SystemOperatorNameConfigCtrl.SystemOperatorNameConfigCtrl() Entered.
+2014-08-18 16:59:13.9660 2860 MES.Runtime 1  SystemOperatorNameConfigCtrl.SystemOperatorNameConfigCtrl() Exited.
+2014-08-18 16:59:13.9870 2860 MES.Runtime 1  SystemOperatorGroupsConfigCtrl.SystemOperatorGroupsConfigCtrl() Entered.
+2014-08-18 16:59:14.5040 2860 MES.Runtime 1  Exception caught in SystemOperatorGroupsConfigCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-08-18 16:59:14.5040 2860 MES.Runtime 1  Exception caught in SystemOperatorGroupsConfigCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-08-18 16:59:14.5040 2860 MES.Runtime 1  SystemOperatorGroupsConfigCtrl.SystemOperatorGroupsConfigCtrl() Exited.
+2014-08-18 16:59:14.5040 2860 MES.Runtime 1  SystemOperatorConfigCtrl.SystemOperatorConfigCtrl() Exited.
+2014-08-18 16:59:14.6140 2860 MES.Runtime 1  PasswordHelper.Attach() Entered.
+2014-08-18 16:59:15.8281 2860 MES.Runtime 1  PasswordHelper.Attach() Entered.
+2014-08-18 16:59:15.8281 2860 MES.Runtime 1  PasswordHelper.Attach() Entered.
+2014-08-18 16:59:16.6111 2860 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-08-18 16:59:16.6231 2860 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-08-18 16:59:16.6231 2860 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-08-18 16:59:16.6561 2860 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-08-18 16:59:16.6981 2860 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-08-18 16:59:16.6981 2860 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-08-18 16:59:16.7141 2860 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-08-18 16:59:17.6422 2860 MES.Runtime 1  Exception caught in AppOracleDataSourcesCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-08-18 16:59:17.6422 2860 MES.Runtime 1  Exception caught in AppOracleDataSourcesCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-08-18 16:59:17.6562 2860 MES.Runtime 1  Exception caught in AppSQLDataSourcesCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-08-18 16:59:17.6562 2860 MES.Runtime 1  Exception caught in AppSQLDataSourcesCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-08-18 16:59:17.6742 2860 MES.Runtime 1  Exception caught in AppTEXTDataSourcesCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-08-18 16:59:17.6742 2860 MES.Runtime 1  Exception caught in AppTEXTDataSourcesCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-08-18 16:59:17.7342 2860 MES.Runtime 1  Exception caught in AppImportConfigCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-08-18 16:59:17.7342 2860 MES.Runtime 1  Exception caught in AppImportConfigCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-08-18 16:59:17.7342 2860 MES.Runtime 1  Exception caught in AppMachineLockingCtrl.UpdateButtonStatus().. Error: Object reference not set to an instance of an object.
+2014-08-18 16:59:17.7432 2860 MES.Runtime 1  Exception caught in AppMachineLockingCtrl.UpdateButtonStatus().. Error: Object reference not set to an instance of an object.
+2014-08-18 16:59:17.7432 2860 MES.Runtime 1  Exception caught in AppMachineLockingCtrl.UpdateButtonStatus().. Error: Object reference not set to an instance of an object.
+2014-08-18 16:59:17.7432 2860 MES.Runtime 1  Exception caught in AppMachineLockingCtrl.UpdateButtonStatus().. Error: Object reference not set to an instance of an object.
+2014-08-18 16:59:18.4312 2860 MES.Runtime 1  PMListener On Start.
+2014-08-18 16:59:18.7613 2860 MES.Runtime 8 PMListener_MESProductChangeOver - StartPMListener spawning thread (Thread_System Configuration_PM)
+2014-08-18 16:59:18.8183 2860 MES.Runtime 8 PMListener_MESProductChangeOver - StartPMListener thread (Thread_System Configuration_PM) started
+2014-08-18 16:59:19.1473 2860 MES.Runtime 12 PMLib-ManageConnection PostMasterLibrary ConnectionState = Connecting
+2014-08-18 16:59:19.7093 2860 MES.Runtime 12 PMLib-ManageConnection PostMasterLibrary ConnectionState = Connected
+2014-08-18 16:59:19.8043 2860 MES.Runtime 1  Post Master Connection State: Connected
+2014-08-18 16:59:21.9204 2860 MES.Runtime 12 PMLib-ManageConnection PostMasterLibrary ConnectionState = Disconnected
+2014-08-18 16:59:22.0514 2860 MES.Runtime 11 Processor_System Configuration_PM _threadName has completed.
+2014-08-19 17:45:39.6476 896 MES.Runtime 1  SystemBarcodeParserCfgCtrl() Entered.
+2014-08-19 17:45:39.7766 896 MES.Runtime 1  SystemBarcodeParserCfgCtrl() Exited.
+2014-08-19 17:45:39.9546 896 MES.Runtime 1  SystemOperatorConfigCtrl.SystemOperatorConfigCtrl() Entered.
+2014-08-19 17:45:39.9906 896 MES.Runtime 1  SystemOperatorNameConfigCtrl.SystemOperatorNameConfigCtrl() Entered.
+2014-08-19 17:45:40.0086 896 MES.Runtime 1  SystemOperatorNameConfigCtrl.SystemOperatorNameConfigCtrl() Exited.
+2014-08-19 17:45:40.0276 896 MES.Runtime 1  SystemOperatorGroupsConfigCtrl.SystemOperatorGroupsConfigCtrl() Entered.
+2014-08-19 17:45:40.4266 896 MES.Runtime 1  Exception caught in SystemOperatorGroupsConfigCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-08-19 17:45:40.4266 896 MES.Runtime 1  Exception caught in SystemOperatorGroupsConfigCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-08-19 17:45:40.4356 896 MES.Runtime 1  SystemOperatorGroupsConfigCtrl.SystemOperatorGroupsConfigCtrl() Exited.
+2014-08-19 17:45:40.4356 896 MES.Runtime 1  SystemOperatorConfigCtrl.SystemOperatorConfigCtrl() Exited.
+2014-08-19 17:45:40.5566 896 MES.Runtime 1  PasswordHelper.Attach() Entered.
+2014-08-19 17:45:41.0557 896 MES.Runtime 1  PasswordHelper.Attach() Entered.
+2014-08-19 17:45:41.0587 896 MES.Runtime 1  PasswordHelper.Attach() Entered.
+2014-08-19 17:45:41.5187 896 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-08-19 17:45:41.5187 896 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-08-19 17:45:41.5187 896 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-08-19 17:45:41.5187 896 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-08-19 17:45:41.5187 896 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-08-19 17:45:41.5257 896 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-08-19 17:45:41.5257 896 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-08-19 17:45:41.7257 896 MES.Runtime 1  Exception caught in AppOracleDataSourcesCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-08-19 17:45:41.7257 896 MES.Runtime 1  Exception caught in AppOracleDataSourcesCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-08-19 17:45:41.8067 896 MES.Runtime 1  Exception caught in AppSQLDataSourcesCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-08-19 17:45:41.8067 896 MES.Runtime 1  Exception caught in AppSQLDataSourcesCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-08-19 17:45:41.8957 896 MES.Runtime 1  Exception caught in AppTEXTDataSourcesCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-08-19 17:45:41.8957 896 MES.Runtime 1  Exception caught in AppTEXTDataSourcesCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-08-19 17:45:42.3447 896 MES.Runtime 1  Exception caught in AppImportConfigCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-08-19 17:45:42.3527 896 MES.Runtime 1  Exception caught in AppImportConfigCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-08-19 17:45:42.3838 896 MES.Runtime 1  Exception caught in AppMachineLockingCtrl.UpdateButtonStatus().. Error: Object reference not set to an instance of an object.
+2014-08-19 17:45:42.3838 896 MES.Runtime 1  Exception caught in AppMachineLockingCtrl.UpdateButtonStatus().. Error: Object reference not set to an instance of an object.
+2014-08-19 17:45:42.3838 896 MES.Runtime 1  Exception caught in AppMachineLockingCtrl.UpdateButtonStatus().. Error: Object reference not set to an instance of an object.
+2014-08-19 17:45:42.3988 896 MES.Runtime 1  Exception caught in AppMachineLockingCtrl.UpdateButtonStatus().. Error: Object reference not set to an instance of an object.
+2014-08-19 17:45:42.8948 896 MES.Runtime 1  PMListener On Start.
+2014-08-19 17:45:43.5538 896 MES.Runtime 12 PMListener_MESProductChangeOver - StartPMListener spawning thread (Thread_System Configuration_PM)
+2014-08-19 17:45:43.5738 896 MES.Runtime 12 PMListener_MESProductChangeOver - StartPMListener thread (Thread_System Configuration_PM) started
+2014-08-19 17:45:43.6158 896 MES.Runtime 14 PMLib-ManageConnection PostMasterLibrary ConnectionState = Connecting
+2014-08-19 17:45:44.0538 896 MES.Runtime 14 PMLib-ManageConnection PostMasterLibrary ConnectionState = Connected
+2014-08-19 17:45:44.0848 896 MES.Runtime 1  Post Master Connection State: Connected
+2014-08-19 17:45:45.5289 896 MES.Runtime 1  Content_Loaded Entered
+2014-08-19 17:45:45.5289 896 MES.Runtime 1  Sys.Config.Plugin.MESConsolePluginContent.ProcessCommandAction Entered
+2014-08-19 17:45:55.9285 896 MES.Runtime 1  Sys.Config.Plugin.MESConsolePluginContent.ProcessCommandAction Exited.
+2014-08-19 17:45:56.0255 896 MES.Runtime 1  Message added to internal queue
+2014-08-19 17:45:56.6146 896 MES.Runtime 14 PMLib-ManageConnection Message added to internal queue
+2014-08-19 17:45:56.7196 896 MES.Runtime 14 PMLib-ManageConnection Message added to internal queue
+2014-08-19 17:45:56.7196 896 MES.Runtime 13 Processor_System Configuration_PM System.String
+2014-08-19 17:45:56.7196 896 MES.Runtime 13 Processor_System Configuration_PM System.String
+2014-08-19 17:45:56.7196 896 MES.Runtime 1  Content_Loaded Exited
+2014-08-19 17:46:03.5930 4764 MES.Server 25  BaseDataRule.ProcessConfig() Entered for Sys.Config.DR.Library.PipelineStages.DRGlobalConfig.
+2014-08-19 17:46:03.5930 4764 MES.Server 25  Deserialize the request for Sys.Config.DR.Library.PipelineStages.DRGlobalConfig.
+2014-08-19 17:46:05.5321 4764 MES.Server 25  ACTION - LOAD Data for Sys.Config.DR.Library.PipelineStages.DRGlobalConfig.
+2014-08-19 17:46:05.5441 4764 MES.Server 25  DRGlobalConfig.LoadConfig() Entered.
+2014-08-19 17:46:05.5441 4764 MES.Server 25  Call GetAttributeValues to get the attribute values from SYSTEM_CONFIG in a data table for GlobalSettings.
+2014-08-19 17:46:05.6461 4764 MES.Server 25  DR_Common.GetAttributeValues Entered.
+2014-08-19 17:46:05.6461 4764 MES.Server 25  Create a SQL Command and set the sql query for COMMON config.
+2014-08-19 17:46:05.6461 4764 MES.Server 25  Set the sql query for COMMON config.
+2014-08-19 17:46:05.6461 4764 MES.Server 25  Fill the sql data adapter with the values fetched by SQL Command for COMMON config.
+2014-08-19 17:46:05.8791 4764 MES.Server 25  DR_Common.GetAttributeValues Exited.
+2014-08-19 17:46:05.9461 4764 MES.Server 25  DRGlobalConfig.ExecuteSP() - Preparing execute SP: [dbo].[usp_get_panacim_option_setting].
+2014-08-19 17:46:06.0301 4764 MES.Server 25  Sys.Config.DR.Library.PipelineStages.DRGlobalConfig:Fill the sql data adapter.
+2014-08-19 17:46:06.7221 4764 MES.Server 25  DRGlobalConfig.LoadConfig() Exited.
+2014-08-19 17:46:06.8452 4764 MES.Server 25  Load the serialized data into the XML Document for Sys.Config.DR.Library.PipelineStages.DRGlobalConfig.
+2014-08-19 17:46:06.8452 4764 MES.Server 25  BaseDataRule.ProcessConfig() Exited.
+2014-08-19 17:46:07.0142 896 MES.Runtime 1  MESConsolePluginContext.ClickHandler Entered 
+2014-08-19 17:46:07.0142 896 MES.Runtime 1  MESConsolePluginContext.ClickHandler Exited 
+2014-08-19 17:46:21.2940 896 MES.Runtime 14 PMLib-ManageConnection PostMasterLibrary ConnectionState = Disconnected
+2014-08-19 17:46:21.3760 896 MES.Runtime 13 Processor_System Configuration_PM _threadName has completed.
+2014-08-27 10:14:58.8261 2772 MES.Runtime 1  SystemBarcodeParserCfgCtrl() Entered.
+2014-08-27 10:14:58.9761 2772 MES.Runtime 1  SystemBarcodeParserCfgCtrl() Exited.
+2014-08-27 10:14:59.0101 2772 MES.Runtime 1  SystemOperatorConfigCtrl.SystemOperatorConfigCtrl() Entered.
+2014-08-27 10:14:59.0801 2772 MES.Runtime 1  SystemOperatorNameConfigCtrl.SystemOperatorNameConfigCtrl() Entered.
+2014-08-27 10:14:59.2161 2772 MES.Runtime 1  SystemOperatorNameConfigCtrl.SystemOperatorNameConfigCtrl() Exited.
+2014-08-27 10:14:59.2381 2772 MES.Runtime 1  SystemOperatorGroupsConfigCtrl.SystemOperatorGroupsConfigCtrl() Entered.
+2014-08-27 10:14:59.3552 2772 MES.Runtime 1  Exception caught in SystemOperatorGroupsConfigCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-08-27 10:14:59.3552 2772 MES.Runtime 1  Exception caught in SystemOperatorGroupsConfigCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-08-27 10:14:59.3552 2772 MES.Runtime 1  SystemOperatorGroupsConfigCtrl.SystemOperatorGroupsConfigCtrl() Exited.
+2014-08-27 10:14:59.3702 2772 MES.Runtime 1  SystemOperatorConfigCtrl.SystemOperatorConfigCtrl() Exited.
+2014-08-27 10:14:59.5542 2772 MES.Runtime 1  PasswordHelper.Attach() Entered.
+2014-08-27 10:14:59.8022 2772 MES.Runtime 1  PasswordHelper.Attach() Entered.
+2014-08-27 10:14:59.8022 2772 MES.Runtime 1  PasswordHelper.Attach() Entered.
+2014-08-27 10:15:00.1862 2772 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-08-27 10:15:00.1862 2772 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-08-27 10:15:00.1862 2772 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-08-27 10:15:00.1862 2772 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-08-27 10:15:00.1862 2772 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-08-27 10:15:00.1862 2772 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-08-27 10:15:00.1862 2772 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-08-27 10:15:00.3282 2772 MES.Runtime 1  Exception caught in AppOracleDataSourcesCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-08-27 10:15:00.3282 2772 MES.Runtime 1  Exception caught in AppOracleDataSourcesCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-08-27 10:15:00.3502 2772 MES.Runtime 1  Exception caught in AppSQLDataSourcesCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-08-27 10:15:00.3502 2772 MES.Runtime 1  Exception caught in AppSQLDataSourcesCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-08-27 10:15:00.3682 2772 MES.Runtime 1  Exception caught in AppTEXTDataSourcesCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-08-27 10:15:00.3682 2772 MES.Runtime 1  Exception caught in AppTEXTDataSourcesCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-08-27 10:15:00.4132 2772 MES.Runtime 1  Exception caught in AppImportConfigCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-08-27 10:15:00.4132 2772 MES.Runtime 1  Exception caught in AppImportConfigCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2014-08-27 10:15:00.4222 2772 MES.Runtime 1  Exception caught in AppMachineLockingCtrl.UpdateButtonStatus().. Error: Object reference not set to an instance of an object.
+2014-08-27 10:15:00.4222 2772 MES.Runtime 1  Exception caught in AppMachineLockingCtrl.UpdateButtonStatus().. Error: Object reference not set to an instance of an object.
+2014-08-27 10:15:00.4222 2772 MES.Runtime 1  Exception caught in AppMachineLockingCtrl.UpdateButtonStatus().. Error: Object reference not set to an instance of an object.
+2014-08-27 10:15:00.4412 2772 MES.Runtime 1  Exception caught in AppMachineLockingCtrl.UpdateButtonStatus().. Error: Object reference not set to an instance of an object.
+2014-08-27 10:15:01.3703 2772 MES.Runtime 1  PMListener On Start.
+2014-08-27 10:15:01.5073 2772 MES.Runtime 8 PMListener_MESProductChangeOver - StartPMListener spawning thread (Thread_System Configuration_PM)
+2014-08-27 10:15:01.5373 2772 MES.Runtime 8 PMListener_MESProductChangeOver - StartPMListener thread (Thread_System Configuration_PM) started
+2014-08-27 10:15:01.5543 2772 MES.Runtime 10 PMLib-ManageConnection PostMasterLibrary ConnectionState = Connecting
+2014-08-27 10:15:01.7653 2772 MES.Runtime 10 PMLib-ManageConnection PostMasterLibrary ConnectionState = Connected
+2014-08-27 10:15:02.4163 2772 MES.Runtime 1  Post Master Connection State: Connected
+2014-08-27 10:15:02.8954 2772 MES.Runtime 1  Content_Loaded Entered
+2014-08-27 10:15:02.8954 2772 MES.Runtime 1  Sys.Config.Plugin.MESConsolePluginContent.ProcessCommandAction Entered
+2014-08-27 10:15:03.5614 2772 MES.Runtime 1  Sys.Config.Plugin.MESConsolePluginContent.ProcessCommandAction Exited.
+2014-08-27 10:15:03.5664 2772 MES.Runtime 1  Message added to internal queue
+2014-08-27 10:15:04.2654 2772 MES.Runtime 10 PMLib-ManageConnection Message added to internal queue
+2014-08-27 10:15:04.3024 4436 MES.Server 50  BaseDataRule.ProcessConfig() Entered for Sys.Config.DR.Library.PipelineStages.DRGlobalConfig.
+2014-08-27 10:15:04.3024 4436 MES.Server 50  Deserialize the request for Sys.Config.DR.Library.PipelineStages.DRGlobalConfig.
+2014-08-27 10:15:04.4654 2772 MES.Runtime 10 PMLib-ManageConnection Message added to internal queue
+2014-08-27 10:15:04.4654 2772 MES.Runtime 3 Processor_System Configuration_PM System.String
+2014-08-27 10:15:04.4654 2772 MES.Runtime 3 Processor_System Configuration_PM System.String
+2014-08-27 10:15:04.4654 2772 MES.Runtime 1  Content_Loaded Exited
+2014-08-27 10:15:04.6845 4436 MES.Server 50  ACTION - LOAD Data for Sys.Config.DR.Library.PipelineStages.DRGlobalConfig.
+2014-08-27 10:15:04.6935 4436 MES.Server 50  DRGlobalConfig.LoadConfig() Entered.
+2014-08-27 10:15:04.6935 4436 MES.Server 50  Call GetAttributeValues to get the attribute values from SYSTEM_CONFIG in a data table for GlobalSettings.
+2014-08-27 10:15:04.6935 4436 MES.Server 50  DR_Common.GetAttributeValues Entered.
+2014-08-27 10:15:04.7145 4436 MES.Server 50  Create a SQL Command and set the sql query for COMMON config.
+2014-08-27 10:15:04.7145 4436 MES.Server 50  Set the sql query for COMMON config.
+2014-08-27 10:15:04.7145 4436 MES.Server 50  Fill the sql data adapter with the values fetched by SQL Command for COMMON config.
+2014-08-27 10:15:04.8115 4436 MES.Server 50  DR_Common.GetAttributeValues Exited.
+2014-08-27 10:15:04.8155 4436 MES.Server 50  DRGlobalConfig.ExecuteSP() - Preparing execute SP: [dbo].[usp_get_panacim_option_setting].
+2014-08-27 10:15:04.8415 4436 MES.Server 50  Sys.Config.DR.Library.PipelineStages.DRGlobalConfig:Fill the sql data adapter.
+2014-08-27 10:15:04.9925 4436 MES.Server 50  DRGlobalConfig.LoadConfig() Exited.
+2014-08-27 10:15:05.0845 4436 MES.Server 50  Load the serialized data into the XML Document for Sys.Config.DR.Library.PipelineStages.DRGlobalConfig.
+2014-08-27 10:15:05.0965 4436 MES.Server 50  BaseDataRule.ProcessConfig() Exited.
+2014-08-27 10:15:05.2715 2772 MES.Runtime 1  MESConsolePluginContext.ClickHandler Entered 
+2014-08-27 10:15:05.2715 2772 MES.Runtime 1  MESConsolePluginContext.ClickHandler Exited 
+2014-08-27 10:15:10.0338 2772 MES.Runtime 10 PMLib-ManageConnection Message added to internal queue
+2014-08-27 10:15:10.3348 2772 MES.Runtime 10 PMLib-ManageConnection Message added to internal queue
+2014-08-27 10:15:18.6073 2772 MES.Runtime 10 PMLib-ManageConnection PostMasterLibrary ConnectionState = Disconnected
+2014-08-27 10:15:18.7073 2772 MES.Runtime 3 Processor_System Configuration_PM _threadName has completed.
+2014-08-27 10:15:26.8307 2772 MES.Runtime 1  PMListener On Start.
+2014-08-27 10:15:26.8307 2772 MES.Runtime 12 PMListener_MESProductChangeOver - StartPMListener spawning thread (Thread_System Configuration_PM)
+2014-08-27 10:15:26.8307 2772 MES.Runtime 12 PMListener_MESProductChangeOver - StartPMListener thread (Thread_System Configuration_PM) started
+2014-08-27 10:15:26.8307 2772 MES.Runtime 14 PMLib-ManageConnection PostMasterLibrary ConnectionState = Connecting
+2014-08-27 10:15:26.9427 2772 MES.Runtime 14 PMLib-ManageConnection PostMasterLibrary ConnectionState = Connected
+2014-08-27 10:15:27.8328 2772 MES.Runtime 1  Post Master Connection State: Connected
+2014-08-27 10:15:27.8868 2772 MES.Runtime 1  Content_Loaded Entered
+2014-08-27 10:15:27.8868 2772 MES.Runtime 1  Sys.Config.Plugin.MESConsolePluginContent.ProcessCommandAction Entered
+2014-08-27 10:15:27.8868 2772 MES.Runtime 1  Sys.Config.Plugin.MESConsolePluginContent.ProcessCommandAction Exited.
+2014-08-27 10:15:27.8868 2772 MES.Runtime 1  Message added to internal queue
+2014-08-27 10:15:27.9058 4436 MES.Server 50  BaseDataRule.ProcessConfig() Entered for Sys.Config.DR.Library.PipelineStages.DRGlobalConfig.
+2014-08-27 10:15:27.9058 4436 MES.Server 50  Deserialize the request for Sys.Config.DR.Library.PipelineStages.DRGlobalConfig.
+2014-08-27 10:15:27.9058 4436 MES.Server 50  ACTION - LOAD Data for Sys.Config.DR.Library.PipelineStages.DRGlobalConfig.
+2014-08-27 10:15:27.9058 4436 MES.Server 50  DRGlobalConfig.LoadConfig() Entered.
+2014-08-27 10:15:27.9058 4436 MES.Server 50  Call GetAttributeValues to get the attribute values from SYSTEM_CONFIG in a data table for GlobalSettings.
+2014-08-27 10:15:27.9058 4436 MES.Server 50  DR_Common.GetAttributeValues Entered.
+2014-08-27 10:15:27.9058 4436 MES.Server 50  Create a SQL Command and set the sql query for COMMON config.
+2014-08-27 10:15:27.9058 4436 MES.Server 50  Set the sql query for COMMON config.
+2014-08-27 10:15:27.9058 4436 MES.Server 50  Fill the sql data adapter with the values fetched by SQL Command for COMMON config.
+2014-08-27 10:15:27.9588 4436 MES.Server 50  DR_Common.GetAttributeValues Exited.
+2014-08-27 10:15:27.9588 4436 MES.Server 50  DRGlobalConfig.ExecuteSP() - Preparing execute SP: [dbo].[usp_get_panacim_option_setting].
+2014-08-27 10:15:27.9588 4436 MES.Server 50  Sys.Config.DR.Library.PipelineStages.DRGlobalConfig:Fill the sql data adapter.
+2014-08-27 10:15:27.9588 4436 MES.Server 50  DRGlobalConfig.LoadConfig() Exited.
+2014-08-27 10:15:27.9588 4436 MES.Server 50  Load the serialized data into the XML Document for Sys.Config.DR.Library.PipelineStages.DRGlobalConfig.
+2014-08-27 10:15:27.9588 4436 MES.Server 50  BaseDataRule.ProcessConfig() Exited.
+2014-08-27 10:15:28.0688 2772 MES.Runtime 14 PMLib-ManageConnection Message added to internal queue
+2014-08-27 10:15:28.1698 2772 MES.Runtime 14 PMLib-ManageConnection Message added to internal queue
+2014-08-27 10:15:28.1698 2772 MES.Runtime 13 Processor_System Configuration_PM System.String
+2014-08-27 10:15:28.1698 2772 MES.Runtime 13 Processor_System Configuration_PM System.String
+2014-08-27 10:15:28.1698 2772 MES.Runtime 1  Content_Loaded Exited
+2014-08-27 10:15:28.1698 2772 MES.Runtime 1  MESConsolePluginContext.ClickHandler Entered 
+2014-08-27 10:15:28.1828 2772 MES.Runtime 1  MESConsolePluginContext.ClickHandler Exited 
+2014-08-27 10:15:32.1890 2772 MES.Runtime 1  MESConsolePluginContent.OnCommandExecuted Entered, Command = DefaultView
+2014-08-27 10:15:32.1890 2772 MES.Runtime 1  MESConsolePluginContent.ProcessCommandAction Entered
+2014-08-27 10:15:32.1890 2772 MES.Runtime 1  MESConsolePluginContent.ProcessCommandAction Exited
+2014-08-27 10:15:32.1890 2772 MES.Runtime 1  MESConsolePluginContent.OnCommandExecuted Exited
+2014-08-27 10:15:33.4601 2772 MES.Runtime 1  MESConsolePluginContent.OnCommandExecuted Entered, Command = DefaultView
+2014-08-27 10:15:33.4601 2772 MES.Runtime 1  MESConsolePluginContent.ProcessCommandAction Entered
+2014-08-27 10:15:33.4601 2772 MES.Runtime 1  MESConsolePluginContent.ProcessCommandAction Exited
+2014-08-27 10:15:33.4601 2772 MES.Runtime 1  MESConsolePluginContent.OnCommandExecuted Exited
+2014-08-27 10:15:36.9503 2772 MES.Runtime 14 PMLib-ManageConnection PostMasterLibrary ConnectionState = Disconnected
+2014-08-27 10:15:37.0433 2772 MES.Runtime 13 Processor_System Configuration_PM _threadName has completed.
+2014-08-27 14:59:23.3272 2772 MES.Runtime 1  PMListener On Start.
+2014-08-27 14:59:23.3362 2772 MES.Runtime 12 PMListener_MESProductChangeOver - StartPMListener spawning thread (Thread_System Configuration_PM)
+2014-08-27 14:59:23.3772 2772 MES.Runtime 12 PMListener_MESProductChangeOver - StartPMListener thread (Thread_System Configuration_PM) started
+2014-08-27 14:59:23.3772 2772 MES.Runtime 14 PMLib-ManageConnection PostMasterLibrary ConnectionState = Connecting
+2014-08-27 14:59:23.4882 2772 MES.Runtime 14 PMLib-ManageConnection PostMasterLibrary ConnectionState = Connected
+2014-08-27 14:59:24.3362 2772 MES.Runtime 1  Post Master Connection State: Connected
+2014-08-27 14:59:24.3992 2772 MES.Runtime 1  Content_Loaded Entered
+2014-08-27 14:59:24.3992 2772 MES.Runtime 1  Sys.Config.Plugin.MESConsolePluginContent.ProcessCommandAction Entered
+2014-08-27 14:59:24.3992 2772 MES.Runtime 1  Sys.Config.Plugin.MESConsolePluginContent.ProcessCommandAction Exited.
+2014-08-27 14:59:24.3992 2772 MES.Runtime 1  Message added to internal queue
+2014-08-27 14:59:24.4442 4436 MES.Server 50  BaseDataRule.ProcessConfig() Entered for Sys.Config.DR.Library.PipelineStages.DRGlobalConfig.
+2014-08-27 14:59:24.4442 4436 MES.Server 50  Deserialize the request for Sys.Config.DR.Library.PipelineStages.DRGlobalConfig.
+2014-08-27 14:59:24.4442 4436 MES.Server 50  ACTION - LOAD Data for Sys.Config.DR.Library.PipelineStages.DRGlobalConfig.
+2014-08-27 14:59:24.4442 4436 MES.Server 50  DRGlobalConfig.LoadConfig() Entered.
+2014-08-27 14:59:24.4442 4436 MES.Server 50  Call GetAttributeValues to get the attribute values from SYSTEM_CONFIG in a data table for GlobalSettings.
+2014-08-27 14:59:24.4442 4436 MES.Server 50  DR_Common.GetAttributeValues Entered.
+2014-08-27 14:59:24.4442 4436 MES.Server 50  Create a SQL Command and set the sql query for COMMON config.
+2014-08-27 14:59:24.4442 4436 MES.Server 50  Set the sql query for COMMON config.
+2014-08-27 14:59:24.4442 4436 MES.Server 50  Fill the sql data adapter with the values fetched by SQL Command for COMMON config.
+2014-08-27 14:59:24.5752 4436 MES.Server 50  DR_Common.GetAttributeValues Exited.
+2014-08-27 14:59:24.5752 4436 MES.Server 50  DRGlobalConfig.ExecuteSP() - Preparing execute SP: [dbo].[usp_get_panacim_option_setting].
+2014-08-27 14:59:24.5752 4436 MES.Server 50  Sys.Config.DR.Library.PipelineStages.DRGlobalConfig:Fill the sql data adapter.
+2014-08-27 14:59:24.6252 2772 MES.Runtime 14 PMLib-ManageConnection Message added to internal queue
+2014-08-27 14:59:24.8252 2772 MES.Runtime 14 PMLib-ManageConnection Message added to internal queue
+2014-08-27 14:59:24.8252 2772 MES.Runtime 13 Processor_System Configuration_PM System.String
+2014-08-27 14:59:24.8252 2772 MES.Runtime 13 Processor_System Configuration_PM System.String
+2014-08-27 14:59:24.8252 2772 MES.Runtime 1  Content_Loaded Exited
+2014-08-27 14:59:25.2023 4436 MES.Server 50  DRGlobalConfig.LoadConfig() Exited.
+2014-08-27 14:59:25.2023 4436 MES.Server 50  Load the serialized data into the XML Document for Sys.Config.DR.Library.PipelineStages.DRGlobalConfig.
+2014-08-27 14:59:25.2023 4436 MES.Server 50  BaseDataRule.ProcessConfig() Exited.
+2014-08-27 14:59:25.2053 2772 MES.Runtime 1  MESConsolePluginContext.ClickHandler Entered 
+2014-08-27 14:59:25.2053 2772 MES.Runtime 1  MESConsolePluginContext.ClickHandler Exited 
+2014-08-27 14:59:27.9894 2772 MES.Runtime 14 PMLib-ManageConnection PostMasterLibrary ConnectionState = Disconnected
+2014-08-27 14:59:28.0734 2772 MES.Runtime 13 Processor_System Configuration_PM _threadName has completed.
+2015-12-10 10:32:32.2994 3060 MES.Runtime 1  SystemBarcodeParserCfgCtrl() Entered.
+2015-12-10 10:32:32.3814 3060 MES.Runtime 1  SystemBarcodeParserCfgCtrl() Exited.
+2015-12-10 10:32:32.4044 3060 MES.Runtime 1  SystemOperatorConfigCtrl.SystemOperatorConfigCtrl() Entered.
+2015-12-10 10:32:32.4214 3060 MES.Runtime 1  SystemOperatorNameConfigCtrl.SystemOperatorNameConfigCtrl() Entered.
+2015-12-10 10:32:32.4664 3060 MES.Runtime 1  SystemOperatorNameConfigCtrl.SystemOperatorNameConfigCtrl() Exited.
+2015-12-10 10:32:32.4834 3060 MES.Runtime 1  SystemOperatorGroupsConfigCtrl.SystemOperatorGroupsConfigCtrl() Entered.
+2015-12-10 10:32:32.4904 3060 MES.Runtime 1  Exception caught in SystemOperatorGroupsConfigCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2015-12-10 10:32:32.4904 3060 MES.Runtime 1  Exception caught in SystemOperatorGroupsConfigCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2015-12-10 10:32:32.4904 3060 MES.Runtime 1  SystemOperatorGroupsConfigCtrl.SystemOperatorGroupsConfigCtrl() Exited.
+2015-12-10 10:32:32.4904 3060 MES.Runtime 1  SystemOperatorConfigCtrl.SystemOperatorConfigCtrl() Exited.
+2015-12-10 10:32:32.5914 3060 MES.Runtime 1  PasswordHelper.Attach() Entered.
+2015-12-10 10:32:32.8935 3060 MES.Runtime 1  PasswordHelper.Attach() Entered.
+2015-12-10 10:32:32.8935 3060 MES.Runtime 1  PasswordHelper.Attach() Entered.
+2015-12-10 10:32:33.1405 3060 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2015-12-10 10:32:33.1405 3060 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2015-12-10 10:32:33.1405 3060 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2015-12-10 10:32:33.1405 3060 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2015-12-10 10:32:33.1405 3060 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2015-12-10 10:32:33.1405 3060 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2015-12-10 10:32:33.1405 3060 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2015-12-10 10:32:33.2635 3060 MES.Runtime 1  Exception caught in AppOracleDataSourcesCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2015-12-10 10:32:33.2635 3060 MES.Runtime 1  Exception caught in AppOracleDataSourcesCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2015-12-10 10:32:33.2745 3060 MES.Runtime 1  Exception caught in AppSQLDataSourcesCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2015-12-10 10:32:33.2745 3060 MES.Runtime 1  Exception caught in AppSQLDataSourcesCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2015-12-10 10:32:33.2855 3060 MES.Runtime 1  Exception caught in AppTEXTDataSourcesCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2015-12-10 10:32:33.2855 3060 MES.Runtime 1  Exception caught in AppTEXTDataSourcesCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2015-12-10 10:32:33.3505 3060 MES.Runtime 1  Exception caught in AppImportConfigCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2015-12-10 10:32:33.3505 3060 MES.Runtime 1  Exception caught in AppImportConfigCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2015-12-10 10:32:33.3505 3060 MES.Runtime 1  Exception caught in AppMachineLockingCtrl.UpdateButtonStatus().. Error: Object reference not set to an instance of an object.
+2015-12-10 10:32:33.3505 3060 MES.Runtime 1  Exception caught in AppMachineLockingCtrl.UpdateButtonStatus().. Error: Object reference not set to an instance of an object.
+2015-12-10 10:32:33.3505 3060 MES.Runtime 1  Exception caught in AppMachineLockingCtrl.UpdateButtonStatus().. Error: Object reference not set to an instance of an object.
+2015-12-10 10:32:33.3585 3060 MES.Runtime 1  Exception caught in AppMachineLockingCtrl.UpdateButtonStatus().. Error: Object reference not set to an instance of an object.
+2015-12-10 10:32:33.9915 3060 MES.Runtime 1  PMListener On Start.
+2015-12-10 10:32:34.2755 3060 MES.Runtime 13 PMListener_MESProductChangeOver - StartPMListener spawning thread (Thread_System Configuration_PM)
+2015-12-10 10:32:34.2755 3060 MES.Runtime 13 PMListener_MESProductChangeOver - StartPMListener thread (Thread_System Configuration_PM) started
+2015-12-10 10:32:34.4075 3060 MES.Runtime 15 PMLib-ManageConnection PostMasterLibrary ConnectionState = Connecting
+2015-12-10 10:32:34.6406 3060 MES.Runtime 15 PMLib-ManageConnection PostMasterLibrary ConnectionState = Connected
+2015-12-10 10:32:34.9936 3060 MES.Runtime 1  Post Master Connection State: Connected
+2015-12-10 10:32:35.1756 3060 MES.Runtime 1  Content_Loaded Entered
+2015-12-10 10:32:35.1756 3060 MES.Runtime 1  Sys.Config.Plugin.MESConsolePluginContent.ProcessCommandAction Entered
+2015-12-10 10:32:39.6148 3060 MES.Runtime 1  Sys.Config.Plugin.MESConsolePluginContent.ProcessCommandAction Exited.
+2015-12-10 10:32:39.6558 3060 MES.Runtime 1  Message added to internal queue
+2015-12-10 10:32:39.9509 3060 MES.Runtime 15 PMLib-ManageConnection Message added to internal queue
+2015-12-10 10:32:39.9419 1992 MES.Server 33  BaseDataRule.ProcessConfig() Entered for Sys.Config.DR.Library.PipelineStages.DRGlobalConfig.
+2015-12-10 10:32:39.9789 1992 MES.Server 33  Deserialize the request for Sys.Config.DR.Library.PipelineStages.DRGlobalConfig.
+2015-12-10 10:32:40.0569 3060 MES.Runtime 15 PMLib-ManageConnection Message added to internal queue
+2015-12-10 10:32:40.0689 3060 MES.Runtime 14 Processor_System Configuration_PM System.String
+2015-12-10 10:32:40.0689 3060 MES.Runtime 14 Processor_System Configuration_PM System.String
+2015-12-10 10:32:40.0689 3060 MES.Runtime 1  Content_Loaded Exited
+2015-12-10 10:32:40.5059 1992 MES.Server 33  ACTION - LOAD Data for Sys.Config.DR.Library.PipelineStages.DRGlobalConfig.
+2015-12-10 10:32:40.5059 1992 MES.Server 33  DRGlobalConfig.LoadConfig() Entered.
+2015-12-10 10:32:40.5059 1992 MES.Server 33  Call GetAttributeValues to get the attribute values from SYSTEM_CONFIG in a data table for GlobalSettings.
+2015-12-10 10:32:40.5439 1992 MES.Server 33  DR_Common.GetAttributeValues Entered.
+2015-12-10 10:32:40.5439 1992 MES.Server 33  Create a SQL Command and set the sql query for COMMON config.
+2015-12-10 10:32:40.5439 1992 MES.Server 33  Set the sql query for COMMON config.
+2015-12-10 10:32:40.5439 1992 MES.Server 33  Fill the sql data adapter with the values fetched by SQL Command for COMMON config.
+2015-12-10 10:32:40.6209 1992 MES.Server 33  DR_Common.GetAttributeValues Exited.
+2015-12-10 10:32:40.6209 1992 MES.Server 33  DRGlobalConfig.ExecuteSP() - Preparing execute SP: [dbo].[usp_get_panacim_option_setting].
+2015-12-10 10:32:40.6749 1992 MES.Server 33  Sys.Config.DR.Library.PipelineStages.DRGlobalConfig:Fill the sql data adapter.
+2015-12-10 10:32:41.1959 1992 MES.Server 33  DRGlobalConfig.LoadConfig() Exited.
+2015-12-10 10:32:41.2459 1992 MES.Server 33  Load the serialized data into the XML Document for Sys.Config.DR.Library.PipelineStages.DRGlobalConfig.
+2015-12-10 10:32:41.2459 1992 MES.Server 33  BaseDataRule.ProcessConfig() Exited.
+2015-12-10 10:32:41.4319 3060 MES.Runtime 1  MESConsolePluginContext.ClickHandler Entered 
+2015-12-10 10:32:41.4319 3060 MES.Runtime 1  MESConsolePluginContext.ClickHandler Exited 
+2015-12-24 19:38:05.4927 1716 MES.Runtime 1  SystemBarcodeParserCfgCtrl() Entered.
+2015-12-24 19:38:05.5887 1716 MES.Runtime 1  SystemBarcodeParserCfgCtrl() Exited.
+2015-12-24 19:38:05.6247 1716 MES.Runtime 1  SystemOperatorConfigCtrl.SystemOperatorConfigCtrl() Entered.
+2015-12-24 19:38:05.6247 1716 MES.Runtime 1  SystemOperatorNameConfigCtrl.SystemOperatorNameConfigCtrl() Entered.
+2015-12-24 19:38:05.6887 1716 MES.Runtime 1  SystemOperatorNameConfigCtrl.SystemOperatorNameConfigCtrl() Exited.
+2015-12-24 19:38:05.7128 1716 MES.Runtime 1  SystemOperatorGroupsConfigCtrl.SystemOperatorGroupsConfigCtrl() Entered.
+2015-12-24 19:38:06.3858 1716 MES.Runtime 1  Exception caught in SystemOperatorGroupsConfigCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2015-12-24 19:38:06.3868 1716 MES.Runtime 1  Exception caught in SystemOperatorGroupsConfigCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2015-12-24 19:38:06.3868 1716 MES.Runtime 1  SystemOperatorGroupsConfigCtrl.SystemOperatorGroupsConfigCtrl() Exited.
+2015-12-24 19:38:06.3868 1716 MES.Runtime 1  SystemOperatorConfigCtrl.SystemOperatorConfigCtrl() Exited.
+2015-12-24 19:38:06.5648 1716 MES.Runtime 1  PasswordHelper.Attach() Entered.
+2015-12-24 19:38:07.4899 1716 MES.Runtime 1  PasswordHelper.Attach() Entered.
+2015-12-24 19:38:07.4899 1716 MES.Runtime 1  PasswordHelper.Attach() Entered.
+2015-12-24 19:38:07.5159 1716 MES.Runtime 1  ModuleMaintenanceCtrl.ModuleMaintenanceCtrl() Entered.
+2015-12-24 19:38:07.6319 1716 MES.Runtime 1  ModuleMaintenanceCtrl.ModuleMaintenanceCtrl() Exited.
+2015-12-24 19:38:07.7239 1716 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2015-12-24 19:38:07.7239 1716 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2015-12-24 19:38:07.7239 1716 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2015-12-24 19:38:07.7239 1716 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2015-12-24 19:38:07.7289 1716 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2015-12-24 19:38:07.7289 1716 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2015-12-24 19:38:07.7289 1716 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2015-12-24 19:38:07.8429 1716 MES.Runtime 1  Exception caught in AppOracleDataSourcesCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2015-12-24 19:38:07.8429 1716 MES.Runtime 1  Exception caught in AppOracleDataSourcesCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2015-12-24 19:38:07.8589 1716 MES.Runtime 1  Exception caught in AppSQLDataSourcesCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2015-12-24 19:38:07.8589 1716 MES.Runtime 1  Exception caught in AppSQLDataSourcesCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2015-12-24 19:38:07.8729 1716 MES.Runtime 1  PasswordHelper.Attach() Entered.
+2015-12-24 19:38:07.8729 1716 MES.Runtime 1  Exception caught in AppTEXTDataSourcesCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2015-12-24 19:38:07.8729 1716 MES.Runtime 1  Exception caught in AppTEXTDataSourcesCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2015-12-24 19:38:07.9359 1716 MES.Runtime 1  Exception caught in AppImportConfigCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2015-12-24 19:38:07.9359 1716 MES.Runtime 1  Exception caught in AppImportConfigCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2015-12-24 19:38:07.9359 1716 MES.Runtime 1  Exception caught in AppMachineLockingCtrl.UpdateButtonStatus().. Error: Object reference not set to an instance of an object.
+2015-12-24 19:38:07.9359 1716 MES.Runtime 1  Exception caught in AppMachineLockingCtrl.UpdateButtonStatus().. Error: Object reference not set to an instance of an object.
+2015-12-24 19:38:07.9359 1716 MES.Runtime 1  Exception caught in AppMachineLockingCtrl.UpdateButtonStatus().. Error: Object reference not set to an instance of an object.
+2015-12-24 19:38:07.9469 1716 MES.Runtime 1  Exception caught in AppMachineLockingCtrl.UpdateButtonStatus().. Error: Object reference not set to an instance of an object.
+2015-12-24 19:40:04.5025 1716 MES.Runtime 1  PMListener On Start.
+2015-12-24 19:40:05.5036 1716 MES.Runtime 1  Post Master Connection State: Idle
+2015-12-24 19:40:05.6066 1716 MES.Runtime 11 PMListener_MESProductChangeOver - StartPMListener spawning thread (Thread_System Configuration_PM)
+2015-12-24 19:40:05.6066 1716 MES.Runtime 11 PMListener_MESProductChangeOver - StartPMListener thread (Thread_System Configuration_PM) started
+2015-12-24 19:40:05.6806 1716 MES.Runtime 14 PMLib-ManageConnection PostMasterLibrary ConnectionState = Connecting
+2015-12-24 19:40:05.7536 1716 MES.Runtime 1  Content_Loaded Entered
+2015-12-24 19:40:05.8066 1716 MES.Runtime 1  Sys.Config.Plugin.MESConsolePluginContent.ProcessCommandAction Entered
+2015-12-24 19:40:06.7447 1716 MES.Runtime 14 PMLib-ManageConnection PostMasterLibrary ConnectionState = Connected
+2015-12-24 19:40:16.9613 1716 MES.Runtime 1  Sys.Config.Plugin.MESConsolePluginContent.ProcessCommandAction Exited.
+2015-12-24 19:40:17.0203 1716 MES.Runtime 1  Message added to internal queue
+2015-12-24 19:40:17.4513 1716 MES.Runtime 14 PMLib-ManageConnection Message added to internal queue
+2015-12-24 19:40:17.4513 1716 MES.Runtime 14 PMLib-ManageConnection Message added to internal queue
+2015-12-24 19:40:17.4513 1716 MES.Runtime 13 Processor_System Configuration_PM System.String
+2015-12-24 19:40:17.4513 1716 MES.Runtime 13 Processor_System Configuration_PM System.String
+2015-12-24 19:40:17.4513 1716 MES.Runtime 1  Content_Loaded Exited
+2015-12-24 19:40:17.9443 1800 MES.Server 25  BaseDataRule.ProcessConfig() Entered for Sys.Config.DR.Library.PipelineStages.DRGlobalConfig.
+2015-12-24 19:40:17.9713 1800 MES.Server 25  Deserialize the request for Sys.Config.DR.Library.PipelineStages.DRGlobalConfig.
+2015-12-24 19:40:18.9844 1800 MES.Server 25  ACTION - LOAD Data for Sys.Config.DR.Library.PipelineStages.DRGlobalConfig.
+2015-12-24 19:40:18.9844 1800 MES.Server 25  DRGlobalConfig.LoadConfig() Entered.
+2015-12-24 19:40:18.9844 1800 MES.Server 25  Call GetAttributeValues to get the attribute values from SYSTEM_CONFIG in a data table for GlobalSettings.
+2015-12-24 19:40:19.0524 1800 MES.Server 25  DR_Common.GetAttributeValues Entered.
+2015-12-24 19:40:19.6554 1800 MES.Server 25  Create a SQL Command and set the sql query for COMMON config.
+2015-12-24 19:40:19.6554 1800 MES.Server 25  Set the sql query for COMMON config.
+2015-12-24 19:40:19.6554 1800 MES.Server 25  Fill the sql data adapter with the values fetched by SQL Command for COMMON config.
+2015-12-24 19:40:19.7154 1800 MES.Server 25  DR_Common.GetAttributeValues Exited.
+2015-12-24 19:40:19.7154 1800 MES.Server 25  DRGlobalConfig.ExecuteSP() - Preparing execute SP: [dbo].[usp_get_panacim_option_setting].
+2015-12-24 19:40:19.7614 1800 MES.Server 25  Sys.Config.DR.Library.PipelineStages.DRGlobalConfig:Fill the sql data adapter.
+2015-12-24 19:40:20.1094 1800 MES.Server 25  DRGlobalConfig.LoadConfig() Exited.
+2015-12-24 19:40:20.2184 1800 MES.Server 25  Load the serialized data into the XML Document for Sys.Config.DR.Library.PipelineStages.DRGlobalConfig.
+2015-12-24 19:40:20.2194 1800 MES.Server 25  BaseDataRule.ProcessConfig() Exited.
+2015-12-24 19:40:20.4195 1716 MES.Runtime 1  MESConsolePluginContext.ClickHandler Entered 
+2015-12-24 19:40:20.4195 1716 MES.Runtime 1  MESConsolePluginContext.ClickHandler Exited 
+2015-12-24 19:40:46.4399 1716 MES.Runtime 14 PMLib-ManageConnection Message added to internal queue
+2015-12-24 19:40:46.6410 1716 MES.Runtime 14 PMLib-ManageConnection Message added to internal queue
+2015-12-24 19:41:08.7852 1716 MES.Runtime 14 PMLib-ManageConnection PostMasterLibrary ConnectionState = Disconnected
+2015-12-24 19:41:08.8262 1716 MES.Runtime 13 Processor_System Configuration_PM _threadName has completed.
+2015-12-24 19:42:09.6947 5336 MES.Runtime 1  SystemBarcodeParserCfgCtrl() Entered.
+2015-12-24 19:42:09.7157 5336 MES.Runtime 1  SystemBarcodeParserCfgCtrl() Exited.
+2015-12-24 19:42:09.7407 5336 MES.Runtime 1  SystemOperatorConfigCtrl.SystemOperatorConfigCtrl() Entered.
+2015-12-24 19:42:09.7407 5336 MES.Runtime 1  SystemOperatorNameConfigCtrl.SystemOperatorNameConfigCtrl() Entered.
+2015-12-24 19:42:09.7587 5336 MES.Runtime 1  SystemOperatorNameConfigCtrl.SystemOperatorNameConfigCtrl() Exited.
+2015-12-24 19:42:09.7587 5336 MES.Runtime 1  SystemOperatorGroupsConfigCtrl.SystemOperatorGroupsConfigCtrl() Entered.
+2015-12-24 19:42:09.7677 5336 MES.Runtime 1  Exception caught in SystemOperatorGroupsConfigCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2015-12-24 19:42:09.7677 5336 MES.Runtime 1  Exception caught in SystemOperatorGroupsConfigCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2015-12-24 19:42:09.7677 5336 MES.Runtime 1  SystemOperatorGroupsConfigCtrl.SystemOperatorGroupsConfigCtrl() Exited.
+2015-12-24 19:42:09.7677 5336 MES.Runtime 1  SystemOperatorConfigCtrl.SystemOperatorConfigCtrl() Exited.
+2015-12-24 19:42:09.8397 5336 MES.Runtime 1  PasswordHelper.Attach() Entered.
+2015-12-24 19:42:09.9627 5336 MES.Runtime 1  PasswordHelper.Attach() Entered.
+2015-12-24 19:42:09.9627 5336 MES.Runtime 1  PasswordHelper.Attach() Entered.
+2015-12-24 19:42:09.9947 5336 MES.Runtime 1  ModuleMaintenanceCtrl.ModuleMaintenanceCtrl() Entered.
+2015-12-24 19:42:10.0677 5336 MES.Runtime 1  ModuleMaintenanceCtrl.ModuleMaintenanceCtrl() Exited.
+2015-12-24 19:42:10.1407 5336 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2015-12-24 19:42:10.1407 5336 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2015-12-24 19:42:10.1407 5336 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2015-12-24 19:42:10.1407 5336 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2015-12-24 19:42:10.1407 5336 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2015-12-24 19:42:10.1407 5336 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2015-12-24 19:42:10.1407 5336 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2015-12-24 19:42:10.2167 5336 MES.Runtime 1  Exception caught in AppOracleDataSourcesCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2015-12-24 19:42:10.2167 5336 MES.Runtime 1  Exception caught in AppOracleDataSourcesCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2015-12-24 19:42:10.2167 5336 MES.Runtime 1  Exception caught in AppSQLDataSourcesCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2015-12-24 19:42:10.2167 5336 MES.Runtime 1  Exception caught in AppSQLDataSourcesCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2015-12-24 19:42:10.2367 5336 MES.Runtime 1  PasswordHelper.Attach() Entered.
+2015-12-24 19:42:10.2367 5336 MES.Runtime 1  Exception caught in AppTEXTDataSourcesCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2015-12-24 19:42:10.2367 5336 MES.Runtime 1  Exception caught in AppTEXTDataSourcesCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2015-12-24 19:42:10.2697 5336 MES.Runtime 1  Exception caught in AppImportConfigCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2015-12-24 19:42:10.2697 5336 MES.Runtime 1  Exception caught in AppImportConfigCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2015-12-24 19:42:10.2697 5336 MES.Runtime 1  Exception caught in AppMachineLockingCtrl.UpdateButtonStatus().. Error: Object reference not set to an instance of an object.
+2015-12-24 19:42:10.2697 5336 MES.Runtime 1  Exception caught in AppMachineLockingCtrl.UpdateButtonStatus().. Error: Object reference not set to an instance of an object.
+2015-12-24 19:42:10.2697 5336 MES.Runtime 1  Exception caught in AppMachineLockingCtrl.UpdateButtonStatus().. Error: Object reference not set to an instance of an object.
+2015-12-24 19:42:10.2697 5336 MES.Runtime 1  Exception caught in AppMachineLockingCtrl.UpdateButtonStatus().. Error: Object reference not set to an instance of an object.
+2015-12-24 19:48:02.7989 5336 MES.Runtime 1  PMListener On Start.
+2015-12-24 19:48:02.8179 5336 MES.Runtime 14 PMListener_MESProductChangeOver - StartPMListener spawning thread (Thread_System Configuration_PM)
+2015-12-24 19:48:02.8179 5336 MES.Runtime 14 PMListener_MESProductChangeOver - StartPMListener thread (Thread_System Configuration_PM) started
+2015-12-24 19:48:02.8249 5336 MES.Runtime 16 PMLib-ManageConnection PostMasterLibrary ConnectionState = Connecting
+2015-12-24 19:48:02.9589 5336 MES.Runtime 16 PMLib-ManageConnection PostMasterLibrary ConnectionState = Connected
+2015-12-24 19:48:03.8110 5336 MES.Runtime 1  Post Master Connection State: Connected
+2015-12-24 19:48:03.8310 5336 MES.Runtime 1  Content_Loaded Entered
+2015-12-24 19:48:03.8310 5336 MES.Runtime 1  Sys.Config.Plugin.MESConsolePluginContent.ProcessCommandAction Entered
+2015-12-24 19:48:03.9150 5336 MES.Runtime 1  Sys.Config.Plugin.MESConsolePluginContent.ProcessCommandAction Exited.
+2015-12-24 19:48:03.9170 5336 MES.Runtime 1  Message added to internal queue
+2015-12-24 19:48:03.9680 5336 MES.Runtime 16 PMLib-ManageConnection Message added to internal queue
+2015-12-24 19:48:04.1720 5336 MES.Runtime 16 PMLib-ManageConnection Message added to internal queue
+2015-12-24 19:48:04.1720 5336 MES.Runtime 15 Processor_System Configuration_PM System.String
+2015-12-24 19:48:04.1720 5336 MES.Runtime 15 Processor_System Configuration_PM System.String
+2015-12-24 19:48:04.1720 5336 MES.Runtime 1  Content_Loaded Exited
+2015-12-24 19:48:05.1790 5336 MES.Runtime 16 PMLib-ManageConnection PostMasterLibrary ConnectionState = Disconnected
+2015-12-24 19:48:05.1810 5336 MES.Runtime 15 Processor_System Configuration_PM _threadName has completed.
+2015-12-24 19:48:07.0321 1800 MES.Server 11  BaseDataRule.ProcessConfig() Entered for Sys.Config.DR.Library.PipelineStages.DRGlobalConfig.
+2015-12-24 19:48:07.0321 1800 MES.Server 11  Deserialize the request for Sys.Config.DR.Library.PipelineStages.DRGlobalConfig.
+2015-12-24 19:48:07.0321 1800 MES.Server 11  ACTION - LOAD Data for Sys.Config.DR.Library.PipelineStages.DRGlobalConfig.
+2015-12-24 19:48:07.0321 1800 MES.Server 11  DRGlobalConfig.LoadConfig() Entered.
+2015-12-24 19:48:07.0321 1800 MES.Server 11  Call GetAttributeValues to get the attribute values from SYSTEM_CONFIG in a data table for GlobalSettings.
+2015-12-24 19:48:07.0321 1800 MES.Server 11  DR_Common.GetAttributeValues Entered.
+2015-12-24 19:48:07.0321 1800 MES.Server 11  Create a SQL Command and set the sql query for COMMON config.
+2015-12-24 19:48:07.0321 1800 MES.Server 11  Set the sql query for COMMON config.
+2015-12-24 19:48:07.0321 1800 MES.Server 11  Fill the sql data adapter with the values fetched by SQL Command for COMMON config.
+2015-12-24 19:48:07.7242 1800 MES.Server 11  DR_Common.GetAttributeValues Exited.
+2015-12-24 19:48:07.7242 1800 MES.Server 11  DRGlobalConfig.ExecuteSP() - Preparing execute SP: [dbo].[usp_get_panacim_option_setting].
+2015-12-24 19:48:07.7242 1800 MES.Server 11  Sys.Config.DR.Library.PipelineStages.DRGlobalConfig:Fill the sql data adapter.
+2015-12-24 19:48:08.0672 1800 MES.Server 11  DRGlobalConfig.LoadConfig() Exited.
+2015-12-24 19:48:08.0672 1800 MES.Server 11  Load the serialized data into the XML Document for Sys.Config.DR.Library.PipelineStages.DRGlobalConfig.
+2015-12-24 19:48:08.0672 1800 MES.Server 11  BaseDataRule.ProcessConfig() Exited.
+2015-12-24 19:48:08.2152 5336 MES.Runtime 1  MESConsolePluginContext.ClickHandler Entered 
+2015-12-24 19:48:08.2152 5336 MES.Runtime 1  MESConsolePluginContext.ClickHandler Exited 
+2016-01-06 16:18:13.1742 1204 MES.Runtime 1  SystemBarcodeParserCfgCtrl() Entered.
+2016-01-06 16:18:13.2432 1204 MES.Runtime 1  SystemBarcodeParserCfgCtrl() Exited.
+2016-01-06 16:18:13.2682 1204 MES.Runtime 1  SystemOperatorConfigCtrl.SystemOperatorConfigCtrl() Entered.
+2016-01-06 16:18:13.2722 1204 MES.Runtime 1  SystemOperatorNameConfigCtrl.SystemOperatorNameConfigCtrl() Entered.
+2016-01-06 16:18:13.2872 1204 MES.Runtime 1  SystemOperatorNameConfigCtrl.SystemOperatorNameConfigCtrl() Exited.
+2016-01-06 16:18:13.2872 1204 MES.Runtime 1  SystemOperatorGroupsConfigCtrl.SystemOperatorGroupsConfigCtrl() Entered.
+2016-01-06 16:18:13.3632 1204 MES.Runtime 1  Exception caught in SystemOperatorGroupsConfigCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2016-01-06 16:18:13.3632 1204 MES.Runtime 1  Exception caught in SystemOperatorGroupsConfigCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2016-01-06 16:18:13.3632 1204 MES.Runtime 1  SystemOperatorGroupsConfigCtrl.SystemOperatorGroupsConfigCtrl() Exited.
+2016-01-06 16:18:13.3632 1204 MES.Runtime 1  SystemOperatorConfigCtrl.SystemOperatorConfigCtrl() Exited.
+2016-01-06 16:18:13.4372 1204 MES.Runtime 1  PasswordHelper.Attach() Entered.
+2016-01-06 16:18:13.5662 1204 MES.Runtime 1  PasswordHelper.Attach() Entered.
+2016-01-06 16:18:13.5662 1204 MES.Runtime 1  PasswordHelper.Attach() Entered.
+2016-01-06 16:18:13.5922 1204 MES.Runtime 1  ModuleMaintenanceCtrl.ModuleMaintenanceCtrl() Entered.
+2016-01-06 16:18:13.6682 1204 MES.Runtime 1  ModuleMaintenanceCtrl.ModuleMaintenanceCtrl() Exited.
+2016-01-06 16:18:13.7222 1204 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2016-01-06 16:18:13.7222 1204 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2016-01-06 16:18:13.7222 1204 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2016-01-06 16:18:13.7222 1204 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2016-01-06 16:18:13.7222 1204 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2016-01-06 16:18:13.7222 1204 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2016-01-06 16:18:13.7222 1204 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2016-01-06 16:18:13.7912 1204 MES.Runtime 1  Exception caught in AppOracleDataSourcesCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2016-01-06 16:18:13.7912 1204 MES.Runtime 1  Exception caught in AppOracleDataSourcesCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2016-01-06 16:18:13.8002 1204 MES.Runtime 1  Exception caught in AppSQLDataSourcesCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2016-01-06 16:18:13.8002 1204 MES.Runtime 1  Exception caught in AppSQLDataSourcesCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2016-01-06 16:18:13.8002 1204 MES.Runtime 1  PasswordHelper.Attach() Entered.
+2016-01-06 16:18:13.8002 1204 MES.Runtime 1  Exception caught in AppTEXTDataSourcesCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2016-01-06 16:18:13.8002 1204 MES.Runtime 1  Exception caught in AppTEXTDataSourcesCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2016-01-06 16:18:13.8792 1204 MES.Runtime 1  Exception caught in AppImportConfigCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2016-01-06 16:18:13.8792 1204 MES.Runtime 1  Exception caught in AppImportConfigCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2016-01-06 16:18:13.8792 1204 MES.Runtime 1  Exception caught in AppMachineLockingCtrl.UpdateButtonStatus().. Error: Object reference not set to an instance of an object.
+2016-01-06 16:18:13.8792 1204 MES.Runtime 1  Exception caught in AppMachineLockingCtrl.UpdateButtonStatus().. Error: Object reference not set to an instance of an object.
+2016-01-06 16:18:13.8792 1204 MES.Runtime 1  Exception caught in AppMachineLockingCtrl.UpdateButtonStatus().. Error: Object reference not set to an instance of an object.
+2016-01-06 16:18:13.8792 1204 MES.Runtime 1  Exception caught in AppMachineLockingCtrl.UpdateButtonStatus().. Error: Object reference not set to an instance of an object.
+2016-01-13 20:16:56.3156 3588 MES.Runtime 1  SystemBarcodeParserCfgCtrl() Entered.
+2016-01-13 20:16:56.3996 3588 MES.Runtime 1  SystemBarcodeParserCfgCtrl() Exited.
+2016-01-13 20:16:56.4476 3588 MES.Runtime 1  SystemOperatorConfigCtrl.SystemOperatorConfigCtrl() Entered.
+2016-01-13 20:16:56.4516 3588 MES.Runtime 1  SystemOperatorNameConfigCtrl.SystemOperatorNameConfigCtrl() Entered.
+2016-01-13 20:16:56.5196 3588 MES.Runtime 1  SystemOperatorNameConfigCtrl.SystemOperatorNameConfigCtrl() Exited.
+2016-01-13 20:16:56.5326 3588 MES.Runtime 1  SystemOperatorGroupsConfigCtrl.SystemOperatorGroupsConfigCtrl() Entered.
+2016-01-13 20:16:56.6126 3588 MES.Runtime 1  Exception caught in SystemOperatorGroupsConfigCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2016-01-13 20:16:56.6126 3588 MES.Runtime 1  Exception caught in SystemOperatorGroupsConfigCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2016-01-13 20:16:56.6126 3588 MES.Runtime 1  SystemOperatorGroupsConfigCtrl.SystemOperatorGroupsConfigCtrl() Exited.
+2016-01-13 20:16:56.6126 3588 MES.Runtime 1  SystemOperatorConfigCtrl.SystemOperatorConfigCtrl() Exited.
+2016-01-13 20:16:56.7536 3588 MES.Runtime 1  PasswordHelper.Attach() Entered.
+2016-01-13 20:16:57.0036 3588 MES.Runtime 1  PasswordHelper.Attach() Entered.
+2016-01-13 20:16:57.0036 3588 MES.Runtime 1  PasswordHelper.Attach() Entered.
+2016-01-13 20:16:57.0296 3588 MES.Runtime 1  ModuleMaintenanceCtrl.ModuleMaintenanceCtrl() Entered.
+2016-01-13 20:16:57.1216 3588 MES.Runtime 1  ModuleMaintenanceCtrl.ModuleMaintenanceCtrl() Exited.
+2016-01-13 20:16:57.2276 3588 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2016-01-13 20:16:57.2276 3588 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2016-01-13 20:16:57.2276 3588 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2016-01-13 20:16:57.2276 3588 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2016-01-13 20:16:57.2326 3588 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2016-01-13 20:16:57.2326 3588 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2016-01-13 20:16:57.2326 3588 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2016-01-13 20:16:57.3367 3588 MES.Runtime 1  Exception caught in AppOracleDataSourcesCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2016-01-13 20:16:57.3367 3588 MES.Runtime 1  Exception caught in AppOracleDataSourcesCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2016-01-13 20:16:57.3477 3588 MES.Runtime 1  Exception caught in AppSQLDataSourcesCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2016-01-13 20:16:57.3477 3588 MES.Runtime 1  Exception caught in AppSQLDataSourcesCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2016-01-13 20:16:57.3577 3588 MES.Runtime 1  PasswordHelper.Attach() Entered.
+2016-01-13 20:16:57.3577 3588 MES.Runtime 1  Exception caught in AppTEXTDataSourcesCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2016-01-13 20:16:57.3577 3588 MES.Runtime 1  Exception caught in AppTEXTDataSourcesCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2016-01-13 20:16:57.4157 3588 MES.Runtime 1  Exception caught in AppImportConfigCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2016-01-13 20:16:57.4157 3588 MES.Runtime 1  Exception caught in AppImportConfigCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2016-01-13 20:16:57.4217 3588 MES.Runtime 1  Exception caught in AppMachineLockingCtrl.UpdateButtonStatus().. Error: Object reference not set to an instance of an object.
+2016-01-13 20:16:57.4217 3588 MES.Runtime 1  Exception caught in AppMachineLockingCtrl.UpdateButtonStatus().. Error: Object reference not set to an instance of an object.
+2016-01-13 20:16:57.4217 3588 MES.Runtime 1  Exception caught in AppMachineLockingCtrl.UpdateButtonStatus().. Error: Object reference not set to an instance of an object.
+2016-01-13 20:16:57.4217 3588 MES.Runtime 1  Exception caught in AppMachineLockingCtrl.UpdateButtonStatus().. Error: Object reference not set to an instance of an object.
+2016-01-15 13:19:36.3574 4492 MES.Runtime 1  SystemBarcodeParserCfgCtrl() Entered.
+2016-01-15 13:19:36.8894 4492 MES.Runtime 1  SystemBarcodeParserCfgCtrl() Exited.
+2016-01-15 13:19:36.9174 4492 MES.Runtime 1  SystemOperatorConfigCtrl.SystemOperatorConfigCtrl() Entered.
+2016-01-15 13:19:36.9684 4492 MES.Runtime 1  SystemOperatorNameConfigCtrl.SystemOperatorNameConfigCtrl() Entered.
+2016-01-15 13:19:37.0914 4492 MES.Runtime 1  SystemOperatorNameConfigCtrl.SystemOperatorNameConfigCtrl() Exited.
+2016-01-15 13:19:37.1074 4492 MES.Runtime 1  SystemOperatorGroupsConfigCtrl.SystemOperatorGroupsConfigCtrl() Entered.
+2016-01-15 13:19:37.2984 4492 MES.Runtime 1  Exception caught in SystemOperatorGroupsConfigCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2016-01-15 13:19:37.2984 4492 MES.Runtime 1  Exception caught in SystemOperatorGroupsConfigCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2016-01-15 13:19:37.2984 4492 MES.Runtime 1  SystemOperatorGroupsConfigCtrl.SystemOperatorGroupsConfigCtrl() Exited.
+2016-01-15 13:19:37.2984 4492 MES.Runtime 1  SystemOperatorConfigCtrl.SystemOperatorConfigCtrl() Exited.
+2016-01-15 13:19:37.4664 4492 MES.Runtime 1  PasswordHelper.Attach() Entered.
+2016-01-15 13:19:37.7795 4492 MES.Runtime 1  PasswordHelper.Attach() Entered.
+2016-01-15 13:19:37.7795 4492 MES.Runtime 1  PasswordHelper.Attach() Entered.
+2016-01-15 13:19:37.8085 4492 MES.Runtime 1  ModuleMaintenanceCtrl.ModuleMaintenanceCtrl() Entered.
+2016-01-15 13:19:37.9325 4492 MES.Runtime 1  ModuleMaintenanceCtrl.ModuleMaintenanceCtrl() Exited.
+2016-01-15 13:19:38.0125 4492 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2016-01-15 13:19:38.0125 4492 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2016-01-15 13:19:38.0125 4492 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2016-01-15 13:19:38.0125 4492 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2016-01-15 13:19:38.0125 4492 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2016-01-15 13:19:38.0125 4492 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2016-01-15 13:19:38.0125 4492 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2016-01-15 13:19:38.0985 4492 MES.Runtime 1  Exception caught in AppOracleDataSourcesCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2016-01-15 13:19:38.0985 4492 MES.Runtime 1  Exception caught in AppOracleDataSourcesCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2016-01-15 13:19:38.0985 4492 MES.Runtime 1  Exception caught in AppSQLDataSourcesCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2016-01-15 13:19:38.0985 4492 MES.Runtime 1  Exception caught in AppSQLDataSourcesCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2016-01-15 13:19:38.1195 4492 MES.Runtime 1  PasswordHelper.Attach() Entered.
+2016-01-15 13:19:38.1195 4492 MES.Runtime 1  Exception caught in AppTEXTDataSourcesCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2016-01-15 13:19:38.1195 4492 MES.Runtime 1  Exception caught in AppTEXTDataSourcesCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2016-01-15 13:19:38.2175 4492 MES.Runtime 1  Exception caught in AppImportConfigCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2016-01-15 13:19:38.2175 4492 MES.Runtime 1  Exception caught in AppImportConfigCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2016-01-15 13:19:38.2425 4492 MES.Runtime 1  Exception caught in AppMachineLockingCtrl.UpdateButtonStatus().. Error: Object reference not set to an instance of an object.
+2016-01-15 13:19:38.2425 4492 MES.Runtime 1  Exception caught in AppMachineLockingCtrl.UpdateButtonStatus().. Error: Object reference not set to an instance of an object.
+2016-01-15 13:19:38.2425 4492 MES.Runtime 1  Exception caught in AppMachineLockingCtrl.UpdateButtonStatus().. Error: Object reference not set to an instance of an object.
+2016-01-15 13:19:38.2685 4492 MES.Runtime 1  Exception caught in AppMachineLockingCtrl.UpdateButtonStatus().. Error: Object reference not set to an instance of an object.
+2016-02-08 17:44:46.2881 3376 MES.Runtime 1  SystemBarcodeParserCfgCtrl() Entered.
+2016-02-08 17:44:46.3911 3376 MES.Runtime 1  SystemBarcodeParserCfgCtrl() Exited.
+2016-02-08 17:44:46.4211 3376 MES.Runtime 1  SystemOperatorConfigCtrl.SystemOperatorConfigCtrl() Entered.
+2016-02-08 17:44:46.4211 3376 MES.Runtime 1  SystemOperatorNameConfigCtrl.SystemOperatorNameConfigCtrl() Entered.
+2016-02-08 17:44:46.5121 3376 MES.Runtime 1  SystemOperatorNameConfigCtrl.SystemOperatorNameConfigCtrl() Exited.
+2016-02-08 17:44:46.5121 3376 MES.Runtime 1  SystemOperatorGroupsConfigCtrl.SystemOperatorGroupsConfigCtrl() Entered.
+2016-02-08 17:44:46.5931 3376 MES.Runtime 1  Exception caught in SystemOperatorGroupsConfigCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2016-02-08 17:44:46.5931 3376 MES.Runtime 1  Exception caught in SystemOperatorGroupsConfigCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2016-02-08 17:44:46.5931 3376 MES.Runtime 1  SystemOperatorGroupsConfigCtrl.SystemOperatorGroupsConfigCtrl() Exited.
+2016-02-08 17:44:46.5931 3376 MES.Runtime 1  SystemOperatorConfigCtrl.SystemOperatorConfigCtrl() Exited.
+2016-02-08 17:44:46.7331 3376 MES.Runtime 1  PasswordHelper.Attach() Entered.
+2016-02-08 17:44:47.0542 3376 MES.Runtime 1  PasswordHelper.Attach() Entered.
+2016-02-08 17:44:47.0542 3376 MES.Runtime 1  PasswordHelper.Attach() Entered.
+2016-02-08 17:44:47.0832 3376 MES.Runtime 1  ModuleMaintenanceCtrl.ModuleMaintenanceCtrl() Entered.
+2016-02-08 17:44:47.2622 3376 MES.Runtime 1  ModuleMaintenanceCtrl.ModuleMaintenanceCtrl() Exited.
+2016-02-08 17:44:47.3922 3376 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2016-02-08 17:44:47.3922 3376 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2016-02-08 17:44:47.3922 3376 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2016-02-08 17:44:47.3972 3376 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2016-02-08 17:44:47.3972 3376 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2016-02-08 17:44:47.3972 3376 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2016-02-08 17:44:47.3972 3376 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2016-02-08 17:44:47.5812 3376 MES.Runtime 1  Exception caught in AppOracleDataSourcesCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2016-02-08 17:44:47.5812 3376 MES.Runtime 1  Exception caught in AppOracleDataSourcesCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2016-02-08 17:44:47.5932 3376 MES.Runtime 1  Exception caught in AppSQLDataSourcesCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2016-02-08 17:44:47.5932 3376 MES.Runtime 1  Exception caught in AppSQLDataSourcesCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2016-02-08 17:44:47.6052 3376 MES.Runtime 1  PasswordHelper.Attach() Entered.
+2016-02-08 17:44:47.6052 3376 MES.Runtime 1  Exception caught in AppTEXTDataSourcesCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2016-02-08 17:44:47.6052 3376 MES.Runtime 1  Exception caught in AppTEXTDataSourcesCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2016-02-08 17:44:47.6842 3376 MES.Runtime 1  Exception caught in AppImportConfigCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2016-02-08 17:44:47.6842 3376 MES.Runtime 1  Exception caught in AppImportConfigCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2016-02-08 17:44:47.7012 3376 MES.Runtime 1  Exception caught in AppMachineLockingCtrl.UpdateButtonStatus().. Error: Object reference not set to an instance of an object.
+2016-02-08 17:44:47.7012 3376 MES.Runtime 1  Exception caught in AppMachineLockingCtrl.UpdateButtonStatus().. Error: Object reference not set to an instance of an object.
+2016-02-08 17:44:47.7012 3376 MES.Runtime 1  Exception caught in AppMachineLockingCtrl.UpdateButtonStatus().. Error: Object reference not set to an instance of an object.
+2016-02-08 17:44:47.7012 3376 MES.Runtime 1  Exception caught in AppMachineLockingCtrl.UpdateButtonStatus().. Error: Object reference not set to an instance of an object.
+2016-02-09 18:10:01.2793 3580 MES.Runtime 1  SystemBarcodeParserCfgCtrl() Entered.
+2016-02-09 18:10:01.3643 3580 MES.Runtime 1  SystemBarcodeParserCfgCtrl() Exited.
+2016-02-09 18:10:01.4264 3580 MES.Runtime 1  SystemOperatorConfigCtrl.SystemOperatorConfigCtrl() Entered.
+2016-02-09 18:10:01.4324 3580 MES.Runtime 1  SystemOperatorNameConfigCtrl.SystemOperatorNameConfigCtrl() Entered.
+2016-02-09 18:10:01.5184 3580 MES.Runtime 1  SystemOperatorNameConfigCtrl.SystemOperatorNameConfigCtrl() Exited.
+2016-02-09 18:10:01.5184 3580 MES.Runtime 1  SystemOperatorGroupsConfigCtrl.SystemOperatorGroupsConfigCtrl() Entered.
+2016-02-09 18:10:01.8304 3580 MES.Runtime 1  Exception caught in SystemOperatorGroupsConfigCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2016-02-09 18:10:01.8304 3580 MES.Runtime 1  Exception caught in SystemOperatorGroupsConfigCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2016-02-09 18:10:01.8304 3580 MES.Runtime 1  SystemOperatorGroupsConfigCtrl.SystemOperatorGroupsConfigCtrl() Exited.
+2016-02-09 18:10:01.8364 3580 MES.Runtime 1  SystemOperatorConfigCtrl.SystemOperatorConfigCtrl() Exited.
+2016-02-09 18:10:01.9874 3580 MES.Runtime 1  PasswordHelper.Attach() Entered.
+2016-02-09 18:10:02.1994 3580 MES.Runtime 1  PasswordHelper.Attach() Entered.
+2016-02-09 18:10:02.1994 3580 MES.Runtime 1  PasswordHelper.Attach() Entered.
+2016-02-09 18:10:02.2314 3580 MES.Runtime 1  ModuleMaintenanceCtrl.ModuleMaintenanceCtrl() Entered.
+2016-02-09 18:10:02.4274 3580 MES.Runtime 1  ModuleMaintenanceCtrl.ModuleMaintenanceCtrl() Exited.
+2016-02-09 18:10:02.5374 3580 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2016-02-09 18:10:02.5384 3580 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2016-02-09 18:10:02.5384 3580 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2016-02-09 18:10:02.5384 3580 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2016-02-09 18:10:02.5384 3580 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2016-02-09 18:10:02.5384 3580 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2016-02-09 18:10:02.5384 3580 MES.Runtime 1  Exception caught in ModuleFeederPartGroupsCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2016-02-09 18:10:02.6934 3580 MES.Runtime 1  Exception caught in AppOracleDataSourcesCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2016-02-09 18:10:02.6944 3580 MES.Runtime 1  Exception caught in AppOracleDataSourcesCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2016-02-09 18:10:02.6944 3580 MES.Runtime 1  Exception caught in AppSQLDataSourcesCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2016-02-09 18:10:02.6944 3580 MES.Runtime 1  Exception caught in AppSQLDataSourcesCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2016-02-09 18:10:02.7114 3580 MES.Runtime 1  PasswordHelper.Attach() Entered.
+2016-02-09 18:10:02.7114 3580 MES.Runtime 1  Exception caught in AppTEXTDataSourcesCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2016-02-09 18:10:02.7114 3580 MES.Runtime 1  Exception caught in AppTEXTDataSourcesCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2016-02-09 18:10:02.7544 3580 MES.Runtime 1  Exception caught in AppImportConfigCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2016-02-09 18:10:02.7544 3580 MES.Runtime 1  Exception caught in AppImportConfigCtrl.CommandCanExecuteHandler(). Error: Object reference not set to an instance of an object.
+2016-02-09 18:10:02.7714 3580 MES.Runtime 1  Exception caught in AppMachineLockingCtrl.UpdateButtonStatus().. Error: Object reference not set to an instance of an object.
+2016-02-09 18:10:02.7724 3580 MES.Runtime 1  Exception caught in AppMachineLockingCtrl.UpdateButtonStatus().. Error: Object reference not set to an instance of an object.
+2016-02-09 18:10:02.7724 3580 MES.Runtime 1  Exception caught in AppMachineLockingCtrl.UpdateButtonStatus().. Error: Object reference not set to an instance of an object.
+2016-02-09 18:10:02.7724 3580 MES.Runtime 1  Exception caught in AppMachineLockingCtrl.UpdateButtonStatus().. Error: Object reference not set to an instance of an object.

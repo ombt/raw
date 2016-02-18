@@ -1,0 +1,11 @@
+2016/02/08 15:01:33: dbpurge.cpp:2316 C:\BACKUPDB\archive
+2016/02/08 15:03:22: dbpurge.cpp:1818 Sending Event: Next space check will be done at 02/09/16 22:00:00
+2016/02/08 15:03:23: dbpurge.cpp:1818 Next space check will be done at 02/09/16 22:00:00
+2016/02/08 15:03:23: dbpurge.cpp:2103 KillDBPurgeEvent already exists.
+2016/02/08 15:03:23: dbpurge.cpp:2134 Waiting for events with timeout: 0 seconds
+2016/02/08 15:03:23: dbpurge.cpp:2177 Timeout occured while waiting for events.
+2016/02/08 15:03:26: dbpurge.cpp:1818 Re-reading system config
+2016/02/08 15:03:26: dbpurge.cpp:1818 Next space check will be done at 02/09/16 22:00:00
+2016/02/08 15:03:26: dbpurge.cpp:2316 C:\BACKUPDB\archive
+2016/02/08 15:03:27: dbpurge.cpp:2134 Waiting for events with timeout: 111394 seconds
+2016/02/08 15:22:20: dbpurge.cpp:2169 KillDBPurgeEvent is set.

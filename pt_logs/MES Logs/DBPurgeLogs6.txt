@@ -1,0 +1,675 @@
+2016/01/08 14:04:08: dbpurge.cpp:2316 C:\BACKUPDB\archive
+2016/01/08 14:04:19: dbpurge.cpp:1818 Sending Event: Next space check will be done at 01/09/16 22:00:00
+2016/01/08 14:04:22: dbpurge.cpp:1818 Next space check will be done at 01/09/16 22:00:00
+2016/01/08 14:04:22: dbpurge.cpp:2103 KillDBPurgeEvent already exists.
+2016/01/08 14:04:22: dbpurge.cpp:2134 Waiting for events with timeout: 0 seconds
+2016/01/08 14:04:22: dbpurge.cpp:2177 Timeout occured while waiting for events.
+2016/01/08 14:04:22: dbpurge.cpp:1818 Re-reading system config
+2016/01/08 14:04:22: dbpurge.cpp:1818 Next space check will be done at 01/09/16 22:00:00
+2016/01/08 14:04:22: dbpurge.cpp:2316 C:\BACKUPDB\archive
+2016/01/08 14:04:22: dbpurge.cpp:2134 Waiting for events with timeout: 114938 seconds
+2016/01/08 15:01:28: dbpurge.cpp:2152 PurgeNowEvent is set.
+2016/01/08 15:01:32: dbpurge.cpp:1818 Re-reading system config
+2016/01/08 15:01:32: dbpurge.cpp:1818 Next space check will be done at 01/09/16 22:00:00
+2016/01/08 15:01:32: dbpurge.cpp:2316 C:\BACKUPDB\archive
+2016/01/08 15:01:32: dbpurge.cpp:1818 Got purge NOW message''.  Purging with option : DPA_BOTHupto 1450969200
+2016/01/08 15:01:32: dbpurge.cpp:1818 Last Purge Done at: 0
+2016/01/08 15:01:32: dbpurge.cpp:1818 Sending Event: Purging data up to 12/25/15 00:00:00
+2016/01/08 15:01:32: dbpurge.cpp:1818 Purging data up to 12/25/15 00:00:00
+2016/01/08 15:01:32: dbpurge.cpp:1818 Calculating current space usage
+2016/01/08 15:01:37: dbpurge.cpp:1818 Calculating database sizes
+2016/01/08 15:01:40: dbpurge.cpp:1818 Calculating filegroup sizes
+2016/01/08 15:01:41: dbpurge.cpp:1818 Sending Event: DB Purge created temporary file 'C:\Windows\system32\\db_purgea02404'.
+2016/01/08 15:01:41: dbpurge.cpp:1915 Backing up data into file '2015-12-24-PanaCIM.tar'
+2016/01/08 15:01:42: dbpurge.cpp:1888     Backing up tuples from table: dbo.active_carriage_history
+2016/01/08 15:01:42: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:01:43: dbpurge.cpp:1888     Backing up tuples from table: dbo.andon_event_history
+2016/01/08 15:01:43: dbpurge.cpp:1915  282 tuples.
+2016/01/08 15:01:48: dbpurge.cpp:1888     Backing up tuples from table: dbo.aoi_equipments
+2016/01/08 15:01:48: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:01:49: dbpurge.cpp:1888     Backing up tuples from table: dbo.aoi_operators
+2016/01/08 15:01:49: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:01:50: dbpurge.cpp:1888     Backing up tuples from table: dbo.aoi_programs
+2016/01/08 15:01:50: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:01:51: dbpurge.cpp:1888     Backing up tuples from table: dbo.aoi_inspection_codes
+2016/01/08 15:01:51: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:01:51: dbpurge.cpp:1888     Backing up tuples from table: dbo.aoi_repair_codes
+2016/01/08 15:01:51: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:01:52: dbpurge.cpp:1888     Backing up tuples from table: dbo.aoi_inspection_hdr
+2016/01/08 15:01:52: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:01:53: dbpurge.cpp:1888     Backing up tuples from table: dbo.aoi_inspection_dtl
+2016/01/08 15:01:53: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:01:54: dbpurge.cpp:1888     Backing up tuples from table: dbo.aoi_repair_hdr
+2016/01/08 15:01:54: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:01:55: dbpurge.cpp:1888     Backing up tuples from table: dbo.aoi_repair_dtl
+2016/01/08 15:01:55: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:01:55: dbpurge.cpp:1888     Backing up tuples from table: dbo.attributes
+2016/01/08 15:01:56: dbpurge.cpp:1915  818 tuples.
+2016/01/08 15:02:01: dbpurge.cpp:1888     Backing up tuples from table: dbo.attr_relation
+2016/01/08 15:02:01: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:02:02: dbpurge.cpp:1888     Backing up tuples from table: dbo.base_product_dtl
+2016/01/08 15:02:02: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:02:02: dbpurge.cpp:1888     Backing up tuples from table: dbo.camera_lens_metrics_uvs
+2016/01/08 15:02:02: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:02:03: dbpurge.cpp:1888     Backing up tuples from table: dbo.cart_setup_config
+2016/01/08 15:02:03: dbpurge.cpp:1915  2 tuples.
+2016/01/08 15:02:08: dbpurge.cpp:1888     Backing up tuples from table: dbo.cart_feeder_history
+2016/01/08 15:02:08: dbpurge.cpp:1915  7 tuples.
+2016/01/08 15:02:13: dbpurge.cpp:1888     Backing up tuples from table: dbo.cart_mount_history
+2016/01/08 15:02:13: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:02:14: dbpurge.cpp:1888     Backing up tuples from table: dbo.cvt_carriage
+2016/01/08 15:02:14: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:02:14: dbpurge.cpp:1888     Backing up tuples from table: dbo.cvt_location_history
+2016/01/08 15:02:14: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:02:14: dbpurge.cpp:1888     Backing up tuples from table: dbo.chart_definition
+2016/01/08 15:02:14: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:02:15: dbpurge.cpp:1888     Backing up tuples from table: dbo.chart_defn_values
+2016/01/08 15:02:15: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:02:15: dbpurge.cpp:1888     Backing up tuples from table: dbo.component_cost
+2016/01/08 15:02:15: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:02:15: dbpurge.cpp:1888     Backing up tuples from table: dbo.comp_count_adj_history
+2016/01/08 15:02:15: dbpurge.cpp:1915  44 tuples.
+2016/01/08 15:02:20: dbpurge.cpp:1888     Backing up tuples from table: dbo.down_time_history
+2016/01/08 15:02:20: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:02:21: dbpurge.cpp:1888     Backing up tuples from table: dbo.equipment
+2016/01/08 15:02:21: dbpurge.cpp:1915  11 tuples.
+2016/01/08 15:02:27: dbpurge.cpp:1888     Backing up tuples from table: dbo.equipment_history
+2016/01/08 15:02:27: dbpurge.cpp:1915  36 tuples.
+2016/01/08 15:02:35: dbpurge.cpp:1888     Backing up tuples from table: dbo.email
+2016/01/08 15:02:35: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:02:36: dbpurge.cpp:1888     Backing up tuples from table: dbo.equip_lock_event_history
+2016/01/08 15:02:36: dbpurge.cpp:1915  23 tuples.
+2016/01/08 15:02:42: dbpurge.cpp:1888     Backing up tuples from table: dbo.equip_lock_instance_history
+2016/01/08 15:02:42: dbpurge.cpp:1915  3 tuples.
+2016/01/08 15:02:47: dbpurge.cpp:1888     Backing up tuples from table: dbo.expressions
+2016/01/08 15:02:47: dbpurge.cpp:1915  136 tuples.
+2016/01/08 15:02:53: dbpurge.cpp:1888     Backing up tuples from table: dbo.expression_attr
+2016/01/08 15:02:53: dbpurge.cpp:1915  590 tuples.
+2016/01/08 15:02:57: dbpurge.cpp:1888     Backing up tuples from table: dbo.feeder_history
+2016/01/08 15:02:58: dbpurge.cpp:1915  398 tuples.
+2016/01/08 15:03:08: dbpurge.cpp:1888     Backing up tuples from table: dbo.feeder_reel_history
+2016/01/08 15:03:09: dbpurge.cpp:1915  388 tuples.
+2016/01/08 15:03:22: dbpurge.cpp:1915 Purging feeder_repair_history until 04/14/13 00:00:00
+2016/01/08 15:03:23: dbpurge.cpp:1888     Backing up tuples from table: dbo.feeder_repair_history
+2016/01/08 15:03:23: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:03:24: dbpurge.cpp:1888     Backing up tuples from table: dbo.feeder_tag_history
+2016/01/08 15:03:24: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:03:25: dbpurge.cpp:1888     Backing up tuples from table: dbo.feeder_template
+2016/01/08 15:03:25: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:03:27: dbpurge.cpp:1888     Backing up tuples from table: dbo.feeder_type
+2016/01/08 15:03:27: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:03:28: dbpurge.cpp:1888     Backing up tuples from table: dbo.feeders
+2016/01/08 15:03:28: dbpurge.cpp:1915  49 tuples.
+2016/01/08 15:03:41: dbpurge.cpp:1888     Backing up tuples from table: dbo.floating_scanners
+2016/01/08 15:03:42: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:03:46: dbpurge.cpp:1888     Backing up tuples from table: dbo.laser_power_metrics_uvs
+2016/01/08 15:03:46: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:03:47: dbpurge.cpp:1888     Backing up tuples from table: dbo.inspection
+2016/01/08 15:03:48: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:03:48: dbpurge.cpp:1888     Backing up tuples from table: dbo.inspector
+2016/01/08 15:03:48: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:03:48: dbpurge.cpp:1888     Backing up tuples from table: dbo.invalid_components_unprocessed
+2016/01/08 15:03:48: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:03:49: dbpurge.cpp:1888     Backing up tuples from table: dbo.job_detail
+2016/01/08 15:03:49: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:03:50: dbpurge.cpp:1888     Backing up tuples from table: dbo.job_history
+2016/01/08 15:03:50: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:04:37: dbpurge.cpp:1888     Backing up tuples from table: dbo.job_products
+2016/01/08 15:04:37: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:04:38: dbpurge.cpp:1888     Backing up tuples from table: dbo.locate_definition
+2016/01/08 15:04:39: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:04:39: dbpurge.cpp:1888     Backing up tuples from table: dbo.locate_values
+2016/01/08 15:04:39: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:04:39: dbpurge.cpp:1888     Backing up tuples from table: dbo.location_history
+2016/01/08 15:04:40: dbpurge.cpp:1915  750 tuples.
+2016/01/08 15:04:48: dbpurge.cpp:1888     Backing up tuples from table: dbo.lock_instance_attributes
+2016/01/08 15:04:48: dbpurge.cpp:1915  15 tuples.
+2016/01/08 15:04:57: dbpurge.cpp:1888     Backing up tuples from table: dbo.machines
+2016/01/08 15:04:57: dbpurge.cpp:1915  3 tuples.
+2016/01/08 15:05:12: dbpurge.cpp:1888     Backing up tuples from table: dbo.machines_history
+2016/01/08 15:05:14: dbpurge.cpp:1915  14 tuples.
+2016/01/08 15:05:24: dbpurge.cpp:1888     Backing up tuples from table: dbo.machine_slot_loc
+2016/01/08 15:05:24: dbpurge.cpp:1915  8 tuples.
+2016/01/08 15:05:32: dbpurge.cpp:1888     Backing up tuples from table: dbo.machine_slot_loc_history
+2016/01/08 15:05:33: dbpurge.cpp:1915  35 tuples.
+2016/01/08 15:05:38: dbpurge.cpp:1888     Backing up tuples from table: dbo.machine_slot_to_pu
+2016/01/08 15:05:38: dbpurge.cpp:1915  646 tuples.
+2016/01/08 15:05:42: dbpurge.cpp:1888     Backing up tuples from table: dbo.machine_slot_to_pu_history
+2016/01/08 15:05:43: dbpurge.cpp:1915  2028 tuples.
+2016/01/08 15:05:47: dbpurge.cpp:1888     Backing up tuples from table: dbo.manual_data
+2016/01/08 15:05:47: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:05:47: dbpurge.cpp:1888     Backing up tuples from table: dbo.manual_table
+2016/01/08 15:05:47: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:05:48: dbpurge.cpp:1888     Backing up tuples from table: dbo.msd_location_state_history
+2016/01/08 15:05:48: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:05:48: dbpurge.cpp:1888     Backing up tuples from table: dbo.msg_detail
+2016/01/08 15:05:48: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:05:48: dbpurge.cpp:1888     Backing up tuples from table: dbo.msg_detail_data
+2016/01/08 15:05:48: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:05:48: dbpurge.cpp:1888     Backing up tuples from table: dbo.nc_detail
+2016/01/08 15:05:49: dbpurge.cpp:1915  22 tuples.
+2016/01/08 15:05:54: dbpurge.cpp:1888     Backing up tuples from table: dbo.nc_summary
+2016/01/08 15:05:54: dbpurge.cpp:1915  276 tuples.
+2016/01/08 15:05:59: dbpurge.cpp:1888     Backing up tuples from table: dbo.nozzle
+2016/01/08 15:05:59: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:05:59: dbpurge.cpp:1888     Backing up tuples from table: dbo.nozzle_header
+2016/01/08 15:05:59: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:05:59: dbpurge.cpp:1888     Backing up tuples from table: dbo.nozzle_kx
+2016/01/08 15:05:59: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:05:59: dbpurge.cpp:1888     Backing up tuples from table: dbo.nozzle_header_kx
+2016/01/08 15:06:00: dbpurge.cpp:1915  21 tuples.
+2016/01/08 15:06:03: dbpurge.cpp:1888     Backing up tuples from table: dbo.operator
+2016/01/08 15:06:03: dbpurge.cpp:1915  16 tuples.
+2016/01/08 15:06:08: dbpurge.cpp:1888     Backing up tuples from table: dbo.panel_details
+2016/01/08 15:06:08: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:06:08: dbpurge.cpp:1888     Backing up tuples from table: dbo.pattern_details
+2016/01/08 15:06:08: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:06:09: dbpurge.cpp:1888     Backing up tuples from table: dbo.panel_details_history
+2016/01/08 15:06:09: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:06:09: dbpurge.cpp:1888     Backing up tuples from table: dbo.panels
+2016/01/08 15:06:09: dbpurge.cpp:1915  23 tuples.
+2016/01/08 15:06:14: dbpurge.cpp:1888     Backing up tuples from table: dbo.panel_barcode_map
+2016/01/08 15:06:14: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:06:14: dbpurge.cpp:1888     Backing up tuples from table: dbo.panel_placement_details
+2016/01/08 15:06:14: dbpurge.cpp:1915  93 tuples.
+2016/01/08 15:06:19: dbpurge.cpp:1888     Backing up tuples from table: dbo.panel_placement_header
+2016/01/08 15:06:19: dbpurge.cpp:1915  9 tuples.
+2016/01/08 15:06:24: dbpurge.cpp:1888     Backing up tuples from table: dbo.panel_repair_dtl
+2016/01/08 15:06:24: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:06:24: dbpurge.cpp:1888     Backing up tuples from table: dbo.panel_repair_hdr
+2016/01/08 15:06:24: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:06:25: dbpurge.cpp:1888     Backing up tuples from table: dbo.panel_strace_details
+2016/01/08 15:06:25: dbpurge.cpp:1915  24 tuples.
+2016/01/08 15:06:33: dbpurge.cpp:1888     Backing up tuples from table: dbo.panel_strace_header
+2016/01/08 15:06:33: dbpurge.cpp:1915  14 tuples.
+2016/01/08 15:06:45: dbpurge.cpp:1888     Backing up tuples from table: dbo.panel_production_reports_uvs
+2016/01/08 15:06:45: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:06:48: dbpurge.cpp:1888     Backing up tuples from table: dbo.pre_setup_feeder_history
+2016/01/08 15:06:48: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:06:50: dbpurge.cpp:1888     Backing up tuples from table: dbo.product_changeover_history
+2016/01/08 15:06:50: dbpurge.cpp:1915  7 tuples.
+2016/01/08 15:06:56: dbpurge.cpp:1888     Backing up tuples from table: dbo.product_run_history
+2016/01/08 15:06:56: dbpurge.cpp:1915  139 tuples.
+2016/01/08 15:07:05: dbpurge.cpp:1888     Backing up tuples from table: dbo.product_data
+2016/01/08 15:07:05: dbpurge.cpp:1915  43 tuples.
+2016/01/08 15:07:21: dbpurge.cpp:1888     Backing up tuples from table: dbo.product_equipment_setup
+2016/01/08 15:07:22: dbpurge.cpp:1915  4 tuples.
+2016/01/08 15:07:25: dbpurge.cpp:1888     Backing up tuples from table: dbo.product_feeders
+2016/01/08 15:07:25: dbpurge.cpp:1915  311 tuples.
+2016/01/08 15:07:25: dbpurge.cpp:1888     Backing up tuples from table: dbo.product_feeder_alerts
+2016/01/08 15:07:25: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:07:25: dbpurge.cpp:1888     Backing up tuples from table: dbo.product_setup
+2016/01/08 15:07:25: dbpurge.cpp:1915  96 tuples.
+2016/01/08 15:07:25: dbpurge.cpp:1888     Backing up tuples from table: dbo.production_alert_history
+2016/01/08 15:07:26: dbpurge.cpp:1915  86 tuples.
+2016/01/08 15:07:27: dbpurge.cpp:1888     Backing up tuples from table: dbo.production_reports
+2016/01/08 15:07:27: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:07:27: dbpurge.cpp:1888     Backing up tuples from table: dbo.production_reports_gsm
+2016/01/08 15:07:27: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:07:27: dbpurge.cpp:1888     Backing up tuples from table: dbo.production_reports_kx
+2016/01/08 15:07:28: dbpurge.cpp:1915  12 tuples.
+2016/01/08 15:07:28: dbpurge.cpp:1888     Backing up tuples from table: dbo.production_reports_kx_hdr
+2016/01/08 15:07:28: dbpurge.cpp:1915  22 tuples.
+2016/01/08 15:07:28: dbpurge.cpp:1888     Backing up tuples from table: dbo.production_reports_uvs
+2016/01/08 15:07:28: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:07:28: dbpurge.cpp:1888     Backing up tuples from table: dbo.msd_reel_data
+2016/01/08 15:07:28: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:07:28: dbpurge.cpp:1888     Backing up tuples from table: dbo.reel_user_data
+2016/01/08 15:07:28: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:07:28: dbpurge.cpp:1888     Backing up tuples from table: dbo.reel_data
+2016/01/08 15:07:29: dbpurge.cpp:1915  342 tuples.
+2016/01/08 15:07:29: dbpurge.cpp:1888     Backing up tuples from table: dbo.reel_data_history
+2016/01/08 15:07:29: dbpurge.cpp:1915  170 tuples.
+2016/01/08 15:07:29: dbpurge.cpp:1888     Backing up tuples from table: dbo.report_definition
+2016/01/08 15:07:29: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:07:29: dbpurge.cpp:1888     Backing up tuples from table: dbo.report_parameters
+2016/01/08 15:07:29: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:07:29: dbpurge.cpp:1888     Backing up tuples from table: dbo.root_causes
+2016/01/08 15:07:30: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:07:30: dbpurge.cpp:1888     Backing up tuples from table: dbo.root_causes_equip
+2016/01/08 15:07:30: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:07:30: dbpurge.cpp:1888     Backing up tuples from table: dbo.route_down_time_history
+2016/01/08 15:07:30: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:07:30: dbpurge.cpp:1888     Backing up tuples from table: dbo.route_layout
+2016/01/08 15:07:30: dbpurge.cpp:1915  9 tuples.
+2016/01/08 15:07:30: dbpurge.cpp:1888     Backing up tuples from table: dbo.routes
+2016/01/08 15:07:30: dbpurge.cpp:1915  6 tuples.
+2016/01/08 15:07:31: dbpurge.cpp:1888     Backing up tuples from table: dbo.routes_history
+2016/01/08 15:07:31: dbpurge.cpp:1915  14 tuples.
+2016/01/08 15:07:31: dbpurge.cpp:1888     Backing up tuples from table: dbo.schedule_history
+2016/01/08 15:07:31: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:07:31: dbpurge.cpp:1888     Backing up tuples from table: dbo.setup_audit_history
+2016/01/08 15:07:31: dbpurge.cpp:1915  28 tuples.
+2016/01/08 15:07:31: dbpurge.cpp:1888     Backing up tuples from table: dbo.setup_audit_feeder_history
+2016/01/08 15:07:32: dbpurge.cpp:1915  132 tuples.
+2016/01/08 15:07:32: dbpurge.cpp:1888     Backing up tuples from table: dbo.setup_audit_status
+2016/01/08 15:07:32: dbpurge.cpp:1915  57 tuples.
+2016/01/08 15:07:32: dbpurge.cpp:1888     Backing up tuples from table: dbo.splice_scan_history
+2016/01/08 15:07:33: dbpurge.cpp:1915  70 tuples.
+2016/01/08 15:07:33: dbpurge.cpp:1888     Backing up tuples from table: dbo.remote_import_history
+2016/01/08 15:07:33: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:07:33: dbpurge.cpp:1888     Backing up tuples from table: dbo.scribe_check_metrics_uvs
+2016/01/08 15:07:33: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:07:33: dbpurge.cpp:1888     Backing up tuples from table: dbo.substate_attr_rel
+2016/01/08 15:07:33: dbpurge.cpp:1915  15 tuples.
+2016/01/08 15:07:33: dbpurge.cpp:1888     Backing up tuples from table: dbo.system_config
+2016/01/08 15:07:33: dbpurge.cpp:1915  254 tuples.
+2016/01/08 15:07:33: dbpurge.cpp:1888     Backing up tuples from table: dbo.table_history
+2016/01/08 15:07:35: dbpurge.cpp:1915  5698 tuples.
+2016/01/08 15:07:35: dbpurge.cpp:1888     Backing up tuples from table: dbo.tracking_data
+2016/01/08 15:07:35: dbpurge.cpp:1915  23 tuples.
+2016/01/08 15:07:35: dbpurge.cpp:1888     Backing up tuples from table: dbo.transfer_history
+2016/01/08 15:07:35: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:07:35: dbpurge.cpp:1888     Backing up tuples from table: dbo.wip_info
+2016/01/08 15:07:35: dbpurge.cpp:1915  76 tuples.
+2016/01/08 15:07:36: dbpurge.cpp:1888     Backing up tuples from table: dbo.work_order_reservation_hdr_history
+2016/01/08 15:07:36: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:07:36: dbpurge.cpp:1888     Backing up tuples from table: dbo.work_order_reservation_dtl_history
+2016/01/08 15:07:36: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:07:36: dbpurge.cpp:1888     Backing up tuples from table: dbo.work_order_schedule_history
+2016/01/08 15:07:36: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:07:36: dbpurge.cpp:1888     Backing up tuples from table: dbo.work_order_schedules
+2016/01/08 15:07:36: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:07:36: dbpurge.cpp:1888     Backing up tuples from table: dbo.work_orders
+2016/01/08 15:07:36: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:07:36: dbpurge.cpp:1888     Backing up tuples from table: dbo.z_cass
+2016/01/08 15:07:37: dbpurge.cpp:1915  16 tuples.
+2016/01/08 15:07:37: dbpurge.cpp:1888     Backing up tuples from table: dbo.z_cass_header
+2016/01/08 15:07:37: dbpurge.cpp:1915  21 tuples.
+2016/01/08 15:07:37: dbpurge.cpp:1888     Backing up tuples from table: dbo.zone_layout
+2016/01/08 15:07:37: dbpurge.cpp:1915  10 tuples.
+2016/01/08 15:07:37: dbpurge.cpp:1888     Backing up tuples from table: dbo.zones
+2016/01/08 15:07:37: dbpurge.cpp:1915  9 tuples.
+2016/01/08 15:07:37: dbpurge.cpp:1888     Backing up tuples from table: dbo.zones_history
+2016/01/08 15:07:37: dbpurge.cpp:1915  28 tuples.
+2016/01/08 15:07:37: dbpurge.cpp:1888     Backing up tuples from table: dbo.zone_status_history
+2016/01/08 15:07:37: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:07:38: dbpurge.cpp:1888     Backing up tuples from table: dbo.additional_info_npm
+2016/01/08 15:07:38: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:07:38: dbpurge.cpp:1888     Backing up tuples from table: dbo.additional_info_npm_hdr
+2016/01/08 15:07:38: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:07:38: dbpurge.cpp:1888     Backing up tuples from table: dbo.linemc_trx
+2016/01/08 15:07:38: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:07:38: dbpurge.cpp:1888     Backing up tuples from table: dbo.line_trx
+2016/01/08 15:07:38: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:07:38: dbpurge.cpp:1888     Backing up tuples from table: dbo.machine_trx
+2016/01/08 15:07:38: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:07:39: dbpurge.cpp:1888     Backing up tuples from table: dbo.nozzle_npm
+2016/01/08 15:07:40: dbpurge.cpp:1915  2820 tuples.
+2016/01/08 15:07:40: dbpurge.cpp:1888     Backing up tuples from table: dbo.nozzle_npm_hdr
+2016/01/08 15:07:40: dbpurge.cpp:1915  247 tuples.
+2016/01/08 15:07:40: dbpurge.cpp:1888     Backing up tuples from table: dbo.npmmachineline
+2016/01/08 15:07:40: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:07:41: dbpurge.cpp:1888     Backing up tuples from table: dbo.pGBlockAttribute
+2016/01/08 15:07:41: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:07:41: dbpurge.cpp:1888     Backing up tuples from table: dbo.pgboard
+2016/01/08 15:07:41: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:07:41: dbpurge.cpp:1888     Backing up tuples from table: dbo.pgboardrecog
+2016/01/08 15:07:41: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:07:41: dbpurge.cpp:1888     Backing up tuples from table: dbo.pgchipdata
+2016/01/08 15:07:41: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:07:41: dbpurge.cpp:1888     Backing up tuples from table: dbo.pgcleaningcondition
+2016/01/08 15:07:41: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:07:41: dbpurge.cpp:1888     Backing up tuples from table: dbo.pgcoordinates
+2016/01/08 15:07:41: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:07:41: dbpurge.cpp:1888     Backing up tuples from table: dbo.pgfdrtblmode
+2016/01/08 15:07:41: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:07:41: dbpurge.cpp:1888     Backing up tuples from table: dbo.pgfeeder
+2016/01/08 15:07:41: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:07:41: dbpurge.cpp:1888     Backing up tuples from table: dbo.pgmountrecog
+2016/01/08 15:07:41: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:07:41: dbpurge.cpp:1888     Backing up tuples from table: dbo.pgnozzle
+2016/01/08 15:07:41: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:07:41: dbpurge.cpp:1888     Backing up tuples from table: dbo.pgpalette
+2016/01/08 15:07:41: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:07:41: dbpurge.cpp:1888     Backing up tuples from table: dbo.pgpartsdata
+2016/01/08 15:07:41: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:07:42: dbpurge.cpp:1888     Backing up tuples from table: dbo.pgprintcondition
+2016/01/08 15:07:42: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:07:42: dbpurge.cpp:1888     Backing up tuples from table: dbo.pgsoftswitch
+2016/01/08 15:07:42: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:07:42: dbpurge.cpp:1888     Backing up tuples from table: dbo.pgstock
+2016/01/08 15:07:42: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:07:42: dbpurge.cpp:1888     Backing up tuples from table: dbo.pgtray
+2016/01/08 15:07:42: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:07:42: dbpurge.cpp:1888     Backing up tuples from table: dbo.production_count_reports_npm
+2016/01/08 15:07:42: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:07:42: dbpurge.cpp:1888     Backing up tuples from table: dbo.production_count_reports_npm_hdr
+2016/01/08 15:07:42: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:07:43: dbpurge.cpp:1888     Backing up tuples from table: dbo.production_reports_npm
+2016/01/08 15:07:45: dbpurge.cpp:1915  979 tuples.
+2016/01/08 15:07:45: dbpurge.cpp:1888     Backing up tuples from table: dbo.production_reports_npm
+2016/01/08 15:07:45: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:07:45: dbpurge.cpp:1888     Backing up tuples from table: dbo.production_reports_npm_hdr
+2016/01/08 15:07:46: dbpurge.cpp:1915  999 tuples.
+2016/01/08 15:07:46: dbpurge.cpp:1888     Backing up tuples from table: dbo.production_time_reports_npm
+2016/01/08 15:07:46: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:07:46: dbpurge.cpp:1888     Backing up tuples from table: dbo.production_time_reports_npm_hdr
+2016/01/08 15:07:46: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:07:46: dbpurge.cpp:1888     Backing up tuples from table: dbo.product_spc_npm
+2016/01/08 15:07:46: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:07:46: dbpurge.cpp:1888     Backing up tuples from table: dbo.product_trx_npm
+2016/01/08 15:07:46: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:07:46: dbpurge.cpp:1888     Backing up tuples from table: dbo.program_npm
+2016/01/08 15:07:46: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:07:47: dbpurge.cpp:1888     Backing up tuples from table: dbo.z_cass_npm
+2016/01/08 15:07:47: dbpurge.cpp:1915  546 tuples.
+2016/01/08 15:07:47: dbpurge.cpp:1888     Backing up tuples from table: dbo.z_cass_npm_hdr
+2016/01/08 15:07:47: dbpurge.cpp:1915  247 tuples.
+2016/01/08 15:07:47: dbpurge.cpp:1888     Backing up tuples from table: dbo.weld_alarm_data
+2016/01/08 15:07:47: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:07:48: dbpurge.cpp:1888     Backing up tuples from table: dbo.weld_alarm_data_hdr
+2016/01/08 15:07:48: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:07:48: dbpurge.cpp:1888     Backing up tuples from table: dbo.weld_error_data
+2016/01/08 15:07:48: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:07:48: dbpurge.cpp:1888     Backing up tuples from table: dbo.weld_error_data_hdr
+2016/01/08 15:07:48: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:07:48: dbpurge.cpp:1888     Backing up tuples from table: dbo.weld_log_data
+2016/01/08 15:07:48: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:07:48: dbpurge.cpp:1888     Backing up tuples from table: dbo.weld_log_data_hdr
+2016/01/08 15:07:48: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:07:48: dbpurge.cpp:1888     Backing up tuples from table: dbo.mv_transaction_log
+2016/01/08 15:07:48: dbpurge.cpp:1915  29 tuples.
+2016/01/08 15:07:48: dbpurge.cpp:1888     Backing up tuples from table: psn.travel_order_history
+2016/01/08 15:07:48: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:07:49: dbpurge.cpp:1915     Deleting tuples from table : dbo.active_carriage_history
+2016/01/08 15:07:49: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:07:50: dbpurge.cpp:1915     Deleting tuples from table : dbo.andon_event_history
+2016/01/08 15:07:50: DbARecordset.cpp:1163 Processed 282 
+2016/01/08 15:07:50: dbpurge.cpp:1915  282 tuples.
+2016/01/08 15:07:51: dbpurge.cpp:1915     Deleting tuples from table : dbo.cart_feeder_history
+2016/01/08 15:07:51: DbARecordset.cpp:1163 Processed 7 
+2016/01/08 15:07:51: dbpurge.cpp:1915  7 tuples.
+2016/01/08 15:07:51: dbpurge.cpp:1915     Deleting tuples from table : dbo.cart_mount_history
+2016/01/08 15:07:51: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:07:51: dbpurge.cpp:1915     Deleting tuples from table : dbo.camera_lens_metrics_uvs
+2016/01/08 15:07:51: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:07:52: dbpurge.cpp:1915     Deleting tuples from table : dbo.comp_count_adj_history
+2016/01/08 15:07:52: DbARecordset.cpp:1163 Processed 44 
+2016/01/08 15:07:52: dbpurge.cpp:1915  44 tuples.
+2016/01/08 15:07:52: dbpurge.cpp:1915     Deleting tuples from table : dbo.cvt_location_history
+2016/01/08 15:07:52: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:07:52: dbpurge.cpp:1915     Deleting tuples from table : dbo.down_time_history
+2016/01/08 15:07:52: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:07:52: dbpurge.cpp:1915     Deleting tuples from table : dbo.equip_lock_event_history
+2016/01/08 15:07:52: DbARecordset.cpp:1163 Processed 23 
+2016/01/08 15:07:52: dbpurge.cpp:1915  23 tuples.
+2016/01/08 15:07:53: dbpurge.cpp:1915     Deleting tuples from table : dbo.equip_lock_instance_history
+2016/01/08 15:07:53: DbARecordset.cpp:1163 Processed 3 
+2016/01/08 15:07:53: dbpurge.cpp:1915  3 tuples.
+2016/01/08 15:07:53: dbpurge.cpp:1915     Deleting tuples from table : dbo.lock_instance_attributes
+2016/01/08 15:07:53: DbARecordset.cpp:1163 Processed 9 
+2016/01/08 15:07:53: dbpurge.cpp:1915  9 tuples.
+2016/01/08 15:07:53: dbpurge.cpp:1915     Deleting tuples from table : dbo.feeder_reel_history
+2016/01/08 15:07:53: DbARecordset.cpp:1163 Processed 388 
+2016/01/08 15:07:53: dbpurge.cpp:1915  388 tuples.
+2016/01/08 15:07:53: dbpurge.cpp:1915 Purging feeder_repair_history until 04/14/13 00:00:00
+2016/01/08 15:07:53: dbpurge.cpp:1915     Deleting tuples from table : dbo.feeder_repair_history
+2016/01/08 15:07:53: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:07:54: dbpurge.cpp:1915     Deleting tuples from table : dbo.feeder_tag_history
+2016/01/08 15:07:54: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:07:54: dbpurge.cpp:1915     Deleting tuples from table : dbo.laser_power_metrics_uvs
+2016/01/08 15:07:54: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:07:54: dbpurge.cpp:1915     Deleting tuples from table : dbo.inspector
+2016/01/08 15:07:54: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:07:54: dbpurge.cpp:1915     Deleting tuples from table : dbo.invalid_components_unprocessed
+2016/01/08 15:07:54: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:07:54: dbpurge.cpp:1915     Deleting tuples from table : dbo.job_history
+2016/01/08 15:07:54: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:07:54: dbpurge.cpp:1915     Deleting tuples from table : dbo.location_history
+2016/01/08 15:07:55: DbARecordset.cpp:1163 Processed 750 
+2016/01/08 15:07:55: dbpurge.cpp:1915  750 tuples.
+2016/01/08 15:07:55: dbpurge.cpp:1915     Deleting tuples from table : dbo.manual_data
+2016/01/08 15:07:55: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:07:55: dbpurge.cpp:1915     Deleting tuples from table : dbo.msd_location_state_history
+2016/01/08 15:07:55: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:07:55: dbpurge.cpp:1915     Deleting tuples from table : dbo.panel_production_reports_uvs
+2016/01/08 15:07:55: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:07:55: dbpurge.cpp:1915     Deleting tuples from table : dbo.pre_setup_feeder_history
+2016/01/08 15:07:55: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:07:56: dbpurge.cpp:1915     Deleting tuples from table : dbo.product_changeover_history
+2016/01/08 15:07:56: DbARecordset.cpp:1163 Processed 7 
+2016/01/08 15:07:56: dbpurge.cpp:1915  7 tuples.
+2016/01/08 15:07:56: dbpurge.cpp:1915     Deleting tuples from table : dbo.product_run_history
+2016/01/08 15:07:56: DbARecordset.cpp:1163 Processed 139 
+2016/01/08 15:07:56: dbpurge.cpp:1915  139 tuples.
+2016/01/08 15:07:56: dbpurge.cpp:1915     Deleting tuples from table : dbo.production_alert_history
+2016/01/08 15:07:56: DbARecordset.cpp:1163 Processed 86 
+2016/01/08 15:07:56: dbpurge.cpp:1915  86 tuples.
+2016/01/08 15:07:56: dbpurge.cpp:1915     Deleting tuples from table : dbo.production_reports
+2016/01/08 15:07:56: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:07:56: dbpurge.cpp:1915     Deleting tuples from table : dbo.production_reports_gsm
+2016/01/08 15:07:56: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:07:57: dbpurge.cpp:1915     Deleting tuples from table : dbo.production_reports_uvs
+2016/01/08 15:07:57: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:07:57: dbpurge.cpp:1915     Deleting tuples from table : dbo.table_history
+2016/01/08 15:07:57: DbARecordset.cpp:1163 Processed 5758 
+2016/01/08 15:07:57: dbpurge.cpp:1915  5758 tuples.
+2016/01/08 15:07:58: dbpurge.cpp:1915     Deleting tuples from table : dbo.transfer_history
+2016/01/08 15:07:58: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:07:58: dbpurge.cpp:1915     Deleting tuples from table : dbo.reel_data_history
+2016/01/08 15:07:58: DbARecordset.cpp:1163 Processed 170 
+2016/01/08 15:07:58: dbpurge.cpp:1915  170 tuples.
+2016/01/08 15:07:58: dbpurge.cpp:1915     Deleting tuples from table : dbo.remote_import_history
+2016/01/08 15:07:58: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:07:58: dbpurge.cpp:1915     Deleting tuples from table : dbo.route_down_time_history
+2016/01/08 15:07:58: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:07:58: dbpurge.cpp:1915     Deleting tuples from table : dbo.schedule_history
+2016/01/08 15:07:58: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:07:58: dbpurge.cpp:1915     Deleting tuples from table : dbo.scribe_check_metrics_uvs
+2016/01/08 15:07:58: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:07:58: dbpurge.cpp:1915     Deleting tuples from table : dbo.setup_audit_history
+2016/01/08 15:07:58: DbARecordset.cpp:1163 Processed 28 
+2016/01/08 15:07:58: dbpurge.cpp:1915  28 tuples.
+2016/01/08 15:07:58: dbpurge.cpp:1915     Deleting tuples from table : dbo.setup_audit_feeder_history
+2016/01/08 15:07:59: DbARecordset.cpp:1163 Processed 132 
+2016/01/08 15:07:59: dbpurge.cpp:1915  132 tuples.
+2016/01/08 15:07:59: dbpurge.cpp:1915     Deleting tuples from table : dbo.setup_audit_status
+2016/01/08 15:07:59: DbARecordset.cpp:1163 Processed 57 
+2016/01/08 15:07:59: dbpurge.cpp:1915  57 tuples.
+2016/01/08 15:07:59: dbpurge.cpp:1915     Deleting tuples from table : dbo.splice_scan_history
+2016/01/08 15:07:59: DbARecordset.cpp:1163 Processed 70 
+2016/01/08 15:07:59: dbpurge.cpp:1915  70 tuples.
+2016/01/08 15:07:59: dbpurge.cpp:1915     Deleting tuples from table : dbo.wip_info
+2016/01/08 15:07:59: DbARecordset.cpp:1163 Processed 76 
+2016/01/08 15:07:59: dbpurge.cpp:1915  76 tuples.
+2016/01/08 15:07:59: dbpurge.cpp:1915     Deleting tuples from table : dbo.work_order_reservation_hdr_history
+2016/01/08 15:07:59: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:07:59: dbpurge.cpp:1915     Deleting tuples from table : dbo.work_order_reservation_dtl_history
+2016/01/08 15:08:00: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:08:00: dbpurge.cpp:1915     Deleting tuples from table : dbo.work_order_schedule_history
+2016/01/08 15:08:00: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:08:00: dbpurge.cpp:1915     Deleting tuples from table : dbo.work_order_schedules
+2016/01/08 15:08:00: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:08:00: dbpurge.cpp:1915     Deleting tuples from table : dbo.zone_status_history
+2016/01/08 15:08:00: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:08:00: dbpurge.cpp:1915     Deleting tuples from table : dbo.pGBlockAttribute
+2016/01/08 15:08:00: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:08:00: dbpurge.cpp:1915     Deleting tuples from table : dbo.pgboard
+2016/01/08 15:08:00: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:08:00: dbpurge.cpp:1915     Deleting tuples from table : dbo.pgboardrecog
+2016/01/08 15:08:00: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:08:00: dbpurge.cpp:1915     Deleting tuples from table : dbo.pgchipdata
+2016/01/08 15:08:00: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:08:00: dbpurge.cpp:1915     Deleting tuples from table : dbo.pgcleaningcondition
+2016/01/08 15:08:00: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:08:00: dbpurge.cpp:1915     Deleting tuples from table : dbo.pgcoordinates
+2016/01/08 15:08:00: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:08:00: dbpurge.cpp:1915     Deleting tuples from table : dbo.pgfdrtblmode
+2016/01/08 15:08:00: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:08:00: dbpurge.cpp:1915     Deleting tuples from table : dbo.pgfeeder
+2016/01/08 15:08:00: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:08:00: dbpurge.cpp:1915     Deleting tuples from table : dbo.pgmountrecog
+2016/01/08 15:08:01: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:08:01: dbpurge.cpp:1915     Deleting tuples from table : dbo.pgnozzle
+2016/01/08 15:08:01: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:08:01: dbpurge.cpp:1915     Deleting tuples from table : dbo.pgpalette
+2016/01/08 15:08:01: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:08:01: dbpurge.cpp:1915     Deleting tuples from table : dbo.pgpartsdata
+2016/01/08 15:08:01: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:08:01: dbpurge.cpp:1915     Deleting tuples from table : dbo.pgprintcondition
+2016/01/08 15:08:01: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:08:01: dbpurge.cpp:1915     Deleting tuples from table : dbo.pgsoftswitch
+2016/01/08 15:08:01: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:08:01: dbpurge.cpp:1915     Deleting tuples from table : dbo.pgstock
+2016/01/08 15:08:01: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:08:01: dbpurge.cpp:1915     Deleting tuples from table : dbo.pgtray
+2016/01/08 15:08:01: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:08:01: dbpurge.cpp:1915     Deleting tuples from table : dbo.additional_info_npm_hdr
+2016/01/08 15:08:01: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:08:01: dbpurge.cpp:1915     Deleting tuples from table : dbo.additional_info_npm
+2016/01/08 15:08:01: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:08:01: dbpurge.cpp:1915     Deleting tuples from table : dbo.nozzle_npm
+2016/01/08 15:08:02: DbARecordset.cpp:1163 Processed 2820 
+2016/01/08 15:08:02: dbpurge.cpp:1915  2820 tuples.
+2016/01/08 15:08:02: dbpurge.cpp:1915     Deleting tuples from table : dbo.nozzle_npm_hdr
+2016/01/08 15:08:02: DbARecordset.cpp:1163 Processed 247 
+2016/01/08 15:08:02: dbpurge.cpp:1915  247 tuples.
+2016/01/08 15:08:02: dbpurge.cpp:1915     Deleting tuples from table : dbo.production_count_reports_npm
+2016/01/08 15:08:02: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:08:02: dbpurge.cpp:1915     Deleting tuples from table : dbo.production_count_reports_npm_hdr
+2016/01/08 15:08:02: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:08:02: dbpurge.cpp:1915     Deleting tuples from table : dbo.production_reports_npm
+2016/01/08 15:08:02: DbARecordset.cpp:1163 Processed 978 
+2016/01/08 15:08:02: dbpurge.cpp:1915  978 tuples.
+2016/01/08 15:08:02: dbpurge.cpp:1915     Deleting tuples from table : dbo.production_reports_npm_hdr
+2016/01/08 15:08:03: DbARecordset.cpp:1163 Processed 999 
+2016/01/08 15:08:03: dbpurge.cpp:1915  999 tuples.
+2016/01/08 15:08:03: dbpurge.cpp:1915     Deleting tuples from table : dbo.production_time_reports_npm
+2016/01/08 15:08:03: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:08:03: dbpurge.cpp:1915     Deleting tuples from table : dbo.production_time_reports_npm_hdr
+2016/01/08 15:08:03: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:08:03: dbpurge.cpp:1915     Deleting tuples from table : dbo.product_spc_npm
+2016/01/08 15:08:03: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:08:03: dbpurge.cpp:1915     Deleting tuples from table : dbo.product_trx_npm
+2016/01/08 15:08:03: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:08:03: dbpurge.cpp:1915     Deleting tuples from table : dbo.z_cass_npm
+2016/01/08 15:08:03: DbARecordset.cpp:1163 Processed 546 
+2016/01/08 15:08:03: dbpurge.cpp:1915  546 tuples.
+2016/01/08 15:08:04: dbpurge.cpp:1915     Deleting tuples from table : dbo.z_cass_npm_hdr
+2016/01/08 15:08:04: DbARecordset.cpp:1163 Processed 247 
+2016/01/08 15:08:04: dbpurge.cpp:1915  247 tuples.
+2016/01/08 15:08:04: dbpurge.cpp:1915     Deleting tuples from table : dbo.nozzle
+2016/01/08 15:08:04: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:08:04: dbpurge.cpp:1915     Deleting tuples from table : dbo.nozzle_header
+2016/01/08 15:08:04: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:08:04: dbpurge.cpp:1915     Deleting tuples from table : dbo.nozzle_kx
+2016/01/08 15:08:04: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:08:04: dbpurge.cpp:1915     Deleting tuples from table : dbo.nozzle_header_kx
+2016/01/08 15:08:04: DbARecordset.cpp:1163 Processed 21 
+2016/01/08 15:08:04: dbpurge.cpp:1915  21 tuples.
+2016/01/08 15:08:04: dbpurge.cpp:1915     Deleting tuples from table : dbo.production_reports_kx
+2016/01/08 15:08:05: DbARecordset.cpp:1163 Processed 12 
+2016/01/08 15:08:05: dbpurge.cpp:1915  12 tuples.
+2016/01/08 15:08:05: dbpurge.cpp:1915     Deleting tuples from table : dbo.production_reports_kx_hdr
+2016/01/08 15:08:05: DbARecordset.cpp:1163 Processed 22 
+2016/01/08 15:08:05: dbpurge.cpp:1915  22 tuples.
+2016/01/08 15:08:05: dbpurge.cpp:1915     Deleting tuples from table : dbo.z_cass
+2016/01/08 15:08:05: DbARecordset.cpp:1163 Processed 16 
+2016/01/08 15:08:05: dbpurge.cpp:1915  16 tuples.
+2016/01/08 15:08:05: dbpurge.cpp:1915     Deleting tuples from table : dbo.z_cass_header
+2016/01/08 15:08:05: DbARecordset.cpp:1163 Processed 21 
+2016/01/08 15:08:05: dbpurge.cpp:1915  21 tuples.
+2016/01/08 15:08:05: dbpurge.cpp:1915     Deleting tuples from table : dbo.root_causes_equip
+2016/01/08 15:08:05: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:08:05: dbpurge.cpp:1915     Deleting tuples from table : dbo.root_causes
+2016/01/08 15:08:05: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:08:05: dbpurge.cpp:1915     Deleting tuples from table : dbo.feeder_history
+2016/01/08 15:08:05: DbARecordset.cpp:1163 Processed 398 
+2016/01/08 15:08:05: dbpurge.cpp:1915  398 tuples.
+2016/01/08 15:08:05: dbpurge.cpp:1915     Deleting tuples from table: reel_data
+2016/01/08 15:08:06: dbpurge.cpp:1915  5 tuples.
+2016/01/08 15:08:06: dbpurge.cpp:1915     Deleting tuples from table : dbo.reel_user_data
+2016/01/08 15:08:06: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:08:06: dbpurge.cpp:1915     Deleting tuples from table : dbo.msd_reel_data
+2016/01/08 15:08:06: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:08:06: dbpurge.cpp:1915     Deleting tuples from table : dbo.inspection
+2016/01/08 15:08:06: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:08:06: dbpurge.cpp:1915     Deleting tuples from table : dbo.msg_detail
+2016/01/08 15:08:06: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:08:06: dbpurge.cpp:1915     Deleting tuples from table : dbo.msg_detail_data
+2016/01/08 15:08:06: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:08:06: dbpurge.cpp:1915     Deleting tuples from table : dbo.panel_barcode_map
+2016/01/08 15:08:06: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:08:06: dbpurge.cpp:1915     Deleting tuples from table : dbo.tracking_data
+2016/01/08 15:08:07: DbARecordset.cpp:1163 Processed 23 
+2016/01/08 15:08:07: dbpurge.cpp:1915  23 tuples.
+2016/01/08 15:08:07: dbpurge.cpp:1915     Deleting tuples from table : dbo.panel_strace_details
+2016/01/08 15:08:07: DbARecordset.cpp:1163 Processed 24 
+2016/01/08 15:08:07: dbpurge.cpp:1915  24 tuples.
+2016/01/08 15:08:07: dbpurge.cpp:1915     Deleting tuples from table : dbo.panel_strace_header
+2016/01/08 15:08:07: DbARecordset.cpp:1163 Processed 14 
+2016/01/08 15:08:07: dbpurge.cpp:1915  14 tuples.
+2016/01/08 15:08:07: dbpurge.cpp:1915     Deleting tuples from table : dbo.panels
+2016/01/08 15:08:07: DbARecordset.cpp:1163 Processed 23 
+2016/01/08 15:08:07: dbpurge.cpp:1915  23 tuples.
+2016/01/08 15:08:07: dbpurge.cpp:1915     Deleting tuples from table : dbo.panel_details_history
+2016/01/08 15:08:07: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:08:07: dbpurge.cpp:1915     Deleting tuples from tables:  product_setup,  product_equipment_setup,  product_feeders and product_feeder_alerts
+2016/01/08 15:08:07: dbpurge.cpp:1915     Deleted tuples from table:  product_setup,  product_equipment_setup,  product_feeders and product_feeder_alerts
+2016/01/08 15:08:08: dbpurge.cpp:1915     Deleting tuples from table: product_data
+2016/01/08 15:08:08: dbpurge.cpp:1915  4 tuples.
+2016/01/08 15:08:08: dbpurge.cpp:1915     Deleting tuples from table: nc_summary
+2016/01/08 15:08:08: dbpurge.cpp:1915     Deleted tuples from table: nc_summary
+2016/01/08 15:08:08: dbpurge.cpp:1915     Deleting tuples from table : dbo.nc_detail
+2016/01/08 15:08:08: DbARecordset.cpp:1163 Processed 321 
+2016/01/08 15:08:08: dbpurge.cpp:1915  321 tuples.
+2016/01/08 15:08:08: dbpurge.cpp:1915     Deleting tuples from table : dbo.panel_details
+2016/01/08 15:08:08: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:08:08: dbpurge.cpp:1915     Deleting tuples from table : dbo.pattern_details
+2016/01/08 15:08:08: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:08:08: dbpurge.cpp:1915     Deleting tuples from table : dbo.aoi_inspection_hdr
+2016/01/08 15:08:08: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:08:09: dbpurge.cpp:1915     Deleting tuples from table : dbo.aoi_inspection_dtl
+2016/01/08 15:08:09: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:08:09: dbpurge.cpp:1915     Deleting tuples from table : dbo.aoi_repair_hdr
+2016/01/08 15:08:09: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:08:09: dbpurge.cpp:1915     Deleting tuples from table : dbo.aoi_repair_dtl
+2016/01/08 15:08:09: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:08:09: dbpurge.cpp:1915     Deleting tuples from table : dbo.panel_repair_hdr
+2016/01/08 15:08:09: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:08:09: dbpurge.cpp:1915     Deleting tuples from table : dbo.panel_repair_dtl
+2016/01/08 15:08:09: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:08:09: dbpurge.cpp:1915     Deleting tuples from table : dbo.panel_placement_details
+2016/01/08 15:08:09: DbARecordset.cpp:1163 Processed 93 
+2016/01/08 15:08:09: dbpurge.cpp:1915  93 tuples.
+2016/01/08 15:08:09: dbpurge.cpp:1915     Deleting tuples from table : dbo.panel_placement_header
+2016/01/08 15:08:09: DbARecordset.cpp:1163 Processed 9 
+2016/01/08 15:08:09: dbpurge.cpp:1915  9 tuples.
+2016/01/08 15:08:09: dbpurge.cpp:1915     Deleting tuples from table : dbo.weld_alarm_data
+2016/01/08 15:08:09: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:08:09: dbpurge.cpp:1915     Deleting tuples from table : dbo.weld_alarm_data_hdr
+2016/01/08 15:08:09: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:08:09: dbpurge.cpp:1915     Deleting tuples from table : dbo.weld_error_data
+2016/01/08 15:08:09: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:08:10: dbpurge.cpp:1915     Deleting tuples from table : dbo.weld_error_data_hdr
+2016/01/08 15:08:10: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:08:10: dbpurge.cpp:1915     Deleting tuples from table : dbo.weld_log_data
+2016/01/08 15:08:10: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:08:10: dbpurge.cpp:1915     Deleting tuples from table : dbo.weld_log_data_hdr
+2016/01/08 15:08:10: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:08:10: dbpurge.cpp:1915     Deleting tuples from table : dbo.mv_transaction_log
+2016/01/08 15:08:10: DbARecordset.cpp:1163 Processed 29 
+2016/01/08 15:08:10: dbpurge.cpp:1915  29 tuples.
+2016/01/08 15:08:10: dbpurge.cpp:1915     Deleting tuples from table : psn.travel_order_history
+2016/01/08 15:08:10: dbpurge.cpp:1915  0 tuples.
+2016/01/08 15:08:10: dbpurge.cpp:1818 Sending Event: Purging data upto 12/25/15 00:00:00 successful
+2016/01/08 15:08:10: dbpurge.cpp:1818 Calculating current space usage
+2016/01/08 15:08:10: dbpurge.cpp:1818 Successfully completed purge NOW as specified by the user
+2016/01/08 15:08:10: dbpurge.cpp:2134 Waiting for events with timeout: 111110 seconds
+2016/01/08 15:08:12: dbpurge.cpp:2152 PurgeNowEvent is set.
+2016/01/08 15:08:13: dbpurge.cpp:1818 Re-reading system config
+2016/01/08 15:08:13: dbpurge.cpp:1818 Next space check will be done at 01/09/16 22:00:00
+2016/01/08 15:08:13: dbpurge.cpp:2316 C:\BACKUPDB\archive
+2016/01/08 15:08:14: dbpurge.cpp:1818 Got purge NOW message''.  Purging with option : DPA_BOTHupto 1450969200
+2016/01/08 15:08:14: dbpurge.cpp:1818 Last Purge Done at: 1450969200
+2016/01/08 15:08:14: dbpurge.cpp:1818 Sending Event: Purging data up to 12/25/15 00:00:00
+2016/01/08 15:08:14: dbpurge.cpp:1818 Purging data up to 12/25/15 00:00:00
+2016/01/08 15:08:14: dbpurge.cpp:1818 Calculating current space usage
+2016/01/08 15:08:15: dbpurge.cpp:1818 Calculating database sizes
+2016/01/08 15:08:17: dbpurge.cpp:1818 Calculating filegroup sizes
+2016/01/08 15:08:18: dbpurge.cpp:1818 Sending Event: DB Purge created temporary file 'C:\BACKUPDB\archive\\db_purgea02404'.
+2016/01/08 15:08:18: dbpurge.cpp:1888 Data already purged, see file 2015-12-24-PanaCIM.tar
+2016/01/08 15:08:18: dbpurge.cpp:1801 ERROR: Error purging data12/25/15 00:00:00
+2016/01/08 15:08:18: dbpurge.cpp:1818 Sending Event: Error purging data12/25/15 00:00:00
+2016/01/08 15:08:18: dbpurge.cpp:2134 Waiting for events with timeout: 111102 seconds
