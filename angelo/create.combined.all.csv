@@ -1,0 +1,11 @@
+set -x
+#
+find NPM-W1-* -type f -print | 
+egrep '/20130830/' > /tmp/$$.files
+#
+find CRB -type f -print >> /tmp/$$.files
+#
+cat /tmp/$$.files |
+maih2csv.pl -R combined_angelo_npm_w1_0830 -r -c -L -l /tmp/out 
+#
+exit 0
